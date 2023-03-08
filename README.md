@@ -87,5 +87,3 @@
 
 提交[issues](https://github.com/xx025/carrot/issues)分享你发现的新的站点，或报告失效站点
 
-<br/>
-<script src="static/a.js"></script>
