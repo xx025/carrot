@@ -4,14 +4,13 @@
 > ！请注意，不要轻易在任何站点填输自己的key,谨防盗窃
 
 ## 站点列表
-[🌕、⭐] 使用不受限、推荐
+[⭐] 使用不受限、推荐
 
+1. [⭐] https://www.chat2ai.cn/
 
-1. [🌕] https://fastgpt.app/
+2. [⭐] https://chat.tgbot.co/
 
-2. [⭐] https://www.chat2ai.cn/
-
-3. [⭐] https://chat.tgbot.co/
+3. [⭐] https://fastgpt.app/
 
 4. [⭐] https://94gpt.com/
 
