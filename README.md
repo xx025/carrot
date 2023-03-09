@@ -87,6 +87,7 @@
 
 
 ## 欢迎补充
+>GitHub 仓库地址: https://github.com/xx025/carrot
 
 提交[issues](https://github.com/xx025/carrot/issues)或pr分享你发现的新的站点，或报告失效站点
 
