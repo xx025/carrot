@@ -82,6 +82,8 @@
 
 38. https://chat.eaten.fun/
 
+39. https://xc.com/
+
 ## 欢迎补充
 
 提交[issues](https://github.com/xx025/carrot/issues)分享你发现的新的站点，或报告失效站点
