@@ -16,73 +16,75 @@
 
 5. [⭐] https://chat.yqcloud.top/
 
-6. https://chat.forchange.cn/
+6. https://xc.com/
 
-7. https://freechatgpt.chat/
+7. https://chat.forchange.cn/
 
-8. https://askai.ws/
+8. https://freechatgpt.chat/
 
-9. http://chat.apigpt.cn/
+9. https://askai.ws/
 
-10. https://aigcfun.com/
+10. http://chat.apigpt.cn/
 
-11. http://gpt.mxnf.store/
+11. https://aigcfun.com/
 
-12. [编程] https://www.aicodehelper.com/
+12. http://gpt.mxnf.store/
 
-13. [综合] https://ai-toolbox.codefuture.top/
+13. [编程] https://www.aicodehelper.com/
 
-14. [虚拟女友] https://chilloutai.com/
+14. [综合] https://ai-toolbox.codefuture.top/
 
-15. [文字游戏] https://harry-potter.openai-lab.com
+15. [虚拟女友] https://chilloutai.com/
 
-16. [写故事] https://wordstory.streamlit.app/   
+16. [文字游戏] https://harry-potter.openai-lab.com
 
-17. https://www.teach-anything.com/
+17. [写故事] https://wordstory.streamlit.app/   
 
-18. http://itecheasy.com.cn/
+18. https://www.teach-anything.com/
 
-19. https://chat.sheepig.top/
+19. http://itecheasy.com.cn/
 
-20. https://ai.yiios.com/
+20. https://chat.sheepig.top/
 
-21. https://chat.ninvfeng.xyz/
+21. https://ai.yiios.com/
 
-22. https://chatforai.com/
+22. https://chat.ninvfeng.xyz/
 
-23. https://trychatgp.com/
+23. https://chatforai.com/
 
-24. https://talk.xiu.ee/
+24. https://trychatgp.com/
 
-25. https://chat.geekr.dev/
+25. https://talk.xiu.ee/
 
-26. https://chat.51buygpt.com/
+26. https://chat.geekr.dev/
 
-27. https://desk.im
+27. https://chat.51buygpt.com/
 
-28. https://chat.zecoba.cn/
+28. https://desk.im
 
-29. https://chatgpt.ddiu.io/
+29. https://chat.zecoba.cn/
 
-30. https://ai117.com/
+30. https://chatgpt.ddiu.io/
 
-31. http://chat.livepo.top/
+31. https://ai117.com/
 
-32. https://freechatgpt.lol/
+32. http://chat.livepo.top/
 
-33. https://chatgpt.ddiu.me/
+33. https://freechatgpt.lol/
 
-34. https://freegpt.cc
+34. https://chatgpt.ddiu.me/
 
-35. https://ai.ls
+35. https://freegpt.cc
 
-36. https://chat.alpaca-bi.com/
+36. https://ai.ls
 
-37. https://chat.paoying.net/
+37. https://chat.alpaca-bi.com/
 
-38. https://chat.eaten.fun/
+38. https://chat.paoying.net/
 
-39. https://xc.com/
+39. https://chat.eaten.fun/
+
+
 
 ## 欢迎补充
 
