@@ -4,65 +4,65 @@
 > ！请注意，不要轻易在任何站点填输自己的key,谨防盗窃
 
 ## 站点列表
-[⭐] 使用不受限、推荐
+[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 必须key，[⛔] 使用受限
 
 1. [⭐⭐] https://www.chat2ai.cn/
 
-2. [⭐⭐] https://chat.tgbot.co/
+2. [⭐⭐]  https://chat.ninvfeng.xyz/
 
-3. [⭐] https://chat.yqcloud.top/
+3. [⭐⭐] https://chatforai.com/
 
-4. [⭐] https://fastgpt.app/
+4. [⭐] https://chat.tgbot.co/
 
-5. https://94gpt.com/
+5. [⭐] https://chat.yqcloud.top/
 
-6. https://xc.com/
+6. [⭐] https://fastgpt.app/
 
-7. https://chat.forchange.cn/
+7. [⭐] https://chat.zecoba.cn/
 
-8. https://freechatgpt.chat/
+8. https://chat.geekr.dev/
 
-9. https://askai.ws/
+9. https://desk.im
 
-10. http://chat.apigpt.cn/
+10. https://xc.com/
 
-11. https://aigcfun.com/
+11. https://chat.51buygpt.com/
 
-12. http://gpt.mxnf.store/
+12. https://chat.forchange.cn/
 
-13. [编程] https://www.aicodehelper.com/
+13. https://freechatgpt.chat/
 
-14. [综合] https://ai-toolbox.codefuture.top/
+14. https://askai.ws/
 
-15. [虚拟女友] https://chilloutai.com/
+15. https://ai.yiios.com/
 
-16. [文字游戏] https://harry-potter.openai-lab.com
+16. http://chat.apigpt.cn/
 
-17. [写故事] https://wordstory.streamlit.app/
+17. https://aigcfun.com/
 
-18. https://www.teach-anything.com/
+18. http://gpt.mxnf.store/
 
-19. http://itecheasy.com.cn/
+19. [编程] https://www.aicodehelper.com/
 
-20. https://chat.sheepig.top/
+20. [综合] https://ai-toolbox.codefuture.top/
 
-21. https://ai.yiios.com/
+21. [虚拟女友] https://chilloutai.com/
 
-22. https://chat.ninvfeng.xyz/
+22. [文字游戏] https://harry-potter.openai-lab.com
 
-23. https://chatforai.com/
+23. [写故事] https://wordstory.streamlit.app/
 
-24. https://trychatgp.com/
+24. https://94gpt.com/
 
-25. https://talk.xiu.ee/
+25. https://www.teach-anything.com/
 
-26. https://chat.geekr.dev/
+26. http://itecheasy.com.cn/
 
-27. https://chat.51buygpt.com/
+27. https://trychatgp.com/
 
-28. https://desk.im
+28. ~~https://talk.xiu.ee/~~
 
-29. https://chat.zecoba.cn/
+29. ~~https://chat.sheepig.top/~~
 
 30. https://chatgpt.ddiu.io/
 
