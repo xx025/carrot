@@ -6,15 +6,15 @@
 ## 站点列表
 [⭐] 使用不受限、推荐
 
-1. [⭐] https://www.chat2ai.cn/
+1. [⭐⭐] https://www.chat2ai.cn/
 
-2. [⭐] https://chat.tgbot.co/
+2. [⭐⭐] https://chat.tgbot.co/
 
-3. [⭐] https://fastgpt.app/
+3. [⭐] https://chat.yqcloud.top/
 
-4. [⭐] https://94gpt.com/
+4. [⭐] https://fastgpt.app/
 
-5. [⭐] https://chat.yqcloud.top/
+5. https://94gpt.com/
 
 6. https://xc.com/
 
@@ -38,7 +38,7 @@
 
 16. [文字游戏] https://harry-potter.openai-lab.com
 
-17. [写故事] https://wordstory.streamlit.app/   
+17. [写故事] https://wordstory.streamlit.app/
 
 18. https://www.teach-anything.com/
 
@@ -88,5 +88,6 @@
 
 ## 欢迎补充
 
-提交[issues](https://github.com/xx025/carrot/issues)分享你发现的新的站点，或报告失效站点
+提交[issues](https://github.com/xx025/carrot/issues)或pr分享你发现的新的站点，或报告失效站点
+
 
