@@ -1,7 +1,6 @@
 # Free ChatGPT Site List
 
-这儿收集了一些免费好用的ChatGPT镜像站点，它们大多数基于ChatGPT的最新API构建。
-> ！请注意，不要轻易在任何站点填输自己的key,谨防盗窃
+这儿收集了一些免费好用的ChatGPT镜像站点
 
 > 🤭收藏此站点,不迷失
 
