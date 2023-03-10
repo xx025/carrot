@@ -6,27 +6,27 @@
 > 🤭收藏此站点,不迷失
 
 ## 站点列表
-[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 需要登录，[⛔] 使用受限
+>[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 需要登录，[⛔] 使用受限
 
-1. [⭐⭐] https://www.chat2ai.cn/
+1. [🔒 ⭐⭐] https://poe.com/
 
 2. [⭐⭐] https://chat.theb.ai/
 
 3. [⭐⭐] https://chat.forchange.cn/
 
-4. [⭐⭐]  https://chat.ninvfeng.xyz/
+4. [⭐⭐] https://www.chat2ai.cn/
 
-5. [⭐⭐] https://chatforai.com/
+5. [⭐⭐]  https://chat.ninvfeng.xyz/
 
-6. [⭐] https://chat.tgbot.co/
+6. [⭐⭐] https://chatforai.com/
 
-7. [⭐] https://chat.yqcloud.top/
+7. [⭐] https://chat.tgbot.co/
 
-8. [⭐] https://fastgpt.app/
+8. [⭐] https://chat.yqcloud.top/
 
-9. [⭐] https://chat.zecoba.cn/
+9. [⭐] https://fastgpt.app/
 
-10. [🔒⭐] https://poe.com/
+10. [⭐] https://chat.zecoba.cn/
 
 11. https://chat.geekr.dev/
 
@@ -95,6 +95,6 @@
 ## 欢迎补充
 >GitHub 仓库地址: https://github.com/xx025/carrot
 
-提交[issues](https://github.com/xx025/carrot/issues)或pr分享你发现的新的站点，或报告失效站点
+提交[issues](https://github.com/xx025/carrot/issues)或[pr](https://github.com/xx025/carrot/pulls)(dev分支)分享你发现的新的站点，或报告失效站点
 
 
