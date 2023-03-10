@@ -6,85 +6,89 @@
 > 🤭收藏此站点,不迷失
 
 ## 站点列表
-[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 必须key，[⛔] 使用受限
+[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 需要登录，[⛔] 使用受限
 
 1. [⭐⭐] https://www.chat2ai.cn/
 
-2. [⭐⭐]  https://chat.ninvfeng.xyz/
+2. [⭐⭐] https://chat.theb.ai/
 
-3. [⭐⭐] https://chatforai.com/
+3. [⭐⭐] https://chat.forchange.cn/
 
-4. [⭐] https://chat.tgbot.co/
+4. [⭐⭐]  https://chat.ninvfeng.xyz/
 
-5. [⭐] https://chat.yqcloud.top/
+5. [⭐⭐] https://chatforai.com/
 
-6. [⭐] https://fastgpt.app/
+6. [⭐] https://chat.tgbot.co/
 
-7. [⭐] https://chat.zecoba.cn/
+7. [⭐] https://chat.yqcloud.top/
 
-8. https://chat.geekr.dev/
+8. [⭐] https://fastgpt.app/
 
-9. https://desk.im
+9. [⭐] https://chat.zecoba.cn/
 
-10. https://xc.com/
+10. [🔒⭐] https://poe.com/
 
-11. https://chat.51buygpt.com/
+11. https://chat.geekr.dev/
 
-12. https://chat.forchange.cn/
+12. https://desk.im
 
-13. https://freechatgpt.chat/
+13. https://xc.com/
 
-14. https://askai.ws/
+14. https://chat.51buygpt.com/
 
-15. https://ai.yiios.com/
+15. https://freechatgpt.chat/
 
-16. http://chat.apigpt.cn/
+16. https://askai.ws/
 
-17. https://aigcfun.com/
+17. https://ai.yiios.com/
 
-18. http://gpt.mxnf.store/
+18. http://chat.apigpt.cn/
 
-19. [编程] https://www.aicodehelper.com/
+19. https://aigcfun.com/
 
-20. [综合] https://ai-toolbox.codefuture.top/
+20. http://gpt.mxnf.store/
 
-21. [虚拟女友] https://chilloutai.com/
+21. [编程] https://www.aicodehelper.com/
 
-22. [文字游戏] https://harry-potter.openai-lab.com
+22. [综合] https://ai-toolbox.codefuture.top/
 
-23. [写故事] https://wordstory.streamlit.app/
+23. [虚拟女友] https://chilloutai.com/
 
-24. https://94gpt.com/
+24. [文字游戏] https://harry-potter.openai-lab.com
 
-25. https://www.teach-anything.com/
+25. [写故事] https://wordstory.streamlit.app/
 
-26. http://itecheasy.com.cn/
+26. https://94gpt.com/
 
-27. https://trychatgp.com/
+27. https://www.teach-anything.com/
 
-28. ~~https://talk.xiu.ee/~~
+28. http://itecheasy.com.cn/
 
-29. ~~https://chat.sheepig.top/~~
+29. https://trychatgp.com/
 
-30. https://chatgpt.ddiu.io/
+30. ~~https://talk.xiu.ee/~~
 
-31. https://ai117.com/
+31. ~~https://chat.sheepig.top/~~
 
-32. http://chat.livepo.top/
+32. https://chatgpt.ddiu.io/
 
-33. https://freechatgpt.lol/
+33. https://ai117.com/
 
-34. https://chatgpt.ddiu.me/
+34. http://chat.livepo.top/
 
-35. https://freegpt.cc
+35. https://freechatgpt.lol/
 
-36. https://ai.ls
+36. https://chatgpt.ddiu.me/
 
-37. https://chat.alpaca-bi.com/
+37. https://freegpt.cc
 
-38. https://chat.paoying.net/
+38. https://ai.ls
 
-39. https://chat.eaten.fun/
+39. https://chat.alpaca-bi.com/
+
+40. https://chat.paoying.net/
+
+41. https://chat.eaten.fun/
 
 
 
