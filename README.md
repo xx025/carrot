@@ -71,29 +71,29 @@
 
 31. https://trychatgp.com/
 
-32. ~~https://talk.xiu.ee/~~
+32. https://chatgpt.ddiu.io/
 
-33. ~~https://chat.sheepig.top/~~
+33. https://ai117.com/
 
-34. https://chatgpt.ddiu.io/
+34. http://chat.livepo.top/
 
-35. https://ai117.com/
+35. https://freechatgpt.lol/
 
-36. http://chat.livepo.top/
+36. https://freegpt.cc
 
-37. https://freechatgpt.lol/
+37. https://ai.ls
 
-38. https://chatgpt.ddiu.me/
+38. https://chat.alpaca-bi.com/
 
-39. https://freegpt.cc
+39. https://chat.paoying.net/
 
-40. https://ai.ls
+40. https://chat.eaten.fun/
 
-41. https://chat.alpaca-bi.com/
+41. ~~https://talk.xiu.ee/~~
 
-42. https://chat.paoying.net/
+42. ~~https://chat.sheepig.top/~~
 
-43. https://chat.eaten.fun/
+43. ~~https://chatgpt.ddiu.me/~~
 
 
 
