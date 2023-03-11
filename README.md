@@ -1,6 +1,6 @@
 # Free ChatGPT Site List
 
-这儿收集了一些免费好用的ChatGPT镜像站点 最新2023年3月11日
+这儿收集了一些免费好用的ChatGPT镜像站点
 
 > 🤭收藏此站点,不迷失
 
@@ -103,4 +103,6 @@
 
 提交[issues](https://github.com/xx025/carrot/issues)或[pr](https://github.com/xx025/carrot/pulls)(dev分支)分享你发现的新的站点，或报告失效站点
 
->Last synced: Sat Mar 11 13:42:13 UTC 2023
+### 最后更新
+
+>Last synced: Sat Mar 11 13:52:22 UTC 2023
