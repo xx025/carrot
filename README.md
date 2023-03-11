@@ -24,69 +24,69 @@
 
 8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐] https://chat.tgbot.co/
+9. [⭐⭐] https://chat.yqcloud.top/
 
-10. [⭐] https://chat.yqcloud.top/
+10. [⭐] https://fastgpt.app/
 
-11. [⭐] https://fastgpt.app/
+11. [⭐] https://chat.zecoba.cn/
 
-12. [⭐] https://chat.zecoba.cn/
+12. https://chat.geekr.dev/
 
-13. https://chat.geekr.dev/
+13. https://desk.im
 
-14. https://desk.im
+14. https://xc.com/
 
-15. https://xc.com/
+15. https://chat.51buygpt.com/
 
-16. https://chat.51buygpt.com/
+16. https://freechatgpt.chat/
 
-17. https://freechatgpt.chat/
+17. https://askai.ws/
 
-18. https://askai.ws/
+18. https://ai.yiios.com/
 
-19. https://ai.yiios.com/
+19. http://chat.apigpt.cn/
 
-20. http://chat.apigpt.cn/
+20. https://aigcfun.com/
 
-21. https://aigcfun.com/
+21. http://gpt.mxnf.store/
 
-22. http://gpt.mxnf.store/
+22. [编程] https://www.aicodehelper.com/
 
-23. [编程] https://www.aicodehelper.com/
+23. [综合] https://ai-toolbox.codefuture.top/
 
-24. [综合] https://ai-toolbox.codefuture.top/
+24. [虚拟女友] https://chilloutai.com/
 
-25. [虚拟女友] https://chilloutai.com/
+25. [文字游戏] https://harry-potter.openai-lab.com
 
-26. [文字游戏] https://harry-potter.openai-lab.com
+26. [写故事] https://wordstory.streamlit.app/
 
-27. [写故事] https://wordstory.streamlit.app/
+27. https://94gpt.com/
 
-28. https://94gpt.com/
+28. https://www.teach-anything.com/
 
-29. https://www.teach-anything.com/
+29. http://itecheasy.com.cn/
 
-30. http://itecheasy.com.cn/
+30. https://trychatgp.com/
 
-31. https://trychatgp.com/
+31. https://chatgpt.ddiu.io/
 
-32. https://chatgpt.ddiu.io/
+32. https://ai117.com/
 
-33. https://ai117.com/
+33. http://chat.livepo.top/
 
-34. http://chat.livepo.top/
+34. https://freechatgpt.lol/
 
-35. https://freechatgpt.lol/
+35. https://freegpt.cc
 
-36. https://freegpt.cc
+36. https://ai.ls
 
-37. https://ai.ls
+37. https://chat.alpaca-bi.com/
 
-38. https://chat.alpaca-bi.com/
+38. https://chat.paoying.net/
 
-39. https://chat.paoying.net/
+39. https://chat.eaten.fun/
 
-40. https://chat.eaten.fun/
+40. ~~https://chat.tgbot.co/~~
 
 41. ~~https://chat.ninvfeng.xyz/!~~
 
