@@ -11,7 +11,9 @@ jobs:
         with:
           ref: main # 要同步的分支
       - name: Download README.md
-        run: curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
+        run: |
+           curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
+           echo "$(cat README.md)"$'\n\n>Last synced: '"$(date)" > README.md
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
