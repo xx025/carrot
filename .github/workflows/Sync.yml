@@ -13,7 +13,7 @@ jobs:
       - name: Download README.md
         run: |
            curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
-           echo "$(cat README.md)"$'\n\n>Last synced: '"$(date)" > README.md
+           echo "$(cat README.md)"$'\n\n>Last synced:BeiJingT '"$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')" > README.md
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
