@@ -4,104 +4,104 @@
 
 > 🤭收藏此站点,不迷失
 
+> 如果有站点失效，请提交issues反馈
+
 
 ## 站点列表
 >[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 需要登录，[⛔] 使用受限
 
-1. [⭐⭐] https://www.aitoolgpt.com/
+1. [⭐⭐]https://chat.theb.ai/
 
-2. [⭐⭐] https://www.chatsverse.xyz/
+2. [⭐⭐] https://www.chat2ai.cn/
 
-3. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
+3. [⭐⭐] https://chatforai.com/
 
-4. [⭐⭐] https://www.chat2ai.cn/
+4. [🔒 ⭐⭐] https://poe.com/
 
-5. [⭐⭐] https://www.askopenai.cn/
+5. [⭐⭐] https://chat.yqcloud.top/
 
-6. [⭐⭐] https://chatforai.com/
+6. [⭐⭐] https://chat.forchange.cn/
 
-7. [🔒 ⭐⭐] https://poe.com/
+7. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
+8. [⭐⭐] https://chat.zecoba.cn/
 
-8. [⭐⭐] https://chat.forchange.cn/
+9. [编程] https://www.aicodehelper.com/
 
-9. [⭐⭐] https://chat.yqcloud.top/
+10. [综合] https://ai-toolbox.codefuture.top/
 
-10. [⭐] https://fastgpt.app/
+11. [虚拟女友] https://chilloutai.com/
 
-11. [⭐] https://chat.zecoba.cn/
+12. [文字游戏] https://harry-potter.openai-lab.com
 
-12. https://chat.theb.ai/
+13. [写故事] https://wordstory.streamlit.app/
 
-13. [编程] https://www.aicodehelper.com/
+14. [AI 如来(佛)] https://hotoke.ai/
 
-14. [综合] https://ai-toolbox.codefuture.top/
+15. [🔑] https://fastgpt.app/
 
-15. [虚拟女友] https://chilloutai.com/
+16. https://chat.geekr.dev/
 
-16. [文字游戏] https://harry-potter.openai-lab.com
+17. https://desk.im
 
-17. [写故事] https://wordstory.streamlit.app/
+18. https://xc.com/
 
-18. [AI 如来(佛)] https://hotoke.ai/
+19. https://chat.51buygpt.com/
 
-19. https://chat.geekr.dev/
+20. https://freechatgpt.chat/
 
-20. https://desk.im
+21. https://askai.ws/
 
-21. https://xc.com/
+22. https://ai.yiios.com/
 
-22. https://chat.51buygpt.com/
+23. http://chat.apigpt.cn/
 
-23. https://freechatgpt.chat/
+24. https://aigcfun.com/
 
-24. https://askai.ws/
+25. http://gpt.mxnf.store/
 
-25. https://ai.yiios.com/
+26. https://94gpt.com/
 
-26. http://chat.apigpt.cn/
+27. https://www.teach-anything.com/
 
-27. https://aigcfun.com/
+28. http://itecheasy.com.cn/
 
-28. http://gpt.mxnf.store/
+29. https://trychatgp.com/
 
-29. https://94gpt.com/
+30. https://chatgpt.ddiu.io/
 
-30. https://www.teach-anything.com/
+31. https://ai117.com/
 
-31. http://itecheasy.com.cn/
+32. http://chat.livepo.top/
 
-32. https://trychatgp.com/
+33. https://freechatgpt.lol/
 
-33. https://chatgpt.ddiu.io/
+34. https://freegpt.cc
 
-34. https://ai117.com/
+35. https://ai.ls
 
-35. http://chat.livepo.top/
+36. https://chat.alpaca-bi.com/
 
-36. https://freechatgpt.lol/
+37. https://chat.paoying.net/
 
-37. https://freegpt.cc
+38. https://chat.eaten.fun/
 
-38. https://ai.ls
+39. [⛔] https://askgptai.com/
 
-39. https://chat.alpaca-bi.com/
+40. https://www.askopenai.cn/
 
-40. https://chat.paoying.net/
+41. ~~https://chat.tgbot.co/~~
 
-41. https://chat.eaten.fun/
+42. ~~https://chat.ninvfeng.xyz/!~~
 
-42. [⛔] https://askgptai.com/
+43. ~~https://talk.xiu.ee/~~
 
-43. ~~https://chat.tgbot.co/~~
+44. ~~https://chat.sheepig.top/~~
 
-44. ~~https://chat.ninvfeng.xyz/!~~
+45. ~~https://chatgpt.ddiu.me/~~
 
-45. ~~https://talk.xiu.ee/~~
+46. https://www.aitoolgpt.com/
 
-46. ~~https://chat.sheepig.top/~~
-
-47. ~~https://chatgpt.ddiu.me/~~
-
+47. https://www.chatsverse.xyz/
 
 
 ## 欢迎补充
