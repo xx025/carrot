@@ -8,29 +8,29 @@
 ## 站点列表
 >[⭐] 使用不受限、推荐，[🔑] 需要key ，[🔒] 需要登录，[⛔] 使用受限
 
-1. [⭐⭐] https://chat.theb.ai/
+1. [⭐⭐] https://www.aitoolgpt.com/
 
-2. [⭐⭐] https://www.aitoolgpt.com/
+2. [⭐⭐] https://www.chatsverse.xyz/
 
-3. [⭐⭐] https://www.chatsverse.xyz/
+3. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
 
-4. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
+4. [⭐⭐] https://www.chat2ai.cn/
 
-5. [⭐⭐] https://www.chat2ai.cn/
+5. [⭐⭐] https://www.askopenai.cn/
 
-6. [⭐⭐] https://www.askopenai.cn/
+6. [⭐⭐] https://chatforai.com/
 
-7. [⭐⭐] https://chatforai.com/
+7. [🔒 ⭐⭐] https://poe.com/
 
-8. [🔒 ⭐⭐] https://poe.com/
+8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat.forchange.cn/
+9. [⭐⭐] https://chat.yqcloud.top/
 
-10. [⭐⭐] https://chat.yqcloud.top/
+10. [⭐] https://fastgpt.app/
 
-11. [⭐] https://fastgpt.app/
+11. [⭐] https://chat.zecoba.cn/
 
-12. [⭐] https://chat.zecoba.cn/
+12. https://chat.theb.ai/
 
 13. [编程] https://www.aicodehelper.com/
 
@@ -111,4 +111,4 @@
 
 ### 最后更新
 
->Last synced: Mon Mar 13 00:43:21 UTC 2023
+>Last synced: Mon Mar 13 02:03:45 UTC 2023
