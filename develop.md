@@ -1,11 +1,10 @@
-# develop
+# Develop
 
+### GitHubAction自动同步
 
-
-
-## GitHubAction自动同步
->GitHubAction每十分钟自动同步 dev分支`README.md`
+> GitHubAction每十分钟自动同步 dev分支`README.md`
 > 请开起Action 可读写仓库
+
 ```yml
 name: Sync
 on:
@@ -18,7 +17,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: main 
+          ref: main
       - name: Download README.md
         run: curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
       - name: Setup Node.js
@@ -40,7 +39,12 @@ jobs:
           fi
 ```
 
+### shell 追加时间戳
 
-## star-histort
+```
+echo "$(cat README.md)"$'\n\n>Last synced: '"$(date)" > README.md
+```
+
+## star历史
+
 ![star-history](https://api.star-history.com/svg?repos=xx025/carrot&type=Timeline)
-
