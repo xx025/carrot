@@ -113,15 +113,6 @@
 
 51. https://www.chatsverse.xyz/
 
-52. https://chat.h7ml.cn/
-
-53. https://gpt.h7ml.cn/
-
-54. https://chatgpt-flutter.h7ml.cn/
-
-55. https://chatgpt.h7ml.cn/
-
-
 ## 欢迎补充
 >GitHub 仓库地址: https://github.com/xx025/carrot
 
