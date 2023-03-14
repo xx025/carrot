@@ -99,19 +99,28 @@
 
 44. https://www.askopenai.cn/
 
-45. ~~https://chat.tgbot.co/~~
+45. https://chat.h7ml.cn/
 
-46. ~~https://chat.ninvfeng.xyz/!~~
+46. https://gpt.h7ml.cn/
 
-47. ~~https://talk.xiu.ee/~~
+47. https://chatgpt-flutter.h7ml.cn/
 
-48. ~~https://chat.sheepig.top/~~
+48. https://chatgpt.h7ml.cn/
 
-49. ~~https://chatgpt.ddiu.me/~~
+49. https://www.aitoolgpt.com/
 
-50. https://www.aitoolgpt.com/
+50. https://www.chatsverse.xyz/
 
-51. https://www.chatsverse.xyz/
+51. ~~https://chat.tgbot.co/~~
+
+52. ~~https://chat.ninvfeng.xyz/!~~
+
+53. ~~https://talk.xiu.ee/~~
+
+54. ~~https://chat.sheepig.top/~~
+
+55. ~~https://chatgpt.ddiu.me/~~
+
 
 ## 欢迎补充
 >GitHub 仓库地址: https://github.com/xx025/carrot
@@ -122,4 +131,4 @@
 
 ### 最后更新
 
->Last synced:BeiJingT 2023-03-14 19:52:25
+>Last synced:BeiJingT 2023-03-14 20:20:00
