@@ -4,8 +4,9 @@
 > 🤭收藏此站点,不迷失；如果有站点失效或标注错误，请提交issues反馈
 
 - ⭐:使用不受限
-- 🔑:需要进行登录，但登陆后并无限制
-- ⛔:受限使用，有限地使用次数后需提供key或进行充值
+- 🔑:需要进行登录
+- ⛔:有限地使用次数后需提供key或进行充值
+- ❓ :未测试
 
 ## 站点列表
 1. [⭐⭐]https://chat.theb.ai/
@@ -42,67 +43,69 @@
 
 17. [⛔] https://askgptai.com/
 
-18. https://chat.geekr.dev/
+18. [❓ ] https://chat.qingting.work
 
-19. https://desk.im
+19. https://chat.geekr.dev/
 
-20. https://xc.com/
+20. https://desk.im
 
-21. https://chat.51buygpt.com/
+21. https://xc.com/
 
-22. https://freechatgpt.chat/
+22. https://chat.51buygpt.com/
 
-23. https://askai.ws/
+23. https://freechatgpt.chat/
 
-24. https://ai.yiios.com/
+24. https://askai.ws/
 
-25. http://chat.apigpt.cn/
+25. https://ai.yiios.com/
 
-26. https://aigcfun.com/
+26. http://chat.apigpt.cn/
 
-27. http://gpt.mxnf.store/
+27. https://aigcfun.com/
 
-28. https://94gpt.com/
+28. http://gpt.mxnf.store/
 
-29. https://www.teach-anything.com/
+29. https://94gpt.com/
 
-30. http://itecheasy.com.cn/
+30. https://www.teach-anything.com/
 
-31. https://trychatgp.com/
+31. http://itecheasy.com.cn/
 
-32. https://chatgpt.ddiu.io/
+32. https://trychatgp.com/
 
-33. https://ai117.com/
+33. https://chatgpt.ddiu.io/
 
-34. http://chat.livepo.top/
+34. https://ai117.com/
 
-35. https://freechatgpt.lol/
+35. http://chat.livepo.top/
 
-36. https://freegpt.cc
+36. https://freechatgpt.lol/
 
-37. https://ai.ls
+37. https://freegpt.cc
 
-38. https://chat.alpaca-bi.com/
+38. https://ai.ls
 
-39. https://chat.paoying.net/
+39. https://chat.alpaca-bi.com/
 
-40. https://chat.eaten.fun/
+40. https://chat.paoying.net/
 
-41. https://www.askopenai.cn/
+41. https://chat.eaten.fun/
 
-42. ~~https://chat.tgbot.co/~~
+42. https://www.askopenai.cn/
 
-43. ~~https://chat.ninvfeng.xyz/!~~
+43. ~~https://chat.tgbot.co/~~
 
-44. ~~https://talk.xiu.ee/~~
+44. ~~https://chat.ninvfeng.xyz/!~~
 
-45. ~~https://chat.sheepig.top/~~
+45. ~~https://talk.xiu.ee/~~
 
-46. ~~https://chatgpt.ddiu.me/~~
+46. ~~https://chat.sheepig.top/~~
 
-47. https://www.aitoolgpt.com/
+47. ~~https://chatgpt.ddiu.me/~~
 
-48. https://www.chatsverse.xyz/
+48. https://www.aitoolgpt.com/
+
+49. https://www.chatsverse.xyz/
 
 ## 欢迎补充
 >GitHub 仓库地址: https://github.com/xx025/carrot
