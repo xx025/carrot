@@ -3,7 +3,7 @@
 这儿收集了一些免费好用的ChatGPT镜像站点
 > 🤭收藏此站点,不迷失；如果有站点失效或标注错误，请提交issues反馈
 
-> 整理不易，感谢[赞赏](https://xx025.github.io/carrot)
+> 整理不易，感谢[赞赏](https://xx025.github.io/pages/zs/)
 
 - ⭐:使用不受限
 - 🔑:需要进行登录
