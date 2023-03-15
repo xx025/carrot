@@ -1,9 +1,20 @@
 # Develop
 
+### 向dev分支提交更改
+
+```shell
+# 请克隆dev分支
+git clone -b dev https://github.com/xx025/carrot.git carrot-dev
+```
+
 ### GitHubAction自动同步
 
-> GitHubAction每十分钟自动同步 dev分支`README.md`
+> GitHubAction每十分钟自动同步 dev 分支[README.md](https://github.com/xx025/carrot/blob/dev/README.md)
 > 请开起Action 可读写仓库
+>
+> 开启方法：
+> 1. Actions permissions -->[✔]Allow all actions and reusable workflows # 允许action运行
+> 2. Workflow permissions-->[✔]Read and write permissions # 给与action读写权限
 
 ```yml
 name: Sync
@@ -17,9 +28,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: main
+          ref: main # 要同步的分支
       - name: Download README.md
-        run: curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
+        run: |
+          curl  -o README.md https://raw.githubusercontent.com/xx025/carrot/dev/README.md
+          echo "$(cat README.md)"$'\n\n>Last synced:BeiJingT '"$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')" > README.md
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
@@ -34,15 +47,9 @@ jobs:
             echo "No changes to commit. Exiting."
           else
             git add README.md
-            git commit -m "Sync README to main branch"
+            git commit -m "Sync README to mges branch"
             git push origin HEAD:refs/heads/main
           fi
-```
-
-### shell 追加时间戳
-
-```
-echo "$(cat README.md)"$'\n\n>Last synced: '"$(date)" > README.md
 ```
 
 ## star历史
