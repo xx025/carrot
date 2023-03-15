@@ -43,73 +43,73 @@
 
 16. [AI 如来(佛)] https://hotoke.ai/
 
-17. https://chat.geekr.dev/
+17. https://chat.qingting.work
 
-18. https://desk.im
+18. https://chat.geekr.dev/
 
-19. https://xc.com/
+19. https://desk.im
 
-20. https://chat.51buygpt.com/
+20. https://xc.com/
 
-21. https://freechatgpt.chat/
+21. https://chat.51buygpt.com/
 
-22. https://askai.ws/
+22. https://freechatgpt.chat/
 
-23. https://ai.yiios.com/
+23. https://askai.ws/
 
-24. http://chat.apigpt.cn/
+24. https://ai.yiios.com/
 
-25. https://94gpt.com/
+25. http://chat.apigpt.cn/
 
-26. https://www.teach-anything.com/
+26. https://94gpt.com/
 
-27. http://itecheasy.com.cn/
+27. https://www.teach-anything.com/
 
-28. https://trychatgp.com/
+28. http://itecheasy.com.cn/
 
-29. https://chatgpt.ddiu.io/
+29. https://trychatgp.com/
 
-30. https://ai117.com/
+30. https://chatgpt.ddiu.io/
 
-31. http://chat.livepo.top/
+31. https://ai117.com/
 
-32. https://freechatgpt.lol/
+32. http://chat.livepo.top/
 
-33. https://freegpt.cc
+33. https://freechatgpt.lol/
 
-34. https://ai.ls
+34. https://freegpt.cc
 
-35. https://chat.alpaca-bi.com/
+35. https://ai.ls
 
-36. https://chat.paoying.net/
+36. https://chat.alpaca-bi.com/
 
-37. https://chat.eaten.fun/
+37. https://chat.paoying.net/
 
-38. https://www.askopenai.cn/
+38. https://chat.eaten.fun/
 
-39. https://chat.h7ml.cn/
+39. https://www.askopenai.cn/
 
-40. https://chatgpt-flutter.h7ml.cn/
+40. https://chat.h7ml.cn/
 
-41. https://www.aitoolgpt.com/
+41. https://chatgpt-flutter.h7ml.cn/
 
-42. https://www.chatsverse.xyz/
+42. https://www.aitoolgpt.com/
 
-43. [⛔] https://fastgpt.app/
+43. https://www.chatsverse.xyz/
 
-44. [⛔] https://chatcat.pages.dev/
+44. [⛔] https://fastgpt.app/
 
-45. [⛔] https://askgptai.com/
+45. [⛔] https://chatcat.pages.dev/
 
-46. [⛔] https://www.chat2ai.cn/
+46. [⛔] https://askgptai.com/
 
-47. [⛔] https://chat.zecoba.cn/
+47. [⛔] https://www.chat2ai.cn/
 
-48. [⛔] http://gpt.mxnf.store/
+48. [⛔] https://chat.zecoba.cn/
 
-49. [⛔]https://aigcfun.com/
+49. [⛔] http://gpt.mxnf.store/
 
-50. [❓ ] https://chat.qingting.work
+50. [⛔]https://aigcfun.com/
 
 51. ~~https://chat.tgbot.co/~~
 
@@ -125,9 +125,14 @@
 ## 欢迎补充
 >GitHub 仓库地址: https://github.com/xx025/carrot
 
-提交[issues](https://github.com/xx025/carrot/issues)或[pr](https://github.com/xx025/carrot/pulls)(dev分支)分享你发现的新的站点，或报告失效站点
+提交[issues](https://github.com/xx025/carrot/issues)或[pr](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)(dev分支)分享你发现的新的站点，或报告失效站点
 
 
 
 ### 最后更新
+> 如果fork GitHub仓库，main分支自带了自动同步GitHub Action 定时同步脚本，[如何使用？](https://github.com/xx025/carrot/blob/dev/develop.md)
+> 
+> 如果下方时间已经晚于当前时间1h ；请前往上述[github仓库](https://github.com/xx025/carrot)查看最新内容
+> 
+
 
