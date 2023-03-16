@@ -22,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
             # Check all markdown and html files in repo (default)
-            args: --verbose --no-progress --max-redirects README.md
+            args: --verbose --no-progress --max-redirects 3 README.md
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
