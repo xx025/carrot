@@ -128,6 +128,8 @@
 
 57. ~~https://chatgpt.ddiu.me/~~
 
+58. ~~https://ai.exacg.cc/~~
+
 ## 欢迎补充
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
