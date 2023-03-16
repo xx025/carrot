@@ -132,6 +132,8 @@
 
 59. ~~https://chatgpt.ddiu.me/~~
 
+60. ~~https://chatgpt.lcc8.com/~~
+
 ## 欢迎补充
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
@@ -141,10 +143,10 @@
 
 ### 最后更新
 
-> 如果fork GitHub仓库，main分支自带了自动同步GitHub Action
+> 如果Fork GitHub仓库，main分支自带了自动同步GitHub Action
 > 定时同步脚本，[如何使用？](https://github.com/xx025/carrot/blob/dev/develop.md)
 >
-> 如果下方时间已经晚于当前时间1h ；请前往上述[github仓库](https://github.com/xx025/carrot)查看最新内容
+> 如果下方时间已经晚于当前时间1h ；请前往上述[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 > 
 
->Last synced:BeiJingT 2023-03-16 11:35:01
+>Last synced:BeiJingT 2023-03-16 11:42:15
