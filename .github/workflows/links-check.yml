@@ -7,7 +7,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "00 */2 * * *"
+    - cron: "00 00 * * *"
 
 jobs:
   linkChecker:
