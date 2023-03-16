@@ -1,4 +1,4 @@
-name: 🔗 检查链接
+name: Daily Check
 
 on:
   repository_dispatch:
