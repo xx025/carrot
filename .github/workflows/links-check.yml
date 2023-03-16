@@ -1,0 +1,33 @@
+name: 🔗 检查链接
+
+on:
+  repository_dispatch:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "00 */2 * * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.6.1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+            # Check all markdown and html files in repo (default)
+            args: --verbose --no-progress --max-redirects 3 README.md
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: 🔗 链接检查报告
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
