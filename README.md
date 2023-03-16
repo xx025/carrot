@@ -128,7 +128,9 @@
 
 57. ~~https://chatgpt.ddiu.me/~~
 
-58. ~~https://ai.exacg.cc/~~
+58. ~~https://chatgpt.lcc8.com/~~
+
+
 
 ## 欢迎补充
 
