@@ -48,91 +48,93 @@
 
 17. [AI 如来(佛)] https://hotoke.ai/
 
-18. https://chat.qingting.work
+18. https://chat.aigc-model.com/
 
-19. https://chat.geekr.dev/
+19. https://chat.qingting.work
 
-20. https://desk.im
+20. https://chat.geekr.dev/
 
-21. https://xc.com/
+21. https://desk.im
 
-22. https://chat.51buygpt.com/
+22. https://xc.com/
 
-23. https://freechatgpt.chat/
+23. https://chat.51buygpt.com/
 
-24. https://askai.ws/
+24. https://freechatgpt.chat/
 
-25. https://ai.yiios.com/
+25. https://askai.ws/
 
-26. http://chat.apigpt.cn/
+26. https://ai.yiios.com/
 
-27. https://94gpt.com/
+27. http://chat.apigpt.cn/
 
-28. https://www.teach-anything.com/
+28. https://94gpt.com/
 
-29. http://itecheasy.com.cn/
+29. https://www.teach-anything.com/
 
-30. https://trychatgp.com/
+30. http://itecheasy.com.cn/
 
-31. https://chatgpt.ddiu.io/
+31. https://trychatgp.com/
 
-32. https://ai117.com/
+32. https://chatgpt.ddiu.io/
 
-33. http://chat.livepo.top/
+33. https://ai117.com/
 
-34. https://freechatgpt.lol/
+34. http://chat.livepo.top/
 
-35. https://freegpt.cc
+35. https://freechatgpt.lol/
 
-36. https://ai.ls
+36. https://freegpt.cc
 
-37. https://chat.alpaca-bi.com/
+37. https://ai.ls
 
-38. https://chat.paoying.net/
+38. https://chat.alpaca-bi.com/
 
-39. https://chat.eaten.fun/
+39. https://chat.paoying.net/
 
-40. https://www.askopenai.cn/
+40. https://chat.eaten.fun/
 
-41. https://chat.h7ml.cn/
+41. https://www.askopenai.cn/
 
-42. https://chatgpt-flutter.h7ml.cn/
+42. https://chat.h7ml.cn/
 
-43. https://www.aitoolgpt.com/
+43. https://chatgpt-flutter.h7ml.cn/
 
-44. [⛔] https://ai.okmiku.com/chat/
+44. https://www.aitoolgpt.com/
 
-45. [⛔] https://fastgpt.app/
+45. [⛔] https://ai.okmiku.com/chat/
 
-46. [⛔] https://chatcat.pages.dev/
+46. [⛔] https://fastgpt.app/
 
-47. [⛔] https://askgptai.com/
+47. [⛔] https://chatcat.pages.dev/
 
-48. [⛔] https://www.chat2ai.cn/
+48. [⛔] https://askgptai.com/
 
-49. [⛔] https://chat.zecoba.cn/
+49. [⛔] https://www.chat2ai.cn/
 
-50. [⛔] http://gpt.mxnf.store/
+50. [⛔] https://chat.zecoba.cn/
 
-51. [⛔]https://aigcfun.com/
+51. [⛔] http://gpt.mxnf.store/
 
-52. ~~https://www.chatsverse.xyz/~~
+52. [⛔]https://aigcfun.com/
 
-53. ~~https://ai.v2less.com/~~ 访问密码：lessismore
+53. ~~https://www.chatsverse.xyz/~~
 
-54. ~~https://chatgpt.h7ml.cn/~~
+54. ~~https://ai.v2less.com/~~ 访问密码：lessismore
 
-55. ~~https://chat.tgbot.co/~~
+55. ~~https://chatgpt.h7ml.cn/~~
 
-56. ~~https://chat.ninvfeng.xyz/!~~
+56. ~~https://chat.tgbot.co/~~
 
-57. ~~https://talk.xiu.ee/~~
+57. ~~https://chat.ninvfeng.xyz/!~~
 
-58. ~~https://chat.sheepig.top/~~
+58. ~~https://talk.xiu.ee/~~
 
-59. ~~https://chatgpt.ddiu.me/~~
+59. ~~https://chat.sheepig.top/~~
 
-60. ~~https://chatgpt.lcc8.com/~~
+60. ~~https://chatgpt.ddiu.me/~~
+
+61. ~~https://chatgpt.lcc8.com/~~
 
 ## 欢迎补充
 
