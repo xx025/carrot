@@ -34,99 +34,103 @@
 
 10. [⭐⭐] https://chat.xeasy.me/
 
-11. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
+11. [⭐⭐] https://chat.jingran.vip/
 
-12. [编程] https://www.aicodehelper.com/
+12. [⭐⭐] https://ai.v2less.com/ 访问密码：lessismore
 
-13. [综合] https://ai-toolbox.codefuture.top/
+13. [编程] https://www.aicodehelper.com/
 
-14. [虚拟女友] https://chilloutai.com/
+14. [综合] https://ai-toolbox.codefuture.top/
 
-15. [文字游戏] https://harry-potter.openai-lab.com
+15. [虚拟女友] https://chilloutai.com/
 
-16. [写故事] https://wordstory.streamlit.app/
+16. [文字游戏] https://harry-potter.openai-lab.com
 
-17. [AI 如来(佛)] https://hotoke.ai/
+17. [写故事] https://wordstory.streamlit.app/
 
-18. https://chat.qingting.work
+18. [AI 如来(佛)] https://hotoke.ai/
 
-19. https://chat.geekr.dev/
+19. https://chat.qingting.work
 
-20. https://desk.im
+20. https://chat.geekr.dev/
 
-21. https://xc.com/
+21. https://desk.im
 
-22. https://chat.51buygpt.com/
+22. https://xc.com/
 
-23. https://freechatgpt.chat/
+23. https://chat.51buygpt.com/
 
-24. https://askai.ws/
+24. https://freechatgpt.chat/
 
-25. https://ai.yiios.com/
+25. https://askai.ws/
 
-26. http://chat.apigpt.cn/
+26. https://ai.yiios.com/
 
-27. https://94gpt.com/
+27. http://chat.apigpt.cn/
 
-28. https://www.teach-anything.com/
+28. https://94gpt.com/
 
-29. http://itecheasy.com.cn/
+29. https://www.teach-anything.com/
 
-30. https://trychatgp.com/
+30. http://itecheasy.com.cn/
 
-31. https://chatgpt.ddiu.io/
+31. https://trychatgp.com/
 
-32. https://ai117.com/
+32. https://chatgpt.ddiu.io/
 
-33. http://chat.livepo.top/
+33. https://ai117.com/
 
-34. https://freechatgpt.lol/
+34. http://chat.livepo.top/
 
-35. https://freegpt.cc
+35. https://freechatgpt.lol/
 
-36. https://ai.ls
+36. https://freegpt.cc
 
-37. https://chat.alpaca-bi.com/
+37. https://ai.ls
 
-38. https://chat.paoying.net/
+38. https://chat.alpaca-bi.com/
 
-39. https://chat.eaten.fun/
+39. https://chat.paoying.net/
 
-40. https://www.askopenai.cn/
+40. https://chat.eaten.fun/
 
-41. https://chat.h7ml.cn/
+41. https://www.askopenai.cn/
 
-42. https://chatgpt-flutter.h7ml.cn/
+42. https://chat.h7ml.cn/
 
-43. https://www.aitoolgpt.com/
+43. https://chatgpt-flutter.h7ml.cn/
 
-44. https://www.chatsverse.xyz/
+44. https://www.aitoolgpt.com/
 
-45. [⛔] https://fastgpt.app/
+45. https://www.chatsverse.xyz/
 
-46. [⛔] https://chatcat.pages.dev/
+46. [⛔] https://ai.okmiku.com/chat/
 
-47. [⛔] https://askgptai.com/
+47. [⛔] https://fastgpt.app/
 
-48. [⛔] https://www.chat2ai.cn/
+48. [⛔] https://chatcat.pages.dev/
 
-49. [⛔] https://chat.zecoba.cn/
+49. [⛔] https://askgptai.com/
 
-50. [⛔] http://gpt.mxnf.store/
+50. [⛔] https://www.chat2ai.cn/
 
-51. [⛔]https://aigcfun.com/
+51. [⛔] https://chat.zecoba.cn/
 
-52. ~~https://chatgpt.h7ml.cn/~~
+52. [⛔] http://gpt.mxnf.store/
 
-53. ~~https://chat.tgbot.co/~~
+53. [⛔]https://aigcfun.com/
 
-54. ~~https://chat.ninvfeng.xyz/!~~
+54. ~~https://chatgpt.h7ml.cn/~~
 
-55. ~~https://talk.xiu.ee/~~
+55. ~~https://chat.tgbot.co/~~
 
-56. ~~https://chat.sheepig.top/~~
+56. ~~https://chat.ninvfeng.xyz/!~~
 
-57. ~~https://chatgpt.ddiu.me/~~
+57. ~~https://talk.xiu.ee/~~
+
+58. ~~https://chat.sheepig.top/~~
+
+59. ~~https://chatgpt.ddiu.me/~~
 
 ## 欢迎补充
 
