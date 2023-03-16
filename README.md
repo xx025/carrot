@@ -16,91 +16,91 @@
 
 1. [⭐⭐]https://chat.theb.ai/
 
-2. [⭐⭐] https://chatforai.com/
+2. [🔑⭐] https://poe.com/
 
-3. [🔑⭐] https://poe.com/
+3. [⭐⭐] https://chatgpt.poshist.cn/
 
-4. [⭐⭐] https://chatgpt.poshist.cn/
+4. [⭐⭐] https://gpt.h7ml.cn/
 
-5. [⭐⭐] https://gpt.h7ml.cn/
+5. [⭐⭐] https://chat.wxredcover.cn/
 
-6. [⭐⭐] https://chat.wxredcover.cn/
+6. [⭐⭐] https://chat.yqcloud.top/
 
-7. [⭐⭐] https://chat.yqcloud.top/
+7. [⭐⭐] https://chat.xeasy.me/
 
-8. [⭐⭐] https://chat.xeasy.me/
+8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat.forchange.cn/
+9. [⭐⭐] https://chat.xeasy.me/
 
-10. [⭐⭐] https://chat.xeasy.me/
+10. [⭐⭐] https://chat.jingran.vip/
 
-11. [⭐⭐] https://chat.jingran.vip/
+11. [编程] https://www.aicodehelper.com/
 
-12. [编程] https://www.aicodehelper.com/
+12. [综合] https://ai-toolbox.codefuture.top/
 
-13. [综合] https://ai-toolbox.codefuture.top/
+13. [虚拟女友] https://chilloutai.com/
 
-14. [虚拟女友] https://chilloutai.com/
+14. [文字游戏] https://harry-potter.openai-lab.com
 
-15. [文字游戏] https://harry-potter.openai-lab.com
+15. [写故事] https://wordstory.streamlit.app/
 
-16. [写故事] https://wordstory.streamlit.app/
+16. [AI 如来(佛)] https://hotoke.ai/
 
-17. [AI 如来(佛)] https://hotoke.ai/
+17. https://chat.aigc-model.com/
 
-18. https://chat.aigc-model.com/
+18. https://chat.qingting.work
 
-19. https://chat.qingting.work
+19. https://chat.geekr.dev/
 
-20. https://chat.geekr.dev/
+20. https://desk.im
 
-21. https://desk.im
+21. https://xc.com/
 
-22. https://xc.com/
+22. https://chat.51buygpt.com/
 
-23. https://chat.51buygpt.com/
+23. https://freechatgpt.chat/
 
-24. https://freechatgpt.chat/
+24. https://askai.ws/
 
-25. https://askai.ws/
+25. https://ai.yiios.com/
 
-26. https://ai.yiios.com/
+26. http://chat.apigpt.cn/
 
-27. http://chat.apigpt.cn/
+27. https://94gpt.com/
 
-28. https://94gpt.com/
+28. https://www.teach-anything.com/
 
-29. https://www.teach-anything.com/
+29. http://itecheasy.com.cn/
 
-30. http://itecheasy.com.cn/
+30. https://trychatgp.com/
 
-31. https://trychatgp.com/
+31. https://chatgpt.ddiu.io/
 
-32. https://chatgpt.ddiu.io/
+32. https://ai117.com/
 
-33. https://ai117.com/
+33. http://chat.livepo.top/
 
-34. http://chat.livepo.top/
+34. https://freechatgpt.lol/
 
-35. https://freechatgpt.lol/
+35. https://freegpt.cc
 
-36. https://freegpt.cc
+36. https://ai.ls
 
-37. https://ai.ls
+37. https://chat.alpaca-bi.com/
 
-38. https://chat.alpaca-bi.com/
+38. https://chat.paoying.net/
 
-39. https://chat.paoying.net/
+39. https://chat.eaten.fun/
 
-40. https://chat.eaten.fun/
+40. https://www.askopenai.cn/
 
-41. https://www.askopenai.cn/
+41. https://chat.h7ml.cn/
 
-42. https://chat.h7ml.cn/
+42. https://chatgpt-flutter.h7ml.cn/
 
-43. https://chatgpt-flutter.h7ml.cn/
+43. https://www.aitoolgpt.com/
 
-44. https://www.aitoolgpt.com/
+44. [⛔] https://chatforai.com/
 
 45. [⛔] https://ai.okmiku.com/chat/
 
@@ -145,9 +145,6 @@
 
 ### 最后更新
 
-> 如果Fork GitHub仓库，main分支自带了自动同步GitHub Action
-> 定时同步脚本，[如何使用？](https://github.com/xx025/carrot/blob/dev/develop.md)
->
 > 如果下方时间已经晚于当前时间1h ；请前往上述[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 > 
 
