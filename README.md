@@ -3,8 +3,8 @@
 这儿收集了一些免费好用的ChatGPT镜像站点
 > 🤭收藏此站点,不迷失；如果有站点失效或标注错误，请提交issues反馈
 
-> 生活不易，感谢您的[赞赏](https://xx025.github.io/pages/zs/)
-> 
+> 🧡🧡 生活不易，感谢您的[赞赏](https://xx025.github.io/pages/zs/)
+>
 ><a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 - ⭐:使用不受限
