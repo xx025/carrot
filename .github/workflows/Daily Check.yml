@@ -21,13 +21,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-            # Check all markdown and html files in repo (default)
-            args: --verbose --no-progress --max-redirects 3 README.md
+          # Check all markdown and html files in repo (default)
+          args: --verbose --no-progress --max-redirects 3 README.md
 
-      - name: Create Issue From File
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
+      - name: Save Report
+        run: echo "${{ steps.lychee.outputs.report }}" > links-check.md
+
+      - name: Upload Report
+        uses: actions/upload-artifact@v2
         with:
-          title: 🔗 链接检查报告
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          name: link-checker-report
+          path: ./links-check.md
+
