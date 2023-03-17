@@ -16,7 +16,7 @@
 
 ## 站点列表
 
-1. [🔑⭐] https://theb.ai/
+1. [⭐⭐] https://theb.ai/
 
 2. [🔑⭐] https://poe.com/
 
