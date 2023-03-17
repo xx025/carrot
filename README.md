@@ -30,79 +30,79 @@
 
 7. [⭐⭐] https://chat.xeasy.me/
 
-8. [⭐⭐] https://chat.jingran.vip/
+8. [⭐⭐] https://chat.jingran.vip/\
 
-9. https://freegpt.one/
+9. [⭐⭐] https://qa.js.cn/
 
-10. https://qa.js.cn/
+10. https://freegpt.one/
 
-11. http://gitopenchina.gitee.io/chatgpt
+11. https://chat.aigc-model.com/
 
-12. https://chat.aigc-model.com/
+12. https://chat.qingting.work
 
-13. https://chat.qingting.work
+13. https://chat.geekr.dev/
 
-14. https://chat.geekr.dev/
+14. https://desk.im
 
-15. https://desk.im
+15. https://xc.com/
 
-16. https://xc.com/
+16. https://chat.51buygpt.com/
 
-17. https://chat.51buygpt.com/
+17. https://freechatgpt.chat/
 
-18. https://freechatgpt.chat/
+18. https://askai.ws/
 
-19. https://askai.ws/
+19. https://ai.yiios.com/
 
-20. https://ai.yiios.com/
+20. http://chat.apigpt.cn/
 
-21. http://chat.apigpt.cn/
+21. https://94gpt.com/
 
-22. https://94gpt.com/
+22. https://www.teach-anything.com/
 
-23. https://www.teach-anything.com/
+23. http://itecheasy.com.cn/
 
-24. http://itecheasy.com.cn/
+24. https://trychatgp.com/
 
-25. https://trychatgp.com/
+25. https://chatgpt.ddiu.io/
 
-26. https://chatgpt.ddiu.io/
+26. https://ai117.com/
 
-27. https://ai117.com/
+27. http://chat.livepo.top/
 
-28. http://chat.livepo.top/
+28. https://freechatgpt.lol/
 
-29. https://freechatgpt.lol/
+29. https://freegpt.cc
 
-30. https://freegpt.cc
+30. https://ai.ls
 
-31. https://ai.ls
+31. https://chat.alpaca-bi.com/
 
-32. https://chat.alpaca-bi.com/
+32. https://chat.paoying.net/
 
-33. https://chat.paoying.net/
+33. https://chat.eaten.fun/
 
-34. https://chat.eaten.fun/
+34. https://www.askopenai.cn/
 
-35. https://www.askopenai.cn/
+35. https://chat.h7ml.cn/
 
-36. https://chat.h7ml.cn/
+36. https://chatgpt-flutter.h7ml.cn/
 
-37. https://chatgpt-flutter.h7ml.cn/
+37. https://www.aitoolgpt.com/
 
-38. https://www.aitoolgpt.com/
+38. [编程] https://www.aicodehelper.com/
 
-39. [编程] https://www.aicodehelper.com/
+39. [综合] https://ai-toolbox.codefuture.top/
 
-40. [综合] https://ai-toolbox.codefuture.top/
+40. [虚拟女友] https://chilloutai.com/
 
-41. [虚拟女友] https://chilloutai.com/
+41. [文字游戏] https://harry-potter.openai-lab.com
 
-42. [文字游戏] https://harry-potter.openai-lab.com
+42. [写故事] https://wordstory.streamlit.app/
 
-43. [写故事] https://wordstory.streamlit.app/
+43. [AI 如来(佛)] https://hotoke.ai/
 
-44. [AI 如来(佛)] https://hotoke.ai/
+44. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
 45. [⛔] https://chatforai.com/
 
@@ -128,7 +128,7 @@
 
 56. ~~https://www.chatsverse.xyz/~~
 
-57. ~~https://ai.v2less.com/~~ 访问密码：lessismore
+57. ~~https://ai.v2less.com/ 访问密码：lessismore~~
 
 58. ~~https://chatgpt.h7ml.cn/~~
 
