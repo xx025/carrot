@@ -32,7 +32,7 @@
 
 8. [⭐⭐] https://chat.xeasy.me/
 
-9. [⭐⭐] https://chat.jingran.vip/\
+9. [⭐⭐] https://chat.jingran.vip/
 
 10. [⭐⭐] https://qa.js.cn/
 
@@ -157,3 +157,5 @@
 > 
 
 >Last synced:BeiJingT 2023-03-17 21:10:09
+
+>Last synced:BeiJingT 2023-03-17 21:29:18
