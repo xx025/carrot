@@ -52,7 +52,7 @@
 
 18. https://freechatgpt.chat/
 
-19. https://askai.ws/
+19. https://
 
 20. https://ai.yiios.com/
 
