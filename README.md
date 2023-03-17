@@ -32,7 +32,7 @@
 
 8. [⭐⭐] https://chat.xeasy.me/
 
-9. [⭐⭐] https://chat.jingran.vip/\
+9. [⭐⭐] https://chat.jingran.vip/
 
 10. [⭐⭐] https://qa.js.cn/
 
