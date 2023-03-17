@@ -1,0 +1,35 @@
+name: Daily Check
+
+on:
+  repository_dispatch:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "00 00 * * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.6.1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          # Check all markdown and html files in repo (default)
+          args: --verbose --no-progress --max-redirects 3 README.md
+
+      - name: Save Report
+        run: echo "${{ steps.lychee.outputs.report }}" > links-check.md
+
+      - name: Upload Report
+        uses: actions/upload-artifact@v2
+        with:
+          name: link-checker-report
+          path: ./links-check.md
+
