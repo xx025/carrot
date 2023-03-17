@@ -3,7 +3,7 @@
 这儿收集了一些免费好用的ChatGPT镜像站点
 > 🤭收藏此站点,不迷失；如果有站点失效或标注错误，请提交[issues](https://github.com/xx025/carrot/issues)反馈
 
-> 🧡🧡 生活不易，感谢您的[赞赏](https://xx025.github.io/pages/zs/)
+> 🧡🧡 生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)
 > 
 ><a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
@@ -154,4 +154,4 @@
 > 如果下方时间已经晚于当前时间1h ；请前往上述[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 > 
 
->Last synced:BeiJingT 2023-03-17 11:55:08
+>Last synced:BeiJingT 2023-03-17 12:10:05
