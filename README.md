@@ -42,85 +42,85 @@
 
 13. https://gpt.tool00.com/
 
-14. https://chat.aigc-model.com/
+14. https://chat.qingting.work
 
-15. https://chat.qingting.work
+15. https://chat.geekr.dev/
 
-16. https://chat.geekr.dev/
+16. https://desk.im
 
-17. https://desk.im
+17. https://xc.com/
 
-18. https://xc.com/
+18. https://chat.51buygpt.com/
 
-19. https://chat.51buygpt.com/
+19. https://freechatgpt.chat/
 
-20. https://freechatgpt.chat/
+20. https://ai.yiios.com/
 
-21. https://ai.yiios.com/
+21. http://chat.apigpt.cn/
 
-22. http://chat.apigpt.cn/
+22. https://94gpt.com/
 
-23. https://94gpt.com/
+23. https://www.teach-anything.com/
 
-24. https://www.teach-anything.com/
+24. http://itecheasy.com.cn/
 
-25. http://itecheasy.com.cn/
+25. https://trychatgp.com/
 
-26. https://trychatgp.com/
+26. https://chatgpt.ddiu.io/
 
-27. https://chatgpt.ddiu.io/
+27. https://ai117.com/
 
-28. https://ai117.com/
+28. http://chat.livepo.top/
 
-29. http://chat.livepo.top/
+29. https://freechatgpt.lol/
 
-30. https://freechatgpt.lol/
+30. https://freegpt.cc
 
-31. https://freegpt.cc
+31. https://ai.ls
 
-32. https://ai.ls
+32. https://chat.alpaca-bi.com/
 
-33. https://chat.alpaca-bi.com/
+33. https://chat.paoying.net/
 
-34. https://chat.paoying.net/
+34. https://chat.eaten.fun/
 
-35. https://chat.eaten.fun/
+35. https://www.askopenai.cn/
 
-36. https://www.askopenai.cn/
+36. https://chat.h7ml.cn/
 
-37. https://chat.h7ml.cn/
+37. https://chatgpt-flutter.h7ml.cn/
 
-38. https://chatgpt-flutter.h7ml.cn/
+38. https://www.aitoolgpt.com/
 
-39. https://www.aitoolgpt.com/
+39. https://chatapi.qload.cn/
 
-40. https://chatapi.qload.cn/
+40. [🔑] https://ask.aiservices.tech/ask
 
-41. [🔑] https://ask.aiservices.tech/ask
+41. [⛔] https://chat-gpt.nikong.cn/
 
-42. [⛔] https://chat-gpt.nikong.cn/
+42. [⛔] https://www.tdchat.com/
 
-43. [⛔] https://www.tdchat.com/
+43. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-44. [⛔]  http://gitopenchina.gitee.io/chatgpt
+44. [⛔] https://chatforai.com/
 
-45. [⛔] https://chatforai.com/
+45. [⛔] https://ai.okmiku.com/chat/
 
-46. [⛔] https://ai.okmiku.com/chat/
+46. [⛔] https://fastgpt.app/
 
-47. [⛔] https://fastgpt.app/
+47. [⛔] https://chatcat.pages.dev/
 
-48. [⛔] https://chatcat.pages.dev/
+48. [⛔] https://askgptai.com/
 
-49. [⛔] https://askgptai.com/
+49. [⛔] https://www.chat2ai.cn/
 
-50. [⛔] https://www.chat2ai.cn/
+50. [⛔] https://chat.zecoba.cn/
 
-51. [⛔] https://chat.zecoba.cn/
+51. [⛔] http://gpt.mxnf.store/
 
-52. [⛔] http://gpt.mxnf.store/
+52. [⛔]https://aigcfun.com/
 
-53. [⛔]https://aigcfun.com/
+53. ~~https://chat.aigc-model.com/~~
 
 54. ~~https://chatgpt.poshist.cn/~~
 
@@ -175,8 +175,8 @@
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
 
-提交[issues](https://github.com/xx025/carrot/issues)
-或[pr(dev分支)](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)分享你发现的新的站点，或报告失效站点
+如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
+或[pr(dev分支)](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)
 
 ### 最后更新
 
