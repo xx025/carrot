@@ -34,7 +34,7 @@
 
 9. [⭐⭐] https://chat1.xeasy.me/
 
-10. [⭐⭐] https://chat.jingran.vip/
+10. ~~https://chat.jingran.vip/~~
 
 11. [⭐⭐] https://qa.js.cn/
 
