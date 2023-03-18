@@ -176,7 +176,7 @@
 > GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
-或[pr(dev分支)](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)
+
 
 ### 最后更新
 
