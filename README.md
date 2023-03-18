@@ -66,7 +66,7 @@
 
 25. https://trychatgp.com/
 
-26. https://chatgpt.ddiu.io/
+26. ~~https://chatgpt.ddiu.io/~~
 
 27. https://ai117.com/
 
