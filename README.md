@@ -28,11 +28,11 @@
 
 6. [⭐⭐] https://chat.yqcloud.top/
 
-7. [⭐⭐] https://chat.xeasy.me/
+7. [⭐⭐] https://chat1.xeasy.me/
 
 8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat.xeasy.me/
+9. [⭐⭐] https://gpt.xeasy.me/
 
 10. [⭐⭐] https://chat.jingran.vip/
 
@@ -118,7 +118,7 @@
 
 51. [⛔] http://gpt.mxnf.store/
 
-52. [⛔]https://aigcfun.com/
+52. [⛔] https://aigcfun.com/
 
 53. ~~https://chat.qingting.work/~~
 
@@ -185,3 +185,4 @@
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
 >Last synced:BeiJingT 2023-03-18 11:32:32
+
