@@ -28,11 +28,11 @@
 
 6. [⭐⭐] https://chat.yqcloud.top/
 
-7. [⭐⭐] https://chat.xeasy.me/
+7. [⭐⭐] https://chat.forchange.cn/
 
-8. [⭐⭐] https://chat.forchange.cn/
+8. [⭐⭐] https://gpt.xeasy.me/
 
-9. [⭐⭐] https://chat.xeasy.me/
+9. [⭐⭐] https://chat1.xeasy.me/
 
 10. [⭐⭐] https://chat.jingran.vip/
 
@@ -94,55 +94,53 @@
 
 39. https://chatapi.qload.cn/
 
-40. [🔑] https://ask.aiservices.tech/ask
+40. [⛔] https://chat-gpt.nikong.cn/
 
-41. [⛔] https://chat-gpt.nikong.cn/
+41. [⛔] https://www.tdchat.com/
 
-42. [⛔] https://www.tdchat.com/
+42. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-43. [⛔]  http://gitopenchina.gitee.io/chatgpt
+43. [⛔] https://chatforai.com/
 
-44. [⛔] https://chatforai.com/
+44. [⛔] https://ai.okmiku.com/chat/
 
-45. [⛔] https://ai.okmiku.com/chat/
+45. [⛔] https://fastgpt.app/
 
-46. [⛔] https://fastgpt.app/
+46. [⛔] https://chatcat.pages.dev/
 
-47. [⛔] https://chatcat.pages.dev/
+47. [⛔] https://askgptai.com/
 
-48. [⛔] https://askgptai.com/
+48. [⛔] https://www.chat2ai.cn/
 
-49. [⛔] https://www.chat2ai.cn/
+49. [⛔] https://chat.zecoba.cn/
 
-50. [⛔] https://chat.zecoba.cn/
+50. [⛔] http://gpt.mxnf.store/
 
-51. [⛔] http://gpt.mxnf.store/
+51. [⛔]https://aigcfun.com/
 
-52. [⛔]https://aigcfun.com/
+52. ~~https://chat.qingting.work/~~
 
-53. ~~https://chat.qingting.work/~~
+53. ~~https://chat.aigc-model.com/~~
 
-54. ~~https://chat.aigc-model.com/~~
+54. ~~https://chatgpt.poshist.cn/~~
 
-55. ~~https://chatgpt.poshist.cn/~~
+55. ~~https://www.chatsverse.xyz/~~
 
-56. ~~https://www.chatsverse.xyz/~~
+56. ~~https://ai.v2less.com/ 访问密码：lessismore~~
 
-57. ~~https://ai.v2less.com/ 访问密码：lessismore~~
+57. ~~https://chatgpt.h7ml.cn/~~
 
-58. ~~https://chatgpt.h7ml.cn/~~
+58. ~~https://chat.tgbot.co/~~
 
-59. ~~https://chat.tgbot.co/~~
+59. ~~https://chat.ninvfeng.xyz/!~~
 
-60. ~~https://chat.ninvfeng.xyz/!~~
+60. ~~https://talk.xiu.ee/~~
 
-61. ~~https://talk.xiu.ee/~~
+61. ~~https://chat.sheepig.top/~~
 
-62. ~~https://chat.sheepig.top/~~
+62. ~~https://chatgpt.ddiu.me/~~
 
-63. ~~https://chatgpt.ddiu.me/~~
-
-64. ~~https://chatgpt.lcc8.com/~~
+63. ~~https://chatgpt.lcc8.com/~~
 
 
 ### 妙站
