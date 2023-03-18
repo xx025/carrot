@@ -28,11 +28,11 @@
 
 6. [⭐⭐] https://chat.yqcloud.top/
 
-7. [⭐⭐] https://chat.xeasy.me/
+7. [⭐⭐] https://chat1.xeasy.me/
 
 8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat.xeasy.me/
+9. [⭐⭐] https://gpt.xeasy.me/
 
 10. [⭐⭐] https://chat.jingran.vip/
 
@@ -118,7 +118,9 @@
 
 51. [⛔] http://gpt.mxnf.store/
 
-52. [⛔]https://aigcfun.com/
+52. [⛔] https://aigcfun.com/
+
+53. [⛔] https://chat.xeasy.me/
 
 53. ~~https://chat.qingting.work/~~
 
