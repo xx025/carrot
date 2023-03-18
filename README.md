@@ -11,7 +11,7 @@
 
 - ⭐:使用不受限
 - 🔑:需要进行登录
-- ⛔:有限地使用次数后需提供key或进行充值
+- ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
 - ❓ :未测试，未进行标注也为未测试
 
 ## 站点列表
@@ -24,35 +24,35 @@
 
 4. [⭐⭐] https://chat.wxredcover.cn/
 
-5. [⭐⭐] https://chat.yqcloud.top/
+5. [⭐⭐] https://chatmate.network/
 
-6. [⭐⭐] https://chat.xeasy.me/
+6. [⭐⭐] https://chat.yqcloud.top/
 
-7. [⭐⭐] https://chat.forchange.cn/
+7. [⭐⭐] https://chat.xeasy.me/
 
-8. [⭐⭐] https://chat.xeasy.me/
+8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat.jingran.vip/
+9. [⭐⭐] https://chat.xeasy.me/
 
-10. [⭐⭐] https://qa.js.cn/
+10. [⭐⭐] https://chat.jingran.vip/
 
-11. https://freegpt.one/
+11. [⭐⭐] https://qa.js.cn/
 
-12. https://chat.aigc-model.com/
+12. https://freegpt.one/
 
-13. https://chat.qingting.work
+13. https://gpt.tool00.com/
 
-14. https://chat.geekr.dev/
+14. https://chat.qingting.work
 
-15. https://desk.im
+15. https://chat.geekr.dev/
 
-16. https://xc.com/
+16. https://desk.im
 
-17. https://chat.51buygpt.com/
+17. https://xc.com/
 
-18. https://freechatgpt.chat/
+18. https://chat.51buygpt.com/
 
-19. https://
+19. https://freechatgpt.chat/
 
 20. https://ai.yiios.com/
 
@@ -92,37 +92,37 @@
 
 38. https://www.aitoolgpt.com/
 
-39. [编程] https://www.aicodehelper.com/
+39. https://chatapi.qload.cn/
 
-40. [综合] https://ai-toolbox.codefuture.top/
+40. [🔑] https://ask.aiservices.tech/ask
 
-41. [虚拟女友] https://chilloutai.com/
+41. [⛔] https://chat-gpt.nikong.cn/
 
-42. [文字游戏] https://harry-potter.openai-lab.com
+42. [⛔] https://www.tdchat.com/
 
-43. [写故事] https://wordstory.streamlit.app/
+43. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-44. [AI 如来(佛)] https://hotoke.ai/
+44. [⛔] https://chatforai.com/
 
-45. [⛔]  http://gitopenchina.gitee.io/chatgpt
+45. [⛔] https://ai.okmiku.com/chat/
 
-46. [⛔] https://chatforai.com/
+46. [⛔] https://fastgpt.app/
 
-47. [⛔] https://ai.okmiku.com/chat/
+47. [⛔] https://chatcat.pages.dev/
 
-48. [⛔] https://fastgpt.app/
+48. [⛔] https://askgptai.com/
 
-49. [⛔] https://chatcat.pages.dev/
+49. [⛔] https://www.chat2ai.cn/
 
-50. [⛔] https://askgptai.com/
+50. [⛔] https://chat.zecoba.cn/
 
-51. [⛔] https://www.chat2ai.cn/
+51. [⛔] http://gpt.mxnf.store/
 
-52. [⛔] https://chat.zecoba.cn/
+52. [⛔]https://aigcfun.com/
 
-53. [⛔] http://gpt.mxnf.store/
+53. ~~https://chat.qingting.work/~~
 
-54. [⛔]https://aigcfun.com/
+54. ~~https://chat.aigc-model.com/~~
 
 55. ~~https://chatgpt.poshist.cn/~~
 
@@ -144,15 +144,44 @@
 
 64. ~~https://chatgpt.lcc8.com/~~
 
+
+### 妙站
+
+> 下面这些站点也很有趣
+
+1. [海豚问答] http://zhimachat.com/
+
+2. [编程] https://www.aicodehelper.com/
+
+3. [综合] https://ai-toolbox.codefuture.top/
+
+4. [虚拟女友] https://chilloutai.com/
+
+5. [文字游戏] https://harry-potter.openai-lab.com
+
+6. [写故事] https://wordstory.streamlit.app/
+
+7. [AI 如来(佛)] https://hotoke.ai/
+
+8. [🔑 技术文档助手] https://docsgpt.arc53.com/
+
+9. [AI 表格助手] https://chatexcel.com/
+
+10. [🔑 AI文秘助手]https://typeset.io/
+
+11. [⛔ AI B站总结] https://b.jimmylv.cn/
+
+12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+
 ## 欢迎补充
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
 
-提交[issues](https://github.com/xx025/carrot/issues)
-或[pr(dev分支)](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)分享你发现的新的站点，或报告失效站点
+如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
+或[pr(dev分支)](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)
 
 ### 最后更新
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-18 08:41:31
+>Last synced:BeiJingT 2023-03-18 10:01:30
