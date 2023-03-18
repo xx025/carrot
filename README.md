@@ -34,7 +34,7 @@
 
 9. [⭐⭐] https://chat1.xeasy.me/
 
-10. [⭐⭐] https://chat.jingran.vip/
+10. ~~https://chat.jingran.vip/~~
 
 11. [⭐⭐] https://qa.js.cn/
 
@@ -54,7 +54,7 @@
 
 19. https://freechatgpt.chat/
 
-20. https://ai.yiios.com/
+20. ~~https://ai.yiios.com/~~
 
 21. http://chat.apigpt.cn/
 
@@ -62,7 +62,7 @@
 
 23. https://www.teach-anything.com/
 
-24. http://itecheasy.com.cn/
+24. ~~http://itecheasy.com.cn/~~
 
 25. https://trychatgp.com/
 
@@ -182,4 +182,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-18 22:42:09
+>Last synced:BeiJingT 2023-03-18 22:52:14
