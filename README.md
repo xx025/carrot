@@ -120,27 +120,29 @@
 
 52. [⛔]https://aigcfun.com/
 
-53. ~~https://chat.aigc-model.com/~~
+53. ~~https://chat.qingting.work/~~
 
-54. ~~https://chatgpt.poshist.cn/~~
+54. ~~https://chat.aigc-model.com/~~
 
-55. ~~https://www.chatsverse.xyz/~~
+55. ~~https://chatgpt.poshist.cn/~~
 
-56. ~~https://ai.v2less.com/ 访问密码：lessismore~~
+56. ~~https://www.chatsverse.xyz/~~
 
-57. ~~https://chatgpt.h7ml.cn/~~
+57. ~~https://ai.v2less.com/ 访问密码：lessismore~~
 
-58. ~~https://chat.tgbot.co/~~
+58. ~~https://chatgpt.h7ml.cn/~~
 
-59. ~~https://chat.ninvfeng.xyz/!~~
+59. ~~https://chat.tgbot.co/~~
 
-60. ~~https://talk.xiu.ee/~~
+60. ~~https://chat.ninvfeng.xyz/!~~
 
-61. ~~https://chat.sheepig.top/~~
+61. ~~https://talk.xiu.ee/~~
 
-62. ~~https://chatgpt.ddiu.me/~~
+62. ~~https://chat.sheepig.top/~~
 
-63. ~~https://chatgpt.lcc8.com/~~
+63. ~~https://chatgpt.ddiu.me/~~
+
+64. ~~https://chatgpt.lcc8.com/~~
 
 
 ### 妙站
