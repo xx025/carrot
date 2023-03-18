@@ -62,7 +62,7 @@
 
 23. https://www.teach-anything.com/
 
-24. http://itecheasy.com.cn/
+24. ~~http://itecheasy.com.cn/~~
 
 25. https://trychatgp.com/
 
