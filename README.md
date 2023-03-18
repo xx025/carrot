@@ -120,8 +120,6 @@
 
 52. [⛔] https://aigcfun.com/
 
-53. [⛔] https://chat.xeasy.me/
-
 53. ~~https://chat.qingting.work/~~
 
 54. ~~https://chat.aigc-model.com/~~
