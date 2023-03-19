@@ -36,147 +36,147 @@
 
 10. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
 
-11. https://qa.js.cn/
+11. https://chatplus.app (客户端应用)
 
-12. https://chat.wxredcover.cn/
+12. https://qa.js.cn/
 
-13. https://gpt.tool00.com/
+13. https://chat.wxredcover.cn/
 
-14. https://chat.qingting.work
+14. https://gpt.tool00.com/
 
-15. https://chat.geekr.dev/
+15. https://chat.qingting.work
 
-16. https://desk.im
+16. https://chat.geekr.dev/
 
-17. https://xc.com/
+17. https://desk.im
 
-18. https://chat.51buygpt.com/
+18. https://xc.com/
 
-19. https://freechatgpt.chat/
+19. https://chat.51buygpt.com/
 
-20. http://chat.apigpt.cn/
+20. https://freechatgpt.chat/
 
-21. https://94gpt.com/
+21. http://chat.apigpt.cn/
 
-22. https://www.teach-anything.com/
+22. https://94gpt.com/
 
-23. https://trychatgp.com/
+23. https://www.teach-anything.com/
 
-24. https://ai117.com/
+24. https://trychatgp.com/
 
-25. http://chat.livepo.top/
+25. https://ai117.com/
 
-26. https://freegpt.cc
+26. http://chat.livepo.top/
 
-27. https://ai.ls
+27. https://freegpt.cc
 
-28. https://chat.alpaca-bi.com/
+28. https://ai.ls
 
-29. https://chat.paoying.net/
+29. https://chat.alpaca-bi.com/
 
-30. [🔑] https://chat.eaten.fun/
+30. https://chat.paoying.net/
 
-31. https://www.askopenai.cn/
+31. [🔑] https://chat.eaten.fun/
 
-32. https://chatgpt-flutter.h7ml.cn/
+32. https://www.askopenai.cn/
 
-33. https://www.aitoolgpt.com/
+33. https://chatgpt-flutter.h7ml.cn/
 
-34. https://chatapi.qload.cn/
+34. https://www.aitoolgpt.com/
 
-35. https://gpt.h7ml.cn/
+35. https://chatapi.qload.cn/
 
-36. https://chat.h7ml.cn/
+36. https://gpt.h7ml.cn/
 
-37. [⛔] https://chat-gpt.nikong.cn/
+37. https://chat.h7ml.cn/
 
-38. [⛔] https://www.tdchat.com/
+38. [⛔] https://chat-gpt.nikong.cn/
 
-39. [⛔]  http://gitopenchina.gitee.io/chatgpt
+39. [⛔] https://www.tdchat.com/
 
-40. [⛔] https://chatforai.com/
+40. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-41. [⛔] https://ai.okmiku.com/chat/
+41. [⛔] https://chatforai.com/
 
-42. [⛔] https://chatcat.pages.dev/
+42. [⛔] https://ai.okmiku.com/chat/
 
-43. [⛔] https://askgptai.com/
+43. [⛔] https://chatcat.pages.dev/
 
-44. [⛔] https://www.chat2ai.cn/
+44. [⛔] https://askgptai.com/
 
-45. [⛔] https://chat.zecoba.cn/
+45. [⛔] https://www.chat2ai.cn/
 
-46. [⛔] http://gpt.mxnf.store/
+46. [⛔] https://chat.zecoba.cn/
 
-47. [⛔]https://aigcfun.com/
+47. [⛔] http://gpt.mxnf.store/
 
-48. [⛔] https://ai.yiios.com/
+48. [⛔]https://aigcfun.com/
 
-49. ~~https://freegpt.one/~~
+49. [⛔] https://ai.yiios.com/
 
-50. ~~https://freechatgpt.lol/~~
+50. ~~https://freegpt.one/~~
 
-51. ~~https://fastgpt.app/~~
+51. ~~https://freechatgpt.lol/~~
 
-52. ~~https://chat.jingran.vip/~~
+52. ~~https://fastgpt.app/~~
 
-53. ~~http://itecheasy.com.cn/~~
+53. ~~https://chat.jingran.vip/~~
 
-54. ~~https://chatgpt.ddiu.io/~~
+54. ~~http://itecheasy.com.cn/~~
 
-55. ~~https://chat.qingting.work/~~
+55. ~~https://chatgpt.ddiu.io/~~
 
-56. ~~https://chat.aigc-model.com/~~
+56. ~~https://chat.qingting.work/~~
 
-57. ~~https://chatgpt.poshist.cn/~~
+57. ~~https://chat.aigc-model.com/~~
 
-58. ~~https://www.chatsverse.xyz/~~
+58. ~~https://chatgpt.poshist.cn/~~
 
-59. ~~https://ai.v2less.com/ 访问密码：lessismore~~
+59. ~~https://www.chatsverse.xyz/~~
 
-60. ~~https://chatgpt.h7ml.cn/~~
+60. ~~https://ai.v2less.com/ 访问密码：lessismore~~
 
-61. ~~https://chat.tgbot.co/~~
+61. ~~https://chatgpt.h7ml.cn/~~
 
-62. ~~https://chat.ninvfeng.xyz/!~~
+62. ~~https://chat.tgbot.co/~~
 
-63. ~~https://talk.xiu.ee/~~
+63. ~~https://chat.ninvfeng.xyz/!~~
 
-64. ~~https://chat.sheepig.top/~~
+64. ~~https://talk.xiu.ee/~~
 
-65. ~~https://chatgpt.ddiu.me/~~
+65. ~~https://chat.sheepig.top/~~
 
-66. ~~https://chatgpt.lcc8.com/~~
+66. ~~https://chatgpt.ddiu.me/~~
+
+67. ~~https://chatgpt.lcc8.com/~~
 
 ### 妙站
 
 > 下面这些站点也很有趣
 
-1. [Chat跨平台客户端] https://chatplus.app
+1. [海豚问答] http://zhimachat.com/
 
-2. [海豚问答] http://zhimachat.com/
+2. [编程] https://www.aicodehelper.com/
 
-3. [编程] https://www.aicodehelper.com/
+3. [综合] https://ai-toolbox.codefuture.top/
 
-4. [综合] https://ai-toolbox.codefuture.top/
+4. [虚拟女友] https://chilloutai.com/
 
-5. [虚拟女友] https://chilloutai.com/
+5. [文字游戏] https://harry-potter.openai-lab.com
 
-6. [文字游戏] https://harry-potter.openai-lab.com
+6. [写故事] https://wordstory.streamlit.app/
 
-7. [写故事] https://wordstory.streamlit.app/
+7. [AI 如来(佛)] https://hotoke.ai/
 
-8. [AI 如来(佛)] https://hotoke.ai/
+8. [🔑 技术文档助手] https://docsgpt.arc53.com/
 
-9. [🔑 技术文档助手] https://docsgpt.arc53.com/
+9. [AI 表格助手] https://chatexcel.com/
 
-10. [AI 表格助手] https://chatexcel.com/
+10. [🔑 AI文秘助手]https://typeset.io/
 
-11. [🔑 AI文秘助手]https://typeset.io/
+11. [⛔ AI B站总结] https://b.jimmylv.cn/
 
-12. [⛔ AI B站总结] https://b.jimmylv.cn/
-
-13. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
 ## 欢迎补充
 
@@ -188,4 +188,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-19 21:42:04
+>Last synced:BeiJingT 2023-03-19 21:52:19
