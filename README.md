@@ -26,19 +26,19 @@
 
 5. [⭐⭐] https://chatmate.network/
 
-6. [⭐⭐] https://chat.yqcloud.top/
+6. [⭐⭐]  https://chat.h7ml.cn/
 
-7. [⭐⭐] https://chat.forchange.cn/
+7. [⭐⭐] https://chat.yqcloud.top/
 
-8. [⭐⭐] https://gpt.xeasy.me/
+8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] https://chat1.xeasy.me/
+9. [⭐⭐] https://gpt.xeasy.me/
 
-10. [⭐⭐] https://qa.js.cn/
+10. [⭐⭐] https://chat1.xeasy.me/
 
-11. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
+11. [⭐⭐] https://qa.js.cn/
 
-12. https://freegpt.one/
+12. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
 
 13. https://gpt.tool00.com/
 
@@ -66,51 +66,51 @@
 
 25. http://chat.livepo.top/
 
-26. https://freechatgpt.lol/
+26. https://freegpt.cc
 
-27. https://freegpt.cc
+27. https://ai.ls
 
-28. https://ai.ls
+28. https://chat.alpaca-bi.com/
 
-29. https://chat.alpaca-bi.com/
+29. https://chat.paoying.net/
 
-30. https://chat.paoying.net/
+30. https://chat.eaten.fun/
 
-31. https://chat.eaten.fun/
+31. https://www.askopenai.cn/
 
-32. https://www.askopenai.cn/
+32. https://chatgpt-flutter.h7ml.cn/
 
-33. https://chat.h7ml.cn/
+33. https://www.aitoolgpt.com/
 
-34. https://chatgpt-flutter.h7ml.cn/
+34. https://chatapi.qload.cn/
 
-35. https://www.aitoolgpt.com/
+35. [⛔] https://chat-gpt.nikong.cn/
 
-36. https://chatapi.qload.cn/
+36. [⛔] https://www.tdchat.com/
 
-37. [⛔] https://chat-gpt.nikong.cn/
+37. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-38. [⛔] https://www.tdchat.com/
+38. [⛔] https://chatforai.com/
 
-39. [⛔]  http://gitopenchina.gitee.io/chatgpt
+39. [⛔] https://ai.okmiku.com/chat/
 
-40. [⛔] https://chatforai.com/
+40. [⛔] https://chatcat.pages.dev/
 
-41. [⛔] https://ai.okmiku.com/chat/
+41. [⛔] https://askgptai.com/
 
-42. [⛔] https://chatcat.pages.dev/
+42. [⛔] https://www.chat2ai.cn/
 
-43. [⛔] https://askgptai.com/
+43. [⛔] https://chat.zecoba.cn/
 
-44. [⛔] https://www.chat2ai.cn/
+44. [⛔] http://gpt.mxnf.store/
 
-45. [⛔] https://chat.zecoba.cn/
+45. [⛔]https://aigcfun.com/
 
-46. [⛔] http://gpt.mxnf.store/
+46. [⛔] https://ai.yiios.com/
 
-47. [⛔]https://aigcfun.com/
+47. ~~https://freegpt.one/~~
 
-48. [⛔] https://ai.yiios.com/
+48. ~~https://freechatgpt.lol/~~
 
 49. ~~https://fastgpt.app/~~
 
@@ -182,4 +182,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-19 11:52:10
+>Last synced:BeiJingT 2023-03-19 12:09:31
