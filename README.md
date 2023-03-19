@@ -20,25 +20,25 @@
 
 2. [🔑⭐] https://poe.com/
 
-3. [⭐⭐] https://chat.wxredcover.cn/
+3. [⭐⭐] https://chatmate.network/
 
-4. [⭐⭐] https://chatmate.network/
+4. [⭐⭐] https://chat.yqcloud.top/
 
-5. [⭐⭐] https://chat.yqcloud.top/
+5. [⭐⭐] https://chat.forchange.cn/
 
-6. [⭐⭐] https://chat.forchange.cn/
+6. [⭐⭐] https://gpt.xeasy.me/
 
-7. [⭐⭐] https://gpt.xeasy.me/
+7. [⭐⭐] https://chat1.xeasy.me/
 
-8. [⭐⭐] https://chat1.xeasy.me/
+8. [⭐⭐] http://gitopenchina.gitee.io/gpt
 
-9. [⭐⭐] https://qa.js.cn/
+9. [⭐⭐] http://gitopenchina.gitee.io/freechatgpt
 
-10. [⭐⭐] http://gitopenchina.gitee.io/gpt
+10. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
 
-11. [⭐⭐] http://gitopenchina.gitee.io/freechatgpt
+11. https://qa.js.cn/
 
-12. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
+12. https://chat.wxredcover.cn/
 
 13. https://gpt.tool00.com/
 
@@ -152,29 +152,31 @@
 
 > 下面这些站点也很有趣
 
-1. [海豚问答] http://zhimachat.com/
+1. [Chat跨平台客户端] https://chatplus.app
 
-2. [编程] https://www.aicodehelper.com/
+2. [海豚问答] http://zhimachat.com/
 
-3. [综合] https://ai-toolbox.codefuture.top/
+3. [编程] https://www.aicodehelper.com/
 
-4. [虚拟女友] https://chilloutai.com/
+4. [综合] https://ai-toolbox.codefuture.top/
 
-5. [文字游戏] https://harry-potter.openai-lab.com
+5. [虚拟女友] https://chilloutai.com/
 
-6. [写故事] https://wordstory.streamlit.app/
+6. [文字游戏] https://harry-potter.openai-lab.com
 
-7. [AI 如来(佛)] https://hotoke.ai/
+7. [写故事] https://wordstory.streamlit.app/
 
-8. [🔑 技术文档助手] https://docsgpt.arc53.com/
+8. [AI 如来(佛)] https://hotoke.ai/
 
-9. [AI 表格助手] https://chatexcel.com/
+9. [🔑 技术文档助手] https://docsgpt.arc53.com/
 
-10. [🔑 AI文秘助手]https://typeset.io/
+10. [AI 表格助手] https://chatexcel.com/
 
-11. [⛔ AI B站总结] https://b.jimmylv.cn/
+11. [🔑 AI文秘助手]https://typeset.io/
 
-12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+12. [⛔ AI B站总结] https://b.jimmylv.cn/
+
+13. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
 ## 欢迎补充
 
