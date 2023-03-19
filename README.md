@@ -10,7 +10,7 @@
 <br/>
 
 - ⭐:使用不受限
-- 🔑:需要进行登录
+- 🔑:需要进行登录或需要密码
 - ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
 - ❓ :未测试，未进行标注也为未测试
 
@@ -24,59 +24,59 @@
 
 4. [⭐⭐] https://chat.yqcloud.top/
 
-5. [⭐⭐] https://chat.forchange.cn/
+5. [⭐⭐]https://qa.js.cn/
 
 6. [⭐⭐] https://gpt.xeasy.me/
 
 7. [⭐⭐] https://chat1.xeasy.me/
 
-8. [⭐⭐] http://gitopenchina.gitee.io/gpt
+8. [⭐⭐] https://chat.forchange.cn/
 
-9. [⭐⭐] http://gitopenchina.gitee.io/freechatgpt
+9. [⭐⭐] http://gitopenchina.gitee.io/gpt
 
-10. [⭐⭐] https://gpt.getshare.net/ (网站内部获取访问密码)
+10. [⭐⭐] http://gitopenchina.gitee.io/freechatgpt
 
-11. https://chatplus.app (客户端应用)
+11. [⭐🔑] https://gpt.getshare.net/
 
-12. https://qa.js.cn/
+12. https://freechatgpt.chat/
 
-13. https://chat.wxredcover.cn/
+13. https://chatplus.app (客户端应用)
 
 14. https://gpt.tool00.com/
 
-15. https://chat.qingting.work
+15. https://chat.geekr.dev/
 
-16. https://chat.geekr.dev/
+16. https://desk.im
 
-17. https://desk.im
+17. https://xc.com/
 
-18. https://xc.com/
+18. https://chat.51buygpt.com/
 
-19. https://chat.51buygpt.com/
+19. http://chat.apigpt.cn/
 
-20. https://freechatgpt.chat/
+20. https://94gpt.com/
 
-21. http://chat.apigpt.cn/
+21. https://www.teach-anything.com/
 
-22. https://94gpt.com/
+22. https://trychatgp.com/
 
-23. https://www.teach-anything.com/
+23. https://ai117.com/
 
-24. https://trychatgp.com/
+24. http://chat.livepo.top/
 
-25. https://ai117.com/
+25. https://freegpt.cc
 
-26. http://chat.livepo.top/
+26. https://ai.ls
 
-27. https://freegpt.cc
+27. https://chat.alpaca-bi.com/
 
-28. https://ai.ls
+28. https://chat.paoying.net/
 
-29. https://chat.alpaca-bi.com/
+29. [🔑] https://chat.eaten.fun/
 
-30. https://chat.paoying.net/
+30. [🔑]  https://chat.qingting.work
 
-31. [🔑] https://chat.eaten.fun/
+31. [🔑] https://chat.wxredcover.cn/
 
 32. https://www.askopenai.cn/
 
