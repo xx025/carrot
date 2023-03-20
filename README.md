@@ -92,6 +92,8 @@
 
 38. https://chat.h7ml.cn/
 
+39. https://chat.uue.me/
+
 39. [⛔] https://chat-gpt.nikong.cn/
 
 40. [⛔] https://www.tdchat.com/
