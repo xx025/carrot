@@ -72,9 +72,9 @@
 
 28. https://ai.ls
 
-29. https://chat.alpaca-bi.com/
+29. [🔑] https://chat.alpaca-bi.com/
 
-30. https://chat.paoying.net/
+30. [🔑] https://chat.paoying.net/
 
 31. [🔑] https://chat.eaten.fun/
 
