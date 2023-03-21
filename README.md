@@ -23,7 +23,7 @@
 
 3. [⭐⭐] https://chatmate.network/
 
-4. [⭐⭐] https://chat.yqcloud.top/
+4. [⭐⭐] https://dev.yqcloud.top/
 
 5. [⭐⭐]https://qa.js.cn/
 
@@ -208,4 +208,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 19:06:22
+>Last synced:BeiJingT 2023-03-21 19:17:38
