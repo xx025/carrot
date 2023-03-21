@@ -13,7 +13,8 @@
 
 ## 站点列表
 
-[![adplace.png](https://raw.githubusercontent.com/xx025/carrot/dev/imgs/adplace.png)](https://xx025.github.io/pages/zs/)
+<a href="http://chatgpt3.icu" target="_blank"><img src="imgs/adplace.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+- 👆http://chatgpt3.icu
 
 
 1. [⭐⭐] https://theb.ai/
@@ -196,8 +197,9 @@
 
 [关于广告位](https://xx025.github.io/pages/zs/)
 
+
 ### 最后更新
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 14:42:19
+>Last synced:BeiJingT 2023-03-21 14:48:41
