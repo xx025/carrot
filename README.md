@@ -13,7 +13,7 @@
 
 ## 站点列表
 
-<a href="http://chatgpt3.icu" target="_blank"><img src="imgs/adplace.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+<a href="http://chatgpt3.icu" target="_blank"><img src="https://imgs.loefairy.top/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 - 👆http://chatgpt3.icu
 
 
@@ -202,4 +202,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 14:52:28
+>Last synced:BeiJingT 2023-03-21 15:03:39
