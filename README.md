@@ -75,91 +75,93 @@
 
 29. https://ai.ls
 
-30. [🔑] https://www.bz1y.cn/
+30. [🔑] https://www.typingmind.com/
 
-31. [🔑] https://chat.alpaca-bi.com/
+31. [🔑] https://www.bz1y.cn/
 
-32. [🔑] https://chat.paoying.net/
+32. [🔑] https://chat.alpaca-bi.com/
 
-33. [🔑] https://chat.eaten.fun/
+33. [🔑] https://chat.paoying.net/
 
-34. [🔑]  https://chat.qingting.work
+34. [🔑] https://chat.eaten.fun/
 
-35. [🔑] https://chat.wxredcover.cn/
+35. [🔑]  https://chat.qingting.work
 
-36. https://www.askopenai.cn/
+36. [🔑] https://chat.wxredcover.cn/
 
-37. https://chatgpt-flutter.h7ml.cn/
+37. https://www.askopenai.cn/
 
-38. https://www.aitoolgpt.com/
+38. https://chatgpt-flutter.h7ml.cn/
 
-39. https://chatapi.qload.cn/
+39. https://www.aitoolgpt.com/
 
-40. https://gpt.h7ml.cn/
+40. https://chatapi.qload.cn/
 
-41. https://chat.h7ml.cn/
+41. https://gpt.h7ml.cn/
 
-42. [⛔] https://ai.okmiku.com/chat/
+42. https://chat.h7ml.cn/
 
-43. [⛔] https://chat-gpt.nikong.cn/
+43. [⛔] https://ai.okmiku.com/chat/
 
-44. [⛔] https://www.tdchat.com/
+44. [⛔] https://chat-gpt.nikong.cn/
 
-45. [⛔]  http://gitopenchina.gitee.io/chatgpt
+45. [⛔] https://www.tdchat.com/
 
-46. [⛔] https://chatforai.com/
+46. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-47. [⛔] https://ai.okmiku.com/chat/
+47. [⛔] https://chatforai.com/
 
-48. [⛔] https://chatcat.pages.dev/
+48. [⛔] https://ai.okmiku.com/chat/
 
-49. [⛔] https://askgptai.com/
+49. [⛔] https://chatcat.pages.dev/
 
-50. [⛔] https://www.chat2ai.cn/
+50. [⛔] https://askgptai.com/
 
-51. [⛔] https://chat.zecoba.cn/
+51. [⛔] https://www.chat2ai.cn/
 
-52. [⛔] http://gpt.mxnf.store/
+52. [⛔] https://chat.zecoba.cn/
 
-53. [⛔]https://aigcfun.com/
+53. [⛔] http://gpt.mxnf.store/
 
-54. [⛔] https://ai.yiios.com/
+54. [⛔]https://aigcfun.com/
 
-55. ~~https://freegpt.one/~~
+55. [⛔] https://ai.yiios.com/
 
-56. ~~https://freechatgpt.lol/~~
+56. ~~https://freegpt.one/~~
 
-57. ~~https://fastgpt.app/~~
+57. ~~https://freechatgpt.lol/~~
 
-58. ~~https://chat.jingran.vip/~~
+58. ~~https://fastgpt.app/~~
 
-59. ~~http://itecheasy.com.cn/~~
+59. ~~https://chat.jingran.vip/~~
 
-60. ~~https://chatgpt.ddiu.io/~~
+60. ~~http://itecheasy.com.cn/~~
 
-61. ~~https://chat.qingting.work/~~
+61. ~~https://chatgpt.ddiu.io/~~
 
-62. ~~https://chat.aigc-model.com/~~
+62. ~~https://chat.qingting.work/~~
 
-63. ~~https://chatgpt.poshist.cn/~~
+63. ~~https://chat.aigc-model.com/~~
 
-64. ~~https://www.chatsverse.xyz/~~
+64. ~~https://chatgpt.poshist.cn/~~
 
-65. ~~https://ai.v2less.com/ 访问密码：lessismore~~
+65. ~~https://www.chatsverse.xyz/~~
 
-66. ~~https://chatgpt.h7ml.cn/~~
+66. ~~https://ai.v2less.com/ 访问密码：lessismore~~
 
-67. ~~https://chat.tgbot.co/~~
+67. ~~https://chatgpt.h7ml.cn/~~
 
-68. ~~https://chat.ninvfeng.xyz/!~~
+68. ~~https://chat.tgbot.co/~~
 
-69. ~~https://talk.xiu.ee/~~
+69. ~~https://chat.ninvfeng.xyz/!~~
 
-70. ~~https://chat.sheepig.top/~~
+70. ~~https://talk.xiu.ee/~~
 
-71. ~~https://chatgpt.ddiu.me/~~
+71. ~~https://chat.sheepig.top/~~
 
-72. ~~https://chatgpt.lcc8.com/~~
+72. ~~https://chatgpt.ddiu.me/~~
+
+73. ~~https://chatgpt.lcc8.com/~~
 
 ### 妙站
 
@@ -189,6 +191,10 @@
 
 12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
+13. [AI机器人] https://vrtalk.io/
+
+14. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+
 ## 欢迎补充
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
@@ -202,4 +208,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 15:07:17
+>Last synced:BeiJingT 2023-03-21 15:19:22
