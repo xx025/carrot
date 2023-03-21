@@ -13,7 +13,7 @@
 
 ## 站点列表
 
-![adplace.png](imgs/adplace.png)
+![adplace.png](https://raw.githubusercontent.com/xx025/carrot/dev/imgs/adplace.png)
 
 
 1. [⭐⭐] https://theb.ai/
