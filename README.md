@@ -49,8 +49,6 @@
 
 16. https://chatplus.app (客户端应用)
 
-17. https://gpt.tool00.com/
-
 18. https://desk.im
 
 19. https://xc.com/
@@ -214,4 +212,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 21:11:53
+>Last synced:BeiJingT 2023-03-21 21:23:13
