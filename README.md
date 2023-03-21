@@ -13,7 +13,7 @@
 
 ## 站点列表
 
-![adplace.png](imgs%2Fadplace.png)
+![adplace.png](imgs/adplace.png)
 
 
 1. [⭐⭐] https://theb.ai/
