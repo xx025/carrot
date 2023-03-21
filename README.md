@@ -13,7 +13,7 @@
 
 ## 站点列表
 
-<a href="http://chatgpt3.icu" target="_blank"><img src="imgs/adplace.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+<a href="http://chatgpt3.icu" target="_blank"><img src="https://imgs.loefairy.top/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 - 👆http://chatgpt3.icu
 
 
