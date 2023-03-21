@@ -31,95 +31,97 @@
 
 7. [⭐⭐] https://ai.bo-e.com/
 
-8. https://chat.forchange.cn/
+8. [⭐⭐] https://chat2.xeasy.me
 
-9. http://gitopenchina.gitee.io/gpt
+9. https://chat.forchange.cn/
 
-10. http://gitopenchina.gitee.io/freechatgpt
+10. http://gitopenchina.gitee.io/gpt
 
-11. https://askbot.club/chatgpt/
+11. http://gitopenchina.gitee.io/freechatgpt
 
-12. https://gpt.getshare.net/
+12. https://askbot.club/chatgpt/
 
-13. http://chatai.fyi
+13. https://gpt.getshare.net/
 
-14. https://freechatgpt.chat/
+14. http://chatai.fyi
 
-15. https://chatplus.app (客户端应用)
+15. https://freechatgpt.chat/
 
-16. https://desk.im
+16. https://chatplus.app (客户端应用)
 
-17. https://xc.com/
+17. https://desk.im
 
-18. https://chat.51buygpt.com/
+18. https://xc.com/
 
-19. http://chat.apigpt.cn/
+19. https://chat.51buygpt.com/
 
-20. https://94gpt.com/
+20. http://chat.apigpt.cn/
 
-21. https://www.teach-anything.com/
+21. https://94gpt.com/
 
-22. https://trychatgp.com/
+22. https://www.teach-anything.com/
 
-23. https://ai117.com/
+23. https://trychatgp.com/
 
-24. http://chat.livepo.top/
+24. https://ai117.com/
 
-25. https://freegpt.cc
+25. http://chat.livepo.top/
 
-26. https://ai.ls
+26. https://freegpt.cc
 
-27. https://gpt.h7ml.cn/
+27. https://ai.ls
 
-28. https://chat.h7ml.cn/
+28. https://gpt.h7ml.cn/
 
-29. [🔑] https://www.typingmind.com/
+29. https://chat.h7ml.cn/
 
-30. [🔑] https://www.bz1y.cn/
+30. [🔑] https://www.typingmind.com/
 
-31. [🔑] https://chat.alpaca-bi.com/
+31. [🔑] https://www.bz1y.cn/
 
-32. [🔑] https://chat.paoying.net/
+32. [🔑] https://chat.alpaca-bi.com/
 
-33. [🔑] https://chat.eaten.fun/
+33. [🔑] https://chat.paoying.net/
 
-34. [🔑]  https://chat.qingting.work
+34. [🔑] https://chat.eaten.fun/
 
-35. [🔑] https://chat.wxredcover.cn/
+35. [🔑]  https://chat.qingting.work
 
-36. https://www.askopenai.cn/
+36. [🔑] https://chat.wxredcover.cn/
 
-37. https://chatgpt-flutter.h7ml.cn/
+37. https://www.askopenai.cn/
 
-38. https://www.aitoolgpt.com/
+38. https://chatgpt-flutter.h7ml.cn/
 
-39. https://chatapi.qload.cn/
+39. https://www.aitoolgpt.com/
 
-40. [⛔] https://ai.okmiku.com/chat/
+40. https://chatapi.qload.cn/
 
-41. [⛔] https://chat-gpt.nikong.cn/
+41. [⛔] https://ai.okmiku.com/chat/
 
-42. [⛔] https://www.tdchat.com/
+42. [⛔] https://chat-gpt.nikong.cn/
 
-43. [⛔]  http://gitopenchina.gitee.io/chatgpt
+43. [⛔] https://www.tdchat.com/
 
-44. [⛔] https://chatforai.com/
+44. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-45. [⛔] https://ai.okmiku.com/chat/
+45. [⛔] https://chatforai.com/
 
-46. [⛔] https://chatcat.pages.dev/
+46. [⛔] https://ai.okmiku.com/chat/
 
-47. [⛔] https://askgptai.com/
+47. [⛔] https://chatcat.pages.dev/
 
-48. [⛔] https://www.chat2ai.cn/
+48. [⛔] https://askgptai.com/
 
-49. [⛔] https://chat.zecoba.cn/
+49. [⛔] https://www.chat2ai.cn/
 
-50. [⛔] http://gpt.mxnf.store/
+50. [⛔] https://chat.zecoba.cn/
 
-51. [⛔]https://aigcfun.com/
+51. [⛔] http://gpt.mxnf.store/
 
-52. [⛔] https://ai.yiios.com/
+52. [⛔]https://aigcfun.com/
+
+53. [⛔] https://ai.yiios.com/
 
 
 
