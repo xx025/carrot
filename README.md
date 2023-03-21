@@ -49,7 +49,7 @@
 
 16. https://gpt.tool00.com/
 
-17. https://chat.geekr.dev/
+17. https://chat2.geekr.dev
 
 18. https://desk.im
 
