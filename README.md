@@ -4,7 +4,6 @@
 > 🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交反馈
 
 > 🧡🧡 生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)  <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
-
 <br/>
 
 - ⭐:使用不受限
@@ -13,6 +12,9 @@
 - ❓ :未测试，未进行标注也为未测试
 
 ## 站点列表
+
+![adplace.png](imgs%2Fadplace.png)
+
 
 1. [⭐⭐] https://theb.ai/
 
@@ -189,6 +191,8 @@
 > GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
+
+[关于广告位](https://xx025.github.io/pages/zs/)
 
 ### 最后更新
 
