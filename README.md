@@ -49,8 +49,6 @@
 
 16. https://chatplus.app (客户端应用)
 
-17. https://gpt.tool00.com/
-
 18. https://desk.im
 
 19. https://xc.com/
