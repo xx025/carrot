@@ -188,6 +188,10 @@
 
 12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
+13. [AI机器人] https://vrtalk.io/
+
+14. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+
 ## 欢迎补充
 
 > GitHub 仓库地址: https://github.com/xx025/carrot
