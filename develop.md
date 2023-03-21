@@ -1,11 +1,15 @@
 # Develop
 
-### 向dev分支提交更改
+[//]: # (### 向dev分支提交更改)
 
-```shell
-# 请克隆dev分支
-git clone -b dev https://github.com/xx025/carrot.git carrot-dev
-```
+[//]: # ()
+[//]: # (```shell)
+
+[//]: # (# 请克隆dev分支)
+
+[//]: # (git clone -b dev https://github.com/xx025/carrot.git carrot-dev)
+
+[//]: # (```)
 
 ### GitHubAction自动同步
 
