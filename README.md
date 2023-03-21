@@ -49,7 +49,7 @@
 
 16. https://gpt.tool00.com/
 
-17. https://chat.geekr.dev/
+17. https://chat2.geekr.dev
 
 18. https://desk.im
 
@@ -208,4 +208,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 20:41:57
+>Last synced:BeiJingT 2023-03-21 20:57:29
