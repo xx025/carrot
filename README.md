@@ -201,7 +201,7 @@
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
 
-[关于广告位](https://xx025.github.io/pages/zs/)
+[关于广告位](https://xx025.github.io/ads/)
 
 
 ### 最后更新
