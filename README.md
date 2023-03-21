@@ -13,7 +13,7 @@
 
 ## 站点列表
 
-![adplace.png](https://raw.githubusercontent.com/xx025/carrot/dev/imgs/adplace.png)
+[![adplace.png](https://raw.githubusercontent.com/xx025/carrot/dev/imgs/adplace.png)](https://xx025.github.io/pages/zs/)
 
 
 1. [⭐⭐] https://theb.ai/
@@ -200,4 +200,4 @@
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 14:10:40
+>Last synced:BeiJingT 2023-03-21 14:30:31
