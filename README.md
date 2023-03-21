@@ -202,22 +202,24 @@
 
 21. https://chatgpt.lcc8.com/
 
-### 欢迎补充
+### 协议
+
+如果您正在同步或转载本仓库内容，请遵守以下协议
+
+1. 可以移除广告位，勿移除赞赏支持链接
+
+2. 其他部分请保持原文，不作修改
 
 GitHub 仓库地址: https://github.com/xx025/carrot
+
+### 欢迎补充
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
 
 [关于广告位](https://xx025.github.io/ads/)
 
-### 协议
-如果您正在同步或转载本仓库内容，请遵守以下君子协议
-1. 可以移除广告位，勿移除赞赏支持链接
-2. 其他部分请保持原文，不作修改
-
-
 ### 最后更新
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-22 02:09:52
+>Last synced:BeiJingT 2023-03-22 02:17:32
