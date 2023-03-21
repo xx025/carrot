@@ -14,7 +14,7 @@
 ## 站点列表
 
 <a href="http://chatgpt3.icu" target="_blank"><img src="https://imgs.loefairy.top/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
-- 👆http://chatgpt3.icu
+- 👆http://chatgpt3.icu [ad.]
 
 
 1. [⭐⭐] https://theb.ai/
@@ -201,11 +201,11 @@
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues)
 
-[关于广告位](https://xx025.github.io/pages/zs/)
+[关于广告位](https://xx025.github.io/ads/)
 
 
 ### 最后更新
 
 > 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-21 16:52:12
+>Last synced:BeiJingT 2023-03-21 17:08:15
