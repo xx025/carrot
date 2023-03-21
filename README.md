@@ -23,7 +23,7 @@
 
 3. [⭐⭐] https://chatmate.network/
 
-4. [⭐⭐] https://chat.yqcloud.top/
+4. [⭐⭐] https://dev.yqcloud.top/
 
 5. [⭐⭐]https://qa.js.cn/
 
