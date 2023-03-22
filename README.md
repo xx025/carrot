@@ -25,8 +25,6 @@
 
 3. [⭐⭐] https://dev.yqcloud.top/
 
-4. [⭐⭐] https://chat.uue.me/
-
 5. [⭐⭐] https://chat2.geekr.dev
 
 6. [⭐⭐] https://qachat.vercel.app
@@ -175,7 +173,7 @@
 
 ### 临时失效站点
 
-> 如果以下网站，重新解析或运营欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
+> 如果以下网站，重新解析或运行服务欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
 
 1. https://chatmate.network/
 
@@ -214,6 +212,8 @@
 18. https://chatgpt.ddiu.me/
 
 19. https://chatgpt.lcc8.com/
+
+20. https://chat.uue.me/
 
 ### 欢迎补充
 
