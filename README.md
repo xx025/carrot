@@ -25,8 +25,6 @@
 
 3. [⭐⭐] https://dev.yqcloud.top/
 
-4. [⭐⭐] https://chat.uue.me/
-
 5. [⭐⭐] https://chat2.geekr.dev
 
 6. [⭐⭐] https://qachat.vercel.app
@@ -175,7 +173,7 @@
 
 ### 临时失效站点
 
-> 如果以下网站，重新解析或运营欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
+> 如果以下网站，重新解析或运行服务欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
 
 1. https://chatmate.network/
 
@@ -215,6 +213,8 @@
 
 19. https://chatgpt.lcc8.com/
 
+20. https://chat.uue.me/
+
 ### 欢迎补充
 
 GitHub 仓库地址: https://github.com/xx025/carrot
@@ -235,4 +235,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-22 10:33:53
+>Last synced:BeiJingT 2023-03-22 10:39:42
