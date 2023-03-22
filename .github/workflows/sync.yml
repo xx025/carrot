@@ -1,6 +1,5 @@
 name: Sync
 on:
-  repository_dispatch:
   push:
     branches:
       - main
