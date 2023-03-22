@@ -175,51 +175,51 @@
   <summary>点击查看详细内容</summary>
 
 1. https://chatmate.network/
-
+   <br/>
 2. https://freegpt.one/
-
+   <br/>
 3. https://freechatgpt.lol/
-
+   <br/>
 4. https://fastgpt.app/
-
+   <br/>
 5. https://chat.jingran.vip/
-
+   <br/>
 6. http://itecheasy.com.cn/
-
+   <br/>
 7. https://chatgpt.ddiu.io/
-
+   <br/>
 8. https://chat.qingting.work/
-
+   <br/>
 9. https://chat.aigc-model.com/
-
+   <br/>
 10. https://chatgpt.poshist.cn/
-
+    <br/>
 11. https://www.chatsverse.xyz/
-
+    <br/>
 12. https://ai.v2less.com/
-
+    <br/>
 13. https://chatgpt.h7ml.cn/
-
+    <br/>
 14. https://chat.tgbot.co/
-
+    <br/>
 15. https://chat.ninvfeng.xyz/
-
+    <br/>
 16. https://talk.xiu.ee/
-
+    <br/>
 17. https://chat.sheepig.top/
-
+    <br/>
 18. https://chatgpt.ddiu.me/
-
+    <br/>
 19. https://chatgpt.lcc8.com/
-
+    <br/>
 20. https://chat.uue.me/
-
+    <br/>
 21. http://gpt.mxnf.store/
-
+    <br/>
 22. https://chat.moyunav.com/
-
+    <br/>
 23. https://www.askopenai.cn/
-
+    <br/>
 
 </details>
 
@@ -243,4 +243,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-22 14:51:17
+>Last synced:BeiJingT 2023-03-22 15:04:26
