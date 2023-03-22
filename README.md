@@ -39,8 +39,6 @@
 
 10. [⭐⭐] https://www.ftcl.site/
 
-11. https://chat.moyunav.com/
-
 12. https://chater.lanyun1103.top
 
 13. https://chat.yougan.cc/
@@ -107,8 +105,6 @@
 
 44. [🔑] https://chat.wxredcover.cn/
 
-45. https://www.askopenai.cn/
-
 46. https://chatgpt-flutter.h7ml.cn/
 
 47. https://www.aitoolgpt.com/
@@ -134,8 +130,6 @@
 57. [⛔] https://www.chat2ai.cn/
 
 58. [⛔] https://chat.zecoba.cn/
-
-59. [⛔] http://gpt.mxnf.store/
 
 60. [⛔]https://aigcfun.com/
 
@@ -177,6 +171,9 @@
 
 > 如果以下网站，重新解析或运行服务欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
 
+<details>
+  <summary>点击查看详细内容</summary>
+
 1. https://chatmate.network/
 
 2. https://freegpt.one/
@@ -217,6 +214,15 @@
 
 20. https://chat.uue.me/
 
+21. http://gpt.mxnf.store/
+
+22. https://chat.moyunav.com/
+
+23. https://www.askopenai.cn/
+
+
+</details>
+
 ### 欢迎补充
 
 GitHub 仓库地址: https://github.com/xx025/carrot
@@ -237,4 +243,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-22 14:18:42
+>Last synced:BeiJingT 2023-03-22 14:26:28
