@@ -2,9 +2,9 @@
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
-发布网站： https://cc.ai55.cc/  (敬请收藏)
+**发布网站**： https://cc.ai55.cc/   (😃敬请收藏)
 
-🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交反馈
+如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交
 
 >🧡🧡生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)  <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 <br/>
@@ -27,113 +27,113 @@
 
 3. [⭐⭐] https://dev.yqcloud.top/
 
-5. [⭐⭐] https://chat2.geekr.dev
+4. [⭐⭐] https://chat2.geekr.dev
 
-6. [⭐⭐] https://qachat.vercel.app
+5. [⭐⭐] https://qachat.vercel.app
 
-7. [⭐⭐] https://ai.bo-e.com/
+6. [⭐⭐] https://ai.bo-e.com/
 
-8. [⭐⭐] https://chat2.xeasy.me
+7. [⭐⭐] https://chat2.xeasy.me
 
-9. [⭐⭐] http://newb.site/chatgpt
+8. [⭐⭐] http://newb.site/chatgpt
 
-10. [⭐⭐] https://www.ftcl.site/
+9. [⭐⭐] https://www.ftcl.site/
 
-12. https://chater.lanyun1103.top
+10. https://chater.lanyun1103.top
 
-13. https://chat.yougan.cc/
+11. https://chat.yougan.cc/
 
-14. https://www.cveoy.com/
+12. https://www.cveoy.com/
 
-15. https://chat1.wuguokai.top/s/chatgpt
+13. https://chat1.wuguokai.top/s/chatgpt
 
-16. https://chat.wuguokai.cn/s/chatgpt
+14. https://chat.wuguokai.cn/s/chatgpt
 
-17. https://chat.forchange.cn/
+15. https://chat.forchange.cn/
 
-18. http://gitopenchina.gitee.io/gpt
+16. http://gitopenchina.gitee.io/gpt
 
-19. http://gitopenchina.gitee.io/freechatgpt
+17. http://gitopenchina.gitee.io/freechatgpt
 
-20. https://askbot.club/chatgpt/
+18. https://askbot.club/chatgpt/
 
-21. https://gpt.getshare.net/
+19. https://gpt.getshare.net/
 
-22. http://chatai.fyi
+20. http://chatai.fyi
 
-23. https://freechatgpt.chat/
+21. https://freechatgpt.chat/
 
-24. https://chatplus.app (客户端应用)
+22. https://chatplus.app (客户端应用)
 
-25. https://desk.im
+23. https://desk.im
 
-26. https://xc.com/
+24. https://xc.com/
 
-27. https://chat.51buygpt.com/
+25. https://chat.51buygpt.com/
 
-28. http://chat.apigpt.cn/
+26. http://chat.apigpt.cn/
 
-29. https://94gpt.com/
+27. https://94gpt.com/
 
-30. https://www.teach-anything.com/
+28. https://www.teach-anything.com/
 
-31. https://trychatgp.com/
+29. https://trychatgp.com/
 
-32. https://ai117.com/
+30. https://ai117.com/
 
-33. http://chat.livepo.top/
+31. http://chat.livepo.top/
 
-34. https://freegpt.cc
+32. https://freegpt.cc
 
-35. https://ai.ls
+33. https://ai.ls
 
-36. https://gpt.h7ml.cn/
+34. https://gpt.h7ml.cn/
 
-37. https://chat.h7ml.cn/
+35. https://chat.h7ml.cn/
 
-38. [🔑] https://www.typingmind.com/
+36. [🔑] https://www.typingmind.com/
 
-39. [🔑] https://www.bz1y.cn/
+37. [🔑] https://www.bz1y.cn/
 
-40. [🔑] https://chat.alpaca-bi.com/
+38. [🔑] https://chat.alpaca-bi.com/
 
-41. [🔑] https://chat.paoying.net/
+39. [🔑] https://chat.paoying.net/
 
-42. [🔑] https://chat.eaten.fun/
+40. [🔑] https://chat.eaten.fun/
 
-43. [🔑]  https://chat.qingting.work
+41. [🔑]  https://chat.qingting.work
 
-44. [🔑] https://chat.wxredcover.cn/
+42. [🔑] https://chat.wxredcover.cn/
 
-46. https://chatgpt-flutter.h7ml.cn/
+43. https://chatgpt-flutter.h7ml.cn/
 
-47. https://www.aitoolgpt.com/
+44. https://www.aitoolgpt.com/
 
-48. https://chatapi.qload.cn/
+45. https://chatapi.qload.cn/
 
-49. [⛔] https://ai.okmiku.com/chat/
+46. [⛔] https://ai.okmiku.com/chat/
 
-50. [⛔] https://chat-gpt.nikong.cn/
+47. [⛔] https://chat-gpt.nikong.cn/
 
-51. [⛔] https://www.tdchat.com/
+48. [⛔] https://www.tdchat.com/
 
-52. [⛔]  http://gitopenchina.gitee.io/chatgpt
+49. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-53. [⛔] https://chatforai.com/
+50. [⛔] https://chatforai.com/
 
-54. [⛔] https://ai.okmiku.com/chat/
+51. [⛔] https://ai.okmiku.com/chat/
 
-55. [⛔] https://chatcat.pages.dev/
+52. [⛔] https://chatcat.pages.dev/
 
-56. [⛔] https://askgptai.com/
+53. [⛔] https://askgptai.com/
 
-57. [⛔] https://www.chat2ai.cn/
+54. [⛔] https://www.chat2ai.cn/
 
-58. [⛔] https://chat.zecoba.cn/
+55. [⛔] https://chat.zecoba.cn/
 
-60. [⛔]https://aigcfun.com/
+56. [⛔]https://aigcfun.com/
 
-61. [⛔] https://ai.yiios.com/
+57. [⛔] https://ai.yiios.com/
 
 ### 妙站
 
