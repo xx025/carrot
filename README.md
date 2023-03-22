@@ -91,49 +91,51 @@
 
 35. https://chat.h7ml.cn/
 
-36. [🔑] https://www.typingmind.com/
+36. [🔑] https://www.ohmygpt.com/
 
-37. [🔑] https://www.bz1y.cn/
+37. [🔑] https://www.typingmind.com/
 
-38. [🔑] https://chat.alpaca-bi.com/
+38. [🔑] https://www.bz1y.cn/
 
-39. [🔑] https://chat.paoying.net/
+39. [🔑] https://chat.alpaca-bi.com/
 
-40. [🔑] https://chat.eaten.fun/
+40. [🔑] https://chat.paoying.net/
 
-41. [🔑]  https://chat.qingting.work
+41. [🔑] https://chat.eaten.fun/
 
-42. [🔑] https://chat.wxredcover.cn/
+42. [🔑]  https://chat.qingting.work
 
-43. https://chatgpt-flutter.h7ml.cn/
+43. [🔑] https://chat.wxredcover.cn/
 
-44. https://www.aitoolgpt.com/
+44. https://chatgpt-flutter.h7ml.cn/
 
-45. https://chatapi.qload.cn/
+45. https://www.aitoolgpt.com/
 
-46. [⛔] https://ai.okmiku.com/chat/
+46. https://chatapi.qload.cn/
 
-47. [⛔] https://chat-gpt.nikong.cn/
+47. [⛔] https://ai.okmiku.com/chat/
 
-48. [⛔] https://www.tdchat.com/
+48. [⛔] https://chat-gpt.nikong.cn/
 
-49. [⛔]  http://gitopenchina.gitee.io/chatgpt
+49. [⛔] https://www.tdchat.com/
 
-50. [⛔] https://chatforai.com/
+50. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-51. [⛔] https://ai.okmiku.com/chat/
+51. [⛔] https://chatforai.com/
 
-52. [⛔] https://chatcat.pages.dev/
+52. [⛔] https://ai.okmiku.com/chat/
 
-53. [⛔] https://askgptai.com/
+53. [⛔] https://chatcat.pages.dev/
 
-54. [⛔] https://www.chat2ai.cn/
+54. [⛔] https://askgptai.com/
 
-55. [⛔] https://chat.zecoba.cn/
+55. [⛔] https://www.chat2ai.cn/
 
-56. [⛔]https://aigcfun.com/
+56. [⛔] https://chat.zecoba.cn/
 
-57. [⛔] https://ai.yiios.com/
+57. [⛔]https://aigcfun.com/
+
+58. [⛔] https://ai.yiios.com/
 
 ### 妙站
 
