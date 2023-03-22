@@ -4,10 +4,13 @@
 
 **发布网站：** https://cc.ai55.cc/   (😃敬请收藏)
 
-如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交
+**分享站点**、**站点失效**或**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
->🧡🧡生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)  <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
-<br/>
+><a href="https://xx025.github.io/pages/zs/" target="_blank"><font color="red">🔗生活不易，感谢您的支持🧡🧡</font></a>
+
+[//]: # (> <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>)
+
+[//]: # (<br/>)
 
 - ⭐:使用不受限
 - 🔑:需要进行**登录**或需要**密码**
@@ -171,7 +174,9 @@
 
 ### 临时失效站点
 
-> 如果以下网站，重新解析或运行服务欢迎反馈；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况
+> 如果以下网站，重新解析或运行服务欢迎告诉我
+
+[//]: # (；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况)
 
 <details>
   <summary>点击查看详细内容</summary>
