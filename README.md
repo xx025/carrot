@@ -2,7 +2,7 @@
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
-**发布网站**： https://cc.ai55.cc/   (😃敬请收藏)
+**发布网站：** https://cc.ai55.cc/   (😃敬请收藏)
 
 如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交
 
