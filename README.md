@@ -1,10 +1,12 @@
 # Free ChatGPT Site List
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
-> 🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交反馈
 
-> 🧡🧡
-> 生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)  <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+发布网站： https://cc.ai55.cc/  (敬请收藏)
+
+🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)提交反馈
+
+>🧡🧡生活不易，感谢您的[支持](https://xx025.github.io/pages/zs/)  <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 <br/>
 
 - ⭐:使用不受限
@@ -235,4 +237,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-22 11:31:21
+>Last synced:BeiJingT 2023-03-22 11:37:47
