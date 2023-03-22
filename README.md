@@ -219,7 +219,7 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果您认为站点可以加⭐、分享你发现的新的站点，或报告失效站点，欢迎提交[issues](https://github.com/xx025/carrot/issues) 告诉我
 
-[关于广告位](https://github.com/xx025/carrot/wiki/About-Ads)
+[关于广告位](https://github.com/xx025/carrot/wiki)
 
 ### 协议
 
