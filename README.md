@@ -15,9 +15,9 @@
 
 ## 站点列表
 
-<a href="https://loefairy.top/adurl*" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+<a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 
-- [👆http://chatgpt3.icu](https://loefairy.top/adurl*) [ad.]
+- [👆http://chatgpt3.icu](https://cc.ai55.cc/ad) [ad.]
 
 
 1. [⭐⭐] https://theb.ai/
