@@ -44,9 +44,9 @@
 
 10. [⭐⭐]http://ai.usesless.com/
 
-11. [⭐⭐] https://chat2.geekr.dev
+11. [⭐⭐] https://gpt.intercat.cn/
 
-12. https://gpt.intercat.cn/
+12. https://chat2.geekr.dev
 
 13. https://builtbyjesse.com/lab
 
@@ -94,53 +94,47 @@
 
 35. https://chat.h7ml.cn/
 
-36. https://chatgpt-flutter.h7ml.cn/
+36. https://chatplus.app (客户端应用)
 
-37. https://chatapi.qload.cn/
+37. [🔑] https://vip.jjzn.top/
 
-38. https://chatplus.app (客户端应用)
+38. [🔑] https://www.ohmygpt.com/
 
-39. [🔑] https://vip.jjzn.top/
+39. [🔑] https://www.typingmind.com/
 
-40. [🔑] https://www.ohmygpt.com/
+40. [🔑] https://www.bz1y.cn/
 
-41. [🔑] https://www.typingmind.com/
+41. [🔑] https://chat.alpaca-bi.com/
 
-42. [🔑] https://www.bz1y.cn/
+42. [🔑] https://chat.paoying.net/
 
-43. [🔑] https://chat.alpaca-bi.com/
+43. [🔑] https://chat.eaten.fun/
 
-44. [🔑] https://chat.paoying.net/
+44. [🔑]  https://chat.qingting.work
 
-45. [🔑] https://chat.eaten.fun/
+45. [🔑] https://chat.wxredcover.cn/
 
-46. [🔑]  https://chat.qingting.work
+46. [⛔] https://chatmindai.com/
 
-47. [🔑] https://chat.wxredcover.cn/
+47. [⛔] https://ai.okmiku.com/chat/
 
-48. [⛔] https://chatmindai.com/
+48. [⛔] https://www.tdchat.com/
 
-49. [⛔] https://ai.okmiku.com/chat/
+49. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-50. [⛔] https://chat-gpt.nikong.cn/
+50. [⛔] https://chatforai.com/
 
-51. [⛔] https://www.tdchat.com/
+51. [⛔] https://ai.okmiku.com/chat/
 
-52. [⛔]  http://gitopenchina.gitee.io/chatgpt
+52. [⛔] https://chatcat.pages.dev/
 
-53. [⛔] https://chatforai.com/
+53. [⛔] https://ai.yiios.com/
 
-54. [⛔] https://ai.okmiku.com/chat/
+54. [⛔] https://www.chat2ai.cn/
 
-55. [⛔] https://chatcat.pages.dev/
+55. [⛔] https://chat.zecoba.cn/
 
-56. [⛔] https://ai.yiios.com/
-
-57. [⛔] https://www.chat2ai.cn/
-
-58. [⛔] https://chat.zecoba.cn/
-
-59. [⛔]https://aigcfun.com/
+56. [⛔]https://aigcfun.com/
 
 
 
@@ -243,6 +237,14 @@
     <br/>
 28. https://ai.ls/
     <br/>
+29. https://ai.ls/
+    <br/>
+30. https://chatapi.qload.cn/
+    <br/>
+31. https://chat-gpt.nikong.cn/
+    <br/>
+32. https://chatgpt-flutter.h7ml.cn/
+    <br/>
 
 </details>
 
@@ -266,4 +268,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 13:33:15
+>Last synced:BeiJingT 2023-03-23 13:41:08
