@@ -100,45 +100,49 @@
 
 38. https://chatplus.app (客户端应用)
 
-39. [🔑] https://www.ohmygpt.com/
+39. [🔑] https://vip.jjzn.top/
 
-40. [🔑] https://www.typingmind.com/
+40. [🔑] https://www.ohmygpt.com/
 
-41. [🔑] https://www.bz1y.cn/
+41. [🔑] https://www.typingmind.com/
 
-42. [🔑] https://chat.alpaca-bi.com/
+42. [🔑] https://www.bz1y.cn/
 
-43. [🔑] https://chat.paoying.net/
+43. [🔑] https://chat.alpaca-bi.com/
 
-44. [🔑] https://chat.eaten.fun/
+44. [🔑] https://chat.paoying.net/
 
-45. [🔑]  https://chat.qingting.work
+45. [🔑] https://chat.eaten.fun/
 
-46. [🔑] https://chat.wxredcover.cn/
+46. [🔑]  https://chat.qingting.work
 
-47. [⛔] https://ai.okmiku.com/chat/
+47. [🔑] https://chat.wxredcover.cn/
 
-48. [⛔] https://chat-gpt.nikong.cn/
+48. [⛔] https://ai.okmiku.com/chat/
 
-49. [⛔] https://www.tdchat.com/
+49. [⛔] https://chat-gpt.nikong.cn/
 
-50. [⛔]  http://gitopenchina.gitee.io/chatgpt
+50. [⛔] https://www.tdchat.com/
 
-51. [⛔] https://chatforai.com/
+51. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-52. [⛔] https://ai.okmiku.com/chat/
+52. [⛔] https://chatforai.com/
 
-53. [⛔] https://chatcat.pages.dev/
+53. [⛔] https://ai.okmiku.com/chat/
 
-54. [⛔] https://askgptai.com/
+54. [⛔] https://chatcat.pages.dev/
 
-55. [⛔] https://www.chat2ai.cn/
+55. [⛔] https://ai.yiios.com/
 
-56. [⛔] https://chat.zecoba.cn/
+56. [⛔] https://askgptai.com/
 
-57. [⛔]https://aigcfun.com/
+57. [⛔] https://www.chat2ai.cn/
 
-58. [⛔] https://ai.yiios.com/
+58. [⛔] https://chat.zecoba.cn/
+
+59. [⛔]https://aigcfun.com/
+
+
 
 ### 妙站
 
@@ -252,4 +256,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 09:51:27
+>Last synced:BeiJingT 2023-03-23 10:25:47
