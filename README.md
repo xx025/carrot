@@ -47,6 +47,8 @@
 
 11. [⭐⭐] https://gpt.intercat.cn/
 
+12. http://openmao.com/
+
 12. https://chat2.geekr.dev
 
 13. https://openprompt.co/ChatGPT
@@ -279,4 +281,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 21:51:17
+>Last synced:BeiJingT 2023-03-23 22:05:15
