@@ -40,7 +40,7 @@
 
 8. [⭐⭐] https://www.ftcl.site/
 
-9. [⭐⭐]  https://gpt.h7ml.cn/
+9. [⭐⭐] https://openai.onenov.cn/
 
 10. [⭐⭐] https://chat2.geekr.dev
 
@@ -233,6 +233,8 @@
     <br/>
 23. https://www.askopenai.cn/
     <br/>
+24. https://gpt.h7ml.cn/
+    <br/>
 
 </details>
 
@@ -256,4 +258,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 11:51:18
+>Last synced:BeiJingT 2023-03-23 12:07:06
