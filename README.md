@@ -47,6 +47,8 @@
 
 11. [⭐⭐] https://gpt.intercat.cn/
 
+12. http://openmao.com/
+
 12. https://chat2.geekr.dev
 
 13. https://openprompt.co/ChatGPT
