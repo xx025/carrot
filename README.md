@@ -40,7 +40,7 @@
 
 8. [⭐⭐] https://www.ftcl.site/
 
-9. [⭐⭐]  https://gpt.h7ml.cn/
+9. [⭐⭐] https://openai.onenov.cn/
 
 10. [⭐⭐] https://chat2.geekr.dev
 
@@ -232,6 +232,8 @@
 22. https://chat.moyunav.com/
     <br/>
 23. https://www.askopenai.cn/
+    <br/>
+24. https://gpt.h7ml.cn/
     <br/>
 
 </details>
