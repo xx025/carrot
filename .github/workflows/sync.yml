@@ -32,6 +32,6 @@ jobs:
             echo "No changes to commit. Exiting."
           else
             git add README.md
-            git commit -m "Sync README to mges branch"
+            git commit -m "Sync README to main branch"
             git push origin HEAD:refs/heads/main
           fi
