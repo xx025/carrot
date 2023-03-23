@@ -132,15 +132,17 @@
 
 54. [⛔] https://chatcat.pages.dev/
 
-55. [⛔] https://askgptai.com/
+55. [⛔] https://ai.yiios.com/
 
-56. [⛔] https://www.chat2ai.cn/
+56. [⛔] https://askgptai.com/
 
-57. [⛔] https://chat.zecoba.cn/
+57. [⛔] https://www.chat2ai.cn/
 
-58. [⛔]https://aigcfun.com/
+58. [⛔] https://chat.zecoba.cn/
 
-59. [⛔] https://ai.yiios.com/
+59. [⛔]https://aigcfun.com/
+
+
 
 ### 妙站
 
