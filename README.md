@@ -6,8 +6,7 @@
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
-> <a href="https://xx025.github.io/pages/zs/" target="_blank"><font color="red">
-> 🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
+> <a href="https://loefairy.top/pages/zs" target="_blank"><font color="red">🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
 
 [//]: # (> <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>)
 
@@ -281,4 +280,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 22:32:21
+>Last synced:BeiJingT 2023-03-23 22:41:13
