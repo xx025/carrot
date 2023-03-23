@@ -4,7 +4,7 @@
 
 **发布网站：** https://cc.ai55.cc/   (😃敬请收藏)
 
-**分享站点**、**站点失效**或**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
+**分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
 ><a href="https://xx025.github.io/pages/zs/" target="_blank"><font color="red">🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
 
