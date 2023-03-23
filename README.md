@@ -2,9 +2,9 @@
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
-**发布网站：** https://cc.ai55.cc/   (😃敬请收藏)
+**发布网站：** https://cc.ai55.cc/   (😃敬请收藏和分享)
 
-**分享站点**、**站点失效**或**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
+**分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
 ><a href="https://xx025.github.io/pages/zs/" target="_blank"><font color="red">🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
 
@@ -30,19 +30,19 @@
 
 3. [⭐⭐] https://dev.yqcloud.top/
 
-4. [⭐⭐] https://chat2.geekr.dev
+4. [⭐⭐] https://qachat.cn
 
-5. [⭐⭐] https://qachat.vercel.app
+5. [⭐⭐] https://ai.bo-e.com/
 
-6. [⭐⭐] https://ai.bo-e.com/
+6. [⭐⭐] https://chat2.xeasy.me
 
-7. [⭐⭐] https://chat2.xeasy.me
+7. [⭐⭐] http://newb.site/chatgpt
 
-8. [⭐⭐] http://newb.site/chatgpt
+8. [⭐⭐] https://www.ftcl.site/
 
-9. [⭐⭐] https://www.ftcl.site/
+9. [⭐⭐]  https://gpt.h7ml.cn/
 
-10. [⭐⭐]  https://gpt.h7ml.cn/
+10. [⭐⭐] https://chat2.geekr.dev
 
 11. https://chater.lanyun1103.top
 
@@ -68,37 +68,37 @@
 
 22. https://freechatgpt.chat/
 
-23. https://chatplus.app (客户端应用)
+23. https://desk.im
 
-24. https://desk.im
+24. https://xc.com/
 
-25. https://xc.com/
+25. https://chat.51buygpt.com/
 
-26. https://chat.51buygpt.com/
+26. http://chat.apigpt.cn/
 
-27. http://chat.apigpt.cn/
+27. https://94gpt.com/
 
-28. https://94gpt.com/
+28. https://www.teach-anything.com/
 
-29. https://www.teach-anything.com/
+29. https://trychatgp.com/
 
-30. https://trychatgp.com/
+30. https://ai117.com/
 
-31. https://ai117.com/
+31. http://chat.livepo.top/
 
-32. http://chat.livepo.top/
+32. https://freegpt.cc
 
-33. https://freegpt.cc
+33. https://ai.ls
 
-34. https://ai.ls
+34. https://chat.h7ml.cn/
 
-35. https://chat.h7ml.cn/
+35. https://chatgpt-flutter.h7ml.cn/
 
-36. https://chatgpt-flutter.h7ml.cn/
+36. https://www.aitoolgpt.com/
 
-37. https://www.aitoolgpt.com/
+37. https://chatapi.qload.cn/
 
-38. https://chatapi.qload.cn/
+38. https://chatplus.app (客户端应用)
 
 39. [🔑] https://www.ohmygpt.com/
 
@@ -144,33 +144,35 @@
 
 > 下面这些站点也很有趣
 
-1. [海豚问答] http://zhimachat.com/
+1. [Chat技术问答] https://www.abab123.tk/
 
-2. [编程] https://www.aicodehelper.com/
+2. [海豚问答] http://zhimachat.com/
 
-3. [综合] https://ai-toolbox.codefuture.top/
+3. [编程] https://www.aicodehelper.com/
 
-4. [虚拟女友] https://chilloutai.com/
+4. [综合] https://ai-toolbox.codefuture.top/
 
-5. [文字游戏] https://harry-potter.openai-lab.com
+5. [虚拟女友] https://chilloutai.com/
 
-6. [写故事] https://wordstory.streamlit.app/
+6. [文字游戏] https://harry-potter.openai-lab.com
 
-7. [AI 如来(佛)] https://hotoke.ai/
+7. [写故事] https://wordstory.streamlit.app/
 
-8. [🔑 技术文档助手] https://docsgpt.arc53.com/
+8. [AI 如来(佛)] https://hotoke.ai/
 
-9. [AI 表格助手] https://chatexcel.com/
+9. [🔑 技术文档助手] https://docsgpt.arc53.com/
 
-10. [🔑 AI文秘助手]https://typeset.io/
+10. [AI 表格助手] https://chatexcel.com/
 
-11. [⛔ AI B站总结] https://b.jimmylv.cn/
+11. [🔑 AI文秘助手]https://typeset.io/
 
-12. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+12. [⛔ AI B站总结] https://b.jimmylv.cn/
 
-13. [AI机器人] https://vrtalk.io/
+13. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
-14. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+14. [AI机器人] https://vrtalk.io/
+
+15. [ClueAI] https://www.cluebenchmarks.com/clueai.html
 
 ### 临时失效站点
 
@@ -250,4 +252,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-23 07:51:07
+>Last synced:BeiJingT 2023-03-23 08:32:18
