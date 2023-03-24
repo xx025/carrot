@@ -26,8 +26,6 @@
 
 3. [⭐⭐] https://chat9.yqcloud.top/
 
-4. [⭐⭐] https://qachat.cn
-
 5. [⭐⭐] https://ai.bo-e.com/
 
 6. [⭐⭐] https://chat3.xeasy.me
@@ -257,6 +255,8 @@
 34. https://chat.h7ml.cn/
     <br/>
 35. https://freegpt.cc
+    <br/>
+36. https://qachat.cn/
     <br/>
 
 
