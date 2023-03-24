@@ -30,7 +30,7 @@
 
 5. [⭐⭐] https://ai.bo-e.com/
 
-6. [⭐⭐] https://chat2.xeasy.me
+6. [⭐⭐] https://chat3.xeasy.me
 
 7. [⭐⭐] http://newb.site/chatgpt
 
