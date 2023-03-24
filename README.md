@@ -44,150 +44,147 @@
 
 12. [⭐⭐]https://chat.extnav.com/
 
-12. http://openmao.com/
+13. http://openmao.com/
 
-12. https://chat2.geekr.dev
+14. https://chat2.geekr.dev
 
-13. https://openprompt.co/ChatGPT
+15. https://openprompt.co/ChatGPT
 
-14. https://builtbyjesse.com/lab
+16. https://builtbyjesse.com/lab
 
-15. https://chater.lanyun1103.top
+17. https://chater.lanyun1103.top
 
-16. https://chat.yougan.cc/
+18. https://chat.yougan.cc/
 
-17. https://beta.character.ai/
+19. https://beta.character.ai/
 
-18. https://chat.aigc-model.com/
+20. https://chat.aigc-model.com/
 
-19. https://chat1.wuguokai.top/s/chatgpt
+21. https://chat1.wuguokai.top/s/chatgpt
 
-20. https://chat.wuguokai.cn/s/chatgpt
+22. https://chat.wuguokai.cn/s/chatgpt
 
-21. https://chat.forchange.cn/
+23. https://chat.forchange.cn/
 
-22. http://gitopenchina.gitee.io/gpt
+24. http://gitopenchina.gitee.io/gpt
 
-23. http://gitopenchina.gitee.io/freechatgpt
+25. http://gitopenchina.gitee.io/freechatgpt
 
-24. https://askbot.club/chatgpt/
+26. https://askbot.club/chatgpt/
 
-25. https://gpt.getshare.net/
+27. https://gpt.getshare.net/
 
-26. http://chatai.fyi
+28. http://chatai.fyi
 
-27. https://freechatgpt.chat/
+29. https://freechatgpt.chat/
 
-28. https://xc.com/
+30. https://xc.com/
 
-29. https://chat.51buygpt.com/
+31. https://chat.51buygpt.com/
 
-30. http://chat.apigpt.cn/
+32. http://chat.apigpt.cn/
 
-31. https://94gpt.com/
+33. https://94gpt.com/
 
-32. https://www.teach-anything.com/
+34. https://www.teach-anything.com/
 
-33. https://trychatgp.com/
+35. https://trychatgp.com/
 
-34. https://ai117.com/
+36. https://ai117.com/
 
-35. http://chat.livepo.top/
+37. http://chat.livepo.top/
 
-36. https://freegpt.cc
 
-37. https://chat.h7ml.cn/
+<details>
+  <summary>更多</summary>
 
-38. https://chatplus.app (客户端应用
+1. [🔑] https://chat.service235.tk/
 
-40. [🔑] https://chat.service235.tk/
+2. [🔑] https://vip.jjzn.top/
 
-41. [🔑] https://vip.jjzn.top/
+3. [🔑] https://codenews.cc/chatgpt
 
-42. [🔑] https://codenews.cc/chatgpt
+4. [🔑] https://www.ohmygpt.com/
 
-42. [🔑] https://www.ohmygpt.com/
+5. [🔑] https://www.typingmind.com/
 
-43. [🔑] https://www.typingmind.com/
+6. [🔑] https://www.bz1y.cn/
 
-44. [🔑] https://www.bz1y.cn/
+7. [🔑] https://chat.alpaca-bi.com/
 
-45. [🔑] https://chat.alpaca-bi.com/
+8. [🔑] https://chat.paoying.net/
 
-46. [🔑] https://chat.paoying.net/
+9. [🔑] https://chat.eaten.fun/
 
-47. [🔑] https://chat.eaten.fun/
+10. [🔑]  https://chat.qingting.work
 
-48. [🔑]  https://chat.qingting.work
+11. [🔑] https://chat.wxredcover.cn/
 
-49. [🔑] https://chat.wxredcover.cn/
+12. [⛔] https://tryai.top/freechat
 
-50. [⛔] https://tryai.top/freechat
+13. [⛔] https://chatmindai.com/
 
-51. [⛔] https://chatmindai.com/
+14. [⛔] https://ai.okmiku.com/chat/
 
-52. [⛔] https://ai.okmiku.com/chat/
+15. [⛔] https://www.tdchat.com/
 
-53. [⛔] https://www.tdchat.com/
+16. [⛔]  http://gitopenchina.gitee.io/chatgpt
 
-54. [⛔]  http://gitopenchina.gitee.io/chatgpt
+17. [⛔] https://chatforai.com/
 
-55. [⛔] https://chatforai.com/
+18. [⛔] https://ai.okmiku.com/chat/
 
-56. [⛔] https://ai.okmiku.com/chat/
+19. [⛔] https://chatcat.pages.dev/
 
-57. [⛔] https://chatcat.pages.dev/
+20. [⛔] https://ai.yiios.com/
 
-58. [⛔] https://ai.yiios.com/
+21. [⛔] https://www.chat2ai.cn/
 
-59. [⛔] https://www.chat2ai.cn/
+22. [⛔] https://chat.zecoba.cn/
 
-60. [⛔] https://chat.zecoba.cn/
+23. [⛔]https://aigcfun.com/
 
-61. [⛔]https://aigcfun.com/
+</details>
 
 ### 妙站
 
 > 下面这些站点也很有趣
-> 
+
 1. [周报通] https://zhoubaotong.com/zh
 
-1. [Chat技术问答] https://www.abab123.tk/
+2. [Chat技术问答] https://www.abab123.tk/
 
-2. [海豚问答] http://zhimachat.com/
+3. [Chat客户端] https://chatplus.app
 
-3. [编程] https://www.aicodehelper.com/
+4. [海豚问答] http://zhimachat.com/
 
-4. [综合] https://ai-toolbox.codefuture.top/
+5. [编程] https://www.aicodehelper.com/
 
-5. [虚拟女友] https://chilloutai.com/
+6. [综合] https://ai-toolbox.codefuture.top/
 
-6. [文字游戏] https://harry-potter.openai-lab.com
+7. [虚拟女友] https://chilloutai.com/
 
-7. [写故事] https://wordstory.streamlit.app/
+8. [文字游戏] https://harry-potter.openai-lab.com
 
-8. [AI 如来(佛)] https://hotoke.ai/
+9. [写故事] https://wordstory.streamlit.app/
 
-9. [🔑 技术文档助手] https://docsgpt.arc53.com/
+10. [AI 如来(佛)] https://hotoke.ai/
 
-10. [AI 表格助手] https://chatexcel.com/
+11. [🔑 技术文档助手] https://docsgpt.arc53.com/
 
-11. [🔑 AI文秘助手]https://typeset.io/
+12. [AI 表格助手] https://chatexcel.com/
 
-12. [⛔ AI B站总结] https://b.jimmylv.cn/
+13. [🔑 AI文秘助手]https://typeset.io/
 
-13. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+14. [⛔ AI B站总结] https://b.jimmylv.cn/
 
-14. [AI机器人] https://vrtalk.io/
+15. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
 
-15. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+16. [AI机器人] https://vrtalk.io/
 
-### 临时失效站点
+17. [ClueAI] https://www.cluebenchmarks.com/clueai.html
 
-> 如果以下网站，重新解析或运行服务欢迎告诉我
-
-[//]: # (；因为在首次发现不再运行服务或域名不再解析就会列在这儿，并不知晓其后期更新状况)
-
+### 失效站点
 <details>
   <summary>点击查看详细内容</summary>
 
@@ -257,6 +254,11 @@
     <br/>
 33. https://www.cveoy.com/
     <br/>
+34. https://chat.h7ml.cn/
+    <br/>
+35. https://freegpt.cc
+    <br/>
+
 
 </details>
 
