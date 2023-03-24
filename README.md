@@ -30,7 +30,7 @@
 
 5. [⭐⭐] https://ai.bo-e.com/
 
-6. [⭐⭐] https://chat2.xeasy.me
+6. [⭐⭐] https://chat3.xeasy.me
 
 7. [⭐⭐] http://newb.site/chatgpt
 
@@ -98,9 +98,7 @@
 
 37. https://chat.h7ml.cn/
 
-38. https://chatplus.app (客户端应用)
-
-39. http://chatdsb.com/ 
+38. https://chatplus.app (客户端应用
 
 40. [🔑] https://chat.service235.tk/
 
