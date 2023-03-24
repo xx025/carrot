@@ -109,6 +109,8 @@
 
 41. [🔑] https://vip.jjzn.top/
 
+42. https://codenews.cc/login
+
 42. [🔑] https://www.ohmygpt.com/
 
 43. [🔑] https://www.typingmind.com/
