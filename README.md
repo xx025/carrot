@@ -93,6 +93,8 @@
 
 1.  http://chat.livepo.top/
 
+1.  http://www.tdchat4.com/
+
 
 
 
@@ -149,9 +151,6 @@
     <br />
 
 1. [⛔] https://ai.okmiku.com/chat/
-    <br />
-
-1. [⛔] https://www.tdchat.com/
     <br />
 
 1. [⛔] http://gitopenchina.gitee.io/chatgpt
