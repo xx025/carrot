@@ -151,6 +151,8 @@
 ### 妙站
 
 > 下面这些站点也很有趣
+> 
+1. [周报通] https://zhoubaotong.com/zh
 
 1. [Chat技术问答] https://www.abab123.tk/
 
