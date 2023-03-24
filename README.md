@@ -26,8 +26,6 @@
 
 3. [⭐⭐] https://chat9.yqcloud.top/
 
-4. [⭐⭐] https://qachat.cn
-
 5. [⭐⭐] https://ai.bo-e.com/
 
 6. [⭐⭐] https://chat3.xeasy.me
@@ -258,6 +256,8 @@
     <br/>
 35. https://freegpt.cc
     <br/>
+36. https://qachat.cn/
+    <br/>
 
 
 </details>
@@ -278,4 +278,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-24 19:31:13
+>Last synced:BeiJingT 2023-03-24 19:41:00
