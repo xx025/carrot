@@ -6,7 +6,7 @@
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
-> <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
+> <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗支持我，给你更长久的陪伴：【🧡赞赏🧡】</font></a>
 
 - ⭐:使用不受限
 - 🔑:需要进行**登录**或需要**密码**
@@ -41,6 +41,8 @@
 10. [⭐⭐]http://ai.usesless.com/
 
 11. [⭐⭐] https://gpt.intercat.cn/
+
+12. [⭐⭐]https://chat.extnav.com/
 
 12. http://openmao.com/
 
@@ -103,6 +105,8 @@
 40. [🔑] https://chat.service235.tk/
 
 41. [🔑] https://vip.jjzn.top/
+
+42. [🔑] https://codenews.cc/chatgpt
 
 42. [🔑] https://www.ohmygpt.com/
 
@@ -276,4 +280,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-24 10:51:19
+>Last synced:BeiJingT 2023-03-24 11:06:34
