@@ -24,7 +24,7 @@
 
 2. [🔑⭐] https://poe.com/
 
-3. [⭐⭐] https://dev.yqcloud.top/
+3. [⭐⭐] https://chat9.yqcloud.top/
 
 4. [⭐⭐] https://qachat.cn
 
