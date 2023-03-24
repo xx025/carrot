@@ -102,9 +102,9 @@
   <summary>更多站点</summary>
 
 - 🔑:需要进行**登录**或需要**密码**
-<br/>
+    <br/>
 - ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
-<br/>
+     <br/>
 - ❓ :未测试，未进行标注也为未测试
 
 [//]: # (下面是更多的站点)
@@ -112,70 +112,70 @@
 
 
 1. [🔑] https://chat.service235.tk/
-    <br />
+    <br/>
 
 1. [🔑] https://vip.jjzn.top/
-    <br />
+    <br/>
 
 1. [🔑] https://codenews.cc/chatgpt
-    <br />
+    <br/>
 
 1. [🔑] https://www.ohmygpt.com/
-    <br />
+    <br/>
 
 1. [🔑] https://www.typingmind.com/
-    <br />
+    <br/>
 
 1. [🔑] https://www.bz1y.cn/
-    <br />
+    <br/>
 
 1. [🔑] https://chat.alpaca-bi.com/
-    <br />
+    <br/>
 
 1. [🔑] https://chat.paoying.net/
-    <br />
+    <br/>
 
 1. [🔑] https://chat.eaten.fun/
-    <br />
+    <br/>
 
 1. [🔑] https://chat.qingting.work
-    <br />
+    <br/>
 
 1. [🔑] https://chat.wxredcover.cn/
-    <br />
+    <br/>
 
 1. [⛔] https://tryai.top/freechat
-    <br />
+    <br/>
 
 1. [⛔] https://chatmindai.com/
-    <br />
+    <br/>
 
 1. [⛔] https://ai.okmiku.com/chat/
-    <br />
+    <br/>
 
 1. [⛔] http://gitopenchina.gitee.io/chatgpt
-    <br />
+    <br/>
 
 1. [⛔] https://chatforai.com/
-    <br />
+    <br/>
 
 1. [⛔] https://ai.okmiku.com/chat/
-    <br />
+    <br/>
 
 1. [⛔] https://chatcat.pages.dev/
-    <br />
+    <br/>
 
 1. [⛔] https://ai.yiios.com/
-    <br />
+    <br/>
 
 1. [⛔] https://www.chat2ai.cn/
-    <br />
+    <br/>
 
 1. [⛔] https://chat.zecoba.cn/
-    <br />
+    <br/>
 
 1. [⛔] https://aigcfun.com/
-    <br />
+    <br/>
 
 
 
@@ -188,112 +188,112 @@
 
 
 1.  https://chatmate.network/
-    <br />
+    <br/>
 
 1.  https://freegpt.one/
-    <br />
+    <br/>
 
 1.  https://freechatgpt.lol/
-    <br />
+    <br/>
 
 1.  https://fastgpt.app/
-    <br />
+    <br/>
 
 1.  https://chat.jingran.vip/
-    <br />
+    <br/>
 
 1.  http://itecheasy.com.cn/
-    <br />
+    <br/>
 
 1.  https://chatgpt.ddiu.io/
-    <br />
+    <br/>
 
 1.  https://chat.qingting.work/
-    <br />
+    <br/>
 
 1.  https://chat.aigc-model.com/
-    <br />
+    <br/>
 
 1.  https://chatgpt.poshist.cn/
-    <br />
+    <br/>
 
 1.  https://www.chatsverse.xyz/
-    <br />
+    <br/>
 
 1.  https://ai.v2less.com/
-    <br />
+    <br/>
 
 1.  https://chatgpt.h7ml.cn/
-    <br />
+    <br/>
 
 1.  https://chat.tgbot.co/
-    <br />
+    <br/>
 
 1.  https://chat.ninvfeng.xyz/
-    <br />
+    <br/>
 
 1.  https://talk.xiu.ee/
-    <br />
+    <br/>
 
 1.  https://chat.sheepig.top/
-    <br />
+    <br/>
 
 1.  https://chatgpt.ddiu.me/
-    <br />
+    <br/>
 
 1.  https://chatgpt.lcc8.com/
-    <br />
+    <br/>
 
 1.  https://chat.uue.me/
-    <br />
+    <br/>
 
 1.  http://gpt.mxnf.store/
-    <br />
+    <br/>
 
 1.  https://chat.moyunav.com/
-    <br />
+    <br/>
 
 1.  https://www.askopenai.cn/
-    <br />
+    <br/>
 
 1.  https://gpt.h7ml.cn/
-    <br />
+    <br/>
 
 1.  https://desk.im/
-    <br />
+    <br/>
 
 1.  https://askgptai.com/
-    <br />
+    <br/>
 
 1.  https://www.aitoolgpt.com/
-    <br />
+    <br/>
 
 1.  https://ai.ls/
-    <br />
+    <br/>
 
 1.  https://ai.ls/
-    <br />
+    <br/>
 
 1.  https://chatapi.qload.cn/
-    <br />
+    <br/>
 
 1.  https://chat-gpt.nikong.cn/
-    <br />
+    <br/>
 
 1.  https://chatgpt-flutter.h7ml.cn/
-    <br />
+    <br/>
 
 1.  https://www.cveoy.com/
-    <br />
+    <br/>
 
 1.  https://chat.h7ml.cn/
-    <br />
+    <br/>
 
 1.  https://freegpt.cc
-    <br />
+    <br/>
 
 1.  https://qachat.cn/
-    <br />
+    <br/>
 
 
 </details>
