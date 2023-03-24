@@ -57,8 +57,6 @@
 
 1.  https://beta.character.ai/
 
-1.  https://chat.aigc-model.com/
-
 1.  https://chat1.wuguokai.top/s/chatgpt
 
 1.  https://chat.wuguokai.cn/s/chatgpt
