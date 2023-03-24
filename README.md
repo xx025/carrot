@@ -6,12 +6,7 @@
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)告诉我
 
-> <a href="https://xx025.github.io/pages/zs/" target="_blank"><font color="red">
-> 🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
-
-[//]: # (> <a href="https://xx025.github.io/pages/zs/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>)
-
-[//]: # (<br/>)
+> <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗生活不易，感谢您的支持【🧡赞赏🧡】</font></a>
 
 - ⭐:使用不受限
 - 🔑:需要进行**登录**或需要**密码**
@@ -20,9 +15,9 @@
 
 ## 站点列表
 
-<a href="https://loefairy.top/adurl*" target="_blank"><img src="https://imgs.loefairy.top/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+<a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 
-- [👆http://chatgpt3.icu](https://loefairy.top/adurl*) [ad.]
+- [👆http://chatgpt3.icu](https://cc.ai55.cc/ad) [ad.]
 
 
 1. [⭐⭐] https://theb.ai/
