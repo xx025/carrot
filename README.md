@@ -94,7 +94,7 @@
 
 
 <details>
-  <summary>更多</summary>
+  <summary>更多站点</summary>
 
 1. [🔑] https://chat.service235.tk/
 
@@ -144,47 +144,8 @@
 
 </details>
 
-### 妙站
-
-> 下面这些站点也很有趣
-
-1. [周报通] https://zhoubaotong.com/zh
-
-2. [Chat技术问答] https://www.abab123.tk/
-
-3. [Chat客户端] https://chatplus.app
-
-4. [海豚问答] http://zhimachat.com/
-
-5. [编程] https://www.aicodehelper.com/
-
-6. [综合] https://ai-toolbox.codefuture.top/
-
-7. [虚拟女友] https://chilloutai.com/
-
-8. [文字游戏] https://harry-potter.openai-lab.com
-
-9. [写故事] https://wordstory.streamlit.app/
-
-10. [AI 如来(佛)] https://hotoke.ai/
-
-11. [🔑 技术文档助手] https://docsgpt.arc53.com/
-
-12. [AI 表格助手] https://chatexcel.com/
-
-13. [🔑 AI文秘助手]https://typeset.io/
-
-14. [⛔ AI B站总结] https://b.jimmylv.cn/
-
-15. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
-
-16. [AI机器人] https://vrtalk.io/
-
-17. [ClueAI] https://www.cluebenchmarks.com/clueai.html
-
-### 失效站点
 <details>
-  <summary>点击查看详细内容</summary>
+  <summary>失效站点</summary>
 
 1. https://chatmate.network/
    <br/>
@@ -261,6 +222,45 @@
 
 
 </details>
+
+### 妙站
+
+> 下面这些站点也很有趣
+
+1. [周报通] https://zhoubaotong.com/zh
+
+2. [Chat技术问答] https://www.abab123.tk/
+
+3. [Chat客户端] https://chatplus.app
+
+4. [海豚问答] http://zhimachat.com/
+
+5. [编程] https://www.aicodehelper.com/
+
+6. [综合] https://ai-toolbox.codefuture.top/
+
+7. [虚拟女友] https://chilloutai.com/
+
+8. [文字游戏] https://harry-potter.openai-lab.com
+
+9. [写故事] https://wordstory.streamlit.app/
+
+10. [AI 如来(佛)] https://hotoke.ai/
+
+11. [🔑 技术文档助手] https://docsgpt.arc53.com/
+
+12. [AI 表格助手] https://chatexcel.com/
+
+13. [🔑 AI文秘助手]https://typeset.io/
+
+14. [⛔ AI B站总结] https://b.jimmylv.cn/
+
+15. [BaiDu 文心一言] https://yiyan.baidu.com/welcome
+
+16. [AI机器人] https://vrtalk.io/
+
+17. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+
 
 ### 欢迎补充
 
