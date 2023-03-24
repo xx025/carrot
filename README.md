@@ -47,6 +47,8 @@
 
 11. [⭐⭐] https://gpt.intercat.cn/
 
+12. [⭐⭐]https://chat.extnav.com/
+
 12. http://openmao.com/
 
 12. https://chat2.geekr.dev
@@ -109,7 +111,7 @@
 
 41. [🔑] https://vip.jjzn.top/
 
-42. https://codenews.cc/login
+42. [🔑] https://codenews.cc/chatgpt
 
 42. [🔑] https://www.ohmygpt.com/
 
