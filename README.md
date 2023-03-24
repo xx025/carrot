@@ -57,23 +57,15 @@
 
 1.  https://beta.character.ai/
 
-1.  https://chat.aigc-model.com/
-
 1.  https://chat1.wuguokai.top/s/chatgpt
 
 1.  https://chat.wuguokai.cn/s/chatgpt
 
 1.  https://chat.forchange.cn/
 
-1.  http://gitopenchina.gitee.io/gpt
-
-1.  http://gitopenchina.gitee.io/freechatgpt
-
 1.  https://askbot.club/chatgpt/
 
 1.  https://gpt.getshare.net/
-
-1.  http://chatai.fyi
 
 1.  https://freechatgpt.chat/
 
@@ -144,6 +136,12 @@
 1. [🔑] https://chat.wxredcover.cn/
     <br/>
 
+1. [⛔] http://gitopenchina.gitee.io/gpt
+    <br/>
+
+1. [⛔] http://gitopenchina.gitee.io/freechatgpt
+    <br/>
+
 1. [⛔] https://tryai.top/freechat
     <br/>
 
@@ -151,9 +149,6 @@
     <br/>
 
 1. [⛔] https://ai.okmiku.com/chat/
-    <br/>
-
-1. [⛔] http://gitopenchina.gitee.io/chatgpt
     <br/>
 
 1. [⛔] https://chatforai.com/
@@ -186,6 +181,9 @@
 <details>
   <summary>失效站点</summary>
 
+
+1.  http://chatai.fyi
+    <br/>
 
 1.  https://chatmate.network/
     <br/>
@@ -356,4 +354,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-24 21:51:03
+>Last synced:BeiJingT 2023-03-24 22:04:56
