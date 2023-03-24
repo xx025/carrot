@@ -65,15 +65,9 @@
 
 1.  https://chat.forchange.cn/
 
-1.  http://gitopenchina.gitee.io/gpt
-
-1.  http://gitopenchina.gitee.io/freechatgpt
-
 1.  https://askbot.club/chatgpt/
 
 1.  https://gpt.getshare.net/
-
-1.  http://chatai.fyi
 
 1.  https://freechatgpt.chat/
 
@@ -144,6 +138,12 @@
 1. [🔑] https://chat.wxredcover.cn/
     <br/>
 
+1. [⛔] http://gitopenchina.gitee.io/gpt
+    <br/>
+
+1. [⛔] http://gitopenchina.gitee.io/freechatgpt
+    <br/>
+
 1. [⛔] https://tryai.top/freechat
     <br/>
 
@@ -151,9 +151,6 @@
     <br/>
 
 1. [⛔] https://ai.okmiku.com/chat/
-    <br/>
-
-1. [⛔] http://gitopenchina.gitee.io/chatgpt
     <br/>
 
 1. [⛔] https://chatforai.com/
@@ -186,6 +183,9 @@
 <details>
   <summary>失效站点</summary>
 
+
+1.  http://chatai.fyi
+    <br/>
 
 1.  https://chatmate.network/
     <br/>
