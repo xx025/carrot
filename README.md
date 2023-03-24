@@ -24,7 +24,7 @@
 
 2. [🔑⭐] https://poe.com/
 
-3. [⭐⭐] https://dev.yqcloud.top/
+3. [⭐⭐] https://chat9.yqcloud.top/
 
 4. [⭐⭐] https://qachat.cn
 
@@ -149,6 +149,8 @@
 ### 妙站
 
 > 下面这些站点也很有趣
+> 
+1. [周报通] https://zhoubaotong.com/zh
 
 1. [Chat技术问答] https://www.abab123.tk/
 
@@ -274,4 +276,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-24 18:51:01
+>Last synced:BeiJingT 2023-03-24 19:03:25
