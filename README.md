@@ -98,9 +98,7 @@
 
 37. https://chat.h7ml.cn/
 
-38. https://chatplus.app (客户端应用)
-
-39. http://chatdsb.com/ 
+38. https://chatplus.app (客户端应用
 
 40. [🔑] https://chat.service235.tk/
 
