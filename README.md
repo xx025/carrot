@@ -48,39 +48,41 @@
 
 13. [⭐⭐] https://chat3.geekr.dev
 
-14.  https://openprompt.co/ChatGPT
+14. [⭐⭐] https://qachat.cc
 
-15.  https://builtbyjesse.com/lab
+15.  https://openprompt.co/ChatGPT
 
-16.  https://chater.lanyun1103.top
+16.  https://builtbyjesse.com/lab
 
-17.  https://chat.yougan.cc/
+17.  https://chater.lanyun1103.top
 
-18.  https://beta.character.ai/
+18.  https://chat.yougan.cc/
 
-19.  https://chat1.wuguokai.top/s/chatgpt
+19.  https://beta.character.ai/
 
-20.  https://chat.wuguokai.cn/s/chatgpt
+20.  https://chat1.wuguokai.top/s/chatgpt
 
-21.  https://gpt.getshare.net/
+21.  https://chat.wuguokai.cn/s/chatgpt
 
-22.  https://xc.com/
+22.  https://gpt.getshare.net/
 
-23.  https://chat.51buygpt.com/
+23.  https://xc.com/
 
-24.  https://94gpt.com/
+24.  https://chat.51buygpt.com/
 
-25.  https://www.teach-anything.com/
+25.  https://94gpt.com/
 
-26.  https://trychatgp.com/
+26.  https://www.teach-anything.com/
 
-27.  https://ai117.com/
+27.  https://trychatgp.com/
 
-28.  http://chat.livepo.top/
+28.  https://ai117.com/
 
-29.  http://www.tdchat.vip/ 
+29.  http://chat.livepo.top/
 
-30.  http://175.178.88.119/
+30.  http://www.tdchat.vip/ 
+
+31.  http://175.178.88.119/
 
 
 
@@ -287,9 +289,6 @@
     <br/>
 
 36.  https://freegpt.cc
-    <br/>
-
-37.  https://qachat.cn/
     <br/>
 
 
