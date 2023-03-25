@@ -50,37 +50,39 @@
 
 14. [⭐⭐] https://qachat.cc
 
-15.  https://openprompt.co/ChatGPT
+15. [⭐⭐] https://chat3.xeasy.me
 
-16.  https://builtbyjesse.com/lab
+16.  https://openprompt.co/ChatGPT
 
-17.  https://chater.lanyun1103.top
+17.  https://builtbyjesse.com/lab
 
-18.  https://beta.character.ai/
+18.  https://chater.lanyun1103.top
 
-19.  https://chat1.wuguokai.top/s/chatgpt
+19.  https://beta.character.ai/
 
-20.  https://chat.wuguokai.cn/s/chatgpt
+20.  https://chat1.wuguokai.top/s/chatgpt
 
-21.  https://gpt.getshare.net/
+21.  https://chat.wuguokai.cn/s/chatgpt
 
-22.  https://xc.com/
+22.  https://gpt.getshare.net/
 
-23.  https://chat.51buygpt.com/
+23.  https://xc.com/
 
-24.  https://94gpt.com/
+24.  https://chat.51buygpt.com/
 
-25.  https://www.teach-anything.com/
+25.  https://94gpt.com/
 
-26.  https://trychatgp.com/
+26.  https://www.teach-anything.com/
 
-27.  https://ai117.com/
+27.  https://trychatgp.com/
 
-28.  http://chat.livepo.top/
+28.  https://ai117.com/
 
-29.  http://www.tdchat.vip/ 
+29.  http://chat.livepo.top/
 
-30.  http://175.178.88.119/
+30.  http://www.tdchat.vip/ 
+
+31.  http://175.178.88.119/
 
 
 
@@ -352,4 +354,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-25 13:51:08
+>Last synced:BeiJingT 2023-03-25 14:07:14
