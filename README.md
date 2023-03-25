@@ -76,11 +76,11 @@
 
 27.  https://ai117.com/
 
-28.  http://chat.livepo.top/
+28.  http://www.tdchat.vip/ 
 
-29.  http://www.tdchat.vip/ 
+29.  http://175.178.88.119/
 
-30.  http://175.178.88.119/
+30. http://chat.livepo.top/
 
 
 
