@@ -34,7 +34,7 @@
 
 6. [⭐⭐] http://newb.site/chatgpt
 
-7. [⭐⭐] https://www.ftcl.site/
+7. [⭐⭐] https://www.ftcl.store/
 
 8. [⭐⭐] https://openai.onenov.cn/
 
