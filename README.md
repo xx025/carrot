@@ -85,7 +85,7 @@
 
 32.  https://ai.ci
 
-33.  http://43.156.110.219:3002/ 密码:openai
+33. [密码:openai] http://43.156.110.219:3002/ 
 
 
 
@@ -193,7 +193,7 @@
 2.  https://chat.yougan.cc/
     <br/>
 
-3.  http://chatai.fyi
+3.  http://chatai.fyi/
     <br/>
 
 4.  http://chat.apigpt.cn/
@@ -358,4 +358,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-26 15:51:13
+>Last synced:BeiJingT 2023-03-26 16:07:11
