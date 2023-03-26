@@ -45,11 +45,11 @@
 
 12. [⭐⭐] https://qachat.cc
 
-13. [⭐⭐] https://chat3.xeasy.me
+13. [⭐⭐] https://www.aiai.zone
 
-14. [⭐⭐] https://www.aiai.zone
+14. [⭐⭐] https://chat3.xeasy.me
 
-15.  https://chat.wobcw.com/
+15. [⭐⭐] https://chat.wobcw.com/
 
 16.  https://openprompt.co/ChatGPT
 
@@ -356,4 +356,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-26 14:25:03
+>Last synced:BeiJingT 2023-03-26 14:32:44
