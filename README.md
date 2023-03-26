@@ -9,7 +9,6 @@
 > <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗支持我，给你更长久的陪伴：【🧡赞赏🧡】</font></a>
 
 <br/>
-
 <a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 
 - [👆http://chatgpt3.icu](https://cc.ai55.cc/ad) [ad.]
@@ -48,41 +47,37 @@
 
 13.  https://openprompt.co/ChatGPT
 
-14.  https://builtbyjesse.com/lab
+14.  https://chater.lanyun1103.top
 
-15.  https://chater.lanyun1103.top
+15.  https://beta.character.ai/
 
-16.  https://beta.character.ai/
+16.  https://chat1.wuguokai.top/s/chatgpt
 
-17.  https://chat1.wuguokai.top/s/chatgpt
+17.  https://chat.wuguokai.cn/s/chatgpt
 
-18.  https://chat.wuguokai.cn/s/chatgpt
+18.  https://gpt.getshare.net/
 
-19.  https://gpt.getshare.net/
+19.  https://xc.com/
 
-20.  https://xc.com/
+20.  https://94gpt.com/
 
-21.  https://chat.51buygpt.com/
+21.  https://www.teach-anything.com/
 
-22.  https://94gpt.com/
+22.  https://trychatgp.com/
 
-23.  https://www.teach-anything.com/
+23.  https://ai117.com/
 
-24.  https://trychatgp.com/
+24.  http://chat.livepo.top/
 
-25.  https://ai117.com/
+25.  http://www.tdchat.vip/ 
 
-26.  http://chat.livepo.top/
+26.  https://desk.im/
 
-27.  http://www.tdchat.vip/ 
+27.  https://ai.ls/
 
-28.  https://desk.im/
+28.  http://175.178.88.119/
 
-29.  https://ai.ls/
-
-30.  http://175.178.88.119/
-
-31.  https://ai.ci
+29.  https://ai.ci
 
 
 
@@ -94,14 +89,12 @@
     <br/>
 - ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
      <br/>
-- ❓ :未测试，未进行标注也为未测试
-     <br/>
 
 [//]: # ( &#40;下面是更多的站点&#41;)
 
 
 
-1. [🔑] http://newb.site/chatgpt
+1. [🔑] https://builtbyjesse.com/lab
     <br/>
 
 2. [🔑] https://chat.service235.tk/
@@ -131,43 +124,49 @@
 10. [🔑] https://chat.wxredcover.cn/
     <br/>
 
-11. [⛔] https://chat.forchange.cn/
+11. [⛔] http://newb.site/chatgpt
     <br/>
 
-12. [⛔] http://gitopenchina.gitee.io/gpt
+12. [⛔] https://chat.forchange.cn/
     <br/>
 
-13. [⛔] http://gitopenchina.gitee.io/freechatgpt
+13. [⛔] http://gitopenchina.gitee.io/gpt
     <br/>
 
-14. [⛔] https://freechatgpt.chat/
+14. [⛔] http://gitopenchina.gitee.io/freechatgpt
     <br/>
 
-15. [⛔] https://tryai.top/freechat
+15. [⛔] https://freechatgpt.chat/
     <br/>
 
-16. [⛔] https://chatmindai.com/
+16. [⛔] https://chat.51buygpt.com/
     <br/>
 
-17. [⛔] https://ai.okmiku.com/chat/
+17. [⛔] https://tryai.top/freechat
     <br/>
 
-18. [⛔] https://chatforai.com/
+18. [⛔] https://chatmindai.com/
     <br/>
 
-19. [⛔] https://chatcat.pages.dev/
+19. [⛔] https://ai.okmiku.com/chat/
     <br/>
 
-20. [⛔] https://ai.yiios.com/
+20. [⛔] https://chatforai.com/
     <br/>
 
-21. [⛔] https://www.chat2ai.cn/
+21. [⛔] https://chatcat.pages.dev/
     <br/>
 
-22. [⛔] https://chat.zecoba.cn/
+22. [⛔] https://ai.yiios.com/
     <br/>
 
-23. [⛔] https://aigcfun.com/
+23. [⛔] https://www.chat2ai.cn/
+    <br/>
+
+24. [⛔] https://chat.zecoba.cn/
+    <br/>
+
+25. [⛔] https://aigcfun.com/
     <br/>
 
 
@@ -351,4 +350,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-26 10:36:02
+>Last synced:BeiJingT 2023-03-26 10:51:17
