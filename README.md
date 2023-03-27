@@ -31,25 +31,25 @@
 
 5. [⭐⭐] https://chat4.xeasy.me
 
-6. [⭐⭐] https://www.ftcl.site/
+6. [⭐⭐] http://ai.usesless.com/
 
-7. [⭐⭐] http://ai.usesless.com/
+7. [⭐⭐] https://gpt.intercat.cn/
 
-8. [⭐⭐] https://gpt.intercat.cn/
+8. [⭐⭐] https://chat.extnav.com/
 
-9. [⭐⭐] https://chat.extnav.com/
+9. [⭐⭐] http://openmao.com/
 
-10. [⭐⭐] http://openmao.com/
+10. [⭐⭐] https://chat3.geekr.dev
 
-11. [⭐⭐] https://chat3.geekr.dev
+11. [⭐⭐] https://qachat.cc
 
-12. [⭐⭐] https://qachat.cc
+12. [⭐⭐] https://www.aiai.zone
 
-13. [⭐⭐] https://www.aiai.zone
+13. [⭐⭐] https://chat3.xeasy.me
 
-14. [⭐⭐] https://chat3.xeasy.me
+14. [⭐⭐] https://chat.wobcw.com/
 
-15. [⭐⭐] https://chat.wobcw.com/
+15.  https://www.ftcl.store/
 
 16.  https://openprompt.co/ChatGPT
 
@@ -358,4 +358,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-27 08:31:21
+>Last synced:BeiJingT 2023-03-27 09:50:52
