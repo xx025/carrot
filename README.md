@@ -9,9 +9,9 @@
 > <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗支持我，给你更长久的陪伴：【🧡赞赏🧡】</font></a>
 
 <br/>
-<a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
+<a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="https://openai3.xyz" style="height: 80px !important;width: auto !important;" ></a>
 
-- [👆http://chatgpt3.icu](https://cc.ai55.cc/ad) [ad.]
+- [👆https://openai3.xyz](https://cc.ai55.cc/ad) [ad.]
 
 
 ### 站点列表
@@ -50,99 +50,99 @@
 
 12. [⭐⭐] https://desk.im/
 
-13.  https://openprompt.co/ChatGPT
+13.  http://chat.livepo.top/
 
-14.  https://ai.ci
+14.  https://beta.character.ai/
 
-15.  https://beta.character.ai/
+15.  http://ai.jjzn.top/
 
 16.  http://175.178.88.119/
 
-17.  https://www.teach-anything.com/
+17.  https://www.ftcl.store/
 
-18.  https://94gpt.com/
+18.  https://xc.com/
 
-19.  http://chat.livepo.top/
+19.  https://gpt.getshare.net/
 
-20.  https://gpt.getshare.net/
+20.  https://www.teach-anything.com/
 
-21.  https://chat.wuguokai.cn/s/chatgpt
+21. [密码:openai] http://43.156.110.219:3002/ 
 
-22. [可尝试GPT4] http://www.tdchat.vip/ 
+22.  https://94gpt.com/
 
-23.  https://chat1.wuguokai.top/s/chatgpt
+23.  https://openprompt.co/ChatGPT
 
-24.  https://www.ftcl.store/
+24.  https://chat1.wuguokai.top/s/chatgpt
 
-25. [密码:openai] http://43.156.110.219:3002/ 
+25.  https://ai.ci
 
-26.  http://ai.jjzn.top/
+26.  https://chat.wuguokai.cn/s/chatgpt
 
-27.  https://xc.com/
+27. [可尝试GPT4] http://www.tdchat.vip/ 
 
-28. [⛔] https://chatforai.com/
+28. [🔑] https://www.bz1y.cn/
 
-29. [⛔] https://tryai.top/freechat
+29. [⛔] https://chatcat.pages.dev/
 
-30. [🔑] https://chat.alpaca-bi.com/
+30. [🔑] https://gpt.clashus.com/
 
-31. [⛔] https://ai117.com/
+31. [🔑] https://chat.service235.tk/
 
-32. [🔑] https://codenews.cc/chatgpt
+32. [⛔] http://gitopenchina.gitee.io/gpt
 
-33. [⛔] https://chat.forchange.cn/
+33. [⛔] https://ai117.com/
 
-34. [🔑] https://www.bz1y.cn/
+34. [⛔] https://trychatgp.com/
 
-35. [⛔] https://chatcat.pages.dev/
+35. [⛔] https://chat.zecoba.cn/
 
-36. [⛔] https://freechatgpt.chat/
+36. [🔑] https://gpt.intercat.cn/
 
-37. [🔑] https://www.ohmygpt.com/
+37. [🔑] https://builtbyjesse.com/lab
 
-38. [⛔] http://gitopenchina.gitee.io/gpt
+38. [🔑] https://chat.wxredcover.cn/
 
-39. [🔑] https://gpt.clashus.com/
+39. [🔑] https://www.ohmygpt.com/
 
-40. [🔑] https://chat.paoying.net/
+40. [⛔] https://chat.extnav.com/
 
-41. [⛔] https://aigcfun.com/
+41. [⛔] https://chatmindai.com/
 
-42. [⛔] https://chatmindai.com/
+42. [⛔] https://chat.51buygpt.com/
 
-43. [⛔] https://www.chat2ai.cn/
+43. [🔑] https://chat.alpaca-bi.com/
 
-44. [🔑] https://builtbyjesse.com/lab
+44. [⛔] https://ai.okmiku.com/chat/
 
-45. [🔑] https://gpt.intercat.cn/
+45. [🔑] https://chat.eaten.fun/
 
-46. [🔑] https://chat4.xeasy.me/
+46. [⛔] https://chat.forchange.cn/
 
-47. [🔑] https://chat.eaten.fun/
+47. [⛔] https://chat35.com/
 
-48. [⛔] https://chat35.com/
+48. [🔑] https://chat.paoying.net/
 
-49. [🔑] https://chat.service235.tk/
+49. [⛔] http://newb.site/chatgpt
 
-50. [🔑] https://www.typingmind.com/
+50. [⛔] https://ai.yiios.com/
 
-51. [⛔] https://chat.extnav.com/
+51. [⛔] https://freechatgpt.chat/
 
-52. [⛔] http://newb.site/chatgpt
+52. [🔑] https://chat4.xeasy.me/
 
-53. [⛔] https://ai.yiios.com/
+53. [⛔] http://gitopenchina.gitee.io/freechatgpt
 
-54. [⛔] http://gitopenchina.gitee.io/freechatgpt
+54. [⛔] https://tryai.top/freechat
 
-55. [⛔] https://chat.51buygpt.com/
+55. [🔑] https://www.typingmind.com/
 
-56. [⛔] https://ai.okmiku.com/chat/
+56. [🔑] https://codenews.cc/chatgpt
 
-57. [⛔] https://trychatgp.com/
+57. [⛔] https://chatforai.com/
 
-58. [⛔] https://chat.zecoba.cn/
+58. [⛔] https://www.chat2ai.cn/
 
-59. [🔑] https://chat.wxredcover.cn/
+59. [⛔] https://aigcfun.com/
 
 
 
@@ -341,4 +341,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果下方时间已经晚于当前时间1h ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
 
->Last synced:BeiJingT 2023-03-28 08:56:45
+>Last synced:BeiJingT 2023-03-28 09:53:13
