@@ -148,6 +148,7 @@
 
 61. [⛔] https://aigcfun.com/
 
+62. [⭐] http://chat.forwardminded.xyz/
 
 
 [//]: # (下面是失效的站点)
