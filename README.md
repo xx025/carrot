@@ -40,123 +40,121 @@
 
 6. [⭐⭐] https://free.anzz.top/
 
-7. [⭐⭐🛫] https://www.askme.mom/
+7. [⭐⭐🛫] https://www.aiai.zone
 
-8. [⭐⭐🛫] https://www.aiai.zone
+8. [⭐⭐] https://chat8.xeasy.me
 
-9. [⭐⭐] https://chat8.xeasy.me
+9. [⭐⭐] https://chat.wobcw.com/
 
-10. [⭐⭐] https://chat.wobcw.com/
+10. [⭐⭐🛫] https://ai.ls/
 
-11. [⭐⭐🛫] https://ai.ls/
+11. [⭐⭐🛫] https://desk.im/
 
-12. [⭐⭐🛫] https://desk.im/
+12. [⭐⭐🛫] https://freegpt.one/
 
-13. [⭐⭐🛫] https://freegpt.one/
+13. [⭐⭐] https://aka.mydog.buzz
 
-14. [⭐⭐] https://aka.mydog.buzz
+14. [🛫] https://chat5.xeasy.me/
 
-15.  https://chat1.wuguokai.top/s/chatgpt
+15. [🛫] https://openprompt.co/ChatGPT
 
-16. [🛫] https://94gpt.com/
+16.  https://chat.wuguokai.cn/s/chatgpt
 
-17.  https://chat.wuguokai.cn/s/chatgpt
+17. [可尝试GPT4] http://www.tdchat.vip/
 
-18. [🛫] https://chat5.xeasy.me/
+18. [🛫] https://ai.ci
 
-19. [🛫] https://xc.com/
+19. [🛫] https://94gpt.com/
 
-20. [🛫] https://www.teach-anything.com/
+20. [🛫] http://ai.jjzn.top/
 
-21. [🛫] https://gpt.getshare.net/
+21.  http://chat.livepo.top/
 
-22. [🛫] https://ai.ci
+22. [🛫] https://gpt.getshare.net/
 
-23.  http://chat.livepo.top/
+23. [🛫] https://www.teach-anything.com/
 
-24. [🛫] https://openprompt.co/ChatGPT
+24.  http://175.178.88.119/
 
-25. [🛫] http://ai.jjzn.top/
+25. [🛫] https://beta.character.ai/
 
-26. [🛫] https://www.ftcl.store/
+26.  http://chat.forwardminded.xyz/#/
 
-27.  http://chat.forwardminded.xyz/#/
+27. [🛫] https://www.ftcl.store/
 
-28. [可尝试GPT4] http://www.tdchat.vip/
+28.  https://chat1.wuguokai.top/s/chatgpt
 
-29. [🛫] https://beta.character.ai/
+29. [🛫] https://xc.com/
 
-30.  http://175.178.88.119/
+30. [⛔🛫] https://chat35.com/
 
-31. [⛔🛫] https://chatcat.pages.dev/
+31. [⛔🛫] https://openai.onenov.cn/
 
-32. [🔑] https://chat.alpaca-bi.com/
+32. [🔑🛫] https://chat.wxredcover.cn/
 
-33. [🔑🛫] https://www.ohmygpt.com/
+33. [⛔🛫] https://tryai.top/freechat
 
-34. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+34. [🔑] https://www.bz1y.cn/
 
-35. [🔑🛫] https://builtbyjesse.com/lab
+35. [⛔🛫] https://ai.okmiku.com/chat/
 
 36. [🔑] https://codenews.cc/chatgpt
 
-37. [⛔] https://aigcfun.com/
+37. [🔑] https://chat.eaten.fun/
 
-38. [⛔] https://chat.extnav.com/
+38. [⛔🛫] https://chatforai.com/
 
-39. [⛔🛫] https://trychatgp.com/
+39. [🔑🛫] https://www.ohmygpt.com/
 
-40. [🔑] https://chat.opengpt88.com/
+40. [⛔🛫] https://ai117.com/
 
-41. [🔑🛫] https://www.typingmind.com/
+41. [⛔] https://chat.forchange.cn/
 
-42. [⛔] https://litechat.22733.site/
+42. [⛔🛫] http://gitopenchina.gitee.io/gpt
 
-43. [⛔] https://www.chat2ai.cn/
+43. [⛔🛫] https://chatmindai.com/
 
-44. [⛔🛫] https://freechatgpt.chat/
+44. [⛔🛫] https://chat.51buygpt.com/
 
-45. [⛔🛫] https://chatforai.com/
+45. [⛔] https://aigcfun.com/
 
-46. [⛔] https://chat.zecoba.cn/
+46. [⛔🛫] https://chat.topsearcher.top/
 
 47. [🔑🛫] https://gpt.clashus.com/
 
-48. [⛔🛫] https://ai.okmiku.com/chat/
+48. [🔑] https://chat.opengpt88.com/
 
-49. [⛔🛫] https://tryai.top/freechat
+49. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
 
-50. [🔑] https://chat.eaten.fun/
+50. [⛔🛫] https://trychatgp.com/
 
-51. [⛔🛫] https://chat.51buygpt.com/
+51. [🔑] https://chat.alpaca-bi.com/
 
-52. [⛔🛫] http://gitopenchina.gitee.io/gpt
+52. [⛔] https://litechat.22733.site/
 
-53. [⛔🛫] https://ai.yiios.com/
+53. [🔑🛫] https://gpt.intercat.cn/
 
-54. [⛔🛫] http://newb.site/chatgpt
+54. [⛔] https://www.chat2ai.cn/
 
-55. [🔑] https://www.bz1y.cn/
+55. [🔑] https://chat.paoying.net/
 
-56. [🔑🛫] https://chat.wxredcover.cn/
+56. [⛔] https://chat.sunls.me/
 
-57. [⛔🛫] https://chat.topsearcher.top/
+57. [⛔🛫] https://freechatgpt.chat/
 
-58. [⛔🛫] https://chat35.com/
+58. [🔑🛫] https://builtbyjesse.com/lab
 
-59. [🔑🛫] https://gpt.intercat.cn/
+59. [🔑🛫] https://www.typingmind.com/
 
-60. [🔑] https://chat.paoying.net/
+60. [⛔🛫] https://ai.yiios.com/
 
-61. [⛔] https://chat.sunls.me/
+61. [⛔] https://chat.zecoba.cn/
 
-62. [⛔] https://chat.forchange.cn/
+62. [⛔] https://chat.extnav.com/
 
-63. [⛔🛫] https://openai.onenov.cn/
+63. [⛔🛫] http://newb.site/chatgpt
 
-64. [⛔🛫] https://ai117.com/
-
-65. [⛔🛫] https://chatmindai.com/
+64. [⛔🛫] https://chatcat.pages.dev/
 
 
 
@@ -283,6 +281,9 @@
 39.  http://43.156.110.219:3002/ 
 <br/>
 
+40.  https://www.askme.mom/
+<br/>
+
 
 </details>
 
@@ -369,4 +370,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月01日 19点17分
+> 最后更新: 2023年04月01日 19点45分
