@@ -56,113 +56,115 @@
 
 14. [⭐⭐] https://greengpt.app/
 
-15. [⭐⭐] https://chat.extkj.cn/
+15. [⭐⭐] https://ai.ov.cm/
 
-16. [⭐⭐] https://chatgpt35.theinspiredgroup.com
+16. [⭐⭐] https://chat.extkj.cn/
 
-17.  https://cool-js.com/ai/chat/index.html
+17. [⭐⭐] https://chatgpt35.theinspiredgroup.com
 
-18.  https://chat.tig.im/
+18.  https://cool-js.com/ai/chat/index.html
 
-19.  https://chat.wuguokai.cn/s/chatgpt
+19.  https://chat.tig.im/
 
 20. [可尝试GPT4] http://www.tdchat.vip/
 
-21.  http://175.178.88.119/
+21. [🛫] https://www.ftcl.store/
 
-22. [🛫] https://gpt.getshare.net/
+22. [🛫] https://xc.com/
 
-23. [🛫] https://94gpt.com/
+23. [🛫] https://gpt.getshare.net/
 
-24.  http://chat.forwardminded.xyz/#/
+24. [🛫] https://ai.ci
 
-25. [🛫] https://openprompt.co/ChatGPT
+25.  http://chat.livepo.top/
 
-26. [🛫] https://www.teach-anything.com/
+26. [🛫] http://ai.jjzn.top/
 
-27. [🛫] https://www.ftcl.store/
+27.  https://chat.wuguokai.cn/s/chatgpt
 
-28.  https://chat1.wuguokai.top/s/chatgpt
+28.  http://chat.forwardminded.xyz/#/
 
-29.  http://chat.livepo.top/
+29.  http://175.178.88.119/
 
-30. [🛫] http://ai.jjzn.top/
+30. [🛫] https://beta.character.ai/
 
-31. [🛫] https://beta.character.ai/
+31. [🛫] https://94gpt.com/
 
-32. [🛫] https://xc.com/
+32.  https://chat1.wuguokai.top/s/chatgpt
 
-33. [🛫] https://ai.ci
+33. [🛫] https://openprompt.co/ChatGPT
 
-34. [🔑] https://chat.eaten.fun/
+34. [🛫] https://www.teach-anything.com/
 
-35. [⛔] https://chat.forchange.cn/
+35. [⛔🛫] https://freechatgpt.chat/
 
-36. [⛔🛫] https://chatforai.com/
+36. [⛔] https://chat.zecoba.cn/
 
 37. [🔑🛫] https://gpt.intercat.cn/
 
-38. [🔑] https://codenews.cc/chatgpt
+38. [⛔] https://www.chat2ai.cn/
 
-39. [⛔🛫] https://chatmindai.com/
+39. [🔑] https://chat.wxredcover.cn/
 
-40. [⛔] https://chat.zecoba.cn/
+40. [⛔🛫] http://newb.site/chatgpt
 
-41. [🔑] https://chat.wxredcover.cn/
+41. [🔑🛫] https://gpt.clashus.com/
 
-42. [⛔🛫] http://newb.site/chatgpt
+42. [⛔🛫] https://chatcat.pages.dev/
 
-43. [⛔🛫] https://ai117.com/
+43. [⛔] https://aigcfun.com/
 
-44. [⛔🛫] https://chat35.com/
+44. [🔑] https://codenews.cc/chatgpt
 
-45. [⛔] https://aigcfun.com/
+45. [⛔🛫] https://ai117.com/
 
-46. [⛔🛫] https://chat.topsearcher.top/
+46. [⛔] https://chat.sunls.me/
 
-47. [🔑] https://builtbyjesse.com/lab
+47. [🔑] https://chat.opengpt88.com/
 
-48. [⛔🛫] https://freechatgpt.chat/
+48. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
 
-49. [🔑] https://chat.opengpt88.com/
+49. [⛔🛫] https://chat.topsearcher.top/
 
-50. [⛔] https://chat.sunls.me/
+50. [⛔🛫] https://chatforai.com/
 
-51. [🔑🛫] https://gpt.clashus.com/
+51. [⛔] https://chat.extnav.com/
 
-52. [⛔🛫] https://tryai.top/freechat
+52. [⛔] https://litechat.22733.site/
 
-53. [🔑] https://chat.alpaca-bi.com/
+53. [⛔🛫] https://trychatgp.com/
 
 54. [⛔🛫] https://openai.onenov.cn/
 
-55. [🔑🛫] https://www.typingmind.com/
+55. [⛔🛫] https://chat.51buygpt.com/
 
-56. [⛔🛫] https://ai.okmiku.com/chat/
+56. [🔑] https://www.bz1y.cn/
 
-57. [🔑🛫] https://www.ohmygpt.com/
+57. [🔑] https://builtbyjesse.com/lab
 
-58. [⛔🛫] http://gitopenchina.gitee.io/gpt
+58. [⛔🛫] https://ai.yiios.com/
 
-59. [⛔🛫] https://ai.yiios.com/
+59. [🔑🛫] https://www.ohmygpt.com/
 
-60. [⛔] https://www.chat2ai.cn/
+60. [🔑] https://chat.alpaca-bi.com/
 
-61. [🔑] https://www.bz1y.cn/
+61. [⛔🛫] https://chatmindai.com/
 
-62. [⛔] https://litechat.22733.site/
+62. [🔑] https://chat.eaten.fun/
 
-63. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+63. [⛔🛫] https://ai.okmiku.com/chat/
 
-64. [⛔] https://chat.extnav.com/
+64. [⛔🛫] https://tryai.top/freechat
 
-65. [⛔🛫] https://chatcat.pages.dev/
+65. [🔑] https://chat.paoying.net/
 
-66. [🔑] https://chat.paoying.net/
+66. [⛔] https://chat.forchange.cn/
 
-67. [⛔🛫] https://trychatgp.com/
+67. [⛔🛫] http://gitopenchina.gitee.io/gpt
 
-68. [⛔🛫] https://chat.51buygpt.com/
+68. [⛔🛫] https://chat35.com/
+
+69. [🔑🛫] https://www.typingmind.com/
 
 
 
@@ -381,4 +383,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月03日 16点42分
+> 最后更新: 2023年04月03日 16点45分
