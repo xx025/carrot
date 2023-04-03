@@ -54,7 +54,7 @@
 
 13. [⭐⭐] https://aka.mydog.buzz
 
-14. [⭐⭐🛫] https://greengpt.app/
+14. [⭐⭐] https://greengpt.app/
 
 15. [⭐⭐] https://chat.extkj.cn/
 
@@ -62,105 +62,105 @@
 
 17. [🛫] https://xc.com/
 
-18. [🛫] http://ai.jjzn.top/
+18.  http://175.178.88.119/
 
-19. [🛫] https://beta.character.ai/
+19.  https://chat1.wuguokai.top/s/chatgpt
 
-20.  http://chat.forwardminded.xyz/#/
+20. [🛫] https://gpt.getshare.net/
 
-21. [🛫] https://openprompt.co/ChatGPT
+21.  http://chat.livepo.top/
 
-22. [🛫] https://chat5.xeasy.me/
+22. [🛫] https://openprompt.co/ChatGPT
 
 23.  https://chat.wuguokai.cn/s/chatgpt
 
-24.  http://chat.livepo.top/
+24. [🛫] https://www.ftcl.store/
 
-25.  http://175.178.88.119/
+25. [🛫] https://www.teach-anything.com/
 
-26. [🛫] https://www.teach-anything.com/
+26. [🛫] https://ai.ci
 
-27. [🛫] https://www.ftcl.store/
+27. [🛫] http://ai.jjzn.top/
 
-28. [🛫] https://gpt.getshare.net/
+28. [🛫] https://94gpt.com/
 
-29.  https://chat1.wuguokai.top/s/chatgpt
+29. [🛫] https://chat5.xeasy.me/
 
 30. [可尝试GPT4] http://www.tdchat.vip/
 
-31. [🛫] https://94gpt.com/
+31. [🛫] https://beta.character.ai/
 
-32. [🛫] https://ai.ci
+32.  http://chat.forwardminded.xyz/#/
 
-33. [🔑] https://www.bz1y.cn/
+33. [⛔] https://chat.forchange.cn/
 
-34. [⛔🛫] https://chatcat.pages.dev/
+34. [⛔🛫] http://gitopenchina.gitee.io/gpt
 
-35. [⛔🛫] https://openai.onenov.cn/
+35. [⛔🛫] https://ai.okmiku.com/chat/
 
-36. [⛔🛫] https://chatmindai.com/
+36. [🔑🛫] https://gpt.intercat.cn/
 
-37. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+37. [⛔] https://litechat.22733.site/
 
-38. [⛔🛫] https://freechatgpt.chat/
+38. [⛔] https://chat.zecoba.cn/
 
-39. [⛔🛫] https://chat.51buygpt.com/
+39. [🔑] https://chat.alpaca-bi.com/
 
-40. [⛔] https://litechat.22733.site/
+40. [⛔🛫] https://chatmindai.com/
 
-41. [⛔] https://chat.extnav.com/
+41. [⛔🛫] https://openai.onenov.cn/
 
-42. [⛔🛫] https://tryai.top/freechat
+42. [⛔🛫] https://chat.51buygpt.com/
 
-43. [🔑🛫] https://chat.wxredcover.cn/
+43. [⛔🛫] https://ai.yiios.com/
 
-44. [⛔🛫] http://newb.site/chatgpt
+44. [🔑] https://www.bz1y.cn/
 
-45. [⛔] https://chat.sunls.me/
+45. [⛔🛫] http://newb.site/chatgpt
 
-46. [🔑🛫] https://gpt.intercat.cn/
+46. [⛔🛫] https://chatforai.com/
 
-47. [🔑🛫] https://gpt.clashus.com/
+47. [⛔🛫] https://ai117.com/
 
-48. [⛔🛫] https://trychatgp.com/
+48. [🔑🛫] https://www.ohmygpt.com/
 
-49. [🔑] https://chat.opengpt88.com/
+49. [🔑] https://chat.wxredcover.cn/
 
-50. [🔑🛫] https://www.typingmind.com/
+50. [🔑] https://codenews.cc/chatgpt
 
-51. [⛔] https://chat.forchange.cn/
+51. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
 
-52. [⛔🛫] https://ai.yiios.com/
+52. [⛔🛫] https://chat.topsearcher.top/
 
-53. [⛔🛫] https://ai117.com/
+53. [⛔🛫] https://chat35.com/
 
-54. [🔑🛫] https://www.ohmygpt.com/
+54. [⛔🛫] https://freechatgpt.chat/
 
-55. [⛔🛫] http://gitopenchina.gitee.io/gpt
+55. [⛔] https://chat.extnav.com/
 
-56. [⛔🛫] https://ai.okmiku.com/chat/
+56. [⛔🛫] https://chatcat.pages.dev/
 
-57. [🔑] https://chat.eaten.fun/
+57. [⛔] https://chat.sunls.me/
 
-58. [⛔] https://chat.zecoba.cn/
+58. [🔑] https://builtbyjesse.com/lab
 
-59. [⛔] https://aigcfun.com/
+59. [🔑🛫] https://gpt.clashus.com/
 
-60. [🔑] https://codenews.cc/chatgpt
+60. [🔑] https://chat.paoying.net/
 
-61. [🔑] https://chat.paoying.net/
+61. [⛔🛫] https://tryai.top/freechat
 
-62. [⛔🛫] https://chatforai.com/
+62. [⛔🛫] https://trychatgp.com/
 
-63. [⛔🛫] https://chat35.com/
+63. [🔑] https://chat.opengpt88.com/
 
-64. [🔑] https://chat.alpaca-bi.com/
+64. [⛔] https://www.chat2ai.cn/
 
-65. [⛔] https://www.chat2ai.cn/
+65. [⛔] https://aigcfun.com/
 
-66. [🔑🛫] https://builtbyjesse.com/lab
+66. [🔑] https://chat.eaten.fun/
 
-67. [⛔🛫] https://chat.topsearcher.top/
+67. [🔑🛫] https://www.typingmind.com/
 
 
 
@@ -317,7 +317,7 @@
 
 8. [虚拟女友🛫] https://chilloutai.com/
 
-9. [文字游戏🛫] https://harry-potter.openai-lab.com
+9. [文字游戏] https://harry-potter.openai-lab.com
 
 10. [单词故事🛫] https://wordstory.streamlit.app/
 
@@ -379,4 +379,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月02日 21点59分
+> 最后更新: 2023年04月03日 08点46分
