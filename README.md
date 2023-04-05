@@ -10,10 +10,10 @@
 
 <br/>
 
-[//]: # (<a href="https://cc.ai55.cc/ad2" target="_blank"><img src="https://st.ai55.cc/adimg2" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>)
+<a href="https://cc.ai55.cc/ad3?site=freeopenai.xyz" target="_blank"><img src="https://st.ai55.cc/ads/share-chatkey.jpg" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>
 
-[//]: # ()
-[//]: # (- [👆https://shop.terobox.com/]&#40;https://cc.ai55.cc/ad2&#41; [ad.])
+
+👆[https://freeopenai.xyz](https://cc.ai55.cc/ad3?site=freeopenai.xyz)[ad.]
 
 ---
 
