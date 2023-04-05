@@ -59,113 +59,115 @@
 
 16. [⭐⭐🛫] https://freegpt.one/
 
-17. [⭐⭐🛫] https://ai.ls/
+17. [⭐⭐] https://hzdjs.cn/chatgpt/chat
 
-18. [⭐⭐🛫] https://desk.im/
+18. [⭐⭐🛫] https://ai.ls/
 
-19. [⭐⭐🛫] http://newb.site/chatgpt
+19. [⭐⭐🛫] https://desk.im/
 
-20.  https://cool-js.com/ai/chat/index.html
+20. [⭐⭐🛫] http://newb.site/chatgpt
 
-21.  https://chat.tig.im/
+21.  https://cool-js.com/ai/chat/index.html
 
-22. [🛫] https://ai.ci
+22.  https://chat.tig.im/
 
-23. [🛫] https://beta.character.ai/
+23. [🛫] https://ai.ci
 
-24. [🛫] http://ai.jjzn.top/
+24. [🛫] https://www.teach-anything.com/
 
-25. [可尝试GPT4] http://www.tdchat.vip/
+25. [🛫] https://gpt.getshare.net/
 
-26. [🛫] https://www.ftcl.store/
+26.  http://175.178.88.119/
 
-27.  https://chat1.wuguokai.top/s/chatgpt
+27. [🛫] https://94gpt.com/
 
-28. [🛫] https://94gpt.com/
+28. [可尝试GPT4] http://www.tdchat.vip/
 
-29. [🛫] https://xc.com/
+29. [🛫] https://beta.character.ai/
 
 30.  http://chat.forwardminded.xyz/#/
 
-31. [🛫] https://www.teach-anything.com/
+31.  https://chat1.wuguokai.top/s/chatgpt
 
-32. [🛫] https://openprompt.co/ChatGPT
+32. [🛫] https://www.ftcl.store/
 
-33.  https://chat.wuguokai.cn/s/chatgpt
+33. [🛫] https://xc.com/
 
-34. [🛫] https://gpt.getshare.net/
+34. [🛫] https://openprompt.co/ChatGPT
 
-35.  http://175.178.88.119/
+35.  https://chat.wuguokai.cn/s/chatgpt
 
-36. [⛔🛫] https://chatforai.com/
+36. [🛫] http://ai.jjzn.top/
 
-37. [🔑] https://builtbyjesse.com/lab
+37. [⛔🛫] https://ai.yiios.com/
 
-38. [🔑🛫] https://www.ohmygpt.com/
+38. [⛔🛫] https://ai117.com/
 
-39. [⛔] https://chat.extnav.com/
+39. [🔑🛫] https://gpt.clashus.com/
 
-40. [⛔🛫] https://chat.topsearcher.top/
+40. [⛔] https://aigcfun.com/
 
-41. [🔑] https://www.bz1y.cn/
+41. [🔑] https://builtbyjesse.com/lab
 
-42. [🔑] https://chat.wxredcover.cn/
+42. [⛔🛫] https://freechatgpt.chat/
 
-43. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+43. [⛔] https://chat.forchange.cn/
 
-44. [⛔] https://chat.zecoba.cn/
+44. [🔑] https://codenews.cc/chatgpt
 
-45. [⛔] https://chat.sunls.me/
+45. [🔑] https://www.bz1y.cn/
 
-46. [⛔🛫] https://chatmindai.com/
+46. [⛔🛫] https://ai.okmiku.com/chat/
 
-47. [⛔🛫] https://ai.yiios.com/
+47. [🔑] https://chat.wxredcover.cn/
 
-48. [🔑] https://codenews.cc/chatgpt
+48. [⛔] https://chat.sunls.me/
 
-49. [⛔🛫] https://ai.okmiku.com/chat/
+49. [⛔🛫] https://chatcat.pages.dev/
 
-50. [⛔🛫] https://freechatgpt.chat/
+50. [🔑] https://chat.paoying.net/
 
-51. [⛔🛫] http://gitopenchina.gitee.io/gpt
+51. [🔑] https://chat.eaten.fun/
 
-52. [⛔] https://litechat.22733.site/
+52. [⛔🛫] https://openai.onenov.cn/
 
 53. [⛔] https://www.chat2ai.cn/
 
-54. [⛔🛫] https://ai117.com/
+54. [⛔🛫] https://chat35.com/
 
-55. [🔑🛫] https://gpt.clashus.com/
+55. [🔑🛫] https://www.typingmind.com/
 
-56. [⛔🛫] https://openai.onenov.cn/
+56. [🔑] https://chat.opengpt88.com/
 
-57. [🔑🛫] https://gpt.intercat.cn/
+57. [⛔] https://chat.extnav.com/
 
-58. [⛔🛫] https://chatcat.pages.dev/
+58. [🔑🛫] https://gpt.intercat.cn/
 
-59. [⛔🛫] https://trychatgp.com/
+59. [⛔] https://chat.zecoba.cn/
 
-60. [⛔] https://aigcfun.com/
+60. [⛔🛫] https://chat.topsearcher.top/
 
-61. [⛔🛫] https://tryai.top/freechat
+61. [⛔] https://litechat.22733.site/
 
-62. [🔑] https://chat.eaten.fun/
+62. [🔑] https://chat.alpaca-bi.com/
 
-63. [🔑🛫] https://gpt.chatxyz.online/
+63. [⛔🛫] https://chatforai.com/
 
-64. [🔑🛫] https://www.typingmind.com/
+64. [⛔🛫] http://gitopenchina.gitee.io/gpt
 
-65. [🔑] https://chat.alpaca-bi.com/
+65. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
 
-66. [⛔🛫] https://chat.51buygpt.com/
+66. [⛔🛫] https://chatmindai.com/
 
-67. [⛔] https://chat.forchange.cn/
+67. [🔑🛫] https://www.ohmygpt.com/
 
-68. [🔑] https://chat.opengpt88.com/
+68. [⛔🛫] https://trychatgp.com/
 
-69. [🔑] https://chat.paoying.net/
+69. [⛔🛫] https://tryai.top/freechat
 
-70. [⛔🛫] https://chat35.com/
+70. [⛔🛫] https://chat.51buygpt.com/
+
+71. [🔑🛫] https://gpt.chatxyz.online/
 
 
 
@@ -386,4 +388,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月05日 17点32分
+> 最后更新: 2023年04月05日 17点34分
