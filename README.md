@@ -95,6 +95,36 @@
 
 34.  http://chat.forwardminded.xyz/#/
 
+35. [⛔🛫] http://newb.site/chatgpt
+
+36. [🔑🛫] https://gpt.intercat.cn/
+
+37. [🔑] https://wen.geekr.dev
+
+38. [🔑] https://builtbyjesse.com/lab
+
+39. [🔑] https://chat.opengpt88.com/
+
+40. [🔑] https://codenews.cc/chatgpt
+
+41. [🔑🛫] https://www.ohmygpt.com/
+
+42. [🔑🛫] https://www.typingmind.com/
+
+43. [🔑] https://www.bz1y.cn/
+
+44. [🔑] https://chat.alpaca-bi.com/
+
+45. [🔑] https://chat.paoying.net/
+
+46. [🔑] https://chat.eaten.fun/
+
+47. [🔑] https://chat.wxredcover.cn/
+
+48. [🔑🛫] https://gpt.clashus.com/
+
+49. [🔑🛫] https://gpt.chatxyz.online/
+
 
 
 [//]: # (下面是失效的站点)
@@ -322,4 +352,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月06日 13点08分
+> 最后更新: 2023年04月06日 13点38分
