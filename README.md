@@ -95,35 +95,79 @@
 
 34.  http://chat.forwardminded.xyz/#/
 
-35. [⛔🛫] http://newb.site/chatgpt
+35. [🔑🛫] https://gpt.clashus.com/
 
-36. [🔑🛫] https://gpt.intercat.cn/
+36. [⛔🛫] https://chatmindai.com/
 
-37. [🔑] https://wen.geekr.dev
+37. [🔑🛫] https://gpt.intercat.cn/
 
-38. [🔑] https://builtbyjesse.com/lab
+38. [⛔] https://chat.sunls.me/
 
-39. [🔑] https://chat.opengpt88.com/
+39. [⛔🛫] http://newb.site/chatgpt
 
-40. [🔑] https://codenews.cc/chatgpt
+40. [🔑] https://chat.paoying.net/
 
-41. [🔑🛫] https://www.ohmygpt.com/
+41. [⛔🛫] https://ai.yiios.com/
 
-42. [🔑🛫] https://www.typingmind.com/
+42. [⛔🛫] https://chatcat.pages.dev/
 
-43. [🔑] https://www.bz1y.cn/
+43. [⛔🛫] https://chat.topsearcher.top/
 
-44. [🔑] https://chat.alpaca-bi.com/
+44. [⛔🛫] https://trychatgp.com/
 
-45. [🔑] https://chat.paoying.net/
+45. [🔑] https://chat.opengpt88.com/
 
-46. [🔑] https://chat.eaten.fun/
+46. [🔑🛫] https://gpt.chatxyz.online/
 
-47. [🔑] https://chat.wxredcover.cn/
+47. [🔑] https://www.bz1y.cn/
 
-48. [🔑🛫] https://gpt.clashus.com/
+48. [⛔] https://www.chat2ai.cn/
 
-49. [🔑🛫] https://gpt.chatxyz.online/
+49. [⛔🛫] http://x-code.fun/
+
+50. [⛔🛫] https://freechatgpt.chat/
+
+51. [⛔🛫] https://chat.51buygpt.com/
+
+52. [⛔🛫] https://ai117.com/
+
+53. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+
+54. [⛔] https://litechat.22733.site/
+
+55. [⛔] https://aigcfun.com/
+
+56. [🔑] https://wen.geekr.dev
+
+57. [⛔🛫] https://chat35.com/
+
+58. [🔑🛫] https://www.ohmygpt.com/
+
+59. [⛔🛫] https://tryai.top/freechat
+
+60. [🔑] https://chat.wxredcover.cn/
+
+61. [⛔] https://chat.zecoba.cn/
+
+62. [⛔] https://chat.extnav.com/
+
+63. [⛔🛫] http://gitopenchina.gitee.io/gpt
+
+64. [⛔] https://chat.forchange.cn/
+
+65. [⛔🛫] https://chatforai.com/
+
+66. [⛔🛫] https://ai.okmiku.com/chat/
+
+67. [🔑] https://chat.eaten.fun/
+
+68. [🔑] https://chat.alpaca-bi.com/
+
+69. [🔑🛫] https://www.typingmind.com/
+
+70. [🔑] https://codenews.cc/chatgpt
+
+71. [🔑] https://builtbyjesse.com/lab
 
 
 
@@ -352,4 +396,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月06日 13点38分
+> 最后更新: 2023年04月06日 14点00分
