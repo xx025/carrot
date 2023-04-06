@@ -35,67 +35,65 @@
 
 4. [⭐⭐] http://ai.usesless.com/
 
-5. [⭐⭐] https://wen.geekr.dev
+5. [⭐⭐] https://free.anzz.top/
 
-6. [⭐⭐] https://free.anzz.top/
+6. [⭐⭐] https://chat.aidutu.cn/
 
-7. [⭐⭐] https://chat.aidutu.cn/
+7. [⭐⭐] https://chat10.xeasy.me
 
-8. [⭐⭐] https://chat10.xeasy.me
+8. [⭐⭐] https://chat.wobcw.com/
 
-9. [⭐⭐] https://chat.wobcw.com/
+9. [⭐⭐] https://aka.mydog.buzz
 
-10. [⭐⭐] https://aka.mydog.buzz
+10. [⭐⭐] https://greengpt.app/
 
-11. [⭐⭐] https://greengpt.app/
+11. [⭐⭐] https://ai.ov.cm/
 
-12. [⭐⭐] https://ai.ov.cm/
+12. [⭐⭐] https://chat.extkj.cn/
 
-13. [⭐⭐] https://chat.extkj.cn/
+13. [⭐⭐] https://chatgpt35.theinspiredgroup.com
 
-14. [⭐⭐] https://chatgpt35.theinspiredgroup.com
+14. [⭐⭐🛫] https://freegpt.one/
 
-15. [⭐⭐🛫] https://freegpt.one/
+15. [⭐⭐] https://hzdjs.cn/chatgpt/chat
 
-16. [⭐⭐] https://hzdjs.cn/chatgpt/chat
+16. [⭐⭐] https://chat.bnu120.space/
 
-17. [⭐⭐] https://chat.bnu120.space/
+17. [⭐⭐🛫] https://ai.ls/
 
-18. [⭐⭐🛫] https://ai.ls/
+18. [⭐⭐🛫] https://desk.im/
 
-19. [⭐⭐🛫] https://desk.im/
+19.  https://cool-js.com/ai/chat/index.html
 
-20.  https://cool-js.com/ai/chat/index.html
+20.  https://chat.tig.im/
 
-21.  https://chat.tig.im/
+21. [🛫] https://ai.ci
 
-22. [🛫] https://ai.ci
+22. [🛫] https://www.ftcl.store/
 
-23. [🛫] https://www.ftcl.store/
+23. [🛫] https://openprompt.co/ChatGPT
 
-24. [🛫] https://openprompt.co/ChatGPT
+24. [🛫] https://beta.character.ai/
 
-25. [🛫] https://beta.character.ai/
+25.  https://chat1.wuguokai.top/s/chatgpt
 
-26.  https://chat1.wuguokai.top/s/chatgpt
+26.  https://chat.wuguokai.cn/s/chatgpt
 
-27.  https://chat.wuguokai.cn/s/chatgpt
+27. [🛫] https://gpt.getshare.net/
 
-28. [🛫] https://gpt.getshare.net/
+28. [🛫] https://xc.com/
 
-29. [🛫] https://xc.com/
+29. [🛫] https://94gpt.com/
 
-30. [🛫] https://94gpt.com/
+30. [🛫] https://www.teach-anything.com/
 
-31. [🛫] https://www.teach-anything.com/
+31. [可尝试GPT4] http://www.tdchat.vip/
 
-32. [可尝试GPT4] http://www.tdchat.vip/
+32.  http://175.178.88.119/
 
-33.  http://175.178.88.119/
+33. [🛫] http://ai.jjzn.top/
 
-34. [🛫] http://ai.jjzn.top/
-
-35.  http://chat.forwardminded.xyz/#/
+34.  http://chat.forwardminded.xyz/#/
 
 
 
@@ -324,4 +322,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月06日 12点16分
+> 最后更新: 2023年04月06日 13点08分
