@@ -59,41 +59,43 @@
 
 16. [⭐⭐] https://hzdjs.cn/chatgpt/chat
 
-17. [⭐⭐🛫] https://ai.ls/
+17. [⭐⭐] https://chat.bnu120.space/
 
-18. [⭐⭐🛫] https://desk.im/
+18. [⭐⭐🛫] https://ai.ls/
 
-19.  https://cool-js.com/ai/chat/index.html
+19. [⭐⭐🛫] https://desk.im/
 
-20.  https://chat.tig.im/
+20.  https://cool-js.com/ai/chat/index.html
 
-21. [🛫] https://ai.ci
+21.  https://chat.tig.im/
 
-22. [🛫] https://www.ftcl.store/
+22. [🛫] https://ai.ci
 
-23. [🛫] https://openprompt.co/ChatGPT
+23. [🛫] https://www.ftcl.store/
 
-24. [🛫] https://beta.character.ai/
+24. [🛫] https://openprompt.co/ChatGPT
 
-25.  https://chat1.wuguokai.top/s/chatgpt
+25. [🛫] https://beta.character.ai/
 
-26.  https://chat.wuguokai.cn/s/chatgpt
+26.  https://chat1.wuguokai.top/s/chatgpt
 
-27. [🛫] https://gpt.getshare.net/
+27.  https://chat.wuguokai.cn/s/chatgpt
 
-28. [🛫] https://xc.com/
+28. [🛫] https://gpt.getshare.net/
 
-29. [🛫] https://94gpt.com/
+29. [🛫] https://xc.com/
 
-30. [🛫] https://www.teach-anything.com/
+30. [🛫] https://94gpt.com/
 
-31. [可尝试GPT4] http://www.tdchat.vip/
+31. [🛫] https://www.teach-anything.com/
 
-32.  http://175.178.88.119/
+32. [可尝试GPT4] http://www.tdchat.vip/
 
-33. [🛫] http://ai.jjzn.top/
+33.  http://175.178.88.119/
 
-34.  http://chat.forwardminded.xyz/#/
+34. [🛫] http://ai.jjzn.top/
+
+35.  http://chat.forwardminded.xyz/#/
 
 
 
@@ -322,4 +324,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月06日 09点33分
+> 最后更新: 2023年04月06日 12点16分
