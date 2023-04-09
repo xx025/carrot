@@ -1,7 +1,7 @@
 ---
 name:  添加站点
 about: 添加站点的模板
-title: '[添加站点] <title>'
+title: '[添加站点] '
 labels: add-site
 assignees: ''
 
@@ -13,6 +13,7 @@ assignees: ''
 ```
 http://example.com/
 ```
+
 **网站类型**
 - [x] ChatGPT站点
 - [ ] 其他
