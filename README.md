@@ -91,79 +91,79 @@
 
 32. [🔑] https://www.kejilequ.com
 
-33. [🔑] https://www.bz1y.cn/
+33. [⛔🛫] https://chat.zecoba.cn/
 
-34. [⛔🛫] https://freechatgpt.chat/
+34. [⛔🛫] https://chat.topsearcher.top/
 
-35. [🔑🛫] https://www.ohmygpt.com/
+35. [⛔🛫] https://chatcat.pages.dev/
 
-36. [⛔🛫] https://chat.51buygpt.com/
+36. [⛔🛫] https://tryai.top/freechat
 
-37. [⛔🛫] https://chat35.com/
+37. [⛔🛫] http://newb.site/chatgpt
 
-38. [⛔🛫] https://ai.yiios.com/
+38. [⛔🛫] https://chatforai.com/
 
-39. [🔑🛫] https://gpt.intercat.cn/
+39. [🔑] https://codenews.cc/chatgpt
 
-40. [⛔🛫] https://ai.okmiku.com/chat/
+40. [⛔🛫] https://ai.yiios.com/
 
-41. [🔑🛫] https://chat.wxredcover.cn/
+41. [⛔] https://www.chat2ai.cn/
 
-42. [⛔🛫] https://ai117.com/
+42. [🔑🛫] https://chat.paoying.net/
 
-43. [⛔🛫] http://x-code.fun/
+43. [⛔🛫] https://chat.forchange.cn/
 
-44. [⛔] https://aigcfun.com/
+44. [🔑] https://www.bz1y.cn/
 
 45. [🔑] https://chat.eaten.fun/
 
-46. [🔑] https://chat.opengpt88.com/
+46. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
 
-47. [⛔🛫] https://chat.zecoba.cn/
+47. [🔑🛫] https://chat.wxredcover.cn/
 
-48. [⛔] https://www.chat2ai.cn/
+48. [⛔🛫] https://ai117.com/
 
-49. [🔑] https://chat.alpaca-bi.com/
+49. [⛔🛫] https://ai.okmiku.com/chat/
 
-50. [⛔🛫] http://gitopenchina.gitee.io/gpt
+50. [⛔🛫] http://x-code.fun/
 
-51. [⛔🛫] https://trychatgp.com/
+51. [🔑🛫] https://www.ohmygpt.com/
 
-52. [⛔🛫] https://chatforai.com/
+52. [🔑🛫] https://gpt.intercat.cn/
 
-53. [⛔] https://chat.sunls.me/
+53. [⛔] https://litechat.22733.site/
 
-54. [⛔🛫] https://chat.forchange.cn/
+54. [⛔🛫] https://chat.51buygpt.com/
 
-55. [🔑🛫] https://gpt.clashus.com/
+55. [⛔🛫] https://chatmindai.com/
 
-56. [🔑] https://codenews.cc/chatgpt
+56. [⛔] https://chat.sunls.me/
 
-57. [⛔🛫] https://chatcat.pages.dev/
+57. [🔑] https://gpt.chatxyz.online/
 
-58. [🔑🛫] https://www.typingmind.com/
+58. [⛔🛫] https://trychatgp.com/
 
-59. [⛔🛫] https://tryai.top/freechat
+59. [🔑🛫] https://www.typingmind.com/
 
-60. [⛔🛫] http://newb.site/chatgpt
+60. [⛔🛫] https://chat35.com/
 
-61. [⛔🛫] https://chatmindai.com/
+61. [🔑] https://chat.opengpt88.com/
 
-62. [🔑] https://builtbyjesse.com/lab
+62. [⛔] https://chat.extnav.com/
 
-63. [⛔🛫] https://chat.topsearcher.top/
+63. [⛔🛫] https://freechatgpt.chat/
 
-64. [⛔] https://litechat.22733.site/
+64. [🔑] https://chat.alpaca-bi.com/
 
-65. [🔑] https://gpt.chatxyz.online/
+65. [⛔] https://aigcfun.com/
 
 66. [🔑] https://ai.ov.cm/
 
-67. [⛔] https://chat.extnav.com/
+67. [⛔🛫] http://gitopenchina.gitee.io/gpt
 
-68. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+68. [🔑] https://builtbyjesse.com/lab
 
-69. [🔑🛫] https://chat.paoying.net/
+69. [🔑🛫] https://gpt.clashus.com/
 
 
 
@@ -388,6 +388,8 @@
 
 33. [AI文章生成器] http://wenzhang.zhuluan.com/
 
+34. [ChatPPT] http://motion.yoo-ai.com/
+
 
 ### 欢迎补充
 
@@ -404,4 +406,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月08日 18点37分
+> 最后更新: 2023年04月09日 09点02分
