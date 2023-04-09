@@ -24,306 +24,249 @@
 
 ### 站点列表
 
-[//]: # (下面是正常的站点)
 
+1. <a href="https://beta.character.ai/" target="_blank"><img src="https://st.ai55.cc/favicon/character.ai.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Beta.character.ai </a> [🔑⭐🛫]
 
-1. [🔑⭐🛫] [Beta.character.ai](https://beta.character.ai/)
+2. <a href="https://poe.com/" target="_blank"><img src="https://st.ai55.cc/favicon/poe.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Poe.com </a> [🔑⭐🛫]
 
-2. [🔑⭐🛫] [Poe.com](https://poe.com/)
+3. <a href="https://chatbot.theb.ai/" target="_blank"><img src="https://st.ai55.cc/favicon/theb.ai.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatbot.theb.ai </a> [⭐⭐🛫]
 
-3. [⭐⭐🛫] [Chatbot.theb.ai](https://chatbot.theb.ai/)
+4. <a href="https://chat.binjie.site:7777/" target="_blank"><img src="https://st.ai55.cc/favicon/yqcloud.top.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.binjie.site:7777 </a> [⭐⭐]
 
-4. [⭐⭐] [Chat.binjie.site:7777](https://chat.binjie.site:7777/)
+5. <a href="https://free.anzz.top/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Free.anzz.top </a> [⭐⭐]
 
-5. [⭐⭐] [Free.anzz.top](https://free.anzz.top/)
+6. <a href="https://www.aitianhu.com/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Aitianhu.com </a> [⭐⭐]
 
-6. [⭐⭐] [Aitianhu.com](https://www.aitianhu.com/)
+7. <a href="https://chat.aidutu.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/chat.aidutu.cn.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.aidutu.cn </a> [⭐⭐]
 
-7. [⭐⭐] [Chat.aidutu.cn](https://chat.aidutu.cn/)
+8. <a href="https://chat.wobcw.com/" target="_blank"><img src="https://st.ai55.cc/favicon/geekr.dev.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.wobcw.com </a> [⭐⭐]
 
-8. [⭐⭐] [Chat.wobcw.com](https://chat.wobcw.com/)
+9. <a href="https://greengpt.app/" target="_blank"><img src="https://st.ai55.cc/favicon/175.178.88.119.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Greengpt.app </a> [⭐⭐]
 
-9. [⭐⭐] [Greengpt.app](https://greengpt.app/)
+10. <a href="https://chat13.xeasy.me" target="_blank"><img src="https://st.ai55.cc/favicon/xeasy.me.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat13.xeasy.me </a> [⭐⭐]
 
-10. [⭐⭐] [Chat13.xeasy.me](https://chat13.xeasy.me)
+11. <a href="https://chat.extkj.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/extkj.cn.jpg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.extkj.cn </a> [⭐⭐]
 
-11. [⭐⭐] [Chat.extkj.cn](https://chat.extkj.cn/)
+12. <a href="https://a.mydog.buzz/" target="_blank"><img src="https://st.ai55.cc/favicon/qachat.cc.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > A.mydog.buzz </a> [⭐⭐]
 
-12. [⭐⭐] [A.mydog.buzz](https://a.mydog.buzz/)
+13. <a href="https://ai.ci" target="_blank"><img src="https://st.ai55.cc/favicon/ai.ls.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.ci </a> [⭐⭐🛫]
 
-13. [⭐⭐🛫] [Ai.ci](https://ai.ci)
+14. <a href="https://freegpt.one/" target="_blank"><img src="https://st.ai55.cc/favicon/freegpt.one.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Freegpt.one </a> [⭐⭐🛫]
 
-14. [⭐⭐🛫] [Freegpt.one](https://freegpt.one/)
+15. <a href="https://hzdjs.cn/chatgpt/chat" target="_blank"><img src="https://hzdjs.cn/blog/logo.jpg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Hzdjs.cn </a> [⭐⭐]
 
-15. [⭐⭐] [Hzdjs.cn](https://hzdjs.cn/chatgpt/chat)
+16. <a href="https://chat.bnu120.space/" target="_blank"><img src="https://chat.bnu120.space/icon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.bnu120.space </a> [⭐⭐]
 
-16. [⭐⭐] [Chat.bnu120.space](https://chat.bnu120.space/)
+17. <a href="https://wen.geekr.dev" target="_blank"><img src="https://st.ai55.cc/favicon/geekr.dev.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Wen.geekr.dev </a> [⭐⭐🛫]
 
-17. [⭐⭐🛫] [Wen.geekr.dev](https://wen.geekr.dev)
+18. <a href="https://cool-js.com/ai/chat/index.html" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Cool-js.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Cool-js.com </a> 
 
-18.  [Cool-js.com](https://cool-js.com/ai/chat/index.html)
+19. <a href="https://chat.tig.im/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.tig.im </a> [🛫]
 
-19. [🛫] [Chat.tig.im](https://chat.tig.im/)
+20. <a href="https://www.ftcl.store/" target="_blank"><img src="https://st.ai55.cc/favicon/ftcl.store.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ftcl.store </a> [🛫]
 
-20. [🛫] [Ftcl.store](https://www.ftcl.store/)
+21. <a href="https://openprompt.co/ChatGPT" target="_blank"><img src="https://st.ai55.cc/favicon/openprompt.co.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Openprompt.co </a> [🛫]
 
-21. [🛫] [Openprompt.co](https://openprompt.co/ChatGPT)
+22. <a href="https://chat1.wuguokai.top/s/chatgpt" target="_blank"><img src="https://st.ai55.cc/favicon/wuguokai.cn.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat1.wuguokai.top </a> 
 
-22.  [Chat1.wuguokai.top](https://chat1.wuguokai.top/s/chatgpt)
+23. <a href="https://chat.wuguokai.cn/s/chatgpt" target="_blank"><img src="https://st.ai55.cc/favicon/wuguokai.cn.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.wuguokai.cn </a> 
 
-23.  [Chat.wuguokai.cn](https://chat.wuguokai.cn/s/chatgpt)
+24. <a href="https://gpt.getshare.net/" target="_blank"><img src="https://st.ai55.cc/favicon/gpt.getshare.net.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Gpt.getshare.net </a> [🛫]
 
-24. [🛫] [Gpt.getshare.net](https://gpt.getshare.net/)
+25. <a href="https://xc.com/" target="_blank"><img src="https://st.ai55.cc/favicon/xc.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Xc.com </a> [🛫]
 
-25. [🛫] [Xc.com](https://xc.com/)
+26. <a href="https://94gpt.com/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > 94gpt.com </a> [🛫]
 
-26. [🛫] [94gpt.com](https://94gpt.com/)
+27. <a href="https://www.teach-anything.com/" target="_blank"><img src="https://st.ai55.cc/favicon/teach-anything.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Teach-anything.com </a> [🛫]
 
-27. [🛫] [Teach-anything.com](https://www.teach-anything.com/)
+28. <a href="https://chat.wxredcover.cn/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.wxredcover.cn" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.wxredcover.cn </a> [🔑 关注公众号获取密码🛫]
 
-28. [🔑 关注公众号获取密码🛫] [Chat.wxredcover.cn](https://chat.wxredcover.cn/)
+29. <a href="http://www.tdchat.vip/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Tdchat.vip </a> [可尝试GPT4]
 
-29. [可尝试GPT4] [Tdchat.vip](http://www.tdchat.vip/)
+30. <a href="http://175.178.88.119/" target="_blank"><img src="https://st.ai55.cc/favicon/175.178.88.119.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > 175.178.88.119 </a> 
 
-30.  [175.178.88.119](http://175.178.88.119/)
+31. <a href="http://ai.jjzn.top/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.jjzn.top </a> [🛫]
 
-31. [🛫] [Ai.jjzn.top](http://ai.jjzn.top/)
+32. <a href="http://chat.forwardminded.xyz/#/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.forwardminded.xyz </a> 
 
-32.  [Chat.forwardminded.xyz](http://chat.forwardminded.xyz/#/)
+33. <a href="https://chat.idcxsy.com/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.idcxsy.com </a> [🛫]
 
-33. [🛫] [Chat.idcxsy.com](https://chat.idcxsy.com/)
+34. <a href="https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Heimoshuiyu.github.io </a> [⭐🛫]
 
-34. [⭐🛫] [Heimoshuiyu.github.io](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch)
+35. <a href="https://tryai.top/freechat" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Tryai.top" alt="favicon" style="height: 10px !important;width: 10px !important;" > Tryai.top </a> [⛔🛫]
 
-35. [⛔ 赞助使用🛫] [Chat.topsearcher.top](https://chat.topsearcher.top/)
+36. <a href="https://chat.alpaca-bi.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.alpaca-bi.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.alpaca-bi.com </a> [🔑]
 
-36. [⛔🛫] [Chatcat.pages.dev](https://chatcat.pages.dev/)
+37. <a href="https://chatforai.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chatforai.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatforai.com </a> [⛔🛫]
 
-37. [⛔🛫] [Newb.site](http://newb.site/chatgpt)
+38. <a href="https://gpt.clashus.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Gpt.clashus.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Gpt.clashus.com </a> [🔑🛫]
 
-38. [🔑] [Builtbyjesse.com](https://builtbyjesse.com/lab)
+39. <a href="https://litechat.22733.site/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Litechat.22733.site" alt="favicon" style="height: 10px !important;width: 10px !important;" > Litechat.22733.site </a> [⛔]
 
-39. [⛔🛫] [Chatforai.com](https://chatforai.com/)
+40. <a href="https://chat.sunls.me/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.sunls.me" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.sunls.me </a> [⛔]
 
-40. [🔑] [Ichat-gpt.net](https://www.ichat-gpt.net/)
+41. <a href="https://chat.topsearcher.top/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.topsearcher.top" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.topsearcher.top </a> [⛔ 赞助使用🛫]
 
-41. [🔑🛫] [Typingmind.com](https://www.typingmind.com/)
+42. <a href="https://codenews.cc/chatgpt" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Codenews.cc" alt="favicon" style="height: 10px !important;width: 10px !important;" > Codenews.cc </a> [🔑]
 
-42. [⛔] [Chat2ai.cn](https://www.chat2ai.cn/)
+43. <a href="https://www.kejilequ.com" target="_blank"><img src="https://www.kejilequ.com/favicon.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Kejilequ.com </a> [🔑]
 
-43. [⛔ 付费使用] [Gptnext.top](https://www.gptnext.top/)
+44. <a href="https://www.ichat-gpt.net/" target="_blank"><img src="https://www.ichat-gpt.net/media/img/logo/favicon.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ichat-gpt.net </a> [🔑]
 
-44. [🔑] [Chat.opengpt88.com](https://chat.opengpt88.com/)
+45. <a href="https://freechatgpt.chat/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Freechatgpt.chat" alt="favicon" style="height: 10px !important;width: 10px !important;" > Freechatgpt.chat </a> [⛔🛫]
 
-45. [⛔] [Aigcfun.com](https://aigcfun.com/)
+46. <a href="https://ai.okmiku.com/chat/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Ai.okmiku.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.okmiku.com </a> [⛔🛫]
 
-46. [🔑] [Gpt.chatxyz.online](https://gpt.chatxyz.online/)
+47. <a href="https://chat.paoying.net/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.paoying.net" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.paoying.net </a> [⛔ 付费使用🛫]
 
-47. [🔑] [Chat.alpaca-bi.com](https://chat.alpaca-bi.com/)
+48. <a href="https://ai.ov.cm/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.ov.cm </a> [🔑]
 
-48. [⛔] [Chat.sunls.me](https://chat.sunls.me/)
+49. <a href="https://www.bz1y.cn/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Bz1y.cn" alt="favicon" style="height: 10px !important;width: 10px !important;" > Bz1y.cn </a> [🔑]
 
-49. [⛔ 付费使用🛫] [Chat.paoying.net](https://chat.paoying.net/)
+50. <a href="https://chat.51buygpt.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.51buygpt.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.51buygpt.com </a> [⛔🛫]
 
-50. [⛔🛫] [Freechatgpt.chat](https://freechatgpt.chat/)
+51. <a href="https://chat35.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat35.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat35.com </a> [⛔🛫]
 
-51. [⛔🛫] [Tryai.top](https://tryai.top/freechat)
+52. <a href="https://chat.eaten.fun/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.eaten.fun" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.eaten.fun </a> [🔑]
 
-52. [🔑] [Kejilequ.com](https://www.kejilequ.com)
+53. <a href="https://www.gptnext.top/" target="_blank"><img src="https://www.gptnext.top/favicon.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Gptnext.top </a> [⛔ 付费使用]
 
-53. [⛔🛫] [Chat35.com](https://chat35.com/)
+54. <a href="https://ai117.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Ai117.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai117.com </a> [⛔🛫]
 
-54. [🔑] [Ai.ov.cm](https://ai.ov.cm/)
+55. <a href="https://ai.yiios.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Ai.yiios.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.yiios.com </a> [⛔ key 或 付费使用🛫]
 
-55. [⛔🛫] [Ai.okmiku.com](https://ai.okmiku.com/chat/)
+56. <a href="https://trychatgp.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Trychatgp.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Trychatgp.com </a> [⛔🛫]
 
-56. [⛔ key 或 付费使用🛫] [Ai.yiios.com](https://ai.yiios.com/)
+57. <a href="https://chat.extnav.com/" target="_blank"><img src="https://st.ai55.cc/favicon/extnav.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.extnav.com </a> [⛔]
 
-57. [🔑🛫] [Ohmygpt.com](https://www.ohmygpt.com/)
+58. <a href="https://www.typingmind.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Typingmind.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Typingmind.com </a> [🔑🛫]
 
-58. [⛔🛫] [X-code.fun](http://x-code.fun/)
+59. <a href="https://builtbyjesse.com/lab" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Builtbyjesse.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Builtbyjesse.com </a> [🔑]
 
-59. [⛔] [Litechat.22733.site](https://litechat.22733.site/)
+60. <a href="https://chat.opengpt88.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.opengpt88.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.opengpt88.com </a> [🔑]
 
-60. [🔑] [Chat.eaten.fun](https://chat.eaten.fun/)
+61. <a href="http://x-code.fun/" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > X-code.fun </a> [⛔🛫]
 
-61. [⛔🛫] [Ai117.com](https://ai117.com/)
+62. <a href="https://www.chat2ai.cn/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat2ai.cn" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat2ai.cn </a> [⛔]
 
-62. [🔑] [Codenews.cc](https://codenews.cc/chatgpt)
+63. <a href="https://www.ohmygpt.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Ohmygpt.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ohmygpt.com </a> [🔑🛫]
 
-63. [⛔🛫] [Trychatgp.com](https://trychatgp.com/)
+64. <a href="http://newb.site/chatgpt" target="_blank"><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Newb.site </a> [⛔🛫]
 
-64. [⛔] [Chat.extnav.com](https://chat.extnav.com/)
+65. <a href="https://aigcfun.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Aigcfun.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Aigcfun.com </a> [⛔]
 
-65. [🔑] [Bz1y.cn](https://www.bz1y.cn/)
+66. <a href="https://gpt.chatxyz.online/" target="_blank"><img src="https://gpt.chatxyz.online/icon.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Gpt.chatxyz.online </a> [🔑]
 
-66. [⛔🛫] [Chat.51buygpt.com](https://chat.51buygpt.com/)
+67. <a href="https://chatcat.pages.dev/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chatcat.pages.dev" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatcat.pages.dev </a> [⛔🛫]
 
-67. [🔑🛫] [Gpt.clashus.com](https://gpt.clashus.com/)
-
-
-
-[//]: # (下面是失效的站点)
 
 <details>
   <summary>失效站点</summary>
 
 
-1.  https://ai.bo-e.com/
-<br/>
+1.  https://ai.bo-e.com/ <br/>
 
-2.  https://openai.onenov.cn/
-<br/>
+2.  https://openai.onenov.cn/ <br/>
 
-3.  http://ai.usesless.com/
-<br/>
+3.  http://ai.usesless.com/ <br/>
 
-4.  https://gpt.intercat.cn/
-<br/>
+4.  https://gpt.intercat.cn/ <br/>
 
-5.  http://openmao.com/
-<br/>
+5.  http://openmao.com/ <br/>
 
-6.  https://chater.lanyun1103.top
-<br/>
+6.  https://chater.lanyun1103.top <br/>
 
-7.  https://chat.yougan.cc/
-<br/>
+7.  https://chat.yougan.cc/ <br/>
 
-8.  http://gitopenchina.gitee.io/gpt
-<br/>
+8.  http://gitopenchina.gitee.io/gpt <br/>
 
-9.  http://gitopenchina.gitee.io/freechatgpt
-<br/>
+9.  http://gitopenchina.gitee.io/freechatgpt <br/>
 
-10.  http://chatai.fyi/
-<br/>
+10.  http://chatai.fyi/ <br/>
 
-11.  http://chat.apigpt.cn/
-<br/>
+11.  http://chat.apigpt.cn/ <br/>
 
-12.  http://chat.livepo.top/
-<br/>
+12.  http://chat.livepo.top/ <br/>
 
-13.  https://vip.jjzn.top/
-<br/>
+13.  https://vip.jjzn.top/ <br/>
 
-14.  https://chatmindai.com/
-<br/>
+14.  https://chatmindai.com/ <br/>
 
-15.  https://chat.zecoba.cn/
-<br/>
+15.  https://chat.zecoba.cn/ <br/>
 
-16.  https://chatmate.network/
-<br/>
+16.  https://chatmate.network/ <br/>
 
-17.  https://freegpt.one/
-<br/>
+17.  https://freegpt.one/ <br/>
 
-18.  https://freechatgpt.lol/
-<br/>
+18.  https://freechatgpt.lol/ <br/>
 
-19.  https://fastgpt.app/
-<br/>
+19.  https://fastgpt.app/ <br/>
 
-20.  https://chat.jingran.vip/
-<br/>
+20.  https://chat.jingran.vip/ <br/>
 
-21.  http://itecheasy.com.cn/
-<br/>
+21.  http://itecheasy.com.cn/ <br/>
 
-22.  https://chatgpt.ddiu.io/
-<br/>
+22.  https://chatgpt.ddiu.io/ <br/>
 
-23.  https://chat.aigc-model.com/
-<br/>
+23.  https://chat.aigc-model.com/ <br/>
 
-24.  https://chatgpt.poshist.cn/
-<br/>
+24.  https://chatgpt.poshist.cn/ <br/>
 
-25.  https://www.chatsverse.xyz/
-<br/>
+25.  https://www.chatsverse.xyz/ <br/>
 
-26.  https://ai.v2less.com/
-<br/>
+26.  https://ai.v2less.com/ <br/>
 
-27.  https://chatgpt.h7ml.cn/
-<br/>
+27.  https://chatgpt.h7ml.cn/ <br/>
 
-28.  https://chat.tgbot.co/
-<br/>
+28.  https://chat.tgbot.co/ <br/>
 
-29.  https://chat.ninvfeng.xyz/
-<br/>
+29.  https://chat.ninvfeng.xyz/ <br/>
 
-30.  https://talk.xiu.ee/
-<br/>
+30.  https://talk.xiu.ee/ <br/>
 
-31.  https://chat.sheepig.top/
-<br/>
+31.  https://chat.sheepig.top/ <br/>
 
-32.  https://chatgpt.ddiu.me/
-<br/>
+32.  https://chatgpt.ddiu.me/ <br/>
 
-33.  https://chatgpt.lcc8.com/
-<br/>
+33.  https://chatgpt.lcc8.com/ <br/>
 
-34.  https://chat.uue.me/
-<br/>
+34.  https://chat.uue.me/ <br/>
 
-35.  http://gpt.mxnf.store/
-<br/>
+35.  http://gpt.mxnf.store/ <br/>
 
-36.  https://chat.moyunav.com/
-<br/>
+36.  https://chat.moyunav.com/ <br/>
 
-37.  https://www.askopenai.cn/
-<br/>
+37.  https://www.askopenai.cn/ <br/>
 
-38.  https://gpt.h7ml.cn/
-<br/>
+38.  https://gpt.h7ml.cn/ <br/>
 
-39.  https://desk.im/
-<br/>
+39.  https://desk.im/ <br/>
 
-40.  https://askgptai.com/
-<br/>
+40.  https://askgptai.com/ <br/>
 
-41.  https://www.aitoolgpt.com/
-<br/>
+41.  https://www.aitoolgpt.com/ <br/>
 
-42.  https://ai.ls/
-<br/>
+42.  https://ai.ls/ <br/>
 
-43.  https://chatapi.qload.cn/
-<br/>
+43.  https://chatapi.qload.cn/ <br/>
 
-44.  https://chat-gpt.nikong.cn/
-<br/>
+44.  https://chat-gpt.nikong.cn/ <br/>
 
-45.  https://chatgpt-flutter.h7ml.cn/
-<br/>
+45.  https://chatgpt-flutter.h7ml.cn/ <br/>
 
-46.  https://www.cveoy.com/
-<br/>
+46.  https://www.cveoy.com/ <br/>
 
-47.  https://chat.h7ml.cn/
-<br/>
+47.  https://chat.h7ml.cn/ <br/>
 
-48.  https://freegpt.cc
-<br/>
+48.  https://freegpt.cc <br/>
 
-49.  https://www.aiai.zone/
-<br/>
+49.  https://www.aiai.zone/ <br/>
 
-50.  http://43.156.110.219:3002/ 
-<br/>
+50.  http://43.156.110.219:3002/  <br/>
 
-51.  https://www.askme.mom/
-<br/>
+51.  https://www.askme.mom/ <br/>
 
-52.  https://chatgpt35.theinspiredgroup.com/
-<br/>
+52.  https://chatgpt35.theinspiredgroup.com/ <br/>
 
 
 </details>
@@ -333,75 +276,75 @@
 > 下面这些站点也很有趣
 
 
-1. [AI EDU🛫] https://chat.forchange.cn/
+1. <a href="https://chat.forchange.cn/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Chat.forchange.cn" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.forchange.cn </a> [AI EDU🛫]
 
-2. [🔑 蜻蜓问答] https://chat.qingting.work
+2. <a href="https://chat.qingting.work" target="_blank"><img src="https://st.ai55.cc/favicon/qingting.work.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chat.qingting.work </a> [🔑 蜻蜓问答]
 
-3. [周报通🛫] https://zhoubaotong.com/zh
+3. <a href="https://zhoubaotong.com/zh" target="_blank"><img src="https://st.ai55.cc/favicon/zhoubaotong.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Zhoubaotong.com </a> [周报通🛫]
 
-4. [Chat技术问答🛫] https://www.abab123.tk/
+4. <a href="https://www.abab123.tk/" target="_blank"><img src="https://st.ai55.cc/favicon/abab123.tk.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Abab123.tk </a> [Chat技术问答🛫]
 
-5. [Chat客户端] https://chatplus.buzz/
+5. <a href="https://chatplus.buzz/" target="_blank"><img src="https://st.ai55.cc/favicon/chatplus.app.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatplus.buzz </a> [Chat客户端]
 
-6. [海豚问答] http://zhimachat.com/
+6. <a href="http://zhimachat.com/" target="_blank"><img src="https://st.ai55.cc/favicon/zhimachat.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Zhimachat.com </a> [海豚问答]
 
-7. [编程🛫] https://www.aicodehelper.com/
+7. <a href="https://www.aicodehelper.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Aicodehelper.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Aicodehelper.com </a> [编程🛫]
 
-8. [AI帮个忙] https://ai-toolbox.codefuture.top/
+8. <a href="https://ai-toolbox.codefuture.top/" target="_blank"><img src="https://st.ai55.cc/favicon/codefuture.top.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai-toolbox.codefuture.top </a> [AI帮个忙]
 
-9. [虚拟女友🛫] https://chilloutai.com/
+9. <a href="https://chilloutai.com/" target="_blank"><img src="https://st.ai55.cc/favicon/chilloutai.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chilloutai.com </a> [虚拟女友🛫]
 
-10. [文字游戏🛫] https://harry-potter.openai-lab.com
+10. <a href="https://harry-potter.openai-lab.com" target="_blank"><img src="https://st.ai55.cc/favicon/openai-lab.com.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Harry-potter.openai-lab.com </a> [文字游戏🛫]
 
-11. [单词故事🛫] https://wordstory.streamlit.app/
+11. <a href="https://wordstory.streamlit.app/" target="_blank"><img src="https://st.ai55.cc/favicon/streamlit.app.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Wordstory.streamlit.app </a> [单词故事🛫]
 
-12. [AI 如来(佛)🛫] https://hotoke.ai/
+12. <a href="https://hotoke.ai/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Hotoke.ai" alt="favicon" style="height: 10px !important;width: 10px !important;" > Hotoke.ai </a> [AI 如来(佛)🛫]
 
-13. [🔑 技术文档助手🛫] https://docsgpt.arc53.com/
+13. <a href="https://docsgpt.arc53.com/" target="_blank"><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Docsgpt.arc53.com </a> [🔑 技术文档助手🛫]
 
-14. [AI 表格助手] https://chatexcel.com/
+14. <a href="https://chatexcel.com/" target="_blank"><img src="https://st.ai55.cc/favicon/chatexcel.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatexcel.com </a> [AI 表格助手]
 
-15. [🔑 AI文秘助手] https://typeset.io/
+15. <a href="https://typeset.io/" target="_blank"><img src="https://st.ai55.cc/favicon/typeset.io.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Typeset.io </a> [🔑 AI文秘助手]
 
-16. [⛔ AI B站总结] https://b.jimmylv.cn/
+16. <a href="https://b.jimmylv.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/jimmylv.cn.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > B.jimmylv.cn </a> [⛔ AI B站总结]
 
-17. [BaiDu 文心一言🛫] https://yiyan.baidu.com/welcome
+17. <a href="https://yiyan.baidu.com/welcome" target="_blank"><img src="https://st.ai55.cc/favicon/yiyan.baidu.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Yiyan.baidu.com </a> [BaiDu 文心一言🛫]
 
-18. [AI机器人🛫] https://vrtalk.io/
+18. <a href="https://vrtalk.io/" target="_blank"><img src="https://st.ai55.cc/favicon/vrtalk.io.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Vrtalk.io </a> [AI机器人🛫]
 
-19. [ClueAI] https://www.cluebenchmarks.com/clueai.html
+19. <a href="https://www.cluebenchmarks.com/clueai.html" target="_blank"><img src="https://st.ai55.cc/favicon/cluebenchmarks.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Cluebenchmarks.com </a> [ClueAI]
 
-20. [ChatGPT 应用] https://open-gpt.app/
+20. <a href="https://open-gpt.app/" target="_blank"><img src="https://st.ai55.cc/favicon/open-gpt.app.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Open-gpt.app </a> [ChatGPT 应用]
 
-21. [Chat Docs] https://chatdoc.com/
+21. <a href="https://chatdoc.com/" target="_blank"><img src="https://st.ai55.cc/favicon/chatdoc.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Chatdoc.com </a> [Chat Docs]
 
-22. [AI Colors🛫] https://aicolors.co/
+22. <a href="https://aicolors.co/" target="_blank"><img src="https://st.ai55.cc/favicon/aicolors.co.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Aicolors.co </a> [AI Colors🛫]
 
-23. [AI 工具箱] https://ai.free-tools.cn/
+23. <a href="https://ai.free-tools.cn/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Ai.free-tools.cn" alt="favicon" style="height: 10px !important;width: 10px !important;" > Ai.free-tools.cn </a> [AI 工具箱]
 
-24. [AI快速生成SQL] https://www.sqlkiller.com/
+24. <a href="https://www.sqlkiller.com/" target="_blank"><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Sqlkiller.com </a> [AI快速生成SQL]
 
-25. [AI代码生成] https://www.cursor.so/
+25. <a href="https://www.cursor.so/" target="_blank"><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Cursor.so </a> [AI代码生成]
 
-26. [DeepL写作] https://www.deepl.com/zh/write
+26. <a href="https://www.deepl.com/zh/write" target="_blank"><img src="https://st.ai55.cc/favicon/deepl.com.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Deepl.com </a> [DeepL写作]
 
-27. [智能写作] https://heyfriday.cn/
+27. <a href="https://heyfriday.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/heyfriday.cn.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Heyfriday.cn </a> [智能写作]
 
-28. [提示词优化] https://promptperfect.jinaai.cn/
+28. <a href="https://promptperfect.jinaai.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 10px !important;width: 10px !important;" > Promptperfect.jinaai.cn </a> [提示词优化]
 
-29. [AI正则表达式] https://regex.ai/
+29. <a href="https://regex.ai/" target="_blank"><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Regex.ai </a> [AI正则表达式]
 
-30. [GitHubCopilot] https://github.com/features/copilot/
+30. <a href="https://github.com/features/copilot/" target="_blank"><img src="https://st.ai55.cc/favicon/github.svg" alt="favicon" style="height: 10px !important;width: 10px !important;" > Github.com </a> [GitHubCopilot]
 
-31. [aiXcoder] https://www.aixcoder.com/
+31. <a href="https://www.aixcoder.com/" target="_blank"><img src="https://st.ai55.cc/favicon/aixcoder.com.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Aixcoder.com </a> [aiXcoder]
 
-32. [CodeGeeX] http://models.aminer.cn/
+32. <a href="http://models.aminer.cn/" target="_blank"><img src="https://st.ai55.cc/favicon/models.aminer.cn.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Models.aminer.cn </a> [CodeGeeX]
 
-33. [密塔写作猫] https://xiezuocat.com/
+33. <a href="https://xiezuocat.com/" target="_blank"><img src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Xiezuocat.com </a> [密塔写作猫]
 
-34. [AI文章生成器] http://wenzhang.zhuluan.com/
+34. <a href="http://wenzhang.zhuluan.com/" target="_blank"><img src="https://favicon.zhusl.com/ico?url=Wenzhang.zhuluan.com" alt="favicon" style="height: 10px !important;width: 10px !important;" > Wenzhang.zhuluan.com </a> [AI文章生成器]
 
-35. [ChatPPT] http://motion.yoo-ai.com/
+35. <a href="http://motion.yoo-ai.com/" target="_blank"><img src="http://motion.yoo-ai.com/favicon.ico" alt="favicon" style="height: 10px !important;width: 10px !important;" > Motion.yoo-ai.com </a> [ChatPPT]
 
 
 ### 欢迎补充
@@ -419,4 +362,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月09日 15点13分
+> 最后更新: 2023年04月09日 15点29分
