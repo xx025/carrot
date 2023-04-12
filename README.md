@@ -124,7 +124,7 @@
 
   <tr>
     <td>11.</td>
-    <td><img src="https://chat.zhuleixx.top/favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://st.ai55.cc/favicon/default-robot-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="http://cc.ai55.cc/url/?id=QTY2Wjd0dkhqbmRHZDNWb0lobkRuTS8zSmlqaHRnd09sYWwzRHNadWdJcz0=" target="_blank"> Chat.zhuleixx.top </a> </td>
     <td>😄⭐ </td>
     <td>🆕 </td> 
@@ -1128,4 +1128,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月12日 15点08分
+> 最后更新: 2023年04月12日 15点15分
