@@ -2,8 +2,6 @@
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
-**发布网站：** https://cc.ai55.cc/   (😃敬请收藏和分享)
-
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)
 
 > <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">【🧡赞赏🧡】</font></a>
@@ -1137,4 +1135,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月12日 20点20分
+> 最后更新: 2023年04月12日 20点49分
