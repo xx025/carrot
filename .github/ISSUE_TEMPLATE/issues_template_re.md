@@ -1,5 +1,5 @@
 ---
-name: 反馈
+name: 反馈站点
 about: 反馈站点
 title: '[反馈] '
 assignees: ''
