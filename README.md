@@ -1199,6 +1199,15 @@
     <td><a href="http://cc.ai55.cc/url/?id=OUVsRzZxVCtQYy9kbmlxVVVNQVVNeWdDL25qTlBZV1VnUk4rUnMrdnFFTT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>39.</td>
+    <td><img src="https://st.ai55.cc/favicon/qingting.work.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="http://cc.ai55.cc/url/?id=WERHbCtxcUFjeWhoUGlHRGJsdjVuYnBoaUVlYk9TbUx2bHZoZlp2R0lTYz0=" target="_blank"> Chat.qingting.work </a> </td>
+    <td>🆕 </td>
+    <td>蜻蜓问答</td> 
+    <td><a href="http://cc.ai55.cc/url/?id=WERHbCtxcUFjeWhoUGlHRGJsdjVuYnBoaUVlYk9TbUx2bHZoZlp2R0lTYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 ### ChatGPT 软件
@@ -1394,4 +1403,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年04月17日 16点09分
+> 最后更新: 2023年04月17日 16点12分
