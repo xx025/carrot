@@ -349,7 +349,7 @@
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="http://cc.ai55.cc/url/?id=UHhTdVJGNGdhQk9zVFYwQzROM0s1cFBKOGNmaGYvcko3aWhyTy85VWRjZz0=" target="_blank"> Gpt.esojourn.org </a> </td>
     <td>🆕 </td>
-    <td>访问密码：Pub-01-234jAIv<v8(32</td> 
+    <td>访问密码：puB-02-bRw9b$djqt15^</td> 
     <td><a href="http://cc.ai55.cc/url/?id=UHhTdVJGNGdhQk9zVFYwQzROM0s1cFBKOGNmaGYvcko3aWhyTy85VWRjZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
