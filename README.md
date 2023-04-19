@@ -1278,6 +1278,15 @@
     <td><a href="http://cc.ai55.cc/url/?id=ME1SeW9aSHVuK2t2ZjhidFNhazNZaFJHaWNjYUFGcFMwcVBFR2RtdnRod1JLTHRBUUdIY2xjbzFaU2M0cXVTNA==" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>3.</td>
+    <td><img src="https://raw.githubusercontent.com/onepointAI/onepoint/main/assets/icon/icon64.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.1ptai.com/" target="_blank"> 1ptai.com </a> </td>
+    <td>🆕 😄</td>
+    <td>onepoint</td> 
+    <td><a href="https://github.com/onepointAI/onepoint" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 
