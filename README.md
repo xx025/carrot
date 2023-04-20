@@ -883,6 +883,14 @@
     <td></td> 
     <td><a href="http://cc.ai55.cc/url/?id=b1JhVjljLy9pWlJVTmd2c29taVFjSHcwM2F1NlhxZm12RGFvUnhYSjNWWT0=" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>96.</td>
+    <td><img src="https://st.ai55.cc/favicon/yqcloud.top.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://dyrt.me/" target="_blank"> dyrt.me </a> </td>
+    <td>🛫🤑</td>
+    <td></td> 
+    <td><a href="https://dyrt.me/" target="_blank">🔗 </a> </td> 
+  </tr>
 
 </table>
 
@@ -1289,7 +1297,6 @@
 
 </table>
 
-
 ### AI工具导航
 
 <table>
@@ -1314,13 +1321,10 @@
 
 </table>
 
-
-
 ### 失效站点
 
 <details>
   <summary>失效站点</summary>
-
 
 1. https://ai.bo-e.com/ <br/>
 
@@ -1448,7 +1452,6 @@
 
 63. https://aigpt.one/ <br/>
 
-
 </details>
 
 ### 欢迎补充
@@ -1457,7 +1460,7 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 
 如果您认为站点可以加⭐、分享你发现的新的站点，反馈失效站点，欢迎[点此](https://github.com/xx025/carrot/issues)告诉我
 
- [排序算法](https://github.com/xx025/carrot/blob/dev/weight-rank.md) | [关于广告](https://cc.ai55.cc/ads/) 
+[排序算法](https://github.com/xx025/carrot/blob/dev/weight-rank.md) | [关于广告](https://cc.ai55.cc/ads/)
 
 ### 协议
 
