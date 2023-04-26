@@ -233,9 +233,9 @@
   <tr>
     <td>23.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TTg5cm9RVUZUZmk1QkVONGNhR2lEV2doUDlyVVRHZGZBRFZNTHRJbUc2VT0=" target="_blank"> G.betai55.uk </a> </td>
-    <td></td>
-    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TTg5cm9RVUZUZmk1QkVONGNhR2lEV2doUDlyVVRHZGZBRFZNTHRJbUc2VT0=" target="_blank"> w.betai55.uk </a> </td>
+    <td>😄</td>
+    <td>密码：586-481-521B</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=TTg5cm9RVUZUZmk1QkVONGNhR2lEV2doUDlyVVRHZGZBRFZNTHRJbUc2VT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
