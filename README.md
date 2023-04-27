@@ -189,7 +189,7 @@
     <td>18.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=RDZ1N2w0QUVrVjFNL2M5RnlFWm1OZm1WQ3Q4STZOcWZLdWFEN05taFhYOD0=" target="_blank"> W.betai55.uk </a> </td>
-    <td>🛫🆕😄</td>
+    <td>🆕😄</td>
     <td>密码：586-481-521B</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=RDZ1N2w0QUVrVjFNL2M5RnlFWm1OZm1WQ3Q4STZOcWZLdWFEN05taFhYOD0=" target="_blank">🔗 </a> </td> 
   </tr>
@@ -378,8 +378,8 @@
     <td>39.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=djdaZlZrMjEwK1M0NVhUZUF0QjZZS09JUVcyY2RFcE5Wb25FOWo4VXd6Zz0=" target="_blank"> 230427.1gpt.uk </a> </td>
-    <td>🛫🆕 🔑</td>
-    <td>密码：586-481-521A</td> 
+    <td>🆕🔑</td>
+    <td>密码：586-481-521A</td>
     <td><a href="https://day0424.ai55.cc/url/?id=djdaZlZrMjEwK1M0NVhUZUF0QjZZS09JUVcyY2RFcE5Wb25FOWo4VXd6Zz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
