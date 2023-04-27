@@ -198,7 +198,7 @@
     <td>19.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=RDZ1N2w0QUVrVjFNL2M5RnlFWm1OZm1WQ3Q4STZOcWZLdWFEN05taFhYOD0=" target="_blank"> W.betai55.uk </a> </td>
-    <td>🛫🆕😄</td>
+    <td>🆕😄</td>
     <td>密码：586-481-521B</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=RDZ1N2w0QUVrVjFNL2M5RnlFWm1OZm1WQ3Q4STZOcWZLdWFEN05taFhYOD0=" target="_blank">🔗 </a> </td> 
   </tr>
