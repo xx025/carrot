@@ -108,11 +108,11 @@
 
   <tr>
     <td>9.</td>
-    <td><img src="https://st.ai55.cc/favicon/chat.chatbot.sex.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank"> Chat.chatbot.sex </a> </td>
-    <td>🛫😄</td>
-    <td>GPT-4</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank">🔗 </a> </td> 
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank"> Chat.newstop.asia </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -126,11 +126,11 @@
 
   <tr>
     <td>11.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank"> Chat.newstop.asia </a> </td>
-    <td>😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank">🔗 </a> </td> 
+    <td><img src="https://st.ai55.cc/favicon/chat.chatbot.sex.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank"> Chat.chatbot.sex </a> </td>
+    <td>🛫😄</td>
+    <td>GPT-4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -153,20 +153,20 @@
 
   <tr>
     <td>14.</td>
-    <td><img src="https://st.ai55.cc/favicon/chat.aidutu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank"> Chat.aidutu.cn </a> </td>
-    <td>😄⭐ </td>
-    <td> </td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>15.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=Q0FoemVZK0NINllzM1FqMllFQ3V5RWY5T1VpMUt6bW9IdTI5UHhFQml1MD0=" target="_blank"> Vppp.cn </a> </td>
     <td>🛫😄</td>
     <td></td> 
     <td><a href="https://day0424.ai55.cc/url/?id=Q0FoemVZK0NINllzM1FqMllFQ3V5RWY5T1VpMUt6bW9IdTI5UHhFQml1MD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.aidutu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank"> Chat.aidutu.cn </a> </td>
+    <td>😄⭐ </td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -180,69 +180,6 @@
 
   <tr>
     <td>17.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TnFxOVVNZWw0eVoyRGIxQkxnUDAvMU9SQXB2L0dqNzVDWG1xK1BqV0JSdz0=" target="_blank"> Chat.bigs.top </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/389</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=TnFxOVVNZWw0eVoyRGIxQkxnUDAvMU9SQXB2L0dqNzVDWG1xK1BqV0JSdz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>18.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank"> Chatgpt.qdymys.cn </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/385</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>19.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=c.aigc.it" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=eXJBQ2NzMDhvRnc1eE5uanVNL1VyZkhoVjBTRVRpZWppVS9IMmlLdDdWUT0=" target="_blank"> C.aigc.it </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/378</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=eXJBQ2NzMDhvRnc1eE5uanVNL1VyZkhoVjBTRVRpZWppVS9IMmlLdDdWUT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>20.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank"> N1.xjai.cc </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/356</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>21.</td>
-    <td><img src="https://st.ai55.cc/favicon/t66.ltd.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank"> T66.ltd </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/374</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>22.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank"> Gpt.hz-it-dev.com </a> </td>
-    <td>🆕😄</td>
-    <td>https://github.com/xx025/carrot/issues/408</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>23.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpSUtja3J1RzFreHVQR1pCcW42NTlpdz0=" target="_blank"> Chatgpt.skybyte.me </a> </td>
-    <td>🆕😄⭐</td>
-    <td>https://github.com/xx025/carrot/issues/357</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpSUtja3J1RzFreHVQR1pCcW42NTlpdz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>24.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=RDZ1N2w0QUVrVjFNL2M5RnlFWm1OZm1WQ3Q4STZOcWZLdWFEN05taFhYOD0=" target="_blank"> W.betai55.uk </a> </td>
     <td>😄</td>
@@ -251,7 +188,16 @@
   </tr>
 
   <tr>
-    <td>25.</td>
+    <td>18.</td>
+    <td><img src="https://st.ai55.cc/favicon/t66.ltd.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank"> T66.ltd </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/374</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=new.ctgpt2.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=ZWEzY2NZSTl3MHFHVys1cThvZFZnNm91VzU2OG82WlVRWi9hNS9IT0hJUT0=" target="_blank"> New.ctgpt2.cn </a> </td>
     <td>😄</td>
@@ -260,7 +206,25 @@
   </tr>
 
   <tr>
-    <td>26.</td>
+    <td>20.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TnFxOVVNZWw0eVoyRGIxQkxnUDAvMU9SQXB2L0dqNzVDWG1xK1BqV0JSdz0=" target="_blank"> Chat.bigs.top </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/389</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TnFxOVVNZWw0eVoyRGIxQkxnUDAvMU9SQXB2L0dqNzVDWG1xK1BqV0JSdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>21.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=c.aigc.it" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eXJBQ2NzMDhvRnc1eE5uanVNL1VyZkhoVjBTRVRpZWppVS9IMmlLdDdWUT0=" target="_blank"> C.aigc.it </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/378</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eXJBQ2NzMDhvRnc1eE5uanVNL1VyZkhoVjBTRVRpZWppVS9IMmlLdDdWUT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>22.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=R0c0OFo4L2RFMVdDeStGQWgwSWg4azFJaGgxK2pqTWVhVXFQTHY0MVJUND0=" target="_blank"> Outchat.extkj.cn </a> </td>
     <td>🛫😄</td>
@@ -269,12 +233,48 @@
   </tr>
 
   <tr>
-    <td>27.</td>
+    <td>23.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank"> Gpt.hz-it-dev.com </a> </td>
+    <td>🆕😄</td>
+    <td>https://github.com/xx025/carrot/issues/408</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>24.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank"> Chatgpt.qdymys.cn </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/385</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>25.</td>
     <td><img src="https://st.ai55.cc/favicon/wuguokai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=UGVFR2phZHNPUWhhMnB3Q0hVeWsrU29semdaOVFoR1FqOEhwbUlHTW9wMD0=" target="_blank"> Chat.ai.wuguokai.cn </a> </td>
     <td>😄⭐</td>
     <td></td> 
     <td><a href="https://day0424.ai55.cc/url/?id=UGVFR2phZHNPUWhhMnB3Q0hVeWsrU29semdaOVFoR1FqOEhwbUlHTW9wMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>26.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpSUtja3J1RzFreHVQR1pCcW42NTlpdz0=" target="_blank"> Chatgpt.skybyte.me </a> </td>
+    <td>🆕😄⭐</td>
+    <td>https://github.com/xx025/carrot/issues/357</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpSUtja3J1RzFreHVQR1pCcW42NTlpdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>27.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank"> N1.xjai.cc </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/356</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -288,15 +288,6 @@
 
   <tr>
     <td>29.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=Ky8zM0RPejZWb21DNXl3cDFKMnpFM0JKZ0g0b0c0OVo1SmlORStjNkxFaz0=" target="_blank"> Chat.aiyunos.top </a> </td>
-    <td>😄</td>
-    <td> </td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=Ky8zM0RPejZWb21DNXl3cDFKMnpFM0JKZ0g0b0c0OVo1SmlORStjNkxFaz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>30.</td>
     <td><img src="https://st.ai55.cc/favicon/default2.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=R3I2cTVOMHdXNWduNmpiTC8rcGQ2bkVRNXlVenNCc0ZQWnppY3I2cW5kQT0=" target="_blank"> Chat.chatai.baby </a> </td>
     <td>🆕😄</td>
@@ -305,16 +296,7 @@
   </tr>
 
   <tr>
-    <td>31.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank"> Gptdemo.net </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/392</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>32.</td>
+    <td>30.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=QnVoWGNzVXdoeG5JMldmR1JzckNVbThnWE5OcVVrV0llZlRNa3liaHlTTT0=" target="_blank"> F1.owley.co </a> </td>
     <td>😄</td>
@@ -323,7 +305,34 @@
   </tr>
 
   <tr>
+    <td>31.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Ky8zM0RPejZWb21DNXl3cDFKMnpFM0JKZ0g0b0c0OVo1SmlORStjNkxFaz0=" target="_blank"> Chat.aiyunos.top </a> </td>
+    <td>😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Ky8zM0RPejZWb21DNXl3cDFKMnpFM0JKZ0g0b0c0OVo1SmlORStjNkxFaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>32.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank"> Gptdemo.net </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/392</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
     <td>33.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bnhENG5DdGNaQjRmekY4TzNEWStkdWI4RWdMakdqOEt5TUEyUDVWZndBbz0=" target="_blank"> Omg.j5r4.us </a> </td>
+    <td>😄</td>
+    <td>https://github.com/xx025/carrot/issues/396</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bnhENG5DdGNaQjRmekY4TzNEWStkdWI4RWdMakdqOEt5TUEyUDVWZndBbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>34.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=L2hpdE1wZXE4b2VQcTMzbkJETGF4VEdoNWdSREM1OW5QVXczSjd6UGFvST0=" target="_blank"> Chat.gptplus.one </a> </td>
     <td>🛫😄</td>
@@ -332,21 +341,12 @@
   </tr>
 
   <tr>
-    <td>34.</td>
+    <td>35.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=ZDhXYUk0TGRpbXVCa01jeGNza05ibjJ6SDRONnE4QStlNnVqQ1IzTklNVlN5Q09ONjZURGh4T0JGL3BvSkFTSQ==" target="_blank"> Chat-shared.zhile.io </a> </td>
     <td>🔑</td>
     <td>https://github.com/xx025/carrot/issues/393</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=ZDhXYUk0TGRpbXVCa01jeGNza05ibjJ6SDRONnE4QStlNnVqQ1IzTklNVlN5Q09ONjZURGh4T0JGL3BvSkFTSQ==" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>35.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank"> Chat2doc.cn </a> </td>
-    <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/397</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -361,41 +361,14 @@
   <tr>
     <td>37.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bnhENG5DdGNaQjRmekY4TzNEWStkdWI4RWdMakdqOEt5TUEyUDVWZndBbz0=" target="_blank"> Omg.j5r4.us </a> </td>
+    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank"> Chat2doc.cn </a> </td>
     <td>😄</td>
-    <td>https://github.com/xx025/carrot/issues/396</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bnhENG5DdGNaQjRmekY4TzNEWStkdWI4RWdMakdqOEt5TUEyUDVWZndBbz0=" target="_blank">🔗 </a> </td> 
+    <td>https://github.com/xx025/carrot/issues/397</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>38.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=WGxiTzFhc3I5UlBsSVZ1WG1kbnVLK29WUUhYelJUbmg1aU9ES0YxaEJQdz0=" target="_blank"> Smart-chat.xiami.one </a> </td>
-    <td>🛫😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=WGxiTzFhc3I5UlBsSVZ1WG1kbnVLK29WUUhYelJUbmg1aU9ES0YxaEJQdz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>39.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-robot2-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank"> Index.chat.bnu120.sapce </a> </td>
-    <td>🛫😄⭐ </td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>40.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aTdYVG1MRnY5NXVVbys5aEhuYU9hUnhnZ1g0R3FLVkNaNUZRODNEVkMvcz0=" target="_blank"> F1.nbai.live </a> </td>
-    <td>🛫😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aTdYVG1MRnY5NXVVbys5aEhuYU9hUnhnZ1g0R3FLVkNaNUZRODNEVkMvcz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>41.</td>
     <td><img src="https://st.ai55.cc/favicon/easyai.one.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=ZjdwVWUzMDZxL2h6cXZKSFpLZXBjV2lwS3pmWXBtdmVRTG84dE5jNVpuQT0=" target="_blank"> Easyai.ink </a> </td>
     <td></td>
@@ -404,12 +377,39 @@
   </tr>
 
   <tr>
-    <td>42.</td>
+    <td>39.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aTdYVG1MRnY5NXVVbys5aEhuYU9hUnhnZ1g0R3FLVkNaNUZRODNEVkMvcz0=" target="_blank"> F1.nbai.live </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aTdYVG1MRnY5NXVVbys5aEhuYU9hUnhnZ1g0R3FLVkNaNUZRODNEVkMvcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>40.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WGxiTzFhc3I5UlBsSVZ1WG1kbnVLK29WUUhYelJUbmg1aU9ES0YxaEJQdz0=" target="_blank"> Smart-chat.xiami.one </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WGxiTzFhc3I5UlBsSVZ1WG1kbnVLK29WUUhYelJUbmg1aU9ES0YxaEJQdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>41.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=aXpqRGZkZHFZK1pwUHZMMThyYURNazZFd3U5dU4yKzJTTjV6SitYTGkxcz0=" target="_blank"> Toyaml.com </a> </td>
     <td>😄</td>
     <td></td> 
     <td><a href="https://day0424.ai55.cc/url/?id=aXpqRGZkZHFZK1pwUHZMMThyYURNazZFd3U5dU4yKzJTTjV6SitYTGkxcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>42.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-robot2-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank"> Index.chat.bnu120.sapce </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -441,20 +441,20 @@
 
   <tr>
     <td>46.</td>
-    <td><img src="https://st.ai55.cc/favicon/chat.forefront.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank"> Chat.forefront.ai </a> </td>
-    <td>🛫🔑😄</td>
-    <td>需要登陆 https://github.com/xx025/carrot/issues/351</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>47.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=UGJrY0hSV00yb3cvdk1HSnRVeG5BVmRvT0JkVlJZNkFvY3RjMmRoRWM1ST0=" target="_blank"> Chat.cutim.top </a> </td>
     <td>🛫</td>
     <td></td> 
     <td><a href="https://day0424.ai55.cc/url/?id=UGJrY0hSV00yb3cvdk1HSnRVeG5BVmRvT0JkVlJZNkFvY3RjMmRoRWM1ST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>47.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.forefront.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank"> Chat.forefront.ai </a> </td>
+    <td>🛫🔑😄</td>
+    <td>需要登陆 https://github.com/xx025/carrot/issues/351</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -486,20 +486,20 @@
 
   <tr>
     <td>51.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank"> Nbchat.github.io </a> </td>
-    <td>🛫😄⭐ </td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>52.</td>
     <td><img src="https://st.ai55.cc/favicon/chat.fdkang.top.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=b3V4QmVMOUVVQW1PalZZcFJhbjFTdlRseEl3c0F6TStIdFNncXNzd1RZVT0=" target="_blank"> Chat.fdkang.top </a> </td>
     <td>😄 </td>
     <td></td> 
     <td><a href="https://day0424.ai55.cc/url/?id=b3V4QmVMOUVVQW1PalZZcFJhbjFTdlRseEl3c0F6TStIdFNncXNzd1RZVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>52.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank"> Nbchat.github.io </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -568,19 +568,19 @@
   <tr>
     <td>60.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank"> Chat05.aivesa.site </a> </td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UmJhS3FndlJtRkFoYks1MEFEVlAza1U1dStvTXMvSkZHOGJqTDRMcGgwMD0=" target="_blank"> Aaang.cc </a> </td>
     <td>🔑</td>
-    <td>https://github.com/xx025/carrot/issues/386</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank">🔗 </a> </td> 
+    <td>https://github.com/xx025/carrot/issues/398</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UmJhS3FndlJtRkFoYks1MEFEVlAza1U1dStvTXMvSkZHOGJqTDRMcGgwMD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>61.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UmJhS3FndlJtRkFoYks1MEFEVlAza1U1dStvTXMvSkZHOGJqTDRMcGgwMD0=" target="_blank"> Aaang.cc </a> </td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank"> Chat05.aivesa.site </a> </td>
     <td>🔑</td>
-    <td>https://github.com/xx025/carrot/issues/398</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UmJhS3FndlJtRkFoYks1MEFEVlAza1U1dStvTXMvSkZHOGJqTDRMcGgwMD0=" target="_blank">🔗 </a> </td> 
+    <td>https://github.com/xx025/carrot/issues/386</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -594,20 +594,20 @@
 
   <tr>
     <td>63.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank"> Chat.darricks.net </a> </td>
-    <td>🆕🔑</td>
-    <td>密码：j-2004</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>64.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=ai.captnemo.xyz" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=YXdEaVJJSEdEVzNsWHcwTFJsYWNBdW9DUEJ6Z1FZVU9CNGtoWG1OUVFOQT0=" target="_blank"> Ai.captnemo.xyz </a> </td>
     <td>🔑</td>
     <td>https://github.com/xx025/carrot/issues/380</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=YXdEaVJJSEdEVzNsWHcwTFJsYWNBdW9DUEJ6Z1FZVU9CNGtoWG1OUVFOQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>64.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank"> Chat.darricks.net </a> </td>
+    <td>🆕🔑</td>
+    <td>密码：j-2004</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -621,6 +621,15 @@
 
   <tr>
     <td>66.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank"> Gpt6.fun </a> </td>
+    <td>🔑</td>
+    <td>https://github.com/xx025/carrot/issues/359</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>67.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=VEpqUGgvdlRmYU5MNVE4V1laekU2c1E3Y3d4U21oeCs2RTc4OVdMVlJsTldjZVlRQzJLT1NsdCt1RldDUWorYw==" target="_blank"> Ai.usesless.com </a> </td>
     <td>🔑</td>
@@ -629,21 +638,12 @@
   </tr>
 
   <tr>
-    <td>67.</td>
+    <td>68.</td>
     <td><img src="https://st.ai55.cc/favicon/mst.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=ck4xVmNta2J1YnN3TzJkeVdEbngxTU1XRnhrNVJsZ0tOSk93MDVvQWlvND0=" target="_blank"> Mst.ai </a> </td>
     <td>🆕🔑</td>
     <td>https://github.com/xx025/carrot/issues/411</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=ck4xVmNta2J1YnN3TzJkeVdEbngxTU1XRnhrNVJsZ0tOSk93MDVvQWlvND0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>68.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank"> Gpt6.fun </a> </td>
-    <td>🔑</td>
-    <td>https://github.com/xx025/carrot/issues/359</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -684,15 +684,6 @@
 
   <tr>
     <td>73.</td>
-    <td><img src="https://st.ai55.cc/favicon/teach-anything.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank"> Teach-anything.com </a> </td>
-    <td>🛫</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>74.</td>
     <td><img src="https://st.ai55.cc/favicon/gpt.getshare.net.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=VXVKRnAxYitKWGxtWXREbmtLZlZCOTh6WHR0MjlScVNEK3ZGVDBqZm80Yz0=" target="_blank"> Gpt.getshare.net </a> </td>
     <td>🛫</td>
@@ -701,16 +692,16 @@
   </tr>
 
   <tr>
-    <td>75.</td>
-    <td><img src="https://st.ai55.cc/favicon/openprompt.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank"> Openprompt.co </a> </td>
+    <td>74.</td>
+    <td><img src="https://st.ai55.cc/favicon/xc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank"> Xc.com </a> </td>
     <td>🛫</td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>76.</td>
+    <td>75.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=UE5rZzJBcDV6NThLY1crYlBCYVltYmNHU2VZTjVXaGZpZ0owQkFxdkFWND0=" target="_blank"> 94gpt.com </a> </td>
     <td>🛫</td>
@@ -719,12 +710,21 @@
   </tr>
 
   <tr>
-    <td>77.</td>
-    <td><img src="https://st.ai55.cc/favicon/xc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank"> Xc.com </a> </td>
+    <td>76.</td>
+    <td><img src="https://st.ai55.cc/favicon/teach-anything.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank"> Teach-anything.com </a> </td>
     <td>🛫</td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>77.</td>
+    <td><img src="https://st.ai55.cc/favicon/openprompt.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank"> Openprompt.co </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -781,11 +781,11 @@
 
   <tr>
     <td>1.</td>
-    <td><img src="https://st.ai55.cc/favicon/zhoubaotong.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank"> Zhoubaotong.com </a> </td>
-    <td>🛫</td>
-    <td>周报通</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank">🔗 </a> </td> 
+    <td><img src="https://st.ai55.cc/favicon/chatdoc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank"> Chatdoc.com </a> </td>
+    <td>🆕🔑</td>
+    <td>[Chat Docs] ChatGPT读取文档，阅读文档好帮手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -799,123 +799,6 @@
 
   <tr>
     <td>3.</td>
-    <td><img src="https://st.ai55.cc/favicon/chatexcel.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank"> Chatexcel.com </a> </td>
-    <td></td>
-    <td>AI 表格助手</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>4.</td>
-    <td><img src="https://st.ai55.cc/favicon/typeset.io.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank"> Typeset.io </a> </td>
-    <td>🛫</td>
-    <td>AI文秘助手</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>5.</td>
-    <td><img src="https://st.ai55.cc/favicon/jimmylv.cn.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank"> B.jimmylv.cn </a> </td>
-    <td></td>
-    <td>AI B站总结</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>6.</td>
-    <td><img src="https://st.ai55.cc/favicon/yiyan.baidu.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank"> Yiyan.baidu.com </a> </td>
-    <td></td>
-    <td>BaiDu 文心一言</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>7.</td>
-    <td><img src="https://st.ai55.cc/favicon/cluebenchmarks.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank"> Cluebenchmarks.com </a> </td>
-    <td></td>
-    <td>ClueAI</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>8.</td>
-    <td><img src="https://st.ai55.cc/favicon/chatdoc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank"> Chatdoc.com </a> </td>
-    <td>🆕🔑</td>
-    <td>[Chat Docs] ChatGPT读取文档，阅读文档好帮手</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>9.</td>
-    <td><img src="https://st.ai55.cc/favicon/aicolors.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank"> Aicolors.co </a> </td>
-    <td>🛫 </td>
-    <td>AI Colors</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>10.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai.free-tools.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank"> Ai.free-tools.cn </a> </td>
-    <td> </td>
-    <td>AI 工具箱</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>11.</td>
-    <td><img src="https://st.ai55.cc/favicon/deepl.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank"> Deepl.com </a> </td>
-    <td> </td>
-    <td>DeepL写作</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>12.</td>
-    <td><img src="https://st.ai55.cc/favicon/heyfriday.cn.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank"> Heyfriday.cn </a> </td>
-    <td> </td>
-    <td>智能写作</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>13.</td>
-    <td><img src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank"> Xiezuocat.com </a> </td>
-    <td> </td>
-    <td>密塔写作猫</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>14.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=wenzhang.zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank"> Wenzhang.zhuluan.com </a> </td>
-    <td> </td>
-    <td>AI文章生成器</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>15.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=motion.yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank"> Motion.yoo-ai.com </a> </td>
-    <td> </td>
-    <td>ChatPPT</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>16.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=easyai.fun" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=d2k3cm5CNS9BaElQRlNrMTlQUlBmMjhIZTVJZTdhcnNLNnRKTmw1NitoMD0=" target="_blank"> Easyai.fun </a> </td>
     <td></td>
@@ -924,43 +807,34 @@
   </tr>
 
   <tr>
-    <td>17.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank"> Jasper.ai </a> </td>
+    <td>4.</td>
+    <td><img src="https://st.ai55.cc/favicon/ssw9noe1h6.feishu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank"> Ssw9noe1h6.feishu.cn </a> </td>
     <td></td>
-    <td>AI 创作</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank">🔗 </a> </td> 
+    <td>AI 知识库</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>18.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=writesonic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank"> Writesonic.com </a> </td>
-    <td></td>
-    <td>AI 创作</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank">🔗 </a> </td> 
+    <td>5.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=motion.yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank"> Motion.yoo-ai.com </a> </td>
+    <td> </td>
+    <td>ChatPPT</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>19.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank"> Notion.so </a> </td>
-    <td></td>
-    <td>AI 写作</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank">🔗 </a> </td> 
+    <td>6.</td>
+    <td><img src="https://st.ai55.cc/favicon/deepl.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank"> Deepl.com </a> </td>
+    <td> </td>
+    <td>DeepL写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>20.</td>
-    <td><img src="https://raw.githubusercontent.com/onepointAI/onepoint/main/assets/icon/icon64.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank"> 1ptai.com </a> </td>
-    <td>😄</td>
-    <td>onepoint</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>21.</td>
+    <td>7.</td>
     <td><img src="https://st.ai55.cc/favicon/dyrt.me.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=V3VveE5Lc2VLM2QxVjNDMW02UDcraFNSaTloSTJBMmp4Nm1MUTFZdWZ2ST0=" target="_blank"> Dyrt.me </a> </td>
     <td></td>
@@ -969,12 +843,138 @@
   </tr>
 
   <tr>
-    <td>22.</td>
-    <td><img src="https://st.ai55.cc/favicon/ssw9noe1h6.feishu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank"> Ssw9noe1h6.feishu.cn </a> </td>
+    <td>8.</td>
+    <td><img src="https://st.ai55.cc/favicon/heyfriday.cn.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank"> Heyfriday.cn </a> </td>
+    <td> </td>
+    <td>智能写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank"> Notion.so </a> </td>
     <td></td>
-    <td>AI 知识库</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank">🔗 </a> </td> 
+    <td>AI 写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=wenzhang.zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank"> Wenzhang.zhuluan.com </a> </td>
+    <td> </td>
+    <td>AI文章生成器</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank"> Jasper.ai </a> </td>
+    <td></td>
+    <td>AI 创作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>12.</td>
+    <td><img src="https://st.ai55.cc/favicon/yiyan.baidu.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank"> Yiyan.baidu.com </a> </td>
+    <td></td>
+    <td>BaiDu 文心一言</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>13.</td>
+    <td><img src="https://st.ai55.cc/favicon/jimmylv.cn.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank"> B.jimmylv.cn </a> </td>
+    <td></td>
+    <td>AI B站总结</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>14.</td>
+    <td><img src="https://st.ai55.cc/favicon/cluebenchmarks.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank"> Cluebenchmarks.com </a> </td>
+    <td></td>
+    <td>ClueAI</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><img src="https://st.ai55.cc/favicon/chatexcel.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank"> Chatexcel.com </a> </td>
+    <td></td>
+    <td>AI 表格助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td><img src="https://raw.githubusercontent.com/onepointAI/onepoint/main/assets/icon/icon64.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank"> 1ptai.com </a> </td>
+    <td>😄</td>
+    <td>onepoint</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>17.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=writesonic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank"> Writesonic.com </a> </td>
+    <td></td>
+    <td>AI 创作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>18.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.free-tools.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank"> Ai.free-tools.cn </a> </td>
+    <td> </td>
+    <td>AI 工具箱</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td><img src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank"> Xiezuocat.com </a> </td>
+    <td> </td>
+    <td>密塔写作猫</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>20.</td>
+    <td><img src="https://st.ai55.cc/favicon/zhoubaotong.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank"> Zhoubaotong.com </a> </td>
+    <td>🛫</td>
+    <td>周报通</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>21.</td>
+    <td><img src="https://st.ai55.cc/favicon/aicolors.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank"> Aicolors.co </a> </td>
+    <td>🛫 </td>
+    <td>AI Colors</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>22.</td>
+    <td><img src="https://st.ai55.cc/favicon/typeset.io.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank"> Typeset.io </a> </td>
+    <td>🛫</td>
+    <td>AI文秘助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
@@ -1263,114 +1263,6 @@
 
   <tr>
     <td>2.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=nav.6aiq.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=d3VmTkowSElUUGNwMng5ZDRJdEhKQVVFTlNGbWgzM3pSdDZreDUvMXl6UT0=" target="_blank"> Nav.6aiq.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=d3VmTkowSElUUGNwMng5ZDRJdEhKQVVFTlNGbWgzM3pSdDZreDUvMXl6UT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>3.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aihub.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RFdFUmVucVlyMFNIWTV2Z2JDY2thRkM3MndHZ0p0UjRaUkJIMG5LakJvRT0=" target="_blank"> Aihub.cn </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RFdFUmVucVlyMFNIWTV2Z2JDY2thRkM3MndHZ0p0UjRaUkJIMG5LakJvRT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>4.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=hayo.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=eVBIUmM1d3lJQmQ5NFhxMUV6Q2dDem1VTVBoVXNqd3dFMkJmcGhpYUFubz0=" target="_blank"> Hayo.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=eVBIUmM1d3lJQmQ5NFhxMUV6Q2dDem1VTVBoVXNqd3dFMkJmcGhpYUFubz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>5.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aigc.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=SnhUMUxTV01DaDIzWGdCa0NhL0JzbnZ6S0Nua0JDL3k3ekhlQlAzU0VCND0=" target="_blank"> Aigc.cn </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=SnhUMUxTV01DaDIzWGdCa0NhL0JzbnZ6S0Nua0JDL3k3ekhlQlAzU0VCND0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>6.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai.94kan.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=QzZMU05YaUZ3RlNSVG03cEVOQ1hReTVPVTFibFIyY0RnR1dmd1g4QWd4ST0=" target="_blank"> Ai.94kan.cn </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=QzZMU05YaUZ3RlNSVG03cEVOQ1hReTVPVTFibFIyY0RnR1dmd1g4QWd4ST0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>7.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai-bot.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=QzYxNEJjUTYzSDY4bjYwcHJSc2RocFBLTU1BY2RCZU55dUdDc0VVaWR3RT0=" target="_blank"> Ai-bot.cn </a> </td>
-    <td>😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=QzYxNEJjUTYzSDY4bjYwcHJSc2RocFBLTU1BY2RCZU55dUdDc0VVaWR3RT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>8.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=allthingsai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=NEt4K3d4OFUyenpSUTZNejhDVHpnUUVTV3hGWE94ZVZURDE2SWxlanZVOD0=" target="_blank"> Allthingsai.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=NEt4K3d4OFUyenpSUTZNejhDVHpnUUVTV3hGWE94ZVZURDE2SWxlanZVOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>9.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aiwaytools.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UktDaWxYMGZxSzFSNklFTUZNTTFJSHp3b0tiOEFmVE9HL1JKc2xtUHJ3Zz0=" target="_blank"> Aiwaytools.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UktDaWxYMGZxSzFSNklFTUZNTTFJSHp3b0tiOEFmVE9HL1JKc2xtUHJ3Zz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>10.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=cooltools.top" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=OEYxVGE2TFBqenQ4c3JFNXhsd1k1RkREWG1iOUZ3L2hWb3pvam1oYjJ4dz0=" target="_blank"> Cooltools.top </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=OEYxVGE2TFBqenQ4c3JFNXhsd1k1RkREWG1iOUZ3L2hWb3pvam1oYjJ4dz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>11.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=saasaitools.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=NDU1ek1ocFBUc25mcVJzUlArMndMRVYrUVY1RVE1RUpkY1NCRlFvSnlPbz0=" target="_blank"> Saasaitools.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=NDU1ek1ocFBUc25mcVJzUlArMndMRVYrUVY1RVE1RUpkY1NCRlFvSnlPbz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>12.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=toptools.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bkdaL1BnT1h5TWJJMnVnZkhBWm1PVWhYRjAyNEVtakQzU3VnbXlCVVNjTT0=" target="_blank"> Toptools.ai </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bkdaL1BnT1h5TWJJMnVnZkhBWm1PVWhYRjAyNEVtakQzU3VnbXlCVVNjTT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>13.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aiagc.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=UHBYZXhac2hueXdtSlNuU0lDT3VvcGRBTExIVXNYODZGZHdKRW0zUzNBRT0=" target="_blank"> Aiagc.com </a> </td>
-    <td>😄</td>
-    <td>AIAGC 导航</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=UHBYZXhac2hueXdtSlNuU0lDT3VvcGRBTExIVXNYODZGZHdKRW0zUzNBRT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>14.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=explainthis.io" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=TUg5ZldlRHMzQjBTWlNQcmh2a2J2TVlIeG1GZUR1cnJGbXoweXVKMUJTQ2hrQk1uZjlEOGYvenlndGs4TlNtSQ==" target="_blank"> Explainthis.io </a> </td>
     <td></td>
@@ -1379,178 +1271,16 @@
   </tr>
 
   <tr>
-    <td>15.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=yuque.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=dTVkK1MwenpQZzBGT0E3b3BHR3hHa2xhUWlQMFB3VFRGdE9lYWhZUTFVOEdxK3ZhOEgzQlc1ZTEvaktZMEM2Y1MvbVBGbEpoOGkxZENtU3MxaWFINVVERWQ3TFBzME4xNWJsbVNpZmxMcmJSa09RUm9nbkxhN3grejROd04yQ0k=" target="_blank"> Yuque.com </a> </td>
+    <td>3.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=allthingsai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=NEt4K3d4OFUyenpSUTZNejhDVHpnUUVTV3hGWE94ZVZURDE2SWxlanZVOD0=" target="_blank"> Allthingsai.com </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=dTVkK1MwenpQZzBGT0E3b3BHR3hHa2xhUWlQMFB3VFRGdE9lYWhZUTFVOEdxK3ZhOEgzQlc1ZTEvaktZMEM2Y1MvbVBGbEpoOGkxZENtU3MxaWFINVVERWQ3TFBzME4xNWJsbVNpZmxMcmJSa09RUm9nbkxhN3grejROd04yQ0k=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=NEt4K3d4OFUyenpSUTZNejhDVHpnUUVTV3hGWE94ZVZURDE2SWxlanZVOD0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>16.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aitoolist.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpMW5vOVBjOFFSbC9lM3FNdVRtVEZFdz0=" target="_blank"> Aitoolist.cn </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpMW5vOVBjOFFSbC9lM3FNdVRtVEZFdz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>17.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=17wanai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=U2p5UHlSM3MyUTh3MWp2QnZqZUlUNWFMdW16S1hzdHhqYWQ5NG1qWVJ5OD0=" target="_blank"> 17wanai.com </a> </td>
-    <td></td>
-    <td>一起玩AI , AI 导航</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=U2p5UHlSM3MyUTh3MWp2QnZqZUlUNWFMdW16S1hzdHhqYWQ5NG1qWVJ5OD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>18.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=hao.uisdc.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=Rm1GTERqbE9RcFJkZ28zbG55M3d3VXppeVd4OU9ObnZvRUN6VmE1NzltUT0=" target="_blank"> Hao.uisdc.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=Rm1GTERqbE9RcFJkZ28zbG55M3d3VXppeVd4OU9ObnZvRUN6VmE1NzltUT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>19.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai.tboxn.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RjFqSHZ1VGFHdnJ3dlNIR1A3bk5hYWRlKytpdUZPVCsvM0EvMnp3Ym5Sbz0=" target="_blank"> Ai.tboxn.com </a> </td>
-    <td>😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RjFqSHZ1VGFHdnJ3dlNIR1A3bk5hYWRlKytpdUZPVCsvM0EvMnp3Ym5Sbz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>20.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ainav.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=K2tNc0l0emFFcEp5eWpKOUxlek1MVmxKeGJOTFNDdHpsMFhzMnh0TTNPYz0=" target="_blank"> Ainav.cn </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=K2tNc0l0emFFcEp5eWpKOUxlek1MVmxKeGJOTFNDdHpsMFhzMnh0TTNPYz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>21.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aitime.space" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=WmFIcm1EVlcrc2h5czZMVnBuOXFiRS9YWHorVnJpYTVqM1pvZXRjZDdlaz0=" target="_blank"> Aitime.space </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=WmFIcm1EVlcrc2h5czZMVnBuOXFiRS9YWHorVnJpYTVqM1pvZXRjZDdlaz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>22.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai.kcodez.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=cGhtTVd1TGJoL2tUZjJrcm5ZdXMzLzFLWG1hZlNZbmlEdlZaNWdNMjlWRT0=" target="_blank"> Ai.kcodez.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=cGhtTVd1TGJoL2tUZjJrcm5ZdXMzLzFLWG1hZlNZbmlEdlZaNWdNMjlWRT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>23.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=zhexieai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=NWZwaHlHcFdpQmRnYUwveHpnc0U0a2Jmc2g3Zms4V1lweXVVdm1ZSjNXZz0=" target="_blank"> Zhexieai.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=NWZwaHlHcFdpQmRnYUwveHpnc0U0a2Jmc2g3Zms4V1lweXVVdm1ZSjNXZz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>24.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=theaivalley.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=OTdwdjltS2taM01oejd0R1MrSm4zamxnMnY4dkVhVnNqWjU2cWxJT2RnTT0=" target="_blank"> Theaivalley.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=OTdwdjltS2taM01oejd0R1MrSm4zamxnMnY4dkVhVnNqWjU2cWxJT2RnTT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>25.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ainavtool.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=cS96SU80ZUFRY3Y0UUZWR01OUTVSa3VESzl1Z1pNUndqaSs4U0xENUhzTT0=" target="_blank"> Ainavtool.com </a> </td>
-    <td>😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=cS96SU80ZUFRY3Y0UUZWR01OUTVSa3VESzl1Z1pNUndqaSs4U0xENUhzTT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>26.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=creaitives.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=bEhjcUdnK1NhWWF0Y0kvY1BMTUJFU0ROb1dxMEpacVBybDRvMDRJTVlyZ0I3MnY2ekJyWnNUby9OMUZmY0d5Qg==" target="_blank"> Creaitives.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=bEhjcUdnK1NhWWF0Y0kvY1BMTUJFU0ROb1dxMEpacVBybDRvMDRJTVlyZ0I3MnY2ekJyWnNUby9OMUZmY0d5Qg==" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>27.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=easywithai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aWhNTFRLM0RUeVgzbkl6VHEzeUdrb2pEL0IzbVlrWTNNQ0Rad2l0Q05Pdz0=" target="_blank"> Easywithai.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aWhNTFRLM0RUeVgzbkl6VHEzeUdrb2pEL0IzbVlrWTNNQ0Rad2l0Q05Pdz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>28.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aitoolsdirectory.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=b2kvdkpLeGp4eUlHUFdrRS93alpzZkc3TC9EVlMvS0NhQnJIZmNWbFlEUT0=" target="_blank"> Aitoolsdirectory.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=b2kvdkpLeGp4eUlHUFdrRS93alpzZkc3TC9EVlMvS0NhQnJIZmNWbFlEUT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>29.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=deepdh.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtR040NWxTZndPNThjQjhyRURzcGdDQT0=" target="_blank"> Deepdh.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtR040NWxTZndPNThjQjhyRURzcGdDQT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>30.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=myaiorz.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=TDRYYUxDdW5jcEtNZ2k0eXNrMkdHWWJETW5HSUZTL2lkUlFhcWZmb3R0UT0=" target="_blank"> Myaiorz.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=TDRYYUxDdW5jcEtNZ2k0eXNrMkdHWWJETW5HSUZTL2lkUlFhcWZmb3R0UT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>31.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aitoolnavigation.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpeUhTU2xNRXV6cEI4TGg3bU12VVh4Ky80UkpjUEJsWlNLUTFPbXJtRWZ5Qg==" target="_blank"> Aitoolnavigation.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpeUhTU2xNRXV6cEI4TGg3bU12VVh4Ky80UkpjUEJsWlNLUTFPbXJtRWZ5Qg==" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>32.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=futuretools.io" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNeEQreTM5NFlwR2cySzBmUUJCK2ZTVT0=" target="_blank"> Futuretools.io </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNeEQreTM5NFlwR2cySzBmUUJCK2ZTVT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>33.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aiyjs.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=NW9rUTdKWXMvTDZNTldFWXNsZTk5Sk1jNXFyMjUyclRramxPbnREeTBtQT0=" target="_blank"> Aiyjs.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=NW9rUTdKWXMvTDZNTldFWXNsZTk5Sk1jNXFyMjUyclRramxPbnREeTBtQT0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>34.</td>
+    <td>4.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=ainavpro.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=K2tNc0l0emFFcEp5eWpKOUxlek1MWXlqRHp0TEdwOURFTXV0bFhhTWJKVT0=" target="_blank"> Ainavpro.com </a> </td>
     <td></td>
@@ -1559,52 +1289,79 @@
   </tr>
 
   <tr>
-    <td>35.</td>
-    <td><img src="https://st.ai55.cc/favicon/ai-pig-fly.space.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=WDZoZVQzQURvT3hxME5GNmhqQXhOREYwQ2Nib2dOTXlqb1hjWFNZdVViOD0=" target="_blank"> Ai-pig-fly.space </a> </td>
-    <td>😄</td>
-    <td> ChatGPT 全球站点整合</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=WDZoZVQzQURvT3hxME5GNmhqQXhOREYwQ2Nib2dOTXlqb1hjWFNZdVViOD0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>36.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=feizhuke.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=M2wwTGxDVlMvVFdaTHJPMUFOUXZsQ3EzV21MNUR1ZmtsM2JIZU10VFNUcz0=" target="_blank"> Feizhuke.com </a> </td>
+    <td>5.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=0mo.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MGlEK3pjUlpVc0lwQ2JEa3FWM2I4WG5WeFlYWmxPSjF5ODNybi9jWG9Gcz0=" target="_blank"> 0mo.com </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=M2wwTGxDVlMvVFdaTHJPMUFOUXZsQ3EzV21MNUR1ZmtsM2JIZU10VFNUcz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MGlEK3pjUlpVc0lwQ2JEa3FWM2I4WG5WeFlYWmxPSjF5ODNybi9jWG9Gcz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>37.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=topai.tools" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=K21seHZqcWVXWGNlb0QxQ05HbGErdWRCN0tvV1I5VFBMWjFXekxZZVlFYz0=" target="_blank"> Topai.tools </a> </td>
+    <td>6.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=zhexieai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=NWZwaHlHcFdpQmRnYUwveHpnc0U0a2Jmc2g3Zms4V1lweXVVdm1ZSjNXZz0=" target="_blank"> Zhexieai.com </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=K21seHZqcWVXWGNlb0QxQ05HbGErdWRCN0tvV1I5VFBMWjFXekxZZVlFYz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=NWZwaHlHcFdpQmRnYUwveHpnc0U0a2Jmc2g3Zms4V1lweXVVdm1ZSjNXZz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>38.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aichaodian.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=NUhiVEhOSVFDR1BXTFlDdjhZNk1rVG5HWGNUbE1IUWZrSVkyUmsvUmsyaz0=" target="_blank"> Aichaodian.com </a> </td>
-    <td>😄</td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=NUhiVEhOSVFDR1BXTFlDdjhZNk1rVG5HWGNUbE1IUWZrSVkyUmsvUmsyaz0=" target="_blank">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>39.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=futurepedia.io" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNMlI1NnExWmk3U0VhN1kzYkpGcXpQND0=" target="_blank"> Futurepedia.io </a> </td>
+    <td>7.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=deepdh.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtR040NWxTZndPNThjQjhyRURzcGdDQT0=" target="_blank"> Deepdh.com </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNMlI1NnExWmk3U0VhN1kzYkpGcXpQND0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtR040NWxTZndPNThjQjhyRURzcGdDQT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>40.</td>
+    <td>8.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aitime.space" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WmFIcm1EVlcrc2h5czZMVnBuOXFiRS9YWHorVnJpYTVqM1pvZXRjZDdlaz0=" target="_blank"> Aitime.space </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WmFIcm1EVlcrc2h5czZMVnBuOXFiRS9YWHorVnJpYTVqM1pvZXRjZDdlaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=futuretools.io" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNeEQreTM5NFlwR2cySzBmUUJCK2ZTVT0=" target="_blank"> Futuretools.io </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNeEQreTM5NFlwR2cySzBmUUJCK2ZTVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=creaitives.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bEhjcUdnK1NhWWF0Y0kvY1BMTUJFU0ROb1dxMEpacVBybDRvMDRJTVlyZ0I3MnY2ekJyWnNUby9OMUZmY0d5Qg==" target="_blank"> Creaitives.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bEhjcUdnK1NhWWF0Y0kvY1BMTUJFU0ROb1dxMEpacVBybDRvMDRJTVlyZ0I3MnY2ekJyWnNUby9OMUZmY0d5Qg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aihub.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RFdFUmVucVlyMFNIWTV2Z2JDY2thRkM3MndHZ0p0UjRaUkJIMG5LakJvRT0=" target="_blank"> Aihub.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RFdFUmVucVlyMFNIWTV2Z2JDY2thRkM3MndHZ0p0UjRaUkJIMG5LakJvRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>12.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aiwaytools.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UktDaWxYMGZxSzFSNklFTUZNTTFJSHp3b0tiOEFmVE9HL1JKc2xtUHJ3Zz0=" target="_blank"> Aiwaytools.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UktDaWxYMGZxSzFSNklFTUZNTTFJSHp3b0tiOEFmVE9HL1JKc2xtUHJ3Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>13.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=iforai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=MElMd3MwNGM1WXI3cnVobXdlVmRMd09TazdYYXpzdUE2MjlKMXVlTERadz0=" target="_blank"> Iforai.com </a> </td>
     <td></td>
@@ -1613,7 +1370,34 @@
   </tr>
 
   <tr>
-    <td>41.</td>
+    <td>14.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=theaivalley.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=OTdwdjltS2taM01oejd0R1MrSm4zamxnMnY4dkVhVnNqWjU2cWxJT2RnTT0=" target="_blank"> Theaivalley.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=OTdwdjltS2taM01oejd0R1MrSm4zamxnMnY4dkVhVnNqWjU2cWxJT2RnTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=easywithai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhNTFRLM0RUeVgzbkl6VHEzeUdrb2pEL0IzbVlrWTNNQ0Rad2l0Q05Pdz0=" target="_blank"> Easywithai.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhNTFRLM0RUeVgzbkl6VHEzeUdrb2pEL0IzbVlrWTNNQ0Rad2l0Q05Pdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=nav.6aiq.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=d3VmTkowSElUUGNwMng5ZDRJdEhKQVVFTlNGbWgzM3pSdDZreDUvMXl6UT0=" target="_blank"> Nav.6aiq.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=d3VmTkowSElUUGNwMng5ZDRJdEhKQVVFTlNGbWgzM3pSdDZreDUvMXl6UT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>17.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=aidepot.co" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=ejBXMnZYV08zUWN3cEtWTjErK0NZTFdsVy9vMHY1Z2h1MmQwNzY2Y0RYRT0=" target="_blank"> Aidepot.co </a> </td>
     <td></td>
@@ -1622,25 +1406,43 @@
   </tr>
 
   <tr>
-    <td>42.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aitoolhunt.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpejdnSE0rQTVKREhYTFVJR0M1b2pKaz0=" target="_blank"> Aitoolhunt.com </a> </td>
-    <td></td>
-    <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpejdnSE0rQTVKREhYTFVJR0M1b2pKaz0=" target="_blank">🔗 </a> </td> 
+    <td>18.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aiagc.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UHBYZXhac2hueXdtSlNuU0lDT3VvcGRBTExIVXNYODZGZHdKRW0zUzNBRT0=" target="_blank"> Aiagc.com </a> </td>
+    <td>😄</td>
+    <td>AIAGC 导航</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UHBYZXhac2hueXdtSlNuU0lDT3VvcGRBTExIVXNYODZGZHdKRW0zUzNBRT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>43.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=ai-lib.club" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=djd4QzJIU0JXSzBESDdobERTaEFURGxrQzJqbExMQnJrdUJyS2J5em01ST0=" target="_blank"> Ai-lib.club </a> </td>
+    <td>19.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=futurepedia.io" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNMlI1NnExWmk3U0VhN1kzYkpGcXpQND0=" target="_blank"> Futurepedia.io </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=djd4QzJIU0JXSzBESDdobERTaEFURGxrQzJqbExMQnJrdUJyS2J5em01ST0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L3NweFVCcFQ1eTVINndYdUpQcDBNMlI1NnExWmk3U0VhN1kzYkpGcXpQND0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>44.</td>
+    <td>20.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.tboxn.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RjFqSHZ1VGFHdnJ3dlNIR1A3bk5hYWRlKytpdUZPVCsvM0EvMnp3Ym5Sbz0=" target="_blank"> Ai.tboxn.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RjFqSHZ1VGFHdnJ3dlNIR1A3bk5hYWRlKytpdUZPVCsvM0EvMnp3Ym5Sbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>21.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.kcodez.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cGhtTVd1TGJoL2tUZjJrcm5ZdXMzLzFLWG1hZlNZbmlEdlZaNWdNMjlWRT0=" target="_blank"> Ai.kcodez.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cGhtTVd1TGJoL2tUZjJrcm5ZdXMzLzFLWG1hZlNZbmlEdlZaNWdNMjlWRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>22.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=tuyiyi.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=SWRXMjZ5dFN3ZzMvdkFSUTJySUM4dzY4TkFqVWduY0tvZlozb21ySlh1UT0=" target="_blank"> Tuyiyi.com </a> </td>
     <td></td>
@@ -1649,16 +1451,106 @@
   </tr>
 
   <tr>
-    <td>45.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=uxmap.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=SG1OWFlUQU1jVGVaYnBNeUpXTWJmN21rbmVJbjNFbmM4eDR2QUV1RGdZK2l6MTdNREc1UVJkalV0K1poRUsyb0ZMMGIyYko4eWVmeGt5U3NtZkxmclE9PQ==" target="_blank"> Uxmap.cn </a> </td>
+    <td>23.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aitoolsdirectory.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=b2kvdkpLeGp4eUlHUFdrRS93alpzZkc3TC9EVlMvS0NhQnJIZmNWbFlEUT0=" target="_blank"> Aitoolsdirectory.com </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=SG1OWFlUQU1jVGVaYnBNeUpXTWJmN21rbmVJbjNFbmM4eDR2QUV1RGdZK2l6MTdNREc1UVJkalV0K1poRUsyb0ZMMGIyYko4eWVmeGt5U3NtZkxmclE9PQ==" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=b2kvdkpLeGp4eUlHUFdrRS93alpzZkc3TC9EVlMvS0NhQnJIZmNWbFlEUT0=" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
-    <td>46.</td>
+    <td>24.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai-lib.club" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=djd4QzJIU0JXSzBESDdobERTaEFURGxrQzJqbExMQnJrdUJyS2J5em01ST0=" target="_blank"> Ai-lib.club </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=djd4QzJIU0JXSzBESDdobERTaEFURGxrQzJqbExMQnJrdUJyS2J5em01ST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>25.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.94kan.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QzZMU05YaUZ3RlNSVG03cEVOQ1hReTVPVTFibFIyY0RnR1dmd1g4QWd4ST0=" target="_blank"> Ai.94kan.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QzZMU05YaUZ3RlNSVG03cEVOQ1hReTVPVTFibFIyY0RnR1dmd1g4QWd4ST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>26.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=17wanai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=U2p5UHlSM3MyUTh3MWp2QnZqZUlUNWFMdW16S1hzdHhqYWQ5NG1qWVJ5OD0=" target="_blank"> 17wanai.com </a> </td>
+    <td></td>
+    <td>一起玩AI , AI 导航</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=U2p5UHlSM3MyUTh3MWp2QnZqZUlUNWFMdW16S1hzdHhqYWQ5NG1qWVJ5OD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>27.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=myaiorz.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TDRYYUxDdW5jcEtNZ2k0eXNrMkdHWWJETW5HSUZTL2lkUlFhcWZmb3R0UT0=" target="_blank"> Myaiorz.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TDRYYUxDdW5jcEtNZ2k0eXNrMkdHWWJETW5HSUZTL2lkUlFhcWZmb3R0UT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>28.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=topai.tools" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=K21seHZqcWVXWGNlb0QxQ05HbGErdWRCN0tvV1I5VFBMWjFXekxZZVlFYz0=" target="_blank"> Topai.tools </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=K21seHZqcWVXWGNlb0QxQ05HbGErdWRCN0tvV1I5VFBMWjFXekxZZVlFYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>29.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ainavtool.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cS96SU80ZUFRY3Y0UUZWR01OUTVSa3VESzl1Z1pNUndqaSs4U0xENUhzTT0=" target="_blank"> Ainavtool.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cS96SU80ZUFRY3Y0UUZWR01OUTVSa3VESzl1Z1pNUndqaSs4U0xENUhzTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>30.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai-bot.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QzYxNEJjUTYzSDY4bjYwcHJSc2RocFBLTU1BY2RCZU55dUdDc0VVaWR3RT0=" target="_blank"> Ai-bot.cn </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QzYxNEJjUTYzSDY4bjYwcHJSc2RocFBLTU1BY2RCZU55dUdDc0VVaWR3RT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>31.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=hao.uisdc.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Rm1GTERqbE9RcFJkZ28zbG55M3d3VXppeVd4OU9ObnZvRUN6VmE1NzltUT0=" target="_blank"> Hao.uisdc.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Rm1GTERqbE9RcFJkZ28zbG55M3d3VXppeVd4OU9ObnZvRUN6VmE1NzltUT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>32.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ainav.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=K2tNc0l0emFFcEp5eWpKOUxlek1MVmxKeGJOTFNDdHpsMFhzMnh0TTNPYz0=" target="_blank"> Ainav.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=K2tNc0l0emFFcEp5eWpKOUxlek1MVmxKeGJOTFNDdHpsMFhzMnh0TTNPYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>33.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=hayo.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eVBIUmM1d3lJQmQ5NFhxMUV6Q2dDem1VTVBoVXNqd3dFMkJmcGhpYUFubz0=" target="_blank"> Hayo.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eVBIUmM1d3lJQmQ5NFhxMUV6Q2dDem1VTVBoVXNqd3dFMkJmcGhpYUFubz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>34.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=ai2045.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=L2g3bHljbWpiaHc5emdDTkV4NFkzb2FTYi9XeEhQZEhWeXY5ZlhOUFBRQT0=" target="_blank"> Ai2045.com </a> </td>
     <td></td>
@@ -1667,12 +1559,120 @@
   </tr>
 
   <tr>
-    <td>47.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=0mo.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MGlEK3pjUlpVc0lwQ2JEa3FWM2I4WG5WeFlYWmxPSjF5ODNybi9jWG9Gcz0=" target="_blank"> 0mo.com </a> </td>
+    <td>35.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=cooltools.top" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=OEYxVGE2TFBqenQ4c3JFNXhsd1k1RkREWG1iOUZ3L2hWb3pvam1oYjJ4dz0=" target="_blank"> Cooltools.top </a> </td>
     <td></td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MGlEK3pjUlpVc0lwQ2JEa3FWM2I4WG5WeFlYWmxPSjF5ODNybi9jWG9Gcz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=OEYxVGE2TFBqenQ4c3JFNXhsd1k1RkREWG1iOUZ3L2hWb3pvam1oYjJ4dz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>36.</td>
+    <td><img src="https://st.ai55.cc/favicon/ai-pig-fly.space.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WDZoZVQzQURvT3hxME5GNmhqQXhOREYwQ2Nib2dOTXlqb1hjWFNZdVViOD0=" target="_blank"> Ai-pig-fly.space </a> </td>
+    <td>😄</td>
+    <td> ChatGPT 全球站点整合</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WDZoZVQzQURvT3hxME5GNmhqQXhOREYwQ2Nib2dOTXlqb1hjWFNZdVViOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>37.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aitoolhunt.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpejdnSE0rQTVKREhYTFVJR0M1b2pKaz0=" target="_blank"> Aitoolhunt.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpejdnSE0rQTVKREhYTFVJR0M1b2pKaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>38.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=yuque.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dTVkK1MwenpQZzBGT0E3b3BHR3hHa2xhUWlQMFB3VFRGdE9lYWhZUTFVOEdxK3ZhOEgzQlc1ZTEvaktZMEM2Y1MvbVBGbEpoOGkxZENtU3MxaWFINVVERWQ3TFBzME4xNWJsbVNpZmxMcmJSa09RUm9nbkxhN3grejROd04yQ0k=" target="_blank"> Yuque.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dTVkK1MwenpQZzBGT0E3b3BHR3hHa2xhUWlQMFB3VFRGdE9lYWhZUTFVOEdxK3ZhOEgzQlc1ZTEvaktZMEM2Y1MvbVBGbEpoOGkxZENtU3MxaWFINVVERWQ3TFBzME4xNWJsbVNpZmxMcmJSa09RUm9nbkxhN3grejROd04yQ0k=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>39.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aichaodian.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=NUhiVEhOSVFDR1BXTFlDdjhZNk1rVG5HWGNUbE1IUWZrSVkyUmsvUmsyaz0=" target="_blank"> Aichaodian.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=NUhiVEhOSVFDR1BXTFlDdjhZNk1rVG5HWGNUbE1IUWZrSVkyUmsvUmsyaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>40.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aiyjs.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=NW9rUTdKWXMvTDZNTldFWXNsZTk5Sk1jNXFyMjUyclRramxPbnREeTBtQT0=" target="_blank"> Aiyjs.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=NW9rUTdKWXMvTDZNTldFWXNsZTk5Sk1jNXFyMjUyclRramxPbnREeTBtQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>41.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=uxmap.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=SG1OWFlUQU1jVGVaYnBNeUpXTWJmN21rbmVJbjNFbmM4eDR2QUV1RGdZK2l6MTdNREc1UVJkalV0K1poRUsyb0ZMMGIyYko4eWVmeGt5U3NtZkxmclE9PQ==" target="_blank"> Uxmap.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=SG1OWFlUQU1jVGVaYnBNeUpXTWJmN21rbmVJbjNFbmM4eDR2QUV1RGdZK2l6MTdNREc1UVJkalV0K1poRUsyb0ZMMGIyYko4eWVmeGt5U3NtZkxmclE9PQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>42.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aigc.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=SnhUMUxTV01DaDIzWGdCa0NhL0JzbnZ6S0Nua0JDL3k3ekhlQlAzU0VCND0=" target="_blank"> Aigc.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=SnhUMUxTV01DaDIzWGdCa0NhL0JzbnZ6S0Nua0JDL3k3ekhlQlAzU0VCND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>43.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aitoolist.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpMW5vOVBjOFFSbC9lM3FNdVRtVEZFdz0=" target="_blank"> Aitoolist.cn </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpMW5vOVBjOFFSbC9lM3FNdVRtVEZFdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>44.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=saasaitools.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=NDU1ek1ocFBUc25mcVJzUlArMndMRVYrUVY1RVE1RUpkY1NCRlFvSnlPbz0=" target="_blank"> Saasaitools.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=NDU1ek1ocFBUc25mcVJzUlArMndMRVYrUVY1RVE1RUpkY1NCRlFvSnlPbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>45.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=toptools.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bkdaL1BnT1h5TWJJMnVnZkhBWm1PVWhYRjAyNEVtakQzU3VnbXlCVVNjTT0=" target="_blank"> Toptools.ai </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bkdaL1BnT1h5TWJJMnVnZkhBWm1PVWhYRjAyNEVtakQzU3VnbXlCVVNjTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>46.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aitoolnavigation.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpeUhTU2xNRXV6cEI4TGg3bU12VVh4Ky80UkpjUEJsWlNLUTFPbXJtRWZ5Qg==" target="_blank"> Aitoolnavigation.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L3dOS2lyaHdSKzZWYjgySDB0NlRpeUhTU2xNRXV6cEI4TGg3bU12VVh4Ky80UkpjUEJsWlNLUTFPbXJtRWZ5Qg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>47.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=feizhuke.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=M2wwTGxDVlMvVFdaTHJPMUFOUXZsQ3EzV21MNUR1ZmtsM2JIZU10VFNUcz0=" target="_blank"> Feizhuke.com </a> </td>
+    <td></td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=M2wwTGxDVlMvVFdaTHJPMUFOUXZsQ3EzV21MNUR1ZmtsM2JIZU10VFNUcz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
@@ -1896,4 +1896,4 @@ GitHub 仓库地址: https://github.com/xx025/carrot
 ### 最后更新
 
 如果下方时间已经晚于当前时间1d ；请前往[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 最后更新: 2023年05月02日 11点02分
+> 最后更新: 2023年05月02日 11点10分
