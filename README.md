@@ -880,6 +880,15 @@
     <td> </td> 
     <td><a href="https://day0424.ai55.cc/url/?id=cWF0TXJxdEpSTlBhTkVjbVNKMkhnMGZSdGxEbUduTkV2UnlxUm9VSExxaz0=" target="_blank">🔗 </a> </td> 
   </tr>
+  
+  <tr>
+    <td>94.</td>
+    <td><img src="https://play-lh.googleusercontent.com/Qo0vfZBwp-QzcRaUvuYDXmZQLznswwBGdBKJDMpNvFVhDliKrt9sKnzgnTaFfrBLDRw=w240-h480-rw" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://tubogpt.vercel.app/chat/1683412251974" target="_blank"> TuboGPT </a> </td>
+    <td>🛫🔑😄⭐</td>
+    <td>需要登录</td>
+    <td><a href="https://tubogpt.vercel.app/chat/1683412251974" target="_blank">🔗 </a> </td> 
+  </tr>
 
 </table>
 
