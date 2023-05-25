@@ -292,7 +292,7 @@
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=amN5M2grUU9lNng2MENEL1RzR3lXUFFUVStTQkdPTHIvZ1czcXlRcURRcz0=" target="_blank"> Betai55.uk </a> </td>
     <td>😄</td>
-    <td>密码：586-481-535C</td> 
+    <td>密码：586-484-535D</td> 
     <td><a href="https://day0424.ai55.cc/url/?id=amN5M2grUU9lNng2MENEL1RzR3lXUFFUVStTQkdPTHIvZ1czcXlRcURRcz0=" target="_blank">🔗 </a> </td> 
   </tr>
 
