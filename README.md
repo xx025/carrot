@@ -8,11 +8,16 @@
 
 ----
 
-<a href="https://st.ai55.cc?aid=https://shop.terobox.com/" target="_blank" style="color: black">
-<img src="https://st.ai55.cc/img/202306071905182.jpg" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>
+<a href="https://www.google-hub.com" target="_blank" style="color: black">
+<img src="https://www.google-hub.com/images/google-search.png" alt="Ad" style="height: 80px !important;width: auto !important;" >
 <br>
-<a href="https://st.ai55.cc?aid=https://shop.terobox.com/" target="_blank" style="color: black">
-👆 https://shop.terobox.com/ [广告]
+👆https://www.google-hub.com
+</a>
+<br>
+<a href="https://chatgptmirror.com?share=2Z3G17" target="_blank" style="color: black">
+ <img src="https://user-images.githubusercontent.com/32785823/236451773-b44557cd-f6a7-40e5-ae13-edc44ce90778.png" alt="Ad" style="height: 80px !important;width: auto !important;" >
+ <br>
+ 👆### 推荐镜像仿原生界面
 </a>
 
 ----
