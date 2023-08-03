@@ -311,10 +311,10 @@
   <tr>
     <td>31.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://b4.Betai55.uk/" target="_blank"> Betai55.uk </a> </td>
-    <td>🛫😄</td>
-    <td>密码：686-484-531A</td> 
-    <td><a href="https://b4.Betai55.uk/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://b5.Betai55.uk/" target="_blank"> Betai55.uk </a> </td>
+    <td>😄</td>
+    <td>密码：3.5forfree</td> 
+    <td><a href="https://b5.Betai55.uk/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
