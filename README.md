@@ -707,10 +707,10 @@
   <tr>
     <td>75.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="http://bltcy.com/" target="_blank"> Bltcy.com </a> </td>
+    <td><a href="http://chat.bltcy.top/" target="_blank"> Bltcy.top </a> </td>
     <td>🔑</td>
-    <td>GPT3.5 完全免费，付费GPT4.0，MJ绘画</td> 
-    <td><a href="http://bltcy.com/" target="_blank">🔗 </a> </td> 
+    <td>GPT3.5 完全免费，付费GPT4.0，MJ绘画,API Key</td> 
+    <td><a href="http://chat.bltcy.top/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
