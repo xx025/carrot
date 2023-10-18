@@ -167,10 +167,10 @@
   <tr>
     <td>15.</td>
     <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://b6.Betai55.uk/" target="_blank"> Betai55.uk </a> </td>
-    <td>🛫😄</td>
-    <td>密码：3.5forfreeA</td> 
-    <td><a href="https://b6.Betai55.uk/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://b7.Betai55.uk/" target="_blank"> Betai55.uk </a> </td>
+    <td>😄</td>
+    <td>密码：3.5forfreeee</td> 
+    <td><a href="https://b7.Betai55.uk/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
