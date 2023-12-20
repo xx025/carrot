@@ -920,6 +920,15 @@
     <td><a href="https://gpt6.fun" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>99.</td>
+    <td><img src="https://chat.open666.cn/icons/icon-192x192.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://open666.cn/" target="_blank"> TokenAI </a> </td>
+    <td>🤑</td>
+    <td>支持知识库，Gpt4,图文对话。</td> 
+    <td><a href="https://open666.cn/" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 
