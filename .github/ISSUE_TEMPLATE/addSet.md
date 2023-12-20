@@ -1,7 +1,7 @@
 ---
 name: 添加站点
-about: 添加站点的模板
-title: '[添加站点,必须付费才能使用的就不要提交了] '
+about: 添加站点的模板，必须付费才能使用的就不要提交了
+title: '添加站点'
 labels: add-site
 assignees: ''
 
