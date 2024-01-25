@@ -1325,6 +1325,15 @@
     <td><a href="https://gpt6.fun" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>144.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://wielded.com/" target="_blank"> Wielded </a> </td>
+    <td>🛫🔑</td>
+    <td> 不仅可以与 OpenAI 无缝集成，还支持 Azure OpenAI、Claude 和 AWS Bedrock </td> 
+    <td><a href="https://wielded.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 
