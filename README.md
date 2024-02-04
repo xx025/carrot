@@ -587,7 +587,7 @@
         <td>67</td>
         <td><img src="https://favicon.zhusl.com/ico?url=esojourn.org" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt.esojourn.org/" target="_blank">esojourn.org</a></td>
-        <td>访问密码：pub-03-$dm65ozKre</td>
+        <td>访问密码：pub-03-$dm65ozK...</td>
         <td></td>
         <td><a href="https://gpt.esojourn.org/" target="_blank">🔗</a></td>
     </tr> 
@@ -979,7 +979,7 @@
         <td>116</td>
         <td><img src="https://favicon.zhusl.com/ico?url=aisoftworks.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://chat.aisoftworks.com" target="_blank">aisoftworks.com</a></td>
-        <td>ChatGPT、Midjourney和语音和成</td>
+        <td>ChatGPT、Midjourney和语...</td>
         <td>🔑</td>
         <td><a href="http://chat.aisoftworks.com" target="_blank">🔗</a></td>
     </tr> 
@@ -1267,7 +1267,7 @@
         <td>152</td>
         <td><img src="https://favicon.zhusl.com/ico?url=bltcy.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://chat.bltcy.top/" target="_blank">bltcy.top</a></td>
-        <td>GPT3.5 完全免费，付费GPT4.0，MJ绘画</td>
+        <td>GPT3.5 完全免费，付费GPT4.0...</td>
         <td>🔑</td>
         <td><a href="http://chat.bltcy.top/" target="_blank">🔗</a></td>
     </tr> 
@@ -1355,7 +1355,7 @@
         <td>163</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ealxc.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://www.ealxc.com/" target="_blank">ealxc.com</a></td>
-        <td> ChatGPT站点 ，支持DallE-3</td>
+        <td> ChatGPT站点 ，支持DallE-...</td>
         <td>🔑</td>
         <td><a href="http://www.ealxc.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1475,7 +1475,7 @@
         <td>178</td>
         <td><img src="https://favicon.zhusl.com/ico?url=aiwenda.chat" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://share.aiwenda.chat" target="_blank">aiwenda.chat</a></td>
-        <td>GPT-4 联网搜索 数据分析 DALL E 画图 gpt-4-vision 识图 GPTs商店</td>
+        <td>GPT-4 联网搜索 数据分析 DALL...</td>
         <td>😄</td>
         <td><a href="https://share.aiwenda.chat" target="_blank">🔗</a></td>
     </tr> 
@@ -1499,7 +1499,7 @@
         <td>181</td>
         <td><img src="https://favicon.zhusl.com/ico?url=netfly.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.netfly.top" target="_blank">netfly.top</a></td>
-        <td>3.5无限用，4随缘用，claude/gemini也能用。登录密码 3.5isfree</td>
+        <td>3.5无限用，4随缘用，claude/g...</td>
         <td>😄</td>
         <td><a href="https://free.netfly.top" target="_blank">🔗</a></td>
     </tr> 
@@ -1507,7 +1507,7 @@
         <td>182</td>
         <td><img src="https://favicon.zhusl.com/ico?url=hklan.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://newchat.hklan.top/" target="_blank">hklan.top</a></td>
-        <td>登录每天赠送3.5+4.0+MJ绘画次数，轻度使用者可永久白嫖</td>
+        <td>登录每天赠送3.5+4.0+MJ绘画次数...</td>
         <td>🔑</td>
         <td><a href="https://newchat.hklan.top/" target="_blank">🔗</a></td>
     </tr> 
@@ -1577,7 +1577,7 @@
         <td>8</td>
         <td><img src="https://st.ai55.cc/icons/chatdoc.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatdoc.com/" target="_blank">chatdoc.com</a></td>
-        <td>[Chat Docs] ChatGPT读取文档，阅读文档好帮手</td>
+        <td>[Chat Docs] ChatGPT读...</td>
         <td>🔑</td>
         <td><a href="https://chatdoc.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1689,7 +1689,7 @@
         <td>22</td>
         <td><img src="https://favicon.zhusl.com/ico?url=talks-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.talks-ai.com/" target="_blank">talks-ai.com</a></td>
-        <td>只需上传文档或添加网站的链接，即可训练ChatGPT聊天机器人</td>
+        <td>只需上传文档或添加网站的链接，即可训练C...</td>
         <td>😄</td>
         <td><a href="https://www.talks-ai.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -2279,4 +2279,4 @@
 
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) 
 
-> 最后更新: 2024-02-04 11:24:28
+> 最后更新: 2024-02-04 11:34:52
