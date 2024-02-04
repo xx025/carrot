@@ -1273,14 +1273,6 @@
     </tr> 
     <tr>
         <td>153</td>
-        <td><img src="https://st.ai55.cc/icons/aibang.run/favicon-16x16.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://aibang.run/" target="_blank">aibang.run</a></td>
-        <td> </td>
-        <td>🤑</td>
-        <td><a href="https://aibang.run/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>154</td>
         <td><img src="https://favicon.zhusl.com/ico?url=zecoba.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.zecoba.cn/" target="_blank">zecoba.cn</a></td>
         <td></td>
@@ -1288,7 +1280,7 @@
         <td><a href="https://chat.zecoba.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>155</td>
+        <td>154</td>
         <td><img src="https://st.ai55.cc/icons/builtbyjesse.com/favicon-32x24.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://builtbyjesse.com/lab" target="_blank">builtbyjesse.com</a></td>
         <td></td>
@@ -1296,7 +1288,7 @@
         <td><a href="https://builtbyjesse.com/lab" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>156</td>
+        <td>155</td>
         <td><img src="https://st.ai55.cc/icons/freechatgpt.chat/favicon-16x16.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://freechatgpt.chat/" target="_blank">freechatgpt.chat</a></td>
         <td>需要Key使用</td>
@@ -1304,7 +1296,7 @@
         <td><a href="https://freechatgpt.chat/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>157</td>
+        <td>156</td>
         <td><img src="https://favicon.zhusl.com/ico?url=51buygpt.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.51buygpt.com/" target="_blank">51buygpt.com</a></td>
         <td></td>
@@ -1312,7 +1304,7 @@
         <td><a href="https://chat.51buygpt.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>158</td>
+        <td>157</td>
         <td><img src="https://st.ai55.cc/icons/trychatgp.com/favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://trychatgp.com/" target="_blank">trychatgp.com</a></td>
         <td></td>
@@ -1320,7 +1312,7 @@
         <td><a href="https://trychatgp.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>159</td>
+        <td>158</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ai117.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai117.com/" target="_blank">ai117.com</a></td>
         <td></td>
@@ -1328,7 +1320,7 @@
         <td><a href="https://ai117.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>160</td>
+        <td>159</td>
         <td><img src="https://st.ai55.cc/icons/codenews.cc/0.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://codenews.cc/chatgpt" target="_blank">codenews.cc</a></td>
         <td></td>
@@ -1336,7 +1328,7 @@
         <td><a href="https://codenews.cc/chatgpt" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>161</td>
+        <td>160</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ohmygpt.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ohmygpt.com/" target="_blank">ohmygpt.com</a></td>
         <td></td>
@@ -1344,7 +1336,7 @@
         <td><a href="https://www.ohmygpt.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>162</td>
+        <td>161</td>
         <td><img src="https://favicon.zhusl.com/ico?url=typingmind.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.typingmind.com/" target="_blank">typingmind.com</a></td>
         <td></td>
@@ -1352,7 +1344,7 @@
         <td><a href="https://www.typingmind.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>163</td>
+        <td>162</td>
         <td><img src="https://favicon.zhusl.com/ico?url=bz1y.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.bz1y.cn/" target="_blank">bz1y.cn</a></td>
         <td></td>
@@ -1360,7 +1352,7 @@
         <td><a href="https://www.bz1y.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>164</td>
+        <td>163</td>
         <td><img src="https://favicon.zhusl.com/ico?url=alpaca-bi.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.alpaca-bi.com/" target="_blank">alpaca-bi.com</a></td>
         <td></td>
@@ -1368,7 +1360,7 @@
         <td><a href="https://chat.alpaca-bi.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>165</td>
+        <td>164</td>
         <td><img src="https://favicon.zhusl.com/ico?url=eaten.fun" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.eaten.fun/" target="_blank">eaten.fun</a></td>
         <td></td>
@@ -1376,7 +1368,7 @@
         <td><a href="https://chat.eaten.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>166</td>
+        <td>165</td>
         <td><img src="https://st.ai55.cc/icons/tryai.top/favicon-32x32.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://tryai.top/freechat" target="_blank">tryai.top</a></td>
         <td></td>
@@ -1384,7 +1376,7 @@
         <td><a href="https://tryai.top/freechat" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>167</td>
+        <td>166</td>
         <td><img src="https://favicon.zhusl.com/ico?url=okmiku.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.okmiku.com/chat/" target="_blank">okmiku.com</a></td>
         <td></td>
@@ -1392,7 +1384,7 @@
         <td><a href="https://ai.okmiku.com/chat/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>168</td>
+        <td>167</td>
         <td><img src="https://favicon.zhusl.com/ico?url=pages.dev" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatcat.pages.dev/" target="_blank">pages.dev</a></td>
         <td></td>
@@ -1400,7 +1392,7 @@
         <td><a href="https://chatcat.pages.dev/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>169</td>
+        <td>168</td>
         <td><img src="https://favicon.zhusl.com/ico?url=yiios.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.yiios.com/" target="_blank">yiios.com</a></td>
         <td>key 或 付费使用</td>
@@ -1408,7 +1400,7 @@
         <td><a href="https://ai.yiios.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>170</td>
+        <td>169</td>
         <td><img src="https://favicon.zhusl.com/ico?url=chat2ai.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.chat2ai.cn/" target="_blank">chat2ai.cn</a></td>
         <td></td>
@@ -1416,7 +1408,7 @@
         <td><a href="https://www.chat2ai.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>171</td>
+        <td>170</td>
         <td><img src="https://st.ai55.cc/icons/aigcfun.com/0.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aigcfun.com/" target="_blank">aigcfun.com</a></td>
         <td></td>
@@ -1424,7 +1416,7 @@
         <td><a href="https://aigcfun.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>172</td>
+        <td>171</td>
         <td><img src="https://st.ai55.cc/icons/chat35.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat35.com/" target="_blank">chat35.com</a></td>
         <td></td>
@@ -1432,7 +1424,7 @@
         <td><a href="https://chat35.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>173</td>
+        <td>172</td>
         <td><img src="https://favicon.zhusl.com/ico?url=clashus.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt.clashus.com/" target="_blank">clashus.com</a></td>
         <td></td>
@@ -1440,7 +1432,7 @@
         <td><a href="https://gpt.clashus.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>174</td>
+        <td>173</td>
         <td><img src="https://favicon.zhusl.com/ico?url=22733.site" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://litechat.22733.site/" target="_blank">22733.site</a></td>
         <td> </td>
@@ -1448,7 +1440,7 @@
         <td><a href="https://litechat.22733.site/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>175</td>
+        <td>174</td>
         <td><img src="https://favicon.zhusl.com/ico?url=sunls.me" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.sunls.me/" target="_blank">sunls.me</a></td>
         <td> </td>
@@ -1456,7 +1448,7 @@
         <td><a href="https://chat.sunls.me/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>176</td>
+        <td>175</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ichat-gpt.net" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ichat-gpt.net/" target="_blank">ichat-gpt.net</a></td>
         <td></td>
@@ -1464,7 +1456,7 @@
         <td><a href="https://www.ichat-gpt.net/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>177</td>
+        <td>176</td>
         <td><img src="https://st.ai55.cc/icons/hzdjs.cn/favicon-256x256.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hzdjs.cn/chatgpt" target="_blank">hzdjs.cn</a></td>
         <td></td>
@@ -1472,7 +1464,7 @@
         <td><a href="https://hzdjs.cn/chatgpt" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>178</td>
+        <td>177</td>
         <td><img src="https://st.ai55.cc/icons/chatmate.network/favicon-180x180.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatmate.network/" target="_blank">chatmate.network</a></td>
         <td></td>
@@ -1480,7 +1472,7 @@
         <td><a href="https://chatmate.network/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>179</td>
+        <td>178</td>
         <td><img src="https://st.ai55.cc/icons/fastgpt.app/2.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://fastgpt.app/" target="_blank">fastgpt.app</a></td>
         <td></td>
@@ -1488,7 +1480,7 @@
         <td><a href="https://fastgpt.app/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>180</td>
+        <td>179</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ddiu.io" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatgpt.ddiu.io/" target="_blank">ddiu.io</a></td>
         <td></td>
@@ -1496,7 +1488,7 @@
         <td><a href="https://chatgpt.ddiu.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>181</td>
+        <td>180</td>
         <td><img src="https://favicon.zhusl.com/ico?url=aigc-model.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.aigc-model.com/" target="_blank">aigc-model.com</a></td>
         <td></td>
@@ -1504,7 +1496,7 @@
         <td><a href="https://chat.aigc-model.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>182</td>
+        <td>181</td>
         <td><img src="https://favicon.zhusl.com/ico?url=chatsverse.xyz" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.chatsverse.xyz/" target="_blank">chatsverse.xyz</a></td>
         <td></td>
@@ -1512,7 +1504,7 @@
         <td><a href="https://www.chatsverse.xyz/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>183</td>
+        <td>182</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ninvfeng.xyz" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.ninvfeng.xyz/" target="_blank">ninvfeng.xyz</a></td>
         <td></td>
@@ -1520,7 +1512,7 @@
         <td><a href="https://chat.ninvfeng.xyz/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>184</td>
+        <td>183</td>
         <td><img src="https://favicon.zhusl.com/ico?url=xiu.ee" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://talk.xiu.ee/" target="_blank">xiu.ee</a></td>
         <td></td>
@@ -1528,7 +1520,7 @@
         <td><a href="https://talk.xiu.ee/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>185</td>
+        <td>184</td>
         <td><img src="https://favicon.zhusl.com/ico?url=ddiu.me" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatgpt.ddiu.me/" target="_blank">ddiu.me</a></td>
         <td></td>
@@ -1536,7 +1528,7 @@
         <td><a href="https://chatgpt.ddiu.me/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>186</td>
+        <td>185</td>
         <td><img src="https://favicon.zhusl.com/ico?url=cveoy.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.cveoy.com/" target="_blank">cveoy.com</a></td>
         <td></td>
@@ -1551,86 +1543,78 @@
 <table> 
     <tr>
         <td>1</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=openmao.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://paper.openmao.cn/" target="_blank">openmao.cn</a></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/86f9660d6eb079ef89cb49c17200392a.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://paper.openmao.cn/" target="_blank">范文喵</a></td>
         <td>针对大学生群体的写作工具</td>
         <td>😄</td>
         <td><a href="https://paper.openmao.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st.ai55.cc/icons/xdu.cn/favicon-256x256.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://xdu.cn/" target="_blank">xdu.cn</a></td>
-        <td>强大的文档对话工具</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/222351ca13bf196d9f174779f533d281.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://xdu.cn/" target="_blank">新读</a></td>
+        <td>你不必再通读任何文档，直接与任意文档对话</td>
         <td>🔑</td>
         <td><a href="https://xdu.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=talks-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.talks-ai.com/" target="_blank">talks-ai.com</a></td>
-        <td>只需上传文档或添加网站的链接，即可训练C...</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/23f4aec2daf817e16f7b829e131f410c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.talks-ai.com/" target="_blank">Talks-AI</a></td>
+        <td>5分钟训练你的专属AI聊天机器人，秒懂文...</td>
         <td>😄</td>
         <td><a href="https://www.talks-ai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>4</td>
-        <td><img src="https://st.ai55.cc/icons/chatdoc.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatdoc.com/" target="_blank">chatdoc.com</a></td>
-        <td>[Chat Docs] ChatGPT读...</td>
-        <td>🔑</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/38c86d2b4cbecc133b70776d4a68181d.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatdoc.com/" target="_blank">ChatDOC </a></td>
+        <td>AI Chat with PDF Doc...</td>
+        <td></td>
         <td><a href="https://chatdoc.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>5</td>
-        <td><img src="https://st.ai55.cc/icons/zhoubaotong.com/favicon-48x48.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://zhoubaotong.com/zh" target="_blank">zhoubaotong.com</a></td>
-        <td>周报通</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/ab21b75087d6781d5de8b67e1ccaec4d.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aibang.run/" target="_blank">AI帮个忙</a></td>
+        <td> AI帮个忙 | 多功能AI小帮手</td>
         <td></td>
-        <td><a href="https://zhoubaotong.com/zh" target="_blank">🔗</a></td>
+        <td><a href="https://aibang.run/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>6</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=codefuture.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://ai-toolbox.codefuture.top/" target="_blank">codefuture.top</a></td>
-        <td>AI帮个忙</td>
-        <td></td>
-        <td><a href="https://ai-toolbox.codefuture.top/" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/57ab21f348001017ede6f5fd09b0c200.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://zhoubaotong.com/zh" target="_blank">周报通</a></td>
+        <td>简单描述工作内容 帮你生成完整周报</td>
+        <td>😶‍🌫️</td>
+        <td><a href="https://zhoubaotong.com/zh" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>7</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=chatexcel.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatexcel.com/" target="_blank">chatexcel.com</a></td>
-        <td>AI 表格助手</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/ba2b3e5f361b9d037eb6c259eab42495.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatexcel.com/" target="_blank">酷表ChatExcel</a></td>
+        <td>仅通过聊天来操控您的Excel表格</td>
         <td></td>
         <td><a href="https://chatexcel.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>8</td>
-        <td><img src="https://st.ai55.cc/icons/typeset.io/favicon-35x31.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://typeset.io/" target="_blank">typeset.io</a></td>
-        <td>AI文秘助手</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/226052eb87e0ac0ad2375406d95bb1f5.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://typeset.io/" target="_blank">SciSpace</a></td>
+        <td>AI Chat for scientif...</td>
         <td></td>
         <td><a href="https://typeset.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>9</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=jimmylv.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://b.jimmylv.cn/" target="_blank">jimmylv.cn</a></td>
-        <td>AI B站总结</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/2a4d6b29bc76f76c6a6071989060313e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://bibigpt.co/" target="_blank">BibiGPT</a></td>
+        <td>一键总结音视频内容</td>
         <td></td>
-        <td><a href="https://b.jimmylv.cn/" target="_blank">🔗</a></td>
+        <td><a href="https://bibigpt.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>10</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=baidu.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://yiyan.baidu.com/welcome" target="_blank">baidu.com</a></td>
-        <td>BaiDu 文心一言</td>
-        <td></td>
-        <td><a href="https://yiyan.baidu.com/welcome" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>11</td>
         <td><img src="https://favicon.zhusl.com/ico?url=cluebenchmarks.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.cluebenchmarks.com/clueai.html" target="_blank">cluebenchmarks.com</a></td>
         <td>ClueAI</td>
@@ -1638,7 +1622,7 @@
         <td><a href="https://www.cluebenchmarks.com/clueai.html" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>11</td>
         <td><img src="https://st.ai55.cc/icons/aicolors.co/favicon-32x32.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aicolors.co/" target="_blank">aicolors.co</a></td>
         <td>AI Colors</td>
@@ -1646,7 +1630,7 @@
         <td><a href="https://aicolors.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>12</td>
         <td><img src="https://favicon.zhusl.com/ico?url=deepl.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.deepl.com/zh/write" target="_blank">deepl.com</a></td>
         <td>DeepL写作</td>
@@ -1654,7 +1638,7 @@
         <td><a href="https://www.deepl.com/zh/write" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>13</td>
         <td><img src="https://st.ai55.cc/icons/heyfriday.cn/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://heyfriday.cn/" target="_blank">heyfriday.cn</a></td>
         <td>智能写作</td>
@@ -1662,7 +1646,7 @@
         <td><a href="https://heyfriday.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>14</td>
         <td><img src="https://st.ai55.cc/icons/xiezuocat.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xiezuocat.com/" target="_blank">xiezuocat.com</a></td>
         <td>密塔写作猫</td>
@@ -1670,7 +1654,7 @@
         <td><a href="https://xiezuocat.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>15</td>
         <td><img src="https://favicon.zhusl.com/ico?url=zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://wenzhang.zhuluan.com/" target="_blank">zhuluan.com</a></td>
         <td>AI文章生成器</td>
@@ -1678,7 +1662,7 @@
         <td><a href="http://wenzhang.zhuluan.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>16</td>
         <td><img src="https://favicon.zhusl.com/ico?url=yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">yoo-ai.com</a></td>
         <td>ChatPPT</td>
@@ -1686,7 +1670,7 @@
         <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>17</td>
         <td><img src="https://st.ai55.cc/icons/easyai.fun/favicon-1024x1024.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://easyai.fun/" target="_blank">easyai.fun</a></td>
         <td>多功能AI小助手</td>
@@ -1694,7 +1678,7 @@
         <td><a href="https://easyai.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>18</td>
         <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.jasper.ai/" target="_blank">jasper.ai</a></td>
         <td>AI 创作</td>
@@ -1702,7 +1686,7 @@
         <td><a href="https://www.jasper.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>19</td>
         <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">notion.so</a></td>
         <td>AI 写作</td>
@@ -1710,7 +1694,7 @@
         <td><a href="https://www.notion.so/product/ai" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
+        <td>20</td>
         <td><img src="https://st.ai55.cc/icons/writesonic.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://writesonic.com/" target="_blank">writesonic.com</a></td>
         <td>AI 创作</td>
@@ -1718,7 +1702,7 @@
         <td><a href="https://writesonic.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>22</td>
+        <td>21</td>
         <td><img src="https://favicon.zhusl.com/ico?url=1ptai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.1ptai.com/" target="_blank">1ptai.com</a></td>
         <td>onepoint</td>
@@ -1726,7 +1710,7 @@
         <td><a href="https://www.1ptai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>23</td>
+        <td>22</td>
         <td><img src="https://favicon.zhusl.com/ico?url=feishu.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d" target="_blank">feishu.cn</a></td>
         <td>AI 知识库</td>
@@ -2371,6 +2355,14 @@
         <td></td>
         <td><a href="https://hunyuan.tencent.com/" target="_blank">🔗</a></td>
     </tr> 
+    <tr>
+        <td>10</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/1736ac7992394ca22c324623174365a1.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://yiyan.baidu.com/welcome" target="_blank">文心一言</a></td>
+        <td>既能写文案、读文档，又能脑洞大开、答疑解...</td>
+        <td></td>
+        <td><a href="https://yiyan.baidu.com/welcome" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
@@ -2384,4 +2376,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 16:26:07
+> 最后更新: 2024-02-04 16:56:42
