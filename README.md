@@ -1631,17 +1631,17 @@
     </tr> 
     <tr>
         <td>14</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="http://wenzhang.zhuluan.com/" target="_blank">zhuluan.com</a></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/20e5f6e609a2028f664047896c3b5adc.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://wenzhang.zhuluan.com/" target="_blank">朱鸾AI写作助手</a></td>
         <td>AI文章生成器</td>
-        <td> </td>
-        <td><a href="http://wenzhang.zhuluan.com/" target="_blank">🔗</a></td>
+        <td></td>
+        <td><a href="https://wenzhang.zhuluan.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>15</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="http://motion.yoo-ai.com/" target="_blank">yoo-ai.com</a></td>
-        <td>ChatPPT</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/72b400d4fed058272b8e029a8bbd30df.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="http://motion.yoo-ai.com/" target="_blank">MotionGo</a></td>
+        <td>命令式智能对话一键生成PPT，让PPT文...</td>
         <td> </td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1655,43 +1655,35 @@
     </tr> 
     <tr>
         <td>17</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.jasper.ai/" target="_blank">jasper.ai</a></td>
-        <td>AI 创作</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/3137a08d312ff0c48c33e5721901d692.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.jasper.ai/" target="_blank">Jasper.AI</a></td>
+        <td>面向企业营销团队的 AI 副驾驶</td>
         <td></td>
         <td><a href="https://www.jasper.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>18</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.notion.so/product/ai" target="_blank">notion.so</a></td>
-        <td>AI 写作</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/c36351f4817c6d4abfd93cb003b95b1d.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.notion.so/product/ai" target="_blank">Notion AI</a></td>
+        <td>Knowledge, answers, ...</td>
         <td></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>19</td>
         <td><img src="https://st.ai55.cc/icons/writesonic.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://writesonic.com/" target="_blank">writesonic.com</a></td>
-        <td>AI 创作</td>
+        <td><a href="https://writesonic.com/" target="_blank">Writesonic</a></td>
+        <td>Best AI Writer, Copy...</td>
         <td></td>
         <td><a href="https://writesonic.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>20</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=1ptai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.1ptai.com/" target="_blank">1ptai.com</a></td>
-        <td>onepoint</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/21b739d43fcb9bbb83d8541fe4fe88fa.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.1ptai.com/" target="_blank">OnePoint</a></td>
+        <td>AI 聊天、编写、阅读和编码</td>
         <td>😄</td>
         <td><a href="https://www.1ptai.com/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>21</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=feishu.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d" target="_blank">feishu.cn</a></td>
-        <td>AI 知识库</td>
-        <td></td>
-        <td><a href="https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -2352,4 +2344,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 17:56:55
+> 最后更新: 2024-02-04 19:04:16
