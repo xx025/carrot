@@ -249,7 +249,7 @@
     </tr> 
     <tr>
         <td>25</td>
-        <td><img src="https://st.ai55.cc/icons/ https://ai.wendabao.net/bot.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src=" https://ai.wendabao.net/bot.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://share.wendabao.net/" target="_blank"> AI问答宝</a></td>
         <td>免费GPT-4，支持联网搜索、画图，无需...</td>
         <td>😄</td>
@@ -257,7 +257,7 @@
     </tr> 
     <tr>
         <td>26</td>
-        <td><img src="https://st.ai55.cc/icons/ " alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src=" " alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.netfly.top" target="_blank">netfly.top</a></td>
         <td>3.5无限用，4随缘用，claude/g...</td>
         <td>😄</td>
@@ -2360,4 +2360,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 17:49:34
+> 最后更新: 2024-02-04 17:52:42
