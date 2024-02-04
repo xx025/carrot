@@ -97,6 +97,14 @@
     </tr> 
     <tr>
         <td>6</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://free.cherrychat.org/" target="_blank">土土金GPT</a></td>
+        <td></td>
+        <td>😄</td>
+        <td><a href="https://free.cherrychat.org/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/6476596af7fde55b8550761ab083de73.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.zonas.wang" target="_blank">PhantoNav AI</a></td>
         <td>免费GPT4，不用注册，不用登录</td>
@@ -104,7 +112,7 @@
         <td><a href="https://chat.zonas.wang" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>7</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/d8296a953ced3f082f49458265c8015c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ichat2019.com/" target="_blank"> ichat2019</a></td>
         <td>款基于ChatGPT3.5，ChatGPT4，DALL·E ...</td>
@@ -112,7 +120,7 @@
         <td><a href="https://ichat2019.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/deda170859885f92be89fbefb2bd4dc1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://nx.chkzh.com/" target="_blank"> Chkzh-Aink</a></td>
         <td>免费无限制GPT-3.5turbo，无需登录，打开即用</td>
@@ -120,7 +128,7 @@
         <td><a href="https://nx.chkzh.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/2340bd772b87b6fa3e3195fb769bf5f2.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt4.intercat.cn/" target="_blank">intercat.cn</a></td>
         <td>HuiYu-4.0</td>
@@ -128,7 +136,31 @@
         <td><a href="https://gpt4.intercat.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/6140585571a5fe772d6c411146a7fbc5.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://beta.character.ai/" target="_blank">Character.AI</a></td>
+        <td></td>
+        <td>😀</td>
+        <td><a href="https://beta.character.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>12</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/ae2b63f16cd59f41e02c475498a43040.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatbot.theb.ai/" target="_blank">TheB.AI</a></td>
+        <td>All-in-one AI platform</td>
+        <td>😄⭐</td>
+        <td><a href="https://chatbot.theb.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>13</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/60b3804bf762b5b038311158ce0dec47.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://b7.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
+        <td>密码：3.5forfreeee</td>
+        <td>😄</td>
+        <td><a href="https://b7.Betai55.uk/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/bd33c68f87c3920ed83f055e88a09f62.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.promptboom.com/" target="_blank">PowerChat</a></td>
         <td>Fast, Helpful AI Chat</td>
@@ -136,7 +168,15 @@
         <td><a href="https://www.promptboom.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>15</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://cgs.skybyte.me/" target="_blank">ChatBot</a></td>
+        <td></td>
+        <td>😄⭐</td>
+        <td><a href="https://cgs.skybyte.me/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>16</td>
         <td><img src="https://st.ai55.cc/icons/gcloudlab.github.io/0.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gcloudlab.github.io/" target="_blank">gcloudlab.github.io</a></td>
         <td>无限次gpt-3.5、DALL.E 2</td>
@@ -144,7 +184,7 @@
         <td><a href="https://gcloudlab.github.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>17</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/0ccee68e8e6c4a8162e28e5e766848ec.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://idea.chat.cloud.copilot.xr21.me/" target="_blank">X-Copilot</a></td>
         <td>多种模型免费使用， 需要登录</td>
@@ -152,7 +192,7 @@
         <td><a href="https://idea.chat.cloud.copilot.xr21.me/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>18</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/9ba8edcdb521e2acab2a03a9a6080384.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xhlgpt.com/" target="_blank">小狐狸GPT</a></td>
         <td>只能绘画，智能写作</td>
@@ -160,23 +200,15 @@
         <td><a href="https://xhlgpt.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=freet.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://gpt.freet.top" target="_blank">freet.top</a></td>
-        <td></td>
+        <td>19</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/a8f6f204c9d9fefacb95e96885c7549e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://gpt.freet.top" target="_blank">奇途AI</a></td>
+        <td>你的私人AI助理，与你的思维成为同伴.</td>
         <td>😄</td>
         <td><a href="https://gpt.freet.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=cherrychat.org" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://free.cherrychat.org/" target="_blank">cherrychat.org</a></td>
-        <td></td>
-        <td>😄</td>
-        <td><a href="https://free.cherrychat.org/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>16</td>
+        <td>20</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/90c991c6f48ac1b610295239106a567b.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://share.wendabao.net/" target="_blank"> AI问答宝</a></td>
         <td>免费GPT-4，支持联网搜索、画图，无需登录</td>
@@ -184,7 +216,7 @@
         <td><a href="https://share.wendabao.net/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>21</td>
         <td><img src=" https://st2.ai55.cc/ai55-r2-storage/2024/02/d3d998f48e7d3bb97d4292e19e3fadcc.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.netfly.top" target="_blank">netfly.top</a></td>
         <td>3.5无限用，4随缘用，claude/gemini也能用。登...</td>
@@ -192,23 +224,7 @@
         <td><a href="https://free.netfly.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=character.ai" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://beta.character.ai/" target="_blank">character.ai</a></td>
-        <td></td>
-        <td>🔑</td>
-        <td><a href="https://beta.character.ai/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>19</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=theb.ai" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatbot.theb.ai/" target="_blank">theb.ai</a></td>
-        <td></td>
-        <td>😄⭐</td>
-        <td><a href="https://chatbot.theb.ai/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>20</td>
+        <td>22</td>
         <td><img src="https://st.ai55.cc/icons/open666.cn/1.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://open666.cn/" target="_blank">open666.cn</a></td>
         <td>支持知识库，Gpt4，图文对话</td>
@@ -216,28 +232,12 @@
         <td><a href="https://open666.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=cutim.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="http://new.cutim.top/" target="_blank">cutim.top</a></td>
-        <td></td>
+        <td>23</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="http://new.cutim.top/" target="_blank">ChatGPTWeb</a></td>
+        <td>免费的ChatGPT平台，ChatGPT镜像站，国内使用无限...</td>
         <td>😄</td>
         <td><a href="http://new.cutim.top/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>22</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=betai55.uk" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://b7.Betai55.uk/" target="_blank">betai55.uk</a></td>
-        <td>密码：3.5forfreeee</td>
-        <td>😄</td>
-        <td><a href="https://b7.Betai55.uk/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>23</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=skybyte.me" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://cgs.skybyte.me/" target="_blank">skybyte.me</a></td>
-        <td></td>
-        <td>😄⭐</td>
-        <td><a href="https://cgs.skybyte.me/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>24</td>
@@ -2296,4 +2296,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 20:18:39
+> 最后更新: 2024-02-04 20:38:36
