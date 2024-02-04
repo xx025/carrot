@@ -1615,38 +1615,30 @@
     </tr> 
     <tr>
         <td>10</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=cluebenchmarks.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.cluebenchmarks.com/clueai.html" target="_blank">cluebenchmarks.com</a></td>
-        <td>ClueAI</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/43cdc54d6ab9524f21d6c3ed8bcb2931.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aicolors.co/" target="_blank">AI Colors</a></td>
+        <td>AI Color Palette Gen...</td>
         <td></td>
-        <td><a href="https://www.cluebenchmarks.com/clueai.html" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>11</td>
-        <td><img src="https://st.ai55.cc/icons/aicolors.co/favicon-32x32.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://aicolors.co/" target="_blank">aicolors.co</a></td>
-        <td>AI Colors</td>
-        <td> </td>
         <td><a href="https://aicolors.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=deepl.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.deepl.com/zh/write" target="_blank">deepl.com</a></td>
-        <td>DeepL写作</td>
+        <td>11</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/777a20dc2f64eeb9195fb25113a3e7ac.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.deepl.com/zh/write" target="_blank">DeepL Write</a></td>
+        <td>人工智能驱动的写作助手</td>
         <td> </td>
         <td><a href="https://www.deepl.com/zh/write" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
-        <td><img src="https://st.ai55.cc/icons/heyfriday.cn/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://heyfriday.cn/" target="_blank">heyfriday.cn</a></td>
-        <td>智能写作</td>
-        <td> </td>
+        <td>12</td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/16f9817b296076131dbac3887e905689.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://heyfriday.cn/" target="_blank">Friday AI</a></td>
+        <td>Friday AI, 智能写作系统</td>
+        <td></td>
         <td><a href="https://heyfriday.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>13</td>
         <td><img src="https://st.ai55.cc/icons/xiezuocat.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xiezuocat.com/" target="_blank">xiezuocat.com</a></td>
         <td>密塔写作猫</td>
@@ -1654,7 +1646,7 @@
         <td><a href="https://xiezuocat.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>14</td>
         <td><img src="https://favicon.zhusl.com/ico?url=zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://wenzhang.zhuluan.com/" target="_blank">zhuluan.com</a></td>
         <td>AI文章生成器</td>
@@ -1662,7 +1654,7 @@
         <td><a href="http://wenzhang.zhuluan.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>15</td>
         <td><img src="https://favicon.zhusl.com/ico?url=yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">yoo-ai.com</a></td>
         <td>ChatPPT</td>
@@ -1670,7 +1662,7 @@
         <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>16</td>
         <td><img src="https://st.ai55.cc/icons/easyai.fun/favicon-1024x1024.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://easyai.fun/" target="_blank">easyai.fun</a></td>
         <td>多功能AI小助手</td>
@@ -1678,7 +1670,7 @@
         <td><a href="https://easyai.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>17</td>
         <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.jasper.ai/" target="_blank">jasper.ai</a></td>
         <td>AI 创作</td>
@@ -1686,7 +1678,7 @@
         <td><a href="https://www.jasper.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>18</td>
         <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">notion.so</a></td>
         <td>AI 写作</td>
@@ -1694,7 +1686,7 @@
         <td><a href="https://www.notion.so/product/ai" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>19</td>
         <td><img src="https://st.ai55.cc/icons/writesonic.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://writesonic.com/" target="_blank">writesonic.com</a></td>
         <td>AI 创作</td>
@@ -1702,7 +1694,7 @@
         <td><a href="https://writesonic.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
+        <td>20</td>
         <td><img src="https://favicon.zhusl.com/ico?url=1ptai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.1ptai.com/" target="_blank">1ptai.com</a></td>
         <td>onepoint</td>
@@ -1710,7 +1702,7 @@
         <td><a href="https://www.1ptai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>22</td>
+        <td>21</td>
         <td><img src="https://favicon.zhusl.com/ico?url=feishu.cn" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d" target="_blank">feishu.cn</a></td>
         <td>AI 知识库</td>
@@ -2376,4 +2368,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 16:56:42
+> 最后更新: 2024-02-04 17:18:31
