@@ -48,13 +48,6 @@
         <td>针对大学生群体的写作工具</td>
         <td><a href="https://ai.wolian.chat/openmao/#/?inviteCode=1746452938261270530" target="_blank">🔗</a></td>
     </tr> 
-    <tr>
-        <td>5</td>
-        <td><img src="string" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="string" target="_blank">string</a></td>
-        <td>string</td>
-        <td><a href="string" target="_blank">🔗</a></td>
-    </tr> 
 </table>
 
 
@@ -2407,4 +2400,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 15:23:35
+> 最后更新: 2024-02-04 15:26:17
