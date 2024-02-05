@@ -17,7 +17,7 @@
 | ⭐ : 使用稳定，推荐 | 😄 : 免费使用 | 🔑 : 需要登陆或密码 | ✈️ : 需国际网络进行访问 |
 
 
-## 赞助商
+**赞助商**
 
 <table>
     <tr>
@@ -1947,9 +1947,9 @@
 
 ---
 
-[GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) 
+[GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [赞助商](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-05 12:26:49
+> 最后更新: 2024-02-05 12:31:22
