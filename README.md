@@ -65,14 +65,6 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st.ai55.cc/icons/codenews.cc/0.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://codenews.cc/chatgpt" target="_blank">ChatGPT</a></td>
-        <td>ChatGPT中文版在线使用、永久免费、无需登录</td>
-        <td>😀</td>
-        <td><a href="https://codenews.cc/chatgpt" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>3</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/fc0a454982ec43840713b8db0f58a747.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat10.aiyunos.top" target="_blank">AItianhu</a></td>
         <td> GPT4</td>
@@ -80,7 +72,7 @@
         <td><a href="https://chat10.aiyunos.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/fc0a454982ec43840713b8db0f58a747.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://chat.letdata.net/" target="_blank">ChatGPTWeb</a></td>
         <td>无限制的GPT-3.5 服务</td>
@@ -88,7 +80,7 @@
         <td><a href="http://chat.letdata.net/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/8d8bc5b0e7ef39e48350bc699bdc20f9.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatforai.store/" target="_blank">ChatForAI</a></td>
         <td>无限制的GPT-3.5 服务</td>
@@ -96,7 +88,7 @@
         <td><a href="https://chatforai.store/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/fc0a454982ec43840713b8db0f58a747.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat18.aichatos.xyz/" target="_blank">AIChatOS</a></td>
         <td>无限制的GPT-3.5 服务</td>
@@ -104,7 +96,7 @@
         <td><a href="https://chat18.aichatos.xyz/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>7</td>
+        <td>6</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.cherrychat.org/" target="_blank">土土金GPT</a></td>
         <td></td>
@@ -112,7 +104,7 @@
         <td><a href="https://free.cherrychat.org/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.zonas.wang" target="_blank">PhantoNav AI</a></td>
         <td>免费GPT4，不用注册，不用登录</td>
@@ -120,7 +112,7 @@
         <td><a href="https://chat.zonas.wang" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/d8296a953ced3f082f49458265c8015c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ichat2019.com/" target="_blank"> ichat2019</a></td>
         <td>款基于ChatGPT3.5，ChatGPT4，DALL·E ...</td>
@@ -128,7 +120,7 @@
         <td><a href="https://ichat2019.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/deda170859885f92be89fbefb2bd4dc1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://nx.chkzh.com/" target="_blank"> Chkzh-Aink</a></td>
         <td>免费无限制GPT-3.5turbo，无需登录，打开即用</td>
@@ -136,7 +128,7 @@
         <td><a href="https://nx.chkzh.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/2340bd772b87b6fa3e3195fb769bf5f2.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt4.intercat.cn/" target="_blank">intercat.cn</a></td>
         <td>HuiYu-4.0</td>
@@ -144,12 +136,20 @@
         <td><a href="https://gpt4.intercat.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/6140585571a5fe772d6c411146a7fbc5.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://beta.character.ai/" target="_blank">Character.AI</a></td>
         <td></td>
         <td>😀</td>
         <td><a href="https://beta.character.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>12</td>
+        <td><img src="https://st.ai55.cc/icons/codenews.cc/0.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://codenews.cc/chatgpt" target="_blank">ChatGPT</a></td>
+        <td>ChatGPT中文版在线使用、永久免费、无需登录</td>
+        <td>😀</td>
+        <td><a href="https://codenews.cc/chatgpt" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>13</td>
@@ -2112,4 +2112,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-04 22:32:40
+> 最后更新: 2024-02-05 09:34:10
