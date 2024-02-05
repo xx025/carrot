@@ -329,8 +329,8 @@
     </tr> 
     <tr>
         <td>35</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=ai2dog.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.ai2dog.com/bavarder" target="_blank">ai2dog.com</a></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/2bebad48481fac9e40f33feeef42f4b5.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.ai2dog.com/bavarder" target="_blank">AI柯基</a></td>
         <td></td>
         <td>😄</td>
         <td><a href="https://www.ai2dog.com/bavarder" target="_blank">🔗</a></td>
@@ -2000,4 +2000,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-05 11:26:04
+> 最后更新: 2024-02-05 11:46:53
