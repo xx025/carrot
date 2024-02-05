@@ -233,7 +233,7 @@
     </tr> 
     <tr>
         <td>23</td>
-        <td><img src=" https://st2.ai55.cc/ai55-r2-storage/2024/02/d3d998f48e7d3bb97d4292e19e3fadcc.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/d3d998f48e7d3bb97d4292e19e3fadcc.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.netfly.top" target="_blank">netfly.top</a></td>
         <td>免注册免翻墙，gpt-4免费使用。如返回大量乱码就刷新页面</td>
         <td>😄</td>
@@ -1976,4 +1976,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-05 12:18:38
+> 最后更新: 2024-02-05 12:22:18
