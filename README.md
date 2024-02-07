@@ -107,7 +107,7 @@
         <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/d8296a953ced3f082f49458265c8015c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ichat2019.com/" target="_blank"> ichat2019</a></td>
-        <td>款基于ChatGPT3.5，ChatGPT4，DALL·E ...</td>
+        <td>款基于ChatGPT3.5，ChatGPT4，DAL...</td>
         <td></td>
         <td><a href="https://ichat2019.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -115,7 +115,7 @@
         <td>8</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/deda170859885f92be89fbefb2bd4dc1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://nx.chkzh.com/" target="_blank"> Chkzh-Aink</a></td>
-        <td>免费无限制GPT-3.5turbo，无需登录，打开即用</td>
+        <td>免费无限制GPT-3.5turbo，无需登录，打开即...</td>
         <td></td>
         <td><a href="https://nx.chkzh.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -123,7 +123,7 @@
         <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/69bd35b1eb7a74d55da2c3013108fb3b.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://poe.com/" target="_blank">Poe</a></td>
-        <td>Poe - Fast, Helpful AI Chat</td>
+        <td>Poe - Fast, Helpful AI Cha...</td>
         <td>🔑😄</td>
         <td><a href="https://poe.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -235,7 +235,7 @@
         <td>23</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/d3d998f48e7d3bb97d4292e19e3fadcc.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://free.netfly.top" target="_blank">netfly.top</a></td>
-        <td>免注册免翻墙，gpt-4免费使用。如返回大量乱码就刷新页面</td>
+        <td>免注册免翻墙，gpt-4免费使用。如返回大量乱码就刷...</td>
         <td>😄</td>
         <td><a href="https://free.netfly.top" target="_blank">🔗</a></td>
     </tr> 
@@ -243,7 +243,7 @@
         <td>24</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.51buygpt.com/" target="_blank">ChatGPT社区免费版</a></td>
-        <td>一个基于ChatGPT-3.5-Turbo模型由公共付费AP...</td>
+        <td>一个基于ChatGPT-3.5-Turbo模型由公共...</td>
         <td></td>
         <td><a href="https://chat.51buygpt.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -267,7 +267,7 @@
         <td>27</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://new.cutim.top/" target="_blank">ChatGPTWeb</a></td>
-        <td>免费的ChatGPT平台，ChatGPT镜像站，国内使用无限...</td>
+        <td>免费的ChatGPT平台，ChatGPT镜像站，国内...</td>
         <td>😄</td>
         <td><a href="http://new.cutim.top/" target="_blank">🔗</a></td>
     </tr> 
@@ -667,7 +667,7 @@
         <td>77</td>
         <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wielded.com/" target="_blank">Wielded</a></td>
-        <td>不仅可以与 OpenAI 无缝集成，还支持 Azure Op...</td>
+        <td>不仅可以与 OpenAI 无缝集成，还支持 Azur...</td>
         <td>🔑</td>
         <td><a href="https://wielded.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -675,7 +675,7 @@
         <td>78</td>
         <td><img src="https://favicon.zhusl.com/ico?url=link3.cc" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://link3.cc/aiearthdev" target="_blank">AIO通用智能服务平台</a></td>
-        <td>智慧地球（AI·Earth）社区ALL IN ONE （AI...</td>
+        <td>智慧地球（AI·Earth）社区ALL IN ONE...</td>
         <td></td>
         <td><a href="https://link3.cc/aiearthdev" target="_blank">🔗</a></td>
     </tr> 
@@ -803,7 +803,7 @@
         <td>94</td>
         <td><img src="https://favicon.zhusl.com/ico?url=hklan.top" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://newchat.hklan.top/" target="_blank">hklan.top</a></td>
-        <td>登录每天赠送3.5+4.0+MJ绘画次数，轻度使用者可永久白...</td>
+        <td>登录每天赠送3.5+4.0+MJ绘画次数，轻度使用者...</td>
         <td>🔑</td>
         <td><a href="https://newchat.hklan.top/" target="_blank">🔗</a></td>
     </tr> 
@@ -1145,7 +1145,7 @@
         <td>3</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/23f4aec2daf817e16f7b829e131f410c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.talks-ai.com/" target="_blank">Talks-AI</a></td>
-        <td>5分钟训练你的专属AI聊天机器人，秒懂文档，类似chatpd...</td>
+        <td>5分钟训练你的专属AI聊天机器人，秒懂文档，类似ch...</td>
         <td>😄</td>
         <td><a href="https://www.talks-ai.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1153,7 +1153,7 @@
         <td>4</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/38c86d2b4cbecc133b70776d4a68181d.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatdoc.com/" target="_blank">ChatDOC </a></td>
-        <td>AI Chat with PDF Documents | 与...</td>
+        <td>AI Chat with PDF Documents...</td>
         <td></td>
         <td><a href="https://chatdoc.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1177,7 +1177,7 @@
         <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/355766f0225b6ea58083c78d8d957ee2.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>Technical documentation assist...</td>
+        <td>Technical documentation as...</td>
         <td></td>
         <td><a href="https://docsgpt.arc53.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1193,7 +1193,7 @@
         <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/226052eb87e0ac0ad2375406d95bb1f5.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://typeset.io/" target="_blank">SciSpace</a></td>
-        <td>AI Chat for scientific PDFs | ...</td>
+        <td>AI Chat for scientific PDF...</td>
         <td></td>
         <td><a href="https://typeset.io/" target="_blank">🔗</a></td>
     </tr> 
@@ -1209,7 +1209,7 @@
         <td>11</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/43cdc54d6ab9524f21d6c3ed8bcb2931.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aicolors.co/" target="_blank">AI Colors</a></td>
-        <td>AI Color Palette Generator - B...</td>
+        <td>AI Color Palette Generator...</td>
         <td></td>
         <td><a href="https://aicolors.co/" target="_blank">🔗</a></td>
     </tr> 
@@ -1249,7 +1249,7 @@
         <td>16</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/72b400d4fed058272b8e029a8bbd30df.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">MotionGo</a></td>
-        <td>命令式智能对话一键生成PPT，让PPT文档表达更加快速、高效</td>
+        <td>命令式智能对话一键生成PPT，让PPT文档表达更加快...</td>
         <td> </td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1273,7 +1273,7 @@
         <td>19</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/c36351f4817c6d4abfd93cb003b95b1d.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">Notion AI</a></td>
-        <td>Knowledge, answers, ideas. One...</td>
+        <td>Knowledge, answers, ideas....</td>
         <td></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">🔗</a></td>
     </tr> 
@@ -1281,7 +1281,7 @@
         <td>20</td>
         <td><img src="https://st.ai55.cc/icons/writesonic.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://writesonic.com/" target="_blank">Writesonic</a></td>
-        <td>Best AI Writer, Copywriting & ...</td>
+        <td>Best AI Writer, Copywritin...</td>
         <td></td>
         <td><a href="https://writesonic.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1895,7 +1895,7 @@
         <td>5</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/96670479a7c679211d51ee4248c20105.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.doubao.com/" target="_blank">豆包</a></td>
-        <td>抖音旗下 AI 智能助手,AI对话,AI聊天,AI写作,AI...</td>
+        <td>抖音旗下 AI 智能助手,AI对话,AI聊天,AI写...</td>
         <td>🎶</td>
         <td><a href="https://www.doubao.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1911,7 +1911,7 @@
         <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/cad2d4ded6079e3e0592b8164763c366.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatglm.cn/" target="_blank">智谱清言</a></td>
-        <td>千亿参数对话模型-基于GLM模型开发，支持多轮对话，具备内容...</td>
+        <td>千亿参数对话模型-基于GLM模型开发，支持多轮对话，...</td>
         <td></td>
         <td><a href="https://chatglm.cn/" target="_blank">🔗</a></td>
     </tr> 
@@ -1919,7 +1919,7 @@
         <td>8</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/8b3dca6900bbba3762a3c703f63ab9f8.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.yucongming.com/" target="_blank">鱼聪明AI</a></td>
-        <td>鱼聪明AI - 做您强大的AI助手鱼聪明AI - 做您强大的...</td>
+        <td>鱼聪明AI - 做您强大的AI助手鱼聪明AI - 做...</td>
         <td></td>
         <td><a href="https://www.yucongming.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1927,7 +1927,7 @@
         <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/169c3541679d6d28deffd360fa6cfa58.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hunyuan.tencent.com/" target="_blank">腾讯混元</a></td>
-        <td>由腾讯研发的大语言模型，具备强大的中文创作能力， 复杂语境下...</td>
+        <td>由腾讯研发的大语言模型，具备强大的中文创作能力， 复...</td>
         <td></td>
         <td><a href="https://hunyuan.tencent.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1935,7 +1935,7 @@
         <td>10</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/1736ac7992394ca22c324623174365a1.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://yiyan.baidu.com/welcome" target="_blank">文心一言</a></td>
-        <td>既能写文案、读文档，又能脑洞大开、答疑解惑，还能倾听你的故事...</td>
+        <td>既能写文案、读文档，又能脑洞大开、答疑解惑，还能倾听...</td>
         <td></td>
         <td><a href="https://yiyan.baidu.com/welcome" target="_blank">🔗</a></td>
     </tr> 
@@ -1952,4 +1952,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-05 12:31:22
+> 最后更新: 2024-02-07 20:53:39
