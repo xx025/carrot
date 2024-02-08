@@ -31,7 +31,7 @@
         <td>2</td>
         <td><img src="https://st.ai55.cc/icons/gcloudlab.github.io/0.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">Free ChatGPT</a></td>
-        <td>🎨😄⭐️GPT4V 多模态</td>
+        <td>🎨 😄 ⭐️免费 GPT4V 多模态 </td>
         <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
@@ -1952,4 +1952,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-07 20:53:39
+> 最后更新: 2024-02-08 09:25:25
