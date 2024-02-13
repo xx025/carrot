@@ -1135,6 +1135,14 @@
     </tr> 
     <tr>
         <td>2</td>
+        <td><img src="https://st2.ai55.cc/202402/42aec375-7b12-47db-be97-aca7f7881e02.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://kimi.moonshot.cn/" target="_blank">Kimi 智能助手</a></td>
+        <td>Kimi 是由 Moonshot AI 出品的智能助...</td>
+        <td></td>
+        <td><a href="https://kimi.moonshot.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/222351ca13bf196d9f174779f533d281.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xdu.cn/" target="_blank">新读</a></td>
         <td>你不必再通读任何文档，直接与任意文档对话</td>
@@ -1142,7 +1150,7 @@
         <td><a href="https://xdu.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/23f4aec2daf817e16f7b829e131f410c.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.talks-ai.com/" target="_blank">Talks-AI</a></td>
         <td>5分钟训练你的专属AI聊天机器人，秒懂文档，类似ch...</td>
@@ -1150,7 +1158,7 @@
         <td><a href="https://www.talks-ai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/38c86d2b4cbecc133b70776d4a68181d.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatdoc.com/" target="_blank">ChatDOC </a></td>
         <td>AI Chat with PDF Documents...</td>
@@ -1158,7 +1166,7 @@
         <td><a href="https://chatdoc.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>6</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/ab21b75087d6781d5de8b67e1ccaec4d.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aibang.run/" target="_blank">AI帮个忙</a></td>
         <td> AI帮个忙 | 多功能AI小帮手</td>
@@ -1166,7 +1174,7 @@
         <td><a href="https://aibang.run/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/57ab21f348001017ede6f5fd09b0c200.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://zhoubaotong.com/zh" target="_blank">周报通</a></td>
         <td>简单描述工作内容 帮你生成完整周报</td>
@@ -1174,7 +1182,7 @@
         <td><a href="https://zhoubaotong.com/zh" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>7</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/355766f0225b6ea58083c78d8d957ee2.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
         <td>Technical documentation as...</td>
@@ -1182,7 +1190,7 @@
         <td><a href="https://docsgpt.arc53.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/ba2b3e5f361b9d037eb6c259eab42495.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatexcel.com/" target="_blank">酷表ChatExcel</a></td>
         <td>仅通过聊天来操控您的Excel表格</td>
@@ -1190,7 +1198,7 @@
         <td><a href="https://chatexcel.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/226052eb87e0ac0ad2375406d95bb1f5.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://typeset.io/" target="_blank">SciSpace</a></td>
         <td>AI Chat for scientific PDF...</td>
@@ -1198,7 +1206,7 @@
         <td><a href="https://typeset.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/2a4d6b29bc76f76c6a6071989060313e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://bibigpt.co/" target="_blank">BibiGPT</a></td>
         <td>一键总结音视频内容</td>
@@ -1206,7 +1214,7 @@
         <td><a href="https://bibigpt.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/43cdc54d6ab9524f21d6c3ed8bcb2931.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aicolors.co/" target="_blank">AI Colors</a></td>
         <td>AI Color Palette Generator...</td>
@@ -1214,7 +1222,7 @@
         <td><a href="https://aicolors.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/777a20dc2f64eeb9195fb25113a3e7ac.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.deepl.com/zh/write" target="_blank">DeepL Write</a></td>
         <td>人工智能驱动的写作助手</td>
@@ -1222,7 +1230,7 @@
         <td><a href="https://www.deepl.com/zh/write" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/16f9817b296076131dbac3887e905689.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://heyfriday.cn/" target="_blank">Friday AI</a></td>
         <td>Friday AI, 智能写作系统</td>
@@ -1230,7 +1238,7 @@
         <td><a href="https://heyfriday.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>15</td>
         <td><img src="https://st.ai55.cc/icons/xiezuocat.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xiezuocat.com/" target="_blank">xiezuocat.com</a></td>
         <td>密塔写作猫</td>
@@ -1238,7 +1246,7 @@
         <td><a href="https://xiezuocat.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>16</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/20e5f6e609a2028f664047896c3b5adc.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wenzhang.zhuluan.com/" target="_blank">朱鸾AI写作助手</a></td>
         <td>AI文章生成器</td>
@@ -1246,7 +1254,7 @@
         <td><a href="https://wenzhang.zhuluan.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>17</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/72b400d4fed058272b8e029a8bbd30df.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://motion.yoo-ai.com/" target="_blank">MotionGo</a></td>
         <td>命令式智能对话一键生成PPT，让PPT文档表达更加快...</td>
@@ -1254,7 +1262,7 @@
         <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>18</td>
         <td><img src="https://st.ai55.cc/icons/easyai.fun/favicon-1024x1024.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://easyai.fun/" target="_blank">easyai.fun</a></td>
         <td>多功能AI小助手</td>
@@ -1262,7 +1270,7 @@
         <td><a href="https://easyai.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>19</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/3137a08d312ff0c48c33e5721901d692.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.jasper.ai/" target="_blank">Jasper.AI</a></td>
         <td>面向企业营销团队的 AI 副驾驶</td>
@@ -1270,7 +1278,7 @@
         <td><a href="https://www.jasper.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>20</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/c36351f4817c6d4abfd93cb003b95b1d.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.notion.so/product/ai" target="_blank">Notion AI</a></td>
         <td>Knowledge, answers, ideas....</td>
@@ -1278,7 +1286,7 @@
         <td><a href="https://www.notion.so/product/ai" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>21</td>
         <td><img src="https://st.ai55.cc/icons/writesonic.com/0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://writesonic.com/" target="_blank">Writesonic</a></td>
         <td>Best AI Writer, Copywritin...</td>
@@ -1286,7 +1294,7 @@
         <td><a href="https://writesonic.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
+        <td>22</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/21b739d43fcb9bbb83d8541fe4fe88fa.vnd.microsoft.icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.1ptai.com/" target="_blank">OnePoint</a></td>
         <td>AI 聊天、编写、阅读和编码</td>
@@ -1952,4 +1960,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-08 09:25:25
+> 最后更新: 2024-02-13 15:01:51
