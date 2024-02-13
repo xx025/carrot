@@ -179,7 +179,7 @@
         <td>16</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/60b3804bf762b5b038311158ce0dec47.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://b7.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
-        <td>密码：3.5forfreeee</td>
+        <td>密码：3.5forfree24</td>
         <td>😄</td>
         <td><a href="https://b7.Betai55.uk/" target="_blank">🔗</a></td>
     </tr> 
@@ -1968,4 +1968,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-13 15:06:17
+> 最后更新: 2024-02-13 21:18:41
