@@ -43,10 +43,10 @@
     </tr> 
     <tr>
         <td>4</td>
-        <td><img src="https://ai.wolian.chat/openmao/assets/paper-logo.11426af3.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://ai.wolian.chat/openmao/#/?inviteCode=1746452938261270530" target="_blank">范文喵AI论文助手</a></td>
-        <td>针对大学生群体的写作工具</td>
-        <td><a href="https://ai.wolian.chat/openmao/#/?inviteCode=1746452938261270530" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://vip7.1ai.ink/chat" target="_blank">1Ai-GPT4.0专业版</a></td>
+        <td>4.0无限次、学术Ai、3.5免费</td>
+        <td><a href="https://vip7.1ai.ink/chat" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -1968,4 +1968,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-13 21:19:45
+> 最后更新: 2024-02-15 08:54:52
