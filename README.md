@@ -8,9 +8,8 @@
 发布网站： <a href="https://cc.ai55.cc/">https://cc.ai55.cc/</a> 😃敬请收藏和分享
 </br>
 分享站点、站点失效、标注错误，请<a href="https://github.com/xx025/carrot/issues">🌺点此🌺</a>
-</p>
+</p><br/>
 
-<br/>
 ------
 
 **赞助商**
@@ -1972,4 +1971,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-16 19:43:56
+> 最后更新: 2024-02-16 19:45:39
