@@ -24,13 +24,20 @@
     </tr> 
     <tr>
         <td>2</td>
+        <td><img src="https://st.ai55.cc/icons/gcloudlab.github.io/0.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">Free ChatGPT</a></td>
+        <td>🎨 😄 ⭐️免费 GPT4V 多模态 </td>
+        <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
         <td><img src="https://st.ai55.cc/icons/share.aiwenda.chat/favicon-180x180.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.littlewheat.com/?ref=ai55" target="_blank">1Chat国内免费</a></td>
         <td>免登录、无限免费GPT站</td>
         <td><a href="https://chat.littlewheat.com/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/504a41f4398f50b45ff9d87157206e2a.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://vip7.1ai.ink/chat" target="_blank">1Ai-GPT4.0专业版</a></td>
         <td>4.0无限次、学术Ai、3.5免费</td>
@@ -1860,4 +1867,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-23 10:56:09
+> 最后更新: 2024-02-23 13:58:21
