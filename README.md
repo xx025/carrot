@@ -24,10 +24,10 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st.ai55.cc/icons/gcloudlab.github.io/0.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">Free ChatGPT</a></td>
-        <td>🎨 😄 ⭐️免费 GPT4V 多模态 </td>
-        <td><a href="https://tomchat.fun/?ref=ai55" target="_blank">🔗</a></td>
+        <td><img src="https://st.ai55.cc/img/202312211041480.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://faucet.openkey.cloud/" target="_blank">ChatGPT API 水龙头</a></td>
+        <td>免费ChatGPTAPI</td>
+        <td><a href="https://faucet.openkey.cloud/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1867,4 +1867,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-02-23 22:08:34
+> 最后更新: 2024-02-29 09:32:08
