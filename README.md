@@ -24,10 +24,10 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st.ai55.cc/img/202312211041480.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://faucet.openkey.cloud/" target="_blank">ChatGPT API 水龙头</a></td>
-        <td>免费ChatGPTAPI</td>
-        <td><a href="https://faucet.openkey.cloud/" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/202403/b156b1f7-0f37-4209-9fb8-a5b06892c0a3.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://poe.monster/?ref=ai55" target="_blank">Poe.Monster</a></td>
+        <td>中文版Poe</td>
+        <td><a href="https://poe.monster/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1891,4 +1891,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-03-03 21:48:03
+> 最后更新: 2024-03-06 16:42:51
