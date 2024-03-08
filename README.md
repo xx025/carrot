@@ -61,7 +61,7 @@
     <tr>
         <td>1</td>
         <td><img src="https://st2.ai55.cc/202402/805a2f7a-055b-42af-b72a-fcadeb301aaa.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="http://w9.xjai.cc/" target="_blank">免费GPT4</a></td>
+        <td><a href="http://w9.xjai.cc/" target="_blank">ChatGPT Web</a></td>
         <td>ChatGPT在线使用、永久免费、无需登录, 无需梯...</td>
         <td>😄</td>
         <td><a href="http://w9.xjai.cc/" target="_blank">🔗</a></td>
@@ -1873,4 +1873,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-03-08 09:20:33
+> 最后更新: 2024-03-08 09:27:30
