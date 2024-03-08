@@ -62,7 +62,7 @@
         <td>1</td>
         <td><img src="https://st2.ai55.cc/ai55-r2-storage/2024/02/fc0a454982ec43840713b8db0f58a747.x-icon" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat10.aiyunos.top" target="_blank">AItianhu</a></td>
-        <td> GPT4</td>
+        <td>无限制的GPT-3.5 服务,GPT4</td>
         <td>😄⭐</td>
         <td><a href="https://chat10.aiyunos.top" target="_blank">🔗</a></td>
     </tr> 
@@ -1873,4 +1873,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-03-08 09:29:13
+> 最后更新: 2024-03-08 09:30:20
