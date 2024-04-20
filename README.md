@@ -17,28 +17,28 @@
 <table>
     <tr>
         <td>1</td>
-        <td><img src="https://st.ai55.cc/icons/chat10.aiyunos.top/favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat10.aiyunos.top/?ref=ai55" target="_blank">Aiyunos.top</a></td>
         <td>多模型,支持 GPT4 文件</td>
         <td><a href="https://chat10.aiyunos.top/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/202403/b156b1f7-0f37-4209-9fb8-a5b06892c0a3.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/231fcbf5090319c959bfe7f3f5733730.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://poe.monster/?ref=ai55" target="_blank">Poe.Monster</a></td>
         <td>中文版Poe</td>
         <td><a href="https://poe.monster/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
-        <td><img src="https://st.ai55.cc/icons/share.aiwenda.chat/favicon-180x180.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/169b3c2c935f1aaeadd8d260ac766dd9.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.littlewheat.com/?ref=ai55" target="_blank">1Chat国内免费</a></td>
         <td>免登录、无限免费GPT站</td>
         <td><a href="https://chat.littlewheat.com/?ref=ai55" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>4</td>
-        <td><img src="https://st2.ai55.cc/202404/42ab5b14-088d-4cdc-b899-f055f2997de5.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/c8d20b710206082c76c1c2f1b2d9904a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aitopk.com/" target="_blank">GPT-Plus共享免费直连</a></td>
         <td>⭐😄4.0免费使用，ChatGPT多号池站点，稳定快捷</td>
         <td><a href="https://aitopk.com/" target="_blank">🔗</a></td>
@@ -1833,4 +1833,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-04-18 12:48:39
+> 最后更新: 2024-04-20 18:24:45
