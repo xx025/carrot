@@ -652,10 +652,10 @@
     </tr> 
     <tr>
         <td>75</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=theinspiredgroup.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatgpt35.theinspiredgroup.com/" target="_blank">theinspiredgroup.com</a></td>
-        <td></td>
-        <td>😄⭐ </td>
+        <td><img src="https://st2.ai55.cc/1/704dccac3b3230706e52f2596e5f60ce.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatgpt35.theinspiredgroup.com/" target="_blank">ChatGPT - AI</a></td>
+        <td>ChatGPT - AI 人工智能聊天机器人</td>
+        <td>⭐ </td>
         <td><a href="https://chatgpt35.theinspiredgroup.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
@@ -708,9 +708,9 @@
     </tr> 
     <tr>
         <td>82</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=wu-ji.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.wu-ji.com/" target="_blank">wu-ji.com</a></td>
-        <td></td>
+        <td><img src="https://st2.ai55.cc/1/0522f51666f5d2137a53d4fa55b6c590.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.wu-ji.com/" target="_blank">无际AI</a></td>
+        <td>无际Ai-基于ChatGPT3.5的智能聊天机器人国...</td>
         <td>🔑</td>
         <td><a href="https://www.wu-ji.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -756,8 +756,8 @@
     </tr> 
     <tr>
         <td>88</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=anchongai.com" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chat.anchongai.com" target="_blank">anchongai.com</a></td>
+        <td><img src="https://st2.ai55.cc/1/72d13d1c4a35c12ef0c9babea527803d.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chat.anchongai.com" target="_blank">暗虫AI</a></td>
         <td>gpt3.5无限用</td>
         <td>🔑</td>
         <td><a href="https://chat.anchongai.com" target="_blank">🔗</a></td>
@@ -1801,4 +1801,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-04-20 22:42:46
+> 最后更新: 2024-04-20 22:52:26
