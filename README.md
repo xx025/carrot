@@ -892,7 +892,7 @@
     </tr> 
     <tr>
         <td>105</td>
-        <td><img src="https://st2.ai55.cc/1/2469651ded75ac26b47b41ceef8344c4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/4c72a990492de641d25e79fea6652f1c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ohmygpt.com/" target="_blank">OhMyGPT</a></td>
         <td>登录用户每天可以免费使用150</td>
         <td>🔑</td>
@@ -1010,7 +1010,7 @@
     </tr> 
     <tr>
         <td>12</td>
-        <td><img src="https://st2.ai55.cc/1/ad1e1c4fda2074fad6fe6d7177afbdca.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/32e2cacd09290c4043f327b6fdc0d280.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.deepl.com/zh/write" target="_blank">DeepL Write</a></td>
         <td>人工智能驱动的写作助手</td>
         <td> </td>
@@ -1034,7 +1034,7 @@
     </tr> 
     <tr>
         <td>15</td>
-        <td><img src="https://st2.ai55.cc/1/96eecb945a76325130fa98deef305079.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/138d6be470b3e4e349039cc3cd28f53d.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wenzhang.zhuluan.com/" target="_blank">朱鸾AI写作助手</a></td>
         <td>AI文章生成器</td>
         <td></td>
@@ -1713,4 +1713,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-04-21 13:54:55
+> 最后更新: 2024-04-21 13:59:05
