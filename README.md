@@ -24,10 +24,10 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/231fcbf5090319c959bfe7f3f5733730.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://poe.monster/?ref=ai55" target="_blank">Poe.Monster</a></td>
-        <td>中文版Poe</td>
-        <td><a href="https://poe.monster/?ref=ai55" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/964b62687f1f060eef78e4826de89f89.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://openkey.cloud/" target="_blank">OpenKey.Cloud</a></td>
+        <td>GPT4, API账号池</td>
+        <td><a href="https://openkey.cloud/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1729,4 +1729,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-04-22 18:38:34
+> 最后更新: 2024-04-28 10:51:30
