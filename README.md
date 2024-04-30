@@ -32,9 +32,9 @@
     <tr>
         <td>3</td>
         <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://vip7.1ai.ink/chat" target="_blank">1Ai-GPT4.0专业版</a></td>
-        <td>4.0无限次、学术Ai、3.5免费</td>
-        <td><a href="https://vip7.1ai.ink/chat" target="_blank">🔗</a></td>
+        <td><a href="https://chat.littlewheat.com" target="_blank">1Chat国内免费</a></td>
+        <td>免登录、无限免费GPT站</td>
+        <td><a href="https://chat.littlewheat.com" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>4</td>
@@ -1745,4 +1745,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-04-30 22:16:55
+> 最后更新: 2024-05-01 00:29:30
