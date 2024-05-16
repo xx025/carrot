@@ -24,10 +24,10 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/964b62687f1f060eef78e4826de89f89.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://openkey.cloud/" target="_blank">OpenKey.Cloud</a></td>
-        <td>GPT4, API账号池</td>
-        <td><a href="https://openkey.cloud/" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/8a7174cf70bf8058f77dd6732c0944f4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://hematown.com/" target="_blank">河马小镇</a></td>
+        <td>GPT-4o, 公益镜像</td>
+        <td><a href="https://hematown.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1751,4 +1751,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-05-12 19:39:15
+> 最后更新: 2024-05-16 16:43:58
