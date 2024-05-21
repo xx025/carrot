@@ -109,10 +109,10 @@
     <tr>
         <td>7</td>
         <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://robot.liujiarong.top" target="_blank"> lobeChat</a></td>
-        <td>提供免费的Google Gem...</td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
+        <td>免费国内大模型（阿里、腾讯、讯...</td>
         <td></td>
-        <td><a href="https://robot.liujiarong.top" target="_blank">🔗</a></td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>8</td>
@@ -1775,4 +1775,4 @@
 相关项目：
 - 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-05-17 15:28:03
+> 最后更新: 2024-05-21 11:23:42
