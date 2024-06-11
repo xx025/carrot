@@ -12,7 +12,7 @@
 
 ------
 
-**赞助商**
+**推荐**
 
 <table>
     <tr>
@@ -45,7 +45,7 @@
     </tr> 
 </table>
 
->**赞助商**网站可能包含付费内容服务，可选择性访问和使用
+>**推荐**网站可能包含付费内容服务，可选择性访问和使用
 
 ---
 
@@ -1794,9 +1794,7 @@
 
 ---
 
-[GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [赞助商](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
+[GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
-相关项目：
-- 下载网站图标：https://github.com/xx025/get-icon
 
-> 最后更新: 2024-06-04 16:28:32
+> 最后更新: 2024-06-11 20:09:48
