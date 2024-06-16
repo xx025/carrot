@@ -973,6 +973,52 @@
 </table>
 
 
+## AI绘画
+
+<table> 
+    <tr>
+        <td>1</td>
+        <td><img src="https://st2.ai55.cc/1/7c59e51c3fdce81b04de01e063e3a204.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://miaohua.sensetime.com/inspiration?invite_code=wWxy4kmmP" target="_blank">商汤秒画</a></td>
+        <td>商汤秒画SenseMirage...</td>
+        <td></td>
+        <td><a href="https://miaohua.sensetime.com/inspiration?invite_code=wWxy4kmmP" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td><img src="https://st2.ai55.cc/1/a7cbbffa249d21308281b3e732bc4810.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://tu.360.cn/" target="_blank">360鸿图</a></td>
+        <td>只要输入文字描述的创意，就能快...</td>
+        <td></td>
+        <td><a href="https://tu.360.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
+        <td><img src="https://st2.ai55.cc/1/dec762463f3781706feca4e1dc60dcbf.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://mj1.freemj.xyz/" target="_blank">免费 Midjourney 绘画</a></td>
+        <td>免费 Midjourney 绘...</td>
+        <td></td>
+        <td><a href="https://mj1.freemj.xyz/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/f54173691fa9cea232b91475d5ef6e6b.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chilloutai.xyz/" target="_blank">chilloutai.xyz</a></td>
+        <td>绘画</td>
+        <td>🔑</td>
+        <td><a href="https://chilloutai.xyz/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td><img src="https://st2.ai55.cc/1/93254ad310b870e46a397d91e635f00f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="http://hh.gpihh.cc" target="_blank">瓜皮AI绘画 (MJ)</a></td>
+        <td>瓜皮AI绘画是基于 Midjo...</td>
+        <td></td>
+        <td><a href="http://hh.gpihh.cc" target="_blank">🔗</a></td>
+    </tr> 
+</table>
+
+
 ## 国产AI大模型
 
 <table> 
@@ -1392,14 +1438,6 @@
         <td></td>
         <td><a href="https://hotoke.ai/" target="_blank">🔗</a></td>
     </tr> 
-    <tr>
-        <td>3</td>
-        <td><img src="https://st2.ai55.cc/1/f54173691fa9cea232b91475d5ef6e6b.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chilloutai.xyz/" target="_blank">chilloutai.xyz</a></td>
-        <td>绘画</td>
-        <td>🔑</td>
-        <td><a href="https://chilloutai.xyz/" target="_blank">🔗</a></td>
-    </tr> 
 </table>
 
 
@@ -1453,28 +1491,6 @@
         <td>ChatGPT 应用</td>
         <td></td>
         <td><a href="https://open-gpt.app/" target="_blank">🔗</a></td>
-    </tr> 
-</table>
-
-
-## AI绘画
-
-<table> 
-    <tr>
-        <td>1</td>
-        <td><img src="https://st2.ai55.cc/1/dec762463f3781706feca4e1dc60dcbf.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://mj1.freemj.xyz/" target="_blank">免费 Midjourney 绘画</a></td>
-        <td>免费 Midjourney 绘...</td>
-        <td></td>
-        <td><a href="https://mj1.freemj.xyz/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/93254ad310b870e46a397d91e635f00f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="http://hh.gpihh.cc" target="_blank">瓜皮AI绘画 (MJ)</a></td>
-        <td>瓜皮AI绘画是基于 Midjo...</td>
-        <td></td>
-        <td><a href="http://hh.gpihh.cc" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -1805,4 +1821,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-06-16 14:23:40
+> 最后更新: 2024-06-16 20:41:34
