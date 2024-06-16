@@ -318,8 +318,8 @@
         <td>33</td>
         <td><img src="https://st2.ai55.cc/1/c65ac742a5ea20342f811408513b88f9.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://3am.com.hk" target="_blank">3AM</a></td>
+        <td>註冊後完全免費無限制使用GPT...</td>
         <td></td>
-        <td>註冊後完全免費無限制使用GPT3.5Turbo ， Claude3 Haiku ， Midjourney Relax模式，專注繁體中文AI 體驗 介面簡潔，支持微信/支付宝 國際信用卡；企業級騰訊雲香港服務器集群，服務SLA 可靠</td>
         <td><a href="https://3am.com.hk" target="_blank">🔗</a></td>
     </tr> 
     <tr>
@@ -1805,4 +1805,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-06-16 14:22:51
+> 最后更新: 2024-06-16 14:23:40
