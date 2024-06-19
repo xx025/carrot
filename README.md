@@ -38,10 +38,10 @@
     </tr> 
     <tr>
         <td>4</td>
-        <td><img src="https://st2.ai55.cc/1/c8d20b710206082c76c1c2f1b2d9904a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://aitopk.com/" target="_blank">GPT-Plus共享免费直连</a></td>
-        <td>⭐😄4.0免费使用，ChatGPT多号池站点，稳定快捷</td>
-        <td><a href="https://aitopk.com/" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/ac942005b6aa200c2b40e0b80fe80677.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://vip4.1ai.ink" target="_blank">1Ai-GPT4.0专业版</a></td>
+        <td>4.0无限次、学术Ai、3.5免费</td>
+        <td><a href="https://vip4.1ai.ink" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -1821,4 +1821,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-06-16 20:41:34
+> 最后更新: 2024-06-19 19:15:08
