@@ -32,9 +32,9 @@
     <tr>
         <td>3</td>
         <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chat.littlewheat.com" target="_blank">1Chat国内免费</a></td>
+        <td><a href="https://link1.littlewheat.com" target="_blank">1Chat国内免费</a></td>
         <td>免登录、无限免费GPT站</td>
-        <td><a href="https://chat.littlewheat.com" target="_blank">🔗</a></td>
+        <td><a href="https://link1.littlewheat.com" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>4</td>
@@ -1821,4 +1821,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-06-19 19:15:08
+> 最后更新: 2024-06-30 21:21:51
