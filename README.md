@@ -24,7 +24,7 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/c8be07698ef4da21b9a889cb986b494b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/e292f1b956cfcab07e7d6f6def915a70.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://j.aiwenjianjia.com/" target="_blank">文件夹AI聚合</a></td>
         <td>登录后可免费用、MJ快速不限次、GPT4.0不限次</td>
         <td><a href="http://j.aiwenjianjia.com/" target="_blank">🔗</a></td>
@@ -1797,4 +1797,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-07-01 12:18:23
+> 最后更新: 2024-07-01 12:52:34
