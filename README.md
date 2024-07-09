@@ -51,7 +51,7 @@
 
 **标注说明**
 
-| ⭐ : 使用稳定，推荐 | 😄 : 免费使用 | 🔑 : 需要登陆或密码 | ✈️ : 需国际网络进行访问 |
+| 🆕:最近更新 | ⭐ : 推荐 | 😄 : 免费使用 | 🔑 : 需要登陆或密码 | ✈️ : 需国际网络进行访问 |
 
 
 
@@ -1813,4 +1813,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-07-09 23:35:55
+> 最后更新: 2024-07-09 23:37:58
