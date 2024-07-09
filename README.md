@@ -17,10 +17,10 @@
 <table>
     <tr>
         <td>1</td>
-        <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chat10.aiyunos.top/?ref=ai55" target="_blank">Aiyunos.top</a></td>
-        <td>多模型,支持 GPT4 文件</td>
-        <td><a href="https://chat10.aiyunos.top/?ref=ai55" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/5ee3bbf0f0c0433175f485490d511a18.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatgptplus.cn" target="_blank">ChatGPTPlus.cn</a></td>
+        <td>RawChat公益站点</td>
+        <td><a href="https://chatgptplus.cn" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>2</td>
@@ -1789,4 +1789,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-07-08 19:22:01
+> 最后更新: 2024-07-09 21:05:29
