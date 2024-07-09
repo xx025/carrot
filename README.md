@@ -118,7 +118,7 @@
         <td>8</td>
         <td><img src="https://st2.ai55.cc/1/cbf1cc9d41603dc0b09d40c2a9ae1e39.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://x.aichatos8.cn" target="_blank">AIChatOS</a></td>
-        <td>无限制的GPT-3.5 服务</td>
+        <td>🆕无限制的GPT-3.5 服务</td>
         <td>😀</td>
         <td><a href="https://x.aichatos8.cn" target="_blank">🔗</a></td>
     </tr> 
@@ -126,7 +126,7 @@
         <td>9</td>
         <td><img src="https://st2.ai55.cc/1/7f452ecd72c3d0feb51648477974d499.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.opkfc.com" target="_blank">数字玩家</a></td>
-        <td>使用免费的ChatGPT账户</td>
+        <td>🆕使用免费的ChatGPT账户</td>
         <td></td>
         <td><a href="https://www.opkfc.com" target="_blank">🔗</a></td>
     </tr> 
@@ -134,7 +134,7 @@
         <td>10</td>
         <td><img src="https://st2.ai55.cc/1/584d8057a24510c247244b49c97e9f67.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://all.xjai.top" target="_blank">免费无限制GPT4</a></td>
-        <td>微信登录即可免费无限制使用GP</td>
+        <td>🆕微信登录即可免费无限制使用G</td>
         <td></td>
         <td><a href="https://all.xjai.top" target="_blank">🔗</a></td>
     </tr> 
@@ -142,7 +142,7 @@
         <td>11</td>
         <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
-        <td>无限制GPT-3.5，免费国内...</td>
+        <td>🆕无限制GPT-3.5，免费国...</td>
         <td></td>
         <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
     </tr> 
@@ -366,7 +366,7 @@
         <td>39</td>
         <td><img src="https://st2.ai55.cc/1/c65ac742a5ea20342f811408513b88f9.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://3am.com.hk" target="_blank">3AM</a></td>
-        <td>註冊後完全免費無限制使用GPT...</td>
+        <td>🆕註冊後完全免費無限制使用GP...</td>
         <td></td>
         <td><a href="https://3am.com.hk" target="_blank">🔗</a></td>
     </tr> 
@@ -972,7 +972,7 @@
         <td>1</td>
         <td><img src="https://st2.ai55.cc/1/7c59e51c3fdce81b04de01e063e3a204.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://miaohua.sensetime.com/inspiration?invite_code=wWxy4kmmP" target="_blank">商汤秒画</a></td>
-        <td>商汤秒画SenseMirage...</td>
+        <td>🆕商汤秒画SenseMirag...</td>
         <td></td>
         <td><a href="https://miaohua.sensetime.com/inspiration?invite_code=wWxy4kmmP" target="_blank">🔗</a></td>
     </tr> 
@@ -980,7 +980,7 @@
         <td>2</td>
         <td><img src="https://st2.ai55.cc/1/a7cbbffa249d21308281b3e732bc4810.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://tu.360.cn/" target="_blank">360鸿图</a></td>
-        <td>只要输入文字描述的创意，就能快...</td>
+        <td>🆕只要输入文字描述的创意，就能...</td>
         <td></td>
         <td><a href="https://tu.360.cn/" target="_blank">🔗</a></td>
     </tr> 
@@ -996,7 +996,7 @@
         <td>4</td>
         <td><img src="https://st2.ai55.cc/1/f54173691fa9cea232b91475d5ef6e6b.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chilloutai.xyz/" target="_blank">chilloutai.xyz</a></td>
-        <td>绘画</td>
+        <td>🆕绘画</td>
         <td>🔑</td>
         <td><a href="https://chilloutai.xyz/" target="_blank">🔗</a></td>
     </tr> 
@@ -1813,4 +1813,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-07-09 23:42:30
+> 最后更新: 2024-07-09 23:43:08
