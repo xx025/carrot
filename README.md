@@ -69,10 +69,10 @@
     <tr>
         <td>2</td>
         <td><img src="https://st2.ai55.cc/1/888d4bf742afc25d719bb4948d7151ca.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatz.free2gpt.xyz" target="_blank">免费Claude 3.5 Sonnet</a></td>
+        <td><a href="https://claude.free2gpt.xyz" target="_blank">免费Claude 3.5 Sonnet</a></td>
         <td>🆕无需注册登录，国内可用，限1</td>
         <td>😄</td>
-        <td><a href="https://chatz.free2gpt.xyz" target="_blank">🔗</a></td>
+        <td><a href="https://claude.free2gpt.xyz" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1813,4 +1813,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-07-10 21:49:19
+> 最后更新: 2024-07-10 22:48:24
