@@ -1842,6 +1842,14 @@
         <td></td>
         <td><a href="https://aitoolsdirectory.com/" target="_blank">🔗</a></td>
     </tr> 
+    <tr>
+        <td>39</td>
+        <td><img src="https://toollist.ai/apple-touch-icon.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://toollist.ai/" target="_blank">Tool List Ai</a></td>
+        <td>Find the best AI tools for every task</td>
+        <td>😄</td>
+        <td><a href="https://www.gptdemo.net/cn/" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
