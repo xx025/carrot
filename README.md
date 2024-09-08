@@ -76,6 +76,22 @@
     </tr> 
     <tr>
         <td>3</td>
+        <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
+        <td>🆕无限制GPT-4-mini/...</td>
+        <td></td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/a63ba1611b428dcc2f270e777c7b0916.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://robot.liujiarong.me" target="_blank">roboot</a></td>
+        <td>🆕新增用户登录用户自定义知识库...</td>
+        <td></td>
+        <td><a href="https://robot.liujiarong.me" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/1/d4a9f1c6ae2f96b4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://easychat.fun/" target="_blank">免费ChatGPT-4、Claude 3.5 Sonne</a></td>
         <td>🆕免费gpt-4和claude...</td>
@@ -83,7 +99,7 @@
         <td><a href="https://easychat.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>6</td>
         <td><img src="https://st2.ai55.cc/1/5ee3bbf0f0c0433175f485490d511a18.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://a.x-code.fun" target="_blank">永久免费GPT4</a></td>
         <td>🆕免注册永久免费使用GPT4</td>
@@ -91,7 +107,7 @@
         <td><a href="http://a.x-code.fun" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/1/9a6ee02230a7efad23a25dc9ead4cc7b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
         <td>🆕密码：4omini4free</td>
@@ -99,15 +115,7 @@
         <td><a href="https://b10.Betai55.uk/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
-        <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
-        <td>🆕无限制GPT-3.5，免费国...</td>
-        <td></td>
-        <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>7</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/1/38ba2f6678910813.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.lihaimao.com/" target="_blank">厉害猫AI</a></td>
         <td>🆕免费问答，内涵2w+写作模式</td>
@@ -115,7 +123,7 @@
         <td><a href="https://www.lihaimao.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/1/35409b715d7c183c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.phitrellis.com/" target="_blank">DocGPT-第二大脑</a></td>
         <td>🆕免费使用GPT-4o min...</td>
@@ -123,7 +131,7 @@
         <td><a href="https://chat.phitrellis.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/1/c8d20b710206082c76c1c2f1b2d9904a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aitopk.com/" target="_blank">GPT-Plus共享</a></td>
         <td>🆕免费使用，ChatGPT多号</td>
@@ -131,7 +139,7 @@
         <td><a href="https://aitopk.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/1/5f560574effcd945.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://m.xjai.top" target="_blank">免费gpt4镜像站</a></td>
         <td>和官网功能一致的免费公益站</td>
@@ -139,7 +147,7 @@
         <td><a href="https://m.xjai.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td><img src="https://st2.ai55.cc/1/80aeb4d7ee86275e.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.gptnet.org" target="_blank">极境智能</a></td>
         <td>极境智能是一款集成多个先进模型...</td>
@@ -147,7 +155,7 @@
         <td><a href="https://www.gptnet.org" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td><img src="https://st2.ai55.cc/1/0851f2c253d5b83e.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://fast-palm-ai-chatbot.vercel.app/" target="_blank">Fast Palm AI ChatBot </a></td>
         <td>Fast Palm AI Ch...</td>
@@ -155,7 +163,7 @@
         <td><a href="https://fast-palm-ai-chatbot.vercel.app/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/1/eafd22f7d0c759a5.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hammerai.pro" target="_blank"> HammerAI</a></td>
         <td>⭐ 欢迎体验与使用Hammer...</td>
@@ -163,7 +171,7 @@
         <td><a href="https://hammerai.pro" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>15</td>
         <td><img src="https://st2.ai55.cc/1/e1e175a4d533610f14903cdc0bbee0bc.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ichat2019.top/" target="_blank"> ichat2019</a></td>
         <td>款基于ChatGPT3.5，C...</td>
@@ -171,7 +179,7 @@
         <td><a href="https://ichat2019.top/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>16</td>
         <td><img src="https://st2.ai55.cc/1/cdb341b7229c3c019cd0e755186bdb7f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ssgpt.chat/home" target="_blank">叔叔AI</a></td>
         <td>注册3.5免费，14块包月用G</td>
@@ -179,7 +187,7 @@
         <td><a href="https://ssgpt.chat/home" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>17</td>
         <td><img src="https://st2.ai55.cc/1/888d4bf742afc25d719bb4948d7151ca.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://claude.free2gpt.xyz" target="_blank">免费Claude 3.5 Sonnet</a></td>
         <td>无需注册登录，国内可用，限12</td>
@@ -187,7 +195,7 @@
         <td><a href="https://claude.free2gpt.xyz" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>18</td>
         <td><img src="https://st2.ai55.cc/1/bdbdd3ba4724641cbdca6b6f649a5926.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://bus.hematown.com/list" target="_blank">河马小镇 Bus</a></td>
         <td>OpenAI 官方 GPT-4...</td>
@@ -195,7 +203,7 @@
         <td><a href="https://bus.hematown.com/list" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>19</td>
         <td><img src="https://st2.ai55.cc/1/e9efee05a46cec9898b1dc6ea43c864d.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://myai.asia/" target="_blank">我的AI</a></td>
         <td>致力于公益项目，免登录无限制完...</td>
@@ -203,7 +211,7 @@
         <td><a href="https://myai.asia/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>20</td>
         <td><img src="https://st2.ai55.cc/1/b9501f6a33749f9788aabfb716d63994.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://share.yswl.chat" target="_blank">Cloud AI</a></td>
         <td>1:1复刻官方，功能一模一样，...</td>
@@ -211,7 +219,7 @@
         <td><a href="https://share.yswl.chat" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>21</td>
         <td><img src="https://st2.ai55.cc/1/4c25438f19414cd3d14a826e7ad61678.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.ai365vip.com/" target="_blank">AI365</a></td>
         <td>打开即用 免费gpt-3.5 ...</td>
@@ -219,7 +227,7 @@
         <td><a href="https://chat.ai365vip.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
+        <td>22</td>
         <td><img src="https://st2.ai55.cc/1/6bacdbb9de76753b6e9f0a76f50ce008.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatgpt.dairoot.cn/" target="_blank">ChatGPT 镜像</a></td>
         <td>ChatGPT 官方 1:1 </td>
@@ -227,7 +235,7 @@
         <td><a href="https://chatgpt.dairoot.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>22</td>
+        <td>23</td>
         <td><img src="https://st2.ai55.cc/1/24d221d2611dac77ef5736c515715577.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.bfbke.com/chatgpt" target="_blank">毕方AI助手</a></td>
         <td>登录后永久免费使用GPT4</td>
@@ -235,7 +243,7 @@
         <td><a href="https://www.bfbke.com/chatgpt" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>23</td>
+        <td>24</td>
         <td><img src="https://st2.ai55.cc/1/cbf1cc9d41603dc0b09d40c2a9ae1e39.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://x.aichatos8.cn" target="_blank">AIChatOS</a></td>
         <td>无限制的GPT-3.5 服务</td>
@@ -243,20 +251,12 @@
         <td><a href="https://x.aichatos8.cn" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>24</td>
+        <td>25</td>
         <td><img src="https://st2.ai55.cc/1/7f452ecd72c3d0feb51648477974d499.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.opkfc.com" target="_blank">数字玩家</a></td>
         <td>使用免费的ChatGPT账户</td>
         <td></td>
         <td><a href="https://www.opkfc.com" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>25</td>
-        <td><img src="https://st2.ai55.cc/1/a63ba1611b428dcc2f270e777c7b0916.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://robot.liujiarong.me" target="_blank">roboot</a></td>
-        <td>无限制GPT-3.5、免费GP...</td>
-        <td></td>
-        <td><a href="https://robot.liujiarong.me" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>26</td>
@@ -1909,4 +1909,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-09-08 09:24:17
+> 最后更新: 2024-09-08 09:26:31
