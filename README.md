@@ -17,10 +17,10 @@
 <table>
     <tr>
         <td>1</td>
-        <td><img src="https://st2.ai55.cc/1/5ee3bbf0f0c0433175f485490d511a18.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatgptplus.cn" target="_blank">ChatGPTPlus.cn</a></td>
-        <td>RawChat公益站点</td>
-        <td><a href="https://chatgptplus.cn" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/2eb9aa83641897ae.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://ai.wendabao.net/#/?role=PLUS" target="_blank">AI问答宝</a></td>
+        <td>免费GPT-4及ChatGPT镜像站，支持o1模型</td>
+        <td><a href="https://ai.wendabao.net/#/?role=PLUS" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>2</td>
@@ -1773,4 +1773,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-09-29 22:41:00
+> 最后更新: 2024-09-30 07:36:33
