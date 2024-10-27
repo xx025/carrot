@@ -628,14 +628,6 @@
     </tr> 
     <tr>
         <td>72</td>
-        <td><img src="https://st2.ai55.cc/1/4ff53acb9d2e831be26071dee4c9f98e.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.chatyuhua.cn/" target="_blank">语画AI</a></td>
-        <td>GPT4，MJ，DELL，艺术</td>
-        <td></td>
-        <td><a href="https://www.chatyuhua.cn/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>73</td>
         <td><img src="https://st2.ai55.cc/1/3910116263545692040248960c62d6b8.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.zaiwen.top/" target="_blank">在问</a></td>
         <td>😄让知识无界,智能触手可及</td>
@@ -643,7 +635,7 @@
         <td><a href="https://www.zaiwen.top/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>74</td>
+        <td>73</td>
         <td><img src="https://st2.ai55.cc/1/335fcfc6b7036cd6891bf51e0510bf58.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wow.xjai.pro" target="_blank">动点助手</a></td>
         <td>🔑</td>
@@ -651,7 +643,7 @@
         <td><a href="https://wow.xjai.pro" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>75</td>
+        <td>74</td>
         <td><img src="https://st2.ai55.cc/1/9b24b548a39b018028cff348a2b6763c.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://yesiamai.com/" target="_blank">YesIamAI-是的我是AI</a></td>
         <td>🔑WZH团队推出的第二代语言模...</td>
@@ -659,7 +651,7 @@
         <td><a href="https://yesiamai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>76</td>
+        <td>75</td>
         <td><img src="https://st2.ai55.cc/1/bf5a24521825e23299d1c5c50a254e6b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.blueelephantai.cn" target="_blank">蓝象AI对话</a></td>
         <td>🔑WZH团队推出的第二代语言模...</td>
@@ -667,7 +659,7 @@
         <td><a href="https://ai.blueelephantai.cn" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>77</td>
+        <td>76</td>
         <td><img src="https://st2.ai55.cc/1/b33a9a587c2c26500713475140cecc1f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wielded.com/" target="_blank">Wielded</a></td>
         <td>🔑不仅可以与 OpenAI 无...</td>
@@ -675,7 +667,7 @@
         <td><a href="https://wielded.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>78</td>
+        <td>77</td>
         <td><img src="https://st2.ai55.cc/1/71bca34b8f4d255d5c5f4ca8c4e1981a.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat35.com/" target="_blank">chat35.com</a></td>
         <td>✈️</td>
@@ -683,7 +675,7 @@
         <td><a href="https://chat35.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>79</td>
+        <td>78</td>
         <td><img src="https://st2.ai55.cc/1/28b0ceb9297f0cc37f59790225e445bd.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://toyaml.com/chat.html" target="_blank">toyaml.com</a></td>
         <td>😄</td>
@@ -691,7 +683,7 @@
         <td><a href="https://toyaml.com/chat.html" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>80</td>
+        <td>79</td>
         <td><img src="https://st2.ai55.cc/1/bb5eab38055d1ae7d3536b998a3b1161.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.teach-anything.com/" target="_blank">Teach Anything</a></td>
         <td>✈️Teach you Any...</td>
@@ -699,7 +691,7 @@
         <td><a href="https://www.teach-anything.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>81</td>
+        <td>80</td>
         <td><img src="https://st2.ai55.cc/1/704dccac3b3230706e52f2596e5f60ce.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatgpt35.theinspiredgroup.com/" target="_blank">ChatGPT - AI</a></td>
         <td>✈️⭐ ChatGPT - A</td>
@@ -707,7 +699,7 @@
         <td><a href="https://chatgpt35.theinspiredgroup.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>82</td>
+        <td>81</td>
         <td><img src="https://st2.ai55.cc/1/e04610ec143c4ba8eced64b62da59bc3.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://huggingface.co/spaces/AUST001/ChatGPT" target="_blank">huggingface.co</a></td>
         <td>✈️😄</td>
@@ -715,7 +707,7 @@
         <td><a href="https://huggingface.co/spaces/AUST001/ChatGPT" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>83</td>
+        <td>82</td>
         <td><img src="https://st2.ai55.cc/1/2df639f9f65db3b76c1e41b66e6df8e6.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ideaiai.com/" target="_blank">创想AI</a></td>
         <td>免登录、免费GPT，支持GPT...</td>
@@ -723,7 +715,7 @@
         <td><a href="https://ideaiai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>84</td>
+        <td>83</td>
         <td><img src="https://st2.ai55.cc/1/06410fbbb5707881584a068fdfb437bf.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://www.ealxc.com/" target="_blank">AI Tools</a></td>
         <td>🔑 ChatGPT站点 ，支持</td>
@@ -731,7 +723,7 @@
         <td><a href="http://www.ealxc.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>85</td>
+        <td>84</td>
         <td><img src="https://st2.ai55.cc/1/991cc041e2bdabc9436155fa7efccbd6.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.forefront.ai/" target="_blank">Forefront.ai</a></td>
         <td>✈️Your AI assis...</td>
@@ -739,7 +731,7 @@
         <td><a href="https://chat.forefront.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>86</td>
+        <td>85</td>
         <td><img src="https://st2.ai55.cc/1/a7f76558e827a537f1b1348f8b854041.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.minihuo.com/" target="_blank">核桃</a></td>
         <td>🔑国内ERNIE-Bot模型</td>
@@ -747,7 +739,7 @@
         <td><a href="https://ai.minihuo.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>87</td>
+        <td>86</td>
         <td><img src="https://st2.ai55.cc/1/40576efd20882bb9ee48fd40fe3997e1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://openmao.panchuang.net/" target="_blank">开放猫</a></td>
         <td>🔑</td>
@@ -755,7 +747,7 @@
         <td><a href="https://openmao.panchuang.net/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>88</td>
+        <td>87</td>
         <td><img src="https://st2.ai55.cc/1/0522f51666f5d2137a53d4fa55b6c590.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.wu-ji.com/" target="_blank">无际AI</a></td>
         <td>🔑无际Ai-基于ChatGPT...</td>
@@ -763,7 +755,7 @@
         <td><a href="https://www.wu-ji.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>89</td>
+        <td>88</td>
         <td><img src="https://st2.ai55.cc/1/1fff1ad527166f7e5581af89f0c6b1a3.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gonnai.com/" target="_blank">closeai.red</a></td>
         <td>🔑AI对话、文生图、文字生成P</td>
@@ -771,7 +763,7 @@
         <td><a href="https://gonnai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>90</td>
+        <td>89</td>
         <td><img src="https://st2.ai55.cc/1/fb02fd1e9ee35cbaf8bc2e7cf9d2a0f2.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://newchat.hklan.top/" target="_blank">HKlan-AI</a></td>
         <td>🔑支持联网、绘画、识图、文件分</td>
@@ -779,7 +771,7 @@
         <td><a href="https://newchat.hklan.top/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>91</td>
+        <td>90</td>
         <td><img src="https://st2.ai55.cc/1/3f720c1b628cb9cbee48608d85f1c62d.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aixforce.app/" target="_blank">aixforce.app</a></td>
         <td>✈️🤑🎁网站提供匿名试用，登录</td>
@@ -787,7 +779,7 @@
         <td><a href="https://aixforce.app/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>92</td>
+        <td>91</td>
         <td><img src="https://st2.ai55.cc/1/bbd4f970cee9e4e36c3e4e689942c807.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gptplus.io/" target="_blank">gptplus.io</a></td>
         <td>✈️🔑</td>
@@ -795,7 +787,7 @@
         <td><a href="https://gptplus.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>93</td>
+        <td>92</td>
         <td><img src="https://st2.ai55.cc/1/8de708ca3b0c0cdf7c10cebb0cabfd19.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aappt.opao.xyz" target="_blank">opao.xyz</a></td>
         <td>🔑</td>
@@ -803,7 +795,7 @@
         <td><a href="https://aappt.opao.xyz" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>94</td>
+        <td>93</td>
         <td><img src="https://st2.ai55.cc/1/b2144dd250064c455644fd711200e9f3.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://nbchat.github.io/ai/" target="_blank">nbchat.github.io</a></td>
         <td>✈️😄⭐ </td>
@@ -811,7 +803,7 @@
         <td><a href="https://nbchat.github.io/ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>95</td>
+        <td>94</td>
         <td><img src="https://st2.ai55.cc/1/8321ffcb16a719156394a25811aec784.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.ci" target="_blank">ai.ci</a></td>
         <td>✈️😄⭐ </td>
@@ -819,7 +811,7 @@
         <td><a href="https://ai.ci" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>96</td>
+        <td>95</td>
         <td><img src="https://st2.ai55.cc/1/b4e164e907dc00779846e43e4da365b1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt-all.site/" target="_blank">gpt-all.site</a></td>
         <td>✈️🔑</td>
@@ -827,7 +819,7 @@
         <td><a href="https://gpt-all.site/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>97</td>
+        <td>96</td>
         <td><img src="https://st2.ai55.cc/1/867b91c81c1556f51030dd867aea332b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatgpt.kungfu.wang/" target="_blank">AIGC小站</a></td>
         <td>🔑</td>
@@ -835,7 +827,7 @@
         <td><a href="https://chatgpt.kungfu.wang/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>98</td>
+        <td>97</td>
         <td><img src="https://st2.ai55.cc/1/ec5efa59b98ddd20e665a0524f0f23dc.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.kejilequ.com" target="_blank">柯基助手</a></td>
         <td>✈️🔑柯基乐趣——AI助手</td>
@@ -843,7 +835,7 @@
         <td><a href="https://www.kejilequ.com" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>99</td>
+        <td>98</td>
         <td><img src="https://st2.ai55.cc/1/74bc0fef6664fa7a907dc565d5136a56.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.tomchat.work" target="_blank">TomGPT</a></td>
         <td>✈️🔑</td>
@@ -851,7 +843,7 @@
         <td><a href="https://www.tomchat.work" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>100</td>
+        <td>99</td>
         <td><img src="https://st2.ai55.cc/1/a279c3912af38269ef687e5347c39f07.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://chat.bltcy.top/" target="_blank">柏拉图GPT</a></td>
         <td>🔑GPT3.5 完全免费，付费</td>
@@ -859,7 +851,7 @@
         <td><a href="http://chat.bltcy.top/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>101</td>
+        <td>100</td>
         <td><img src="https://st2.ai55.cc/1/02a8c913965e324be21506ddd6438251.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://desk.im/" target="_blank">desk.im</a></td>
         <td>✈️😄⭐ </td>
@@ -867,7 +859,7 @@
         <td><a href="https://desk.im/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>102</td>
+        <td>101</td>
         <td><img src="https://st2.ai55.cc/1/15d6fa07464e9cbeb10759bf000920d4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.tig.im/" target="_blank">TIG.AI</a></td>
         <td>✈️走进 AI，拥抱未来</td>
@@ -875,7 +867,7 @@
         <td><a href="https://chat.tig.im/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>103</td>
+        <td>102</td>
         <td><img src="https://st2.ai55.cc/1/2a198ee3bb314eea819fb93bf6cb84ae.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.hxkj.vip" target="_blank">hxkj.vip</a></td>
         <td> 🔑百晓生 - 让每个人都拥有...</td>
@@ -883,7 +875,7 @@
         <td><a href="https://ai.hxkj.vip" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>104</td>
+        <td>103</td>
         <td><img src="https://st2.ai55.cc/1/7bf06aea6f0a16ef38ced46a548f3dae.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aishort.top/" target="_blank">AI Short</a></td>
         <td>让生产力加倍的 AI 快捷指令</td>
@@ -891,7 +883,7 @@
         <td><a href="https://www.aishort.top/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>105</td>
+        <td>104</td>
         <td><img src="https://st2.ai55.cc/1/4ff4c9c6e3473c089392983d9266b10f.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://wrtn.ai/" target="_blank">wrtn.ai</a></td>
         <td>✈️🔑</td>
@@ -899,7 +891,7 @@
         <td><a href="https://wrtn.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>106</td>
+        <td>105</td>
         <td><img src="https://st2.ai55.cc/1/3a66844a8b1e0a58758aa26537571d52.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://openprompt.co/ChatGPT" target="_blank">openprompt.co</a></td>
         <td>✈️</td>
@@ -907,7 +899,7 @@
         <td><a href="https://openprompt.co/ChatGPT" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>107</td>
+        <td>106</td>
         <td><img src="https://st2.ai55.cc/1/240b3df95cc1784a5f879fc7c6ad536e.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gptbot.me/" target="_blank">gptbot.me</a></td>
         <td>✈️🔑 </td>
@@ -915,7 +907,7 @@
         <td><a href="https://gptbot.me/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>108</td>
+        <td>107</td>
         <td><img src="https://st2.ai55.cc/1/135c5f88620810e10390bdfb946655c1.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://gpt33.cn/" target="_blank">盖酷AI实验室</a></td>
         <td>💲酷盖AI实验室,人工智能,O...</td>
@@ -923,7 +915,7 @@
         <td><a href="http://gpt33.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>109</td>
+        <td>108</td>
         <td><img src="https://st2.ai55.cc/1/4c72a990492de641d25e79fea6652f1c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ohmygpt.com/" target="_blank">OhMyGPT</a></td>
         <td>✈️🔑登录用户每天可以免费使用</td>
@@ -931,7 +923,7 @@
         <td><a href="https://www.ohmygpt.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>110</td>
+        <td>109</td>
         <td><img src="https://st2.ai55.cc/1/e02be06eeaca50154c9529fd510cc0d9.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.uniation.net/" target="_blank">GPT中文站</a></td>
         <td>🤑🎁</td>
@@ -1676,14 +1668,6 @@
     </tr> 
     <tr>
         <td>29</td>
-        <td><img src="https://st2.ai55.cc/1/56bf09ea0bb469daaaf5685f770606ab.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://zhexieai.com/" target="_blank">zhexieai.com</a></td>
-        <td></td>
-        <td></td>
-        <td><a href="https://zhexieai.com/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>30</td>
         <td><img src="https://st2.ai55.cc/1/8aa10449da26cfcd1a55031c3cf99f27.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://topai.tools/" target="_blank">topai.tools</a></td>
         <td></td>
@@ -1691,7 +1675,7 @@
         <td><a href="https://topai.tools/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>31</td>
+        <td>30</td>
         <td><img src="https://st2.ai55.cc/1/b9a4127ac8dcdb6787fc68bf8846e625.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aichaodian.com/" target="_blank">aichaodian.com</a></td>
         <td>😄</td>
@@ -1699,7 +1683,7 @@
         <td><a href="https://aichaodian.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>32</td>
+        <td>31</td>
         <td><img src="https://st2.ai55.cc/1/a82ab20e2fc8bc661542e1753fcc6f71.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai-bot.cn/" target="_blank">ai-bot.cn</a></td>
         <td>😄</td>
@@ -1707,7 +1691,7 @@
         <td><a href="https://ai-bot.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>33</td>
+        <td>32</td>
         <td><img src="https://st2.ai55.cc/1/b5d13a81998bf4b3f3e6f7329e53f7d5.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://feizhuke.com/" target="_blank">feizhuke.com</a></td>
         <td></td>
@@ -1715,7 +1699,7 @@
         <td><a href="https://feizhuke.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>34</td>
+        <td>33</td>
         <td><img src="https://st2.ai55.cc/1/c961efd282a79bd6bd85b42a3a959d79.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aiwaytools.com/" target="_blank">aiwaytools.com</a></td>
         <td></td>
@@ -1723,7 +1707,7 @@
         <td><a href="https://aiwaytools.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>35</td>
+        <td>34</td>
         <td><img src="https://st2.ai55.cc/1/1adec002d93587e6e2bb02425cbdb7ee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://iforai.com/" target="_blank">iforai.com</a></td>
         <td></td>
@@ -1731,7 +1715,7 @@
         <td><a href="https://iforai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>36</td>
+        <td>35</td>
         <td><img src="https://st2.ai55.cc/1/2c6f94421b598349752a4adb437c1380.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://0mo.com/" target="_blank">0mo.com</a></td>
         <td></td>
@@ -1739,7 +1723,7 @@
         <td><a href="https://0mo.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>37</td>
+        <td>36</td>
         <td><img src="https://st2.ai55.cc/1/4df05ff5cd3a4c6c8a2838323901ed99.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cooltools.top/ai.html" target="_blank">cooltools.top</a></td>
         <td></td>
@@ -1747,7 +1731,7 @@
         <td><a href="https://cooltools.top/ai.html" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>38</td>
+        <td>37</td>
         <td><img src="https://st2.ai55.cc/1/601b5c8901130af4d32102e2dcff5020.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://saasaitools.com/" target="_blank">saasaitools.com</a></td>
         <td></td>
@@ -1755,7 +1739,7 @@
         <td><a href="https://saasaitools.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>39</td>
+        <td>38</td>
         <td><img src="https://st2.ai55.cc/1/55b5a42be7f4561dea43a517c6bb1bcd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://allthingsai.com/" target="_blank">allthingsai.com</a></td>
         <td>✈️</td>
@@ -1763,7 +1747,7 @@
         <td><a href="https://allthingsai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>40</td>
+        <td>39</td>
         <td><img src="https://st2.ai55.cc/1/7e3ab182dc88fadf66d549977a92c507.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aitoolsdirectory.com/" target="_blank">aitoolsdirectory.com</a></td>
         <td>✈️</td>
@@ -1781,4 +1765,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-10-27 14:02:22
+> 最后更新: 2024-10-27 14:35:51
