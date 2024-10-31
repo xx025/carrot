@@ -24,24 +24,24 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/6df66dcf39e107a4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.lihaimao.com/" target="_blank">厉害猫 AI</a></td>
-        <td>全职业办公写作平台   100000+专家级写作模型</td>
-        <td><a href="https://www.lihaimao.com/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>3</td>
         <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://link1.littlewheat.com" target="_blank">1Chat国内免费</a></td>
         <td>免登录、无限免费GPT站</td>
         <td><a href="https://link1.littlewheat.com" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/1/ac942005b6aa200c2b40e0b80fe80677.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://vip4.1ai.ink" target="_blank">1Ai-GPT4.0专业版</a></td>
         <td>4.0无限次、学术Ai、3.5免费</td>
         <td><a href="https://vip4.1ai.ink" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/6df66dcf39e107a4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.lihaimao.com/" target="_blank">厉害猫 AI</a></td>
+        <td>全职业办公写作平台   100000+专家级写作模型</td>
+        <td><a href="https://www.lihaimao.com/" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -622,7 +622,7 @@
         <td>71</td>
         <td><img src="https://st2.ai55.cc/1/59429fe1b38c745cb2ad30ba072e8723.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.yunyan.chat/chat" target="_blank">云衍AI</a></td>
-        <td>🔑🆕3.5模型永久免费。对接官...</td>
+        <td>🔑3.5模型永久免费。对接官网...</td>
         <td></td>
         <td><a href="https://ai.yunyan.chat/chat" target="_blank">🔗</a></td>
     </tr> 
@@ -1478,7 +1478,7 @@
         <td>5</td>
         <td><img src="https://st2.ai55.cc/1/50491ddfa67b1dc39bdf60e048662b4b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.huntagi.com/" target="_blank">未来百科</a></td>
-        <td>🆕为发现全球优质AI工具产品而</td>
+        <td>为发现全球优质AI工具产品而生</td>
         <td></td>
         <td><a href="https://www.huntagi.com/" target="_blank">🔗</a></td>
     </tr> 
@@ -1765,4 +1765,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-10-27 14:35:51
+> 最后更新: 2024-10-31 23:36:08
