@@ -38,10 +38,10 @@
     </tr> 
     <tr>
         <td>4</td>
-        <td><img src="https://st2.ai55.cc/1/6df66dcf39e107a4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://www.lihaimao.com/" target="_blank">厉害猫 AI</a></td>
-        <td>全职业办公写作平台   100000+专家级写作模型</td>
-        <td><a href="https://www.lihaimao.com/" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/6561b3157fe89f11.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chat.tomchat.fun" target="_blank">ChatGPT 原生体验 </a></td>
+        <td>✅ GPT4.0 、GPTs (DALLE3画图，联网，文件上传与分析) ⭐️ 无限次使用</td>
+        <td><a href="https://chat.tomchat.fun" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
@@ -1765,4 +1765,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-10-31 23:36:08
+> 最后更新: 2024-11-05 20:18:13
