@@ -142,7 +142,7 @@
         <td>11</td>
         <td><img src="https://st2.ai55.cc/1/9a6ee02230a7efad23a25dc9ead4cc7b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
-        <td>😄密码：4omini4free</td>
+        <td>😄密码：alz-ai111</td>
         <td></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">🔗</a></td>
     </tr> 
