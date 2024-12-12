@@ -365,7 +365,7 @@
     <tr>
         <td>39</td>
         <td><img src="https://st2.ai55.cc/1/75dc221c83391ec219af939818be9e8c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://cgs.skybyte.me/" target="_blank">ChatBot</a></td>
+        <td><a href="https://cgs.skybyte.me/" target="_blank">Skybyte Free AI Chat</a></td>
         <td>😄⭐</td>
         <td></td>
         <td><a href="https://cgs.skybyte.me/" target="_blank">🔗</a></td>
