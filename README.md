@@ -1460,6 +1460,14 @@
     </tr> 
     <tr>
         <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/6785230e668f1.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.bitaigpt.com/" target="_blank">https://www.bitaigpt.com/</a></td>
+        <td>🆕比特智能AI导航</td>
+        <td></td>
+        <td><a href="https://www.bitaigpt.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/1/d61d97074ae9b2bf.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hao.94c.cn" target="_blank">ai导航-好导航94c</a></td>
         <td>🆕ai导航-好导航94c,ch...</td>
@@ -1467,7 +1475,7 @@
         <td><a href="https://hao.94c.cn" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>6</td>
         <td><img src="https://st2.ai55.cc/1/2acfffc34a98b890.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://toollist.ai/" target="_blank">Tool List Ai</a></td>
         <td>Find the best A...</td>
@@ -1475,7 +1483,7 @@
         <td><a href="https://toollist.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/1/50491ddfa67b1dc39bdf60e048662b4b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.huntagi.com/" target="_blank">未来百科</a></td>
         <td>为发现全球优质AI工具产品而生</td>
@@ -1483,7 +1491,7 @@
         <td><a href="https://www.huntagi.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>7</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/1/9c1163c677d434ee9cab3d451c00b691.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.theaivalley.com/" target="_blank">AI Valley</a></td>
         <td></td>
@@ -1491,7 +1499,7 @@
         <td><a href="https://www.theaivalley.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/1/30f5030ed68271558dc1f82891a3a65d.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.tboxn.com/" target="_blank">图钉AI导航网</a></td>
         <td>😄</td>
@@ -1499,7 +1507,7 @@
         <td><a href="https://ai.tboxn.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/1/704874b85786bce2a9cbfde4fed04106.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aiyjs.com/" target="_blank">AI研究所</a></td>
         <td></td>
@@ -1507,7 +1515,7 @@
         <td><a href="https://www.aiyjs.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/1/0d2995cd9ad17937c2ec700730dcf2a8.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aigc.cn/" target="_blank">AIGC导航</a></td>
         <td>生成式AI工具导航平台-全品类</td>
@@ -1515,7 +1523,7 @@
         <td><a href="https://www.aigc.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td><img src="https://st2.ai55.cc/1/aa6ac152cbd5a0619ca15b230f08a7cd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ainavpro.com/" target="_blank">AI导航</a></td>
         <td>最新最前沿的AI产品</td>
@@ -1523,7 +1531,7 @@
         <td><a href="https://www.ainavpro.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td><img src="https://st2.ai55.cc/1/f811f10496bffc4adba023da0e5d0d31.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.deepdh.com/" target="_blank">深度导航</a></td>
         <td>分享互联网最具价值的网站</td>
@@ -1531,7 +1539,7 @@
         <td><a href="https://www.deepdh.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/1/d50ec41578cd95af8070a6745c4f3ecf.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.ainav.cn/" target="_blank">AI导航网</a></td>
         <td>精选AI人工智能工具</td>
@@ -1539,7 +1547,7 @@
         <td><a href="https://www.ainav.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>15</td>
         <td><img src="https://st2.ai55.cc/1/1be1b04c63d90a34bb2cb47ae952348f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aihub.cn/" target="_blank">AIHub</a></td>
         <td>发现最新优质AI工具</td>
@@ -1547,7 +1555,7 @@
         <td><a href="https://www.aihub.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>16</td>
         <td><img src="https://st2.ai55.cc/1/93f3520bda78e31be9d38d99dd853f8e.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.uxmap.cn/page/#/uxmap/preview?id=38218" target="_blank">AI工具导航</a></td>
         <td></td>
@@ -1555,7 +1563,7 @@
         <td><a href="https://www.uxmap.cn/page/#/uxmap/preview?id=38218" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>17</td>
         <td><img src="https://st2.ai55.cc/1/5e610030e52bf8b261ef28cfd55d5fb2.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.tuyiyi.com/show-34" target="_blank">图翼AI导航</a></td>
         <td></td>
@@ -1563,7 +1571,7 @@
         <td><a href="https://www.tuyiyi.com/show-34" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>18</td>
         <td><img src="https://st2.ai55.cc/1/4f7dde435fa2ec67d70ecb81089af7b4.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hao.uisdc.com/ai/" target="_blank">优设AI导航</a></td>
         <td>专业AIGC网站导航 - 热门</td>
@@ -1571,7 +1579,7 @@
         <td><a href="https://hao.uisdc.com/ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>19</td>
         <td><img src="https://st2.ai55.cc/1/f1459636feff90caea4375e8f144f231.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aidepot.co/" target="_blank">AI Ddepot</a></td>
         <td>Discover The Be...</td>
@@ -1579,7 +1587,7 @@
         <td><a href="https://aidepot.co/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>20</td>
         <td><img src="https://st2.ai55.cc/1/c0d42c54796ee6a39ba4f1e82970c1a0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.yuque.com/popponyj/aigc_aitools/index#bw62g9d2ir939vexoio4feunkcr6onbh" target="_blank">AI应用工具箱</a></td>
         <td></td>
@@ -1587,7 +1595,7 @@
         <td><a href="https://www.yuque.com/popponyj/aigc_aitools/index#bw62g9d2ir939vexoio4feunkcr6onbh" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>21</td>
         <td><img src="https://st2.ai55.cc/1/c59dc06ca8d6073bcc50a085272d3bee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.creaitives.com/tools" target="_blank">Creaitives.com</a></td>
         <td>Browse the larg...</td>
@@ -1595,7 +1603,7 @@
         <td><a href="https://www.creaitives.com/tools" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>21</td>
+        <td>22</td>
         <td><img src="https://st2.ai55.cc/1/f108f32e966fba71c0b40a35012da699.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.futurepedia.io/" target="_blank">Futurepedia</a></td>
         <td>Discover what A...</td>
@@ -1603,7 +1611,7 @@
         <td><a href="https://www.futurepedia.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>22</td>
+        <td>23</td>
         <td><img src="https://st2.ai55.cc/1/0a2c558bf62f93071503c78b0983a183.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aitoolhunt.com/" target="_blank">AI Tool Hunt</a></td>
         <td> Ultimate List ...</td>
@@ -1611,7 +1619,7 @@
         <td><a href="https://www.aitoolhunt.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>23</td>
+        <td>24</td>
         <td><img src="https://st2.ai55.cc/1/e9ea58ffc54b163ce1de335fa781f09b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aitoolnavigation.com/" target="_blank">AI Tool Navigation</a></td>
         <td>Discover the be</td>
@@ -1619,7 +1627,7 @@
         <td><a href="https://www.aitoolnavigation.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>24</td>
+        <td>25</td>
         <td><img src="https://st2.ai55.cc/1/2b402f8cf68b2eae23d36d63135d44ba.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.aiagc.com/" target="_blank">aiagc.com</a></td>
         <td>✈️😄AIAGC 导航</td>
@@ -1627,7 +1635,7 @@
         <td><a href="https://www.aiagc.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>25</td>
+        <td>26</td>
         <td><img src="https://st2.ai55.cc/1/bb7c806b7100b56e8571f1b4f8678e9a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.toptools.ai/" target="_blank">TopTools</a></td>
         <td>✈️AI tools dire...</td>
@@ -1635,7 +1643,7 @@
         <td><a href="https://www.toptools.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>26</td>
+        <td>27</td>
         <td><img src="https://st2.ai55.cc/1/369248ebe34c601c5b808c622cafa35a.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.futuretools.io/" target="_blank">Future Tools</a></td>
         <td>✈️Find The Exac...</td>
@@ -1643,7 +1651,7 @@
         <td><a href="https://www.futuretools.io/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>27</td>
+        <td>28</td>
         <td><img src="https://st2.ai55.cc/1/c24f43fb713062071a17dcab071f46c0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.explainthis.io/zh-hant/ai-toolkit" target="_blank">explainthis.io</a></td>
         <td>AI 工具导航</td>
@@ -1651,7 +1659,7 @@
         <td><a href="https://www.explainthis.io/zh-hant/ai-toolkit" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>28</td>
+        <td>29</td>
         <td><img src="https://st2.ai55.cc/1/dfbd60c58711909d44ecdcc6fca30e01.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://easywithai.com/" target="_blank">easywithai.com</a></td>
         <td>✈️</td>
@@ -1659,7 +1667,7 @@
         <td><a href="https://easywithai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>29</td>
+        <td>30</td>
         <td><img src="https://st2.ai55.cc/1/8aa10449da26cfcd1a55031c3cf99f27.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://topai.tools/" target="_blank">topai.tools</a></td>
         <td></td>
@@ -1667,7 +1675,7 @@
         <td><a href="https://topai.tools/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>30</td>
+        <td>31</td>
         <td><img src="https://st2.ai55.cc/1/b9a4127ac8dcdb6787fc68bf8846e625.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aichaodian.com/" target="_blank">aichaodian.com</a></td>
         <td>😄</td>
@@ -1675,7 +1683,7 @@
         <td><a href="https://aichaodian.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>31</td>
+        <td>32</td>
         <td><img src="https://st2.ai55.cc/1/a82ab20e2fc8bc661542e1753fcc6f71.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai-bot.cn/" target="_blank">ai-bot.cn</a></td>
         <td>😄</td>
@@ -1683,7 +1691,7 @@
         <td><a href="https://ai-bot.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>32</td>
+        <td>33</td>
         <td><img src="https://st2.ai55.cc/1/b5d13a81998bf4b3f3e6f7329e53f7d5.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://feizhuke.com/" target="_blank">feizhuke.com</a></td>
         <td></td>
@@ -1691,7 +1699,7 @@
         <td><a href="https://feizhuke.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>33</td>
+        <td>34</td>
         <td><img src="https://st2.ai55.cc/1/1adec002d93587e6e2bb02425cbdb7ee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://iforai.com/" target="_blank">iforai.com</a></td>
         <td></td>
@@ -1699,7 +1707,7 @@
         <td><a href="https://iforai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>34</td>
+        <td>35</td>
         <td><img src="https://st2.ai55.cc/1/2c6f94421b598349752a4adb437c1380.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://0mo.com/" target="_blank">0mo.com</a></td>
         <td></td>
@@ -1707,7 +1715,7 @@
         <td><a href="https://0mo.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>35</td>
+        <td>36</td>
         <td><img src="https://st2.ai55.cc/1/4df05ff5cd3a4c6c8a2838323901ed99.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cooltools.top/ai.html" target="_blank">cooltools.top</a></td>
         <td></td>
@@ -1715,7 +1723,7 @@
         <td><a href="https://cooltools.top/ai.html" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>36</td>
+        <td>37</td>
         <td><img src="https://st2.ai55.cc/1/601b5c8901130af4d32102e2dcff5020.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://saasaitools.com/" target="_blank">saasaitools.com</a></td>
         <td></td>
@@ -1723,7 +1731,7 @@
         <td><a href="https://saasaitools.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>37</td>
+        <td>38</td>
         <td><img src="https://st2.ai55.cc/1/55b5a42be7f4561dea43a517c6bb1bcd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://allthingsai.com/" target="_blank">allthingsai.com</a></td>
         <td>✈️</td>
@@ -1731,7 +1739,7 @@
         <td><a href="https://allthingsai.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>38</td>
+        <td>39</td>
         <td><img src="https://st2.ai55.cc/1/7e3ab182dc88fadf66d549977a92c507.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aitoolsdirectory.com/" target="_blank">aitoolsdirectory.com</a></td>
         <td>✈️</td>
@@ -1749,4 +1757,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2024-12-19 23:15:32
+> 最后更新: 2025-01-13 22:29:14
