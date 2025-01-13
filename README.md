@@ -68,6 +68,14 @@
     </tr> 
     <tr>
         <td>2</td>
+        <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
+        <td>🆕【全新】Cogvideox-...</td>
+        <td></td>
+        <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/1/697687ef8ccdcb4f1773c081557ba823.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cnsgpt.fun/" target="_blank">CnsGPT.fun</a></td>
         <td>✈️🆕免费稳定支持gpt3.5</td>
@@ -75,7 +83,7 @@
         <td><a href="https://cnsgpt.fun/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/1/9a6ee02230a7efad23a25dc9ead4cc7b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
         <td>😄🆕密码：alz-ai111</td>
@@ -83,20 +91,12 @@
         <td><a href="https://b10.Betai55.uk/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/1/75dc221c83391ec219af939818be9e8c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cgs.skybyte.me/" target="_blank">Skybyte Free AI Chat</a></td>
         <td>😄⭐🆕</td>
         <td></td>
         <td><a href="https://cgs.skybyte.me/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>5</td>
-        <td><img src="https://st2.ai55.cc/1/772d14709ef411ce2dcd79d11f200288.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://chatnio.liujiarong.top" target="_blank">chatnio</a></td>
-        <td>🆕cloudflare AI系...</td>
-        <td></td>
-        <td><a href="https://chatnio.liujiarong.top" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>6</td>
@@ -1757,4 +1757,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-01-13 22:29:14
+> 最后更新: 2025-01-13 22:31:05
