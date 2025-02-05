@@ -86,7 +86,7 @@
         <td>4</td>
         <td><img src="https://st2.ai55.cc/1/697687ef8ccdcb4f1773c081557ba823.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cnsgpt.fun/" target="_blank">CnsGPT.fun</a></td>
-        <td>✈️🆕免费稳定支持gpt3.5</td>
+        <td>✈️免费稳定支持gpt3.5 </td>
         <td></td>
         <td><a href="https://cnsgpt.fun/" target="_blank">🔗</a></td>
     </tr> 
@@ -94,7 +94,7 @@
         <td>5</td>
         <td><img src="https://st2.ai55.cc/1/9a6ee02230a7efad23a25dc9ead4cc7b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">ChatGPT Web</a></td>
-        <td>😄🆕密码：alz-ai111</td>
+        <td>😄密码：alz-ai111</td>
         <td></td>
         <td><a href="https://b10.Betai55.uk/" target="_blank">🔗</a></td>
     </tr> 
@@ -102,7 +102,7 @@
         <td>6</td>
         <td><img src="https://st2.ai55.cc/1/75dc221c83391ec219af939818be9e8c.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cgs.skybyte.me/" target="_blank">Skybyte Free AI Chat</a></td>
-        <td>😄⭐🆕</td>
+        <td>😄⭐</td>
         <td></td>
         <td><a href="https://cgs.skybyte.me/" target="_blank">🔗</a></td>
     </tr> 
@@ -110,7 +110,7 @@
         <td>7</td>
         <td><img src="https://st2.ai55.cc/1/4a7b0e0005555bb3.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.nexusmind.tech/" target="_blank">NexusAI</a></td>
-        <td>🆕NexusAI is you...</td>
+        <td>NexusAI is your...</td>
         <td></td>
         <td><a href="https://www.nexusmind.tech/" target="_blank">🔗</a></td>
     </tr> 
@@ -118,7 +118,7 @@
         <td>8</td>
         <td><img src="https://st2.ai55.cc/1/8f1313a74c2d0043.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.freegpt.work/" target="_blank">免费ChatGPT API</a></td>
-        <td>🆕多种模型，支持GPT-4，每...</td>
+        <td>多种模型，支持GPT-4，每日...</td>
         <td></td>
         <td><a href="https://chat.freegpt.work/" target="_blank">🔗</a></td>
     </tr> 
@@ -126,7 +126,7 @@
         <td>9</td>
         <td><img src="https://st2.ai55.cc/1/223cfb86c5b23fcc.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.aibox365.cn" target="_blank"> AIBox-一站式AI工具平台</a></td>
-        <td>🆕一站式AI工具平台，提供GP...</td>
+        <td>一站式AI工具平台，提供GPT...</td>
         <td></td>
         <td><a href="https://chat.aibox365.cn" target="_blank">🔗</a></td>
     </tr> 
@@ -422,7 +422,7 @@
         <td>46</td>
         <td><img src="https://st2.ai55.cc/1/b4bba3530a39e1aa784a876925f8bdee.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ymi.ai/?channel=J03" target="_blank">ymi.ai</a></td>
-        <td>✈️🆕</td>
+        <td>✈️</td>
         <td></td>
         <td><a href="https://ymi.ai/?channel=J03" target="_blank">🔗</a></td>
     </tr> 
@@ -574,7 +574,7 @@
         <td>65</td>
         <td><img src="https://st2.ai55.cc/1/aaf3462a92a45ee6884baa5df65b0dcc.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.cyvip.vip/" target="_blank">财源AI</a></td>
-        <td>🆕支持GPT4，支持Midjo</td>
+        <td>支持GPT4，支持Midjou</td>
         <td></td>
         <td><a href="https://ai.cyvip.vip/" target="_blank">🔗</a></td>
     </tr> 
@@ -1086,7 +1086,7 @@
         <td>1</td>
         <td><img src="https://st2.ai55.cc/1/96c165f64913d1f4.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ftac.vercel.app" target="_blank">Temporary AI ChatBot</a></td>
-        <td>🆕Temporary AI C...</td>
+        <td>Temporary AI Ch...</td>
         <td></td>
         <td><a href="https://ftac.vercel.app" target="_blank">🔗</a></td>
     </tr> 
@@ -1102,7 +1102,7 @@
         <td>3</td>
         <td><img src="https://st2.ai55.cc/1/a7456b3dabee10f9.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ckai.xyz" target="_blank"> FineTBot</a></td>
-        <td>🆕一站式AI工具平台，提供GP...</td>
+        <td>一站式AI工具平台，提供GPT...</td>
         <td></td>
         <td><a href="https://ckai.xyz" target="_blank">🔗</a></td>
     </tr> 
@@ -1110,7 +1110,7 @@
         <td>4</td>
         <td><img src="https://st2.ai55.cc/1/9fb4ffdedb36d0c0.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://yagc.tahriver.online" target="_blank">YAGC</a></td>
-        <td>🆕 YAGC是一个动态的移动学...</td>
+        <td> YAGC是一个动态的移动学习...</td>
         <td></td>
         <td><a href="https://yagc.tahriver.online" target="_blank">🔗</a></td>
     </tr> 
@@ -1486,7 +1486,7 @@
         <td>6</td>
         <td><img src="https://st2.ai55.cc/1/d61d97074ae9b2bf.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hao.94c.cn" target="_blank">ai导航-好导航94c</a></td>
-        <td>🆕ai导航-好导航94c,ch...</td>
+        <td>ai导航-好导航94c,cha...</td>
         <td></td>
         <td><a href="https://hao.94c.cn" target="_blank">🔗</a></td>
     </tr> 
@@ -1773,4 +1773,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-01-13 22:40:54
+> 最后更新: 2025-02-05 20:21:24
