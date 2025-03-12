@@ -68,11 +68,11 @@
     </tr> 
     <tr>
         <td>2</td>
-        <td><img src="https://st2.ai55.cc/1/27d9edba920641caf1dc1d774aa6fb1b.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://liaobots.work/zh" target="_blank">liaobots</a></td>
-        <td>🆕免注册、gpt 免费站、gr</td>
+        <td><img src="https://st2.ai55.cc/1/03c14ad7b52b448c8ef8cd4932386d5d.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://liao.world/" target="_blank">免费GPT、Claude、Grok 镜像站</a></td>
+        <td>🆕免费、免注册 主流镜像站都有</td>
         <td></td>
-        <td><a href="https://liaobots.work/zh" target="_blank">🔗</a></td>
+        <td><a href="https://liao.world/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>3</td>
@@ -1797,4 +1797,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-03-05 22:52:20
+> 最后更新: 2025-03-12 21:26:57
