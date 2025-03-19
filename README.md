@@ -1368,6 +1368,14 @@
         <td></td>
         <td><a href="https://kodezi.com/" target="_blank">🔗</a></td>
     </tr> 
+    <tr>
+        <td>14</td>
+        <td><img src="https://images.app.goo.gl/iFuwrz6GBMrrQNxw6" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.fynix.ai/" target="_blank">Fynix.ai</a></td>
+        <td>AI编码助手</td>
+        <td></td>
+        <td><a href="https://www.fynix.ai/" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
