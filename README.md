@@ -31,10 +31,10 @@
     </tr> 
     <tr>
         <td>3</td>
-        <td><img src="https://st2.ai55.cc/1/fakelogo.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://openkey.cloud" target="_blank">OpenKey.Cloud</a></td>
-        <td>API转发</td>
-        <td><a href="https://openkey.cloud" target="_blank">🔗</a></td>
+        <td><img src="https://st2.ai55.cc/1/4d608a9045a383f00d9319fe5ff9f5b6.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://poixe.com/" target="_blank">Poixe AI</a></td>
+        <td>API转发，支持GPT-4.1</td>
+        <td><a href="https://poixe.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
         <td>4</td>
@@ -55,7 +55,42 @@
 
 
 
+## 热门
 
+<table> 
+    <tr>
+        <td>1</td>
+        <td><img src="https://st2.ai55.cc/1/12f7baa69b60075c06aa4d4cb0853ee0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></td>
+        <td>🌏🆕ChatGPT官方网站</td>
+        <td></td>
+        <td><a href="https://chatgpt.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td><img src="https://st2.ai55.cc/1/1069a7bc74b87a77e04c602b735c1fa5.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://grok.com/?referrer=website" target="_blank">Grok</a></td>
+        <td>🌏🆕Grok 是由 xAI 设</td>
+        <td></td>
+        <td><a href="https://grok.com/?referrer=website" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
+        <td><img src="https://st2.ai55.cc/1/73e3cc8eb0c70e9fcfd00cfa97703594.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a></td>
+        <td>🆕Kimi 是一个有着超大“内</td>
+        <td></td>
+        <td><a href="https://kimi.moonshot.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td><img src="https://st2.ai55.cc/1/99b6b03c66a599c20be50835f12bc6b4.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.deepseek.com/" target="_blank">DeepSeek</a></td>
+        <td>🆕热门的国产AI 大模型</td>
+        <td></td>
+        <td><a href="https://www.deepseek.com/" target="_blank">🔗</a></td>
+    </tr> 
+</table>
 
 
 ## ChatGPT
@@ -89,7 +124,7 @@
         <td>4</td>
         <td><img src="https://st2.ai55.cc/1/03c14ad7b52b448c8ef8cd4932386d5d.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://liao.world/" target="_blank">免费GPT、Claude、Grok 镜像站</a></td>
-        <td>🆕免费、免注册 主流镜像站都有</td>
+        <td>免费、免注册 主流镜像站都有</td>
         <td></td>
         <td><a href="https://liao.world/" target="_blank">🔗</a></td>
     </tr> 
@@ -1784,4 +1819,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-04-02 22:53:31
+> 最后更新: 2025-04-15 22:35:59
