@@ -1296,6 +1296,14 @@
 <table> 
     <tr>
         <td>1</td>
+        <td><img src="https://st2.ai55.cc/1/b70da75d9edfa19e3b589d96e23c2dcd.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.fynix.ai/" target="_blank">Fynix.ai</a></td>
+        <td>🆕AI编码助手</td>
+        <td></td>
+        <td><a href="https://www.fynix.ai/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>2</td>
         <td><img src="https://st2.ai55.cc/1/26785000d074835f1c9fef4fce097826.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://docs.api.ecylt.top/wbot/wbot-2-fei-free" target="_blank">Wbot-2</a></td>
         <td>WZH团队推出的第二代语言模型...</td>
@@ -1303,7 +1311,7 @@
         <td><a href="https://docs.api.ecylt.top/wbot/wbot-2-fei-free" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>2</td>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/1/6997a61f0a853a02ac9a86615c66e7ff.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.sqlkiller.com/" target="_blank">sqlkiller.com</a></td>
         <td>✈️ AI快速生成SQL</td>
@@ -1311,7 +1319,7 @@
         <td><a href="https://www.sqlkiller.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/1/3ab4ea6e794a338ae6c4bc3ce09d42c7.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.tabnine.com/" target="_blank">Tabnine AI</a></td>
         <td>The AI coding a...</td>
@@ -1319,7 +1327,7 @@
         <td><a href="https://www.tabnine.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>4</td>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/1/63826c7c0afa6218d53386b7619f74fe.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="http://models.aminer.cn/" target="_blank">智普AI</a></td>
         <td> 认知大模型</td>
@@ -1327,7 +1335,7 @@
         <td><a href="http://models.aminer.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>6</td>
         <td><img src="https://st2.ai55.cc/1/149da1f904cf27deb4ca411354584f23.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aws.amazon.com/cn/codewhisperer/" target="_blank">AI代码生成器</a></td>
         <td>😄Amazon AI代码生成器</td>
@@ -1335,7 +1343,7 @@
         <td><a href="https://aws.amazon.com/cn/codewhisperer/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td><img src="https://st2.ai55.cc/1/b57a31cec0b8e9a425e960a1b7a069de.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.cursor.so/" target="_blank">cursor.so</a></td>
         <td>✈️ AI代码生成</td>
@@ -1343,7 +1351,7 @@
         <td><a href="https://www.cursor.so/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>7</td>
+        <td>8</td>
         <td><img src="https://st2.ai55.cc/1/b5668ab6b4c2700210a77db6a91db671.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://regex.ai/" target="_blank">regex.ai</a></td>
         <td> AI正则表达式</td>
@@ -1351,7 +1359,7 @@
         <td><a href="https://regex.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/1/9e8dfdcb74c7d44fc4d3a3317e0b5826.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://aihelperbot.com/" target="_blank">aihelperbot.com</a></td>
         <td>AI Build SQL</td>
@@ -1359,7 +1367,7 @@
         <td><a href="https://aihelperbot.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/1/40f81485646228c46963203c90fdc543.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://bito.ai/" target="_blank">bito.ai</a></td>
         <td>AI编程辅助工具</td>
@@ -1367,7 +1375,7 @@
         <td><a href="https://bito.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/1/b5d10a3d6ee5d2f13d79a6851672402f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://replit.com/site/ghostwriter" target="_blank">replit.com</a></td>
         <td>😄</td>
@@ -1375,7 +1383,7 @@
         <td><a href="https://replit.com/site/ghostwriter" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td><img src="https://st2.ai55.cc/1/e0fdcb6c173e65063c3aef3cbb0bce00.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://github.com/features/copilot/" target="_blank">github.com</a></td>
         <td>✈️ GitHubCopilo</td>
@@ -1383,7 +1391,7 @@
         <td><a href="https://github.com/features/copilot/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td><img src="https://st2.ai55.cc/1/15881d4659c9988339f6de31f561fa76.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://codeium.com/" target="_blank">codeium.com</a></td>
         <td>😄</td>
@@ -1391,7 +1399,7 @@
         <td><a href="https://codeium.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/1/1c7af3e25c8ae38cab48d04cf9662c8d.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://kodezi.com/" target="_blank">kodezi.com</a></td>
         <td>AI编程助手</td>
@@ -1819,4 +1827,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-04-15 22:35:59
+> 最后更新: 2025-04-15 22:59:49
