@@ -132,7 +132,7 @@
     </tr> 
     <tr>
         <td>6</td>
-        <td><img src="https://st2.ai55.cc/1/1850808914556227584.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><img src="https://st2.ai55.cc/1/310c09c6-8ad9-4872-a166-c57fc3ff8d6f.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt-all.chat/auth?type=register&invite=Mg" target="_blank">Chaos AI Assistant</a></td>
         <td>[推广] 🆕40+模型免费不限</td>
         <td></td>
@@ -1963,4 +1963,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-05-09 09:16:19
+> 最后更新: 2025-05-09 04:15:22
