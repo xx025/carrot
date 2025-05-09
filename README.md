@@ -12,6 +12,75 @@
 
 ------
 
+[//]: # (**推荐**)
+
+[//]: # ()
+[//]: # (<table>)
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>1</td>)
+
+[//]: # (        <td><img src="https://st2.ai55.cc/1/ec206650d82be5e74486a0c80ba246ed.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>)
+
+[//]: # (        <td><a href="https://link1.littlewheat.com" target="_blank">1Chat国内免费</a></td>)
+
+[//]: # (        <td>免登录、无限免费GPT站</td>)
+
+[//]: # (        <td><a href="https://link1.littlewheat.com" target="_blank">🔗</a></td>)
+
+[//]: # (    </tr> )
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>2</td>)
+
+[//]: # (        <td><img src="https://st2.ai55.cc/1/2eb9aa83641897ae.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>)
+
+[//]: # (        <td><a href="https://ai.wendabao.net/#/?role=PLUS" target="_blank">AI问答宝</a></td>)
+
+[//]: # (        <td>免费GPT-4及ChatGPT镜像站，支持o1模型</td>)
+
+[//]: # (        <td><a href="https://ai.wendabao.net/#/?role=PLUS" target="_blank">🔗</a></td>)
+
+[//]: # (    </tr> )
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>3</td>)
+
+[//]: # (        <td><img src="https://st2.ai55.cc/1/4d608a9045a383f00d9319fe5ff9f5b6.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>)
+
+[//]: # (        <td><a href="https://poixe.com/" target="_blank">Poixe AI</a></td>)
+
+[//]: # (        <td>API转发，支持GPT-4.1</td>)
+
+[//]: # (        <td><a href="https://poixe.com/" target="_blank">🔗</a></td>)
+
+[//]: # (    </tr> )
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>4</td>)
+
+[//]: # (        <td><img src="https://st2.ai55.cc/1/ac942005b6aa200c2b40e0b80fe80677.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>)
+
+[//]: # (        <td><a href="https://vip4.1ai.ink" target="_blank">1Ai-GPT4.0专业版</a></td>)
+
+[//]: # (        <td>4.0无限次、3.5免费、Deepseek可用、论文免费</td>)
+
+[//]: # (        <td><a href="https://vip4.1ai.ink" target="_blank">🔗</a></td>)
+
+[//]: # (    </tr> )
+
+[//]: # (</table>)
+
+[//]: # ()
+[//]: # (>**推荐**网站可能包含付费内容服务，可选择性访问和使用)
+
+[//]: # ()
+[//]: # (---)
+
 **标注说明**
 
 | 🆕:最近更新 | ⭐ : 推荐 | 😄 : 免费使用 | 🔑 : 需要登陆或密码 | ✈️ : 需国际网络进行访问 |
@@ -1894,4 +1963,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-05-09 08:30:32
+> 最后更新: 2025-05-09 09:16:19
