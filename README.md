@@ -130,6 +130,14 @@
         <td></td>
         <td><a href="https://gpt-all.chat/auth?type=register&invite=Mg" target="_blank">🔗</a></td>
     </tr> 
+    <tr>
+        <td>6</td>
+        <td><img src="https://st2.ai55.cc/1/ac942005b6aa200c2b40e0b80fe80677.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://vip4.1ai.ink" target="_blank">1Ai-GPT4.0专业版</a></td>
+        <td>[推广] 🆕4.0无限次、10...</td>
+        <td></td>
+        <td><a href="https://vip4.1ai.ink" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
@@ -1963,4 +1971,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-05-09 16:25:31
+> 最后更新: 2025-05-09 16:31:08
