@@ -108,14 +108,6 @@
     </tr> 
     <tr>
         <td>3</td>
-        <td><img src="https://st2.ai55.cc/2/43b38259-763a-42fc-aaff-b1d699a4b050.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://metaso.cn/" target="_blank">秘塔AI搜索</a></td>
-        <td>🆕秘塔AI搜索是由上海秘塔网络...</td>
-        <td></td>
-        <td><a href="https://metaso.cn/" target="_blank">🔗</a></td>
-    </tr> 
-    <tr>
-        <td>4</td>
         <td><img src="https://st2.ai55.cc/2/0edc71b3-765b-4881-91f2-168e066e443e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a></td>
         <td>Kimi 是一个有着超大“内存</td>
@@ -123,7 +115,7 @@
         <td><a href="https://kimi.moonshot.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>5</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/2/6b8b95d1-be3d-4314-98e9-7890170f2d1e.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.deepseek.com/" target="_blank">DeepSeek</a></td>
         <td>热门的国产AI 大模型</td>
@@ -131,7 +123,7 @@
         <td><a href="https://www.deepseek.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td><img src="https://st2.ai55.cc/2/5cdcd820-c3f2-438b-b472-cf71473a6c1b.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://gpt-all.chat/auth?type=register&invite=Mg" target="_blank">Chaos AI Assistant</a></td>
         <td>[推广] 🆕40+模型免费不限</td>
@@ -1126,6 +1118,14 @@
     </tr> 
     <tr>
         <td>8</td>
+        <td><img src="https://st2.ai55.cc/2/43b38259-763a-42fc-aaff-b1d699a4b050.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://metaso.cn/" target="_blank">秘塔AI搜索</a></td>
+        <td>🆕秘塔AI搜索是由上海秘塔网络...</td>
+        <td></td>
+        <td><a href="https://metaso.cn/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>9</td>
         <td><img src="https://st2.ai55.cc/2/ffdd94b2-1f2e-4d53-a721-749f8e9180f1.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chat.qwenlm.ai/" target="_blank">QWEN CHAT</a></td>
         <td>🆕Qwen Chat 网页版是...</td>
@@ -1133,7 +1133,7 @@
         <td><a href="https://chat.qwenlm.ai/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><img src="https://st2.ai55.cc/2/37756eda-4f41-4de9-bdf0-46f2e9548991.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xiaohuanxiong.com/" target="_blank">小浣熊家族 Raccoon - AI 智能助手</a></td>
         <td>🆕Qwen Chat 网页版是...</td>
@@ -1141,7 +1141,7 @@
         <td><a href="https://xiaohuanxiong.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td><img src="https://st2.ai55.cc/2/d1eb95c3-dd9d-4977-a473-89755a2ac2e6.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.marscode.cn/chat-playground" target="_blank">豆包MarsCode AI</a></td>
         <td>🆕豆包旗下的编程助手，提供智能...</td>
@@ -1149,7 +1149,7 @@
         <td><a href="https://www.marscode.cn/chat-playground" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td><img src="https://st2.ai55.cc/2/6c6abe31-ffcc-496a-809c-2c57a7153cc8.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://tongyi.aliyun.com/qianwen" target="_blank">通义千问</a></td>
         <td>  一个不断进化的AI大模型</td>
@@ -1157,7 +1157,7 @@
         <td><a href="https://tongyi.aliyun.com/qianwen" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td><img src="https://st2.ai55.cc/2/b714c512-4179-4842-b509-cd30d89cde9e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://xinghuo.xfyun.cn/desk" target="_blank">讯飞星火</a></td>
         <td>讯飞星火认知大模型</td>
@@ -1165,7 +1165,7 @@
         <td><a href="https://xinghuo.xfyun.cn/desk" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>13</td>
+        <td>14</td>
         <td><img src="https://st2.ai55.cc/2/f30197ca-1e7e-42fc-9c33-80ebb0a73430.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://ai.360.com/" target="_blank">360智脑</a></td>
         <td>360智脑 — 以人为本，安全</td>
@@ -1173,7 +1173,7 @@
         <td><a href="https://ai.360.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>14</td>
+        <td>15</td>
         <td><img src="https://st2.ai55.cc/2/2ffdbdc3-2cdf-40dc-a6ce-94fd8d371843.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.baichuan-ai.com/home" target="_blank">百川大模型</a></td>
         <td>汇聚世界知识，创作妙笔生花</td>
@@ -1181,7 +1181,7 @@
         <td><a href="https://www.baichuan-ai.com/home" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>15</td>
+        <td>16</td>
         <td><img src="https://st2.ai55.cc/2/b33456c1-b3b3-4de2-b851-2f50bea106ff.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.doubao.com/" target="_blank">豆包</a></td>
         <td>🎶抖音旗下 AI 智能助手,A...</td>
@@ -1189,7 +1189,7 @@
         <td><a href="https://www.doubao.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>16</td>
+        <td>17</td>
         <td><img src="https://st2.ai55.cc/2/8081b03e-5cda-4326-bde0-c2e32b873809.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://search.tiangong.cn/" target="_blank">天工</a></td>
         <td>天工超能AI — 江苏卫视《最</td>
@@ -1197,7 +1197,7 @@
         <td><a href="https://search.tiangong.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>17</td>
+        <td>18</td>
         <td><img src="https://st2.ai55.cc/2/9b4df360-0b21-47b5-8bb3-3efc487cf080.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://chatglm.cn/" target="_blank">智谱清言</a></td>
         <td>千亿参数对话模型-基于GLM模...</td>
@@ -1205,7 +1205,7 @@
         <td><a href="https://chatglm.cn/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>18</td>
+        <td>19</td>
         <td><img src="https://st2.ai55.cc/2/1b14637a-c351-49de-bd3c-949b12687b6e.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://www.yucongming.com/" target="_blank">鱼聪明AI</a></td>
         <td>鱼聪明AI - 做您强大的AI...</td>
@@ -1213,7 +1213,7 @@
         <td><a href="https://www.yucongming.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>19</td>
+        <td>20</td>
         <td><img src="https://st2.ai55.cc/2/7be7a6bd-7f7d-4f13-9bae-b0d84ecf7d21.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://hunyuan.tencent.com/" target="_blank">腾讯混元</a></td>
         <td>由腾讯研发的大语言模型，具备强...</td>
@@ -1221,7 +1221,7 @@
         <td><a href="https://hunyuan.tencent.com/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>20</td>
+        <td>21</td>
         <td><img src="https://st2.ai55.cc/2/54b5ee53-bffe-438b-9392-ea52d80790ce.bmp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://yiyan.baidu.com/welcome" target="_blank">文心一言</a></td>
         <td>既能写文案、读文档，又能脑洞大...</td>
@@ -1963,4 +1963,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-05-09 04:48:54
+> 最后更新: 2025-05-09 16:25:31
