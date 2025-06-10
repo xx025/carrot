@@ -1896,6 +1896,14 @@
         <td></td>
         <td><a href="https://aitoolsdirectory.com/" target="_blank">🔗</a></td>
     </tr> 
+      <tr>
+        <td>40</td>
+        <td><img src="https://www.toolkitly.com/assets/images/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.toolkitly.com/" target="_blank">Toolkitly</a></td>
+        <td>Your Go-To Platform for Tech Tool...</td>
+        <td></td>
+        <td><a href="https://www.toolkitly.com" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
