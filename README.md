@@ -148,6 +148,14 @@
     </tr> 
     <tr>
         <td>2</td>
+        <td><img src="https://st2.ai55.cc/site-icons/fe21d080d43a0b4c04f4ff16f36a719dbdfba9b6863132672ff6ed327b38e691.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://qclaw.qq.com/" target="_blank">QClaw </a></td>
+        <td>🆕QClaw - 微信远程办公AI 助手| 腾讯出品</td>
+        <td></td>
+        <td><a href="https://qclaw.qq.com/" target="_blank">🔗</a></td>
+    </tr> 
+    <tr>
+        <td>3</td>
         <td><img src="https://st2.ai55.cc/site-icons/5d0e124c3d58d16b7365ac36127f1279a4ee3b9f06c89d4832e52224af9514b0.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://openai.com/zh-Hans-CN/codex/" target="_blank">Codex</a></td>
         <td>🆕Codex 应用专为多代理工作流程而设计，是代理编码的指挥...</td>
@@ -155,7 +163,7 @@
         <td><a href="https://openai.com/zh-Hans-CN/codex/" target="_blank">🔗</a></td>
     </tr> 
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><img src="https://st2.ai55.cc/site-icons/45d284d1b28dc4c93645eb18ccb7b0c4f834c227d9769c676b2e02831d87f202.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://cursor.com/cn/cli" target="_blank">Cursor CLI</a></td>
         <td>编程🆕编写功能强大的脚本和自动化程序。自动更新文档、触发安全...</td>
@@ -1714,4 +1722,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2026-03-22 00:37:17
+> 最后更新: 2026-03-25 01:40:43
