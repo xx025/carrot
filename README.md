@@ -97,7 +97,7 @@
 
 <a name="category-2"></a>
 
-<h2>通用助手与智能搜索 <sub>(107)</sub></h2>
+<h2>通用助手与智能搜索 <sub>(100)</sub></h2>
 
 <table>
     <thead>
@@ -245,19 +245,9 @@
         <td>Fast Palm AI ChatBot 💬 人工智能聊天机器人</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/423aeb0e9908134c6076e460.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://ssgpt.chat/home">叔叔AI</a></td>
-        <td>注册3.5免费，14块包月用GPT4o</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a337df0a0d480ecea6a6538a.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://claude.free2gpt.xyz/">免费Claude 3.5 Sonnet</a></td>
         <td>😄无需注册登录，国内可用，限120次/天</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/539b07009388f0f82548d9aa.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://myai.asia/">我的AI</a></td>
-        <td>致力于公益项目，免登录无限制完全免费ChatGPT4和不同大厂的大模型。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/171a709726b60f01213ac096.png" alt="" width="32" height="32"></td>
@@ -315,16 +305,6 @@
         <td>😀</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/799f011404729aa07261b99d.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://ymi.ai/?channel=J03">ymi.ai</a></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/191b52724932c3587225e1bb.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.usergpt.top/">ChatGPT镜像</a></td>
-        <td>1:1复刻官方，功能一模一样。注册即可使用所有模型</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/70c6e01e958e5c0c7f12481c.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://search.100ai.fun/">100AI</a></td>
         <td>🔑不用梯子，就可使用的集成了openai.gpt-4o,claude3.5的AI搜索网站工具</td>
@@ -338,11 +318,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/cb5b82b4e4ef8954c3e66f40.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ai.berlin4h.top/">ChatWeb</a></td>
         <td></td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/16a44e29f53d4c138d431d4d.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://aibusx.com/">aibusx.com</a></td>
-        <td>🔑GPT4，MJ，DELL，艺术二维码</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/82ce6d4153ab800d0480a81a.png" alt="" width="32" height="32"></td>
@@ -378,16 +353,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/ef9b5d02709600fa255cc0b1.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://aivesa.cn/">AIVESA 智能</a></td>
         <td>😄Aivesa智能 - 免费可联网的人工智能服务</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/fa3da1d8d2bb576cc04381a2.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://home.topai.vip/"> GPT4.0国内免魔法直用</a></td>
-        <td>无需登录，免费4.0频道，免魔法直用</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a0162985a89709fd3f74e8a7.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://airoom.chat/">airoom.chat</a></td>
-        <td>😄</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/fcaebafcbd7229e56776a217.png" alt="" width="32" height="32"></td>
@@ -646,7 +611,7 @@
 
 <a name="category-3"></a>
 
-<h2>Agent 与自动化 <sub>(25)</sub></h2>
+<h2>Agent 与自动化 <sub>(23)</sub></h2>
 
 <table>
     <thead>
@@ -764,19 +729,9 @@
         <td>豆包及通义千问智能体的数据备份、人设导出、迁移指南和替代平台横评。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/f7fe37c16ba8a150a8243b40.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://useai.live/hermes">小马AI Hermes 中文增强包</a></td>
-        <td>Hermes Agent 中文补丁与新手教程，支持一键安装并覆盖界面、指令、网关和权限审批提示。</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/c7588cf07fe51bf8e26bdfe5.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://plugos.net/plugclaw">PlugClaw</a></td>
         <td>即插即用的私人 AI 计算机，可运行应用、管理工作流并自动执行任务。</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/75bed2f1cd7552a81bdb472d.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://toolbuilder.ai/">toolbuilder.ai</a></td>
-        <td>🔑自定义 AI </td>
     </tr>
     </tbody>
 </table>
@@ -954,7 +909,7 @@
 
 <a name="category-5"></a>
 
-<h2>编程与开发工具 <sub>(36)</sub></h2>
+<h2>编程与开发工具 <sub>(33)</sub></h2>
 
 <table>
     <thead>
@@ -965,16 +920,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/aee29ac0c717ceb819006e21.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://cursor.com/">Cursor</a></td>
         <td>AI代码编辑器，提供代码补全、问答、重构和智能体式开发能力。</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/102c694424cb94a4ee825ae3.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://chat-gpt-oss.com/">Chat-GPT-OSS</a></td>
-        <td>An Open Service Studio for developers to explore the latest ChatGPT models.</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/19a19e0ef8a29eefcc20d8d3.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.fynix.ai/">Fynix.ai</a></td>
-        <td>AI编码助手</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/447796e5d84f5a18df67b803.png" alt="" width="32" height="32"></td>
@@ -1035,11 +980,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/2921b615ff35951d5175d7e9.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ideaiai.com/">创想AI</a></td>
         <td>免登录、免费GPT，支持GPT4，支持Midjourney绘图</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/42a03b0a84827de719b4bc6b.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://nbchat.github.io/ai/">nbchat.github.io</a></td>
-        <td>😄⭐ </td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/42e538ec916a2f1d9d276868.png" alt="" width="32" height="32"></td>
@@ -1396,7 +1336,7 @@
 
 <a name="category-8"></a>
 
-<h2>写作、办公与知识管理 <sub>(28)</sub></h2>
+<h2>写作、办公与知识管理 <sub>(26)</sub></h2>
 
 <table>
     <thead>
@@ -1417,11 +1357,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/7fbbfa3491c16c564ddc5e0c.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://www.lihaimao.com/">厉害猫AI</a></td>
         <td>免费问答，内涵2w+写作模式</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/85aa0f2b17e79e108c6a18a8.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://ckai.xyz/"> FineTBot</a></td>
-        <td>一站式AI工具平台，提供GPT4o、o1、Claude3.5、Gemini1.5等模型，支持Midjourney绘图、AIPPT等应用，每日提供免费使用额度。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/42fc31c6a67bbc5bbc16cb8d.png" alt="" width="32" height="32"></td>
@@ -1492,11 +1427,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0dcc8f8a1d652477f3bf5618.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://chatdoc.com/">ChatDOC </a></td>
         <td>AI Chat with PDF Documents | 与文件交谈获取即时答案，并附带引用来源。</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/98f6056d9d06310ca2cd17ee.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://aibang.run/">AI帮个忙</a></td>
-        <td> AI帮个忙 | 多功能AI小帮手</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/3523712cd7fc61fe2a6fa04d.png" alt="" width="32" height="32"></td>
@@ -1712,7 +1642,7 @@
 
 <a name="category-12"></a>
 
-<h2>导航、资讯与社区 <sub>(59)</sub></h2>
+<h2>导航、资讯与社区 <sub>(54)</sub></h2>
 
 <table>
     <thead>
@@ -1728,11 +1658,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/09836f5fce5083c5300b1c87.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://www.mambabit.com/">曼巴比特</a></td>
         <td>为每项任务找到完美的人工智能工具。</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/3cb15a37231839dde2c6f20f.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.usbot.net/">AI导航星</a></td>
-        <td>1万+ AI工具，200+分类，日常及专业需要</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/53655e878f98779ea0994617.png" alt="" width="32" height="32"></td>
@@ -1753,11 +1678,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6189c12109f2361fb64ca041.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://www.startupaitools.com/">Startup Ai Tools</a></td>
         <td>Browse Best AI Tools Directory in 40+ categories like ai content detection, plagiarism tools, ai tools like chatgpt, generative ai, chatbot builder, ai no code website builder and much more ai tools.</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/652a6f422a2a0a638fadefc9.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://thebesttools.ai/">TheBestTools.ai - 专业AI工具发现平台</a></td>
-        <td>TheBestTools.ai是专业的AI工具发现平台，精心评测71个顶级AI工具。涵盖AI写作、图像生成、视频制作、代码开发、商业生产力、音频音乐、研究分析、语音语言等8大分类。每个工具都有详细的功能介绍、优缺点分析、用户评分，帮助用户快速找到最适合的AI解决方案。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a648b373b5c10a72363c9ba0.png" alt="" width="32" height="32"></td>
@@ -1783,11 +1703,6 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0dc960e3bc13774716b4b128.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://toollist.ai/">Tool List Ai</a></td>
         <td>Find the best AI tools for every task</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/69ebf29a1bf58282c42b9c50.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="http://www.ealxc.com/">AI Tools</a></td>
-        <td>🔑 ChatGPT站点 ，支持DallE-3</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/bb34c9ef36f50c431375520c.png" alt="" width="32" height="32"></td>
@@ -1895,11 +1810,6 @@
         <td>Discover what AI can do for you</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/80db6a2ba50113e0917ff0c8.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.aitoolhunt.com/">AI Tool Hunt</a></td>
-        <td> Ultimate List of AI Software &amp; Websites</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/998dbbbc76f41b3f493d49ed.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://www.toptools.ai/">TopTools</a></td>
         <td>AI tools directory and discover the best AI tools</td>
@@ -1990,11 +1900,6 @@
         <td></td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/d443cfe438eab70af375829c.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://aichaodian.com/">aichaodian.com</a></td>
-        <td>😄</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6f4ef7898b90bdc9b3bd8786.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://feizhuke.com/">feizhuke.com</a></td>
         <td></td>
@@ -2023,4 +1928,4 @@
 
 [GitHub 仓库](https://github.com/xx025/carrot) · [浏览导航网站](https://ai55.cc/) · [返回分类导航](#categories)
 
-> 数据更新：2026-11-13 00:47:00
+> 数据更新：2026-11-13 07:48:25
