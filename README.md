@@ -611,7 +611,7 @@
 
 <a name="category-3"></a>
 
-<h2>Agent 与自动化 <sub>(23)</sub></h2>
+<h2>Agent 与自动化 <sub>(24)</sub></h2>
 
 <table>
     <thead>
@@ -687,6 +687,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/8ef93d48705083b316c15f06.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://openai.com/zh-Hans-CN/codex/">Codex</a></td>
         <td>Codex 应用专为多代理工作流程而设计，是代理编码的指挥中心。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/096d6566f7adad2560935c96.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://sourceweft.com/zh-CN">SourceWeft</a></td>
+        <td>🆕开源、可自托管的 AI 工作空间，结合多智能体协作、Skills、MCP 与带引用的知识库，支持研究、规划和创作，提供 Web 与桌面端。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/7e3220d09bf2fb593beb51b8.png" alt="" width="32" height="32"></td>
@@ -909,7 +914,7 @@
 
 <a name="category-5"></a>
 
-<h2>编程与开发工具 <sub>(33)</sub></h2>
+<h2>编程与开发工具 <sub>(34)</sub></h2>
 
 <table>
     <thead>
@@ -980,6 +985,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/2921b615ff35951d5175d7e9.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ideaiai.com/">创想AI</a></td>
         <td>免登录、免费GPT，支持GPT4，支持Midjourney绘图</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/8a8939ad10bfdc196652a390.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://publicfreesuffix.org/">Public Free Suffix</a></td>
+        <td>🆕面向开发者、学生和 AI 应用的免费子域名与 Anycast DNS 托管服务，提供 REST API 和 MCP，支持域名注册及 DNS 记录管理。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/42e538ec916a2f1d9d276868.png" alt="" width="32" height="32"></td>
@@ -1247,7 +1257,7 @@
 
 <a name="category-7"></a>
 
-<h2>音频、视频与数字人 <sub>(15)</sub></h2>
+<h2>音频、视频与数字人 <sub>(16)</sub></h2>
 
 <table>
     <thead>
@@ -1283,6 +1293,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b211bd64b96bafb2b198a199.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ai.yunyan.chat/chat">云衍AI</a></td>
         <td>🔑3.5模型永久免费。对接官网全部GPTS应用，无需自己再写提示词，一站式AI应用，AI对话，AI绘画，AI音乐，AI视频，一套全搞定！！</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/19459d1f9434bd8b95c80879.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.getalphadrama.com/">光梦 AlphaDrama</a></td>
+        <td>🆕AI 短剧、漫剧与带货视频创作平台，支持小说转剧本、角色形象一致性、自动分镜、配音字幕和多模型视频生成；国内入口为 ad.yosweet.cn。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/85e85612bd83bbe495ea46e4.png" alt="" width="32" height="32"></td>
@@ -1928,4 +1943,4 @@
 
 [GitHub 仓库](https://github.com/xx025/carrot) · [浏览导航网站](https://ai55.cc/) · [返回分类导航](#categories)
 
-> 数据更新：2026-11-13 07:48:25
+> 数据更新：2026-11-14 23:37:39
