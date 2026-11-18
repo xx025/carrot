@@ -97,7 +97,7 @@
 
 <a name="category-2"></a>
 
-<h2>通用助手与智能搜索 <sub>(100)</sub></h2>
+<h2>通用助手与智能搜索 <sub>(101)</sub></h2>
 
 <table>
     <thead>
@@ -550,6 +550,11 @@
         <td>🔑 </td>
     </tr>
     <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/658ba9c58d3776d0fbd73d7f.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://unbottled.ai/en-US">unbottled.ai</a></td>
+        <td>🆕多模型 AI 聊天与创作平台，提供不同过滤程度的模型及图片、视频、音乐生成，支持开源自部署；免费账户提供每月积分。</td>
+    </tr>
+    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0a75712b9bce8ea194e30ca3.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://onomeo.com/zh">onomeo</a></td>
         <td>🆕多模型网页对话与 OpenAI 兼容 API 服务，提供按次数限制的免费模型、图像生成和按量付费选项。</td>
@@ -745,7 +750,7 @@
 
 <a name="category-4"></a>
 
-<h2>模型、API 与算力 <sub>(31)</sub></h2>
+<h2>模型、API 与算力 <sub>(32)</sub></h2>
 
 <table>
     <thead>
@@ -826,6 +831,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b4035038d1be9bcf9dbb5a82.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://huggingface.co/spaces/AUST001/ChatGPT">huggingface.co</a></td>
         <td>😄</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/960f462060cd97b3ddfdf3ed.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://hiapi.ai/">HiAPI</a></td>
+        <td>🆕按量付费的 AI API 聚合平台，提供图片、视频、音频及文本模型接口，支持异步任务、回调和公开模型定价。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b3ec8ad46a41ee1d962ea29d.png" alt="" width="32" height="32"></td>
@@ -1257,7 +1267,7 @@
 
 <a name="category-7"></a>
 
-<h2>音频、视频与数字人 <sub>(16)</sub></h2>
+<h2>音频、视频与数字人 <sub>(17)</sub></h2>
 
 <table>
     <thead>
@@ -1293,6 +1303,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b211bd64b96bafb2b198a199.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ai.yunyan.chat/chat">云衍AI</a></td>
         <td>🔑3.5模型永久免费。对接官网全部GPTS应用，无需自己再写提示词，一站式AI应用，AI对话，AI绘画，AI音乐，AI视频，一套全搞定！！</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/d86e11988a1282bb6bb40a00.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://getyoutubetranscript.com/">GetYouTubeTranscript</a></td>
+        <td>🆕YouTube 文字稿提取工具，支持时间戳、字幕下载、AI 摘要与对话，并提供 REST API 与 MCP；免费账户含 100 一次性积分，付费方案 $5/月起。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/19459d1f9434bd8b95c80879.png" alt="" width="32" height="32"></td>
@@ -1351,7 +1366,7 @@
 
 <a name="category-8"></a>
 
-<h2>写作、办公与知识管理 <sub>(26)</sub></h2>
+<h2>写作、办公与知识管理 <sub>(28)</sub></h2>
 
 <table>
     <thead>
@@ -1397,6 +1412,16 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/8051654b73095248c3c01cd3.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://aappt.opao.xyz/">opao.xyz</a></td>
         <td>🔑</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/5cb3178d8f509bd043dfdfe5.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://humanpen.net/">HumanPen</a></td>
+        <td>🆕文档改写与翻译工具，支持 DOCX/PPTX，提供文档精简和引用格式调整；注册赠送积分，后续按积分计费。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/bbd1593812a25497bfb18cad.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.imagineyourbook.com/">ImagineYourBook</a></td>
+        <td>🆕AI 整本书写作工具，支持书稿生成、改写与系列续写，附封面并可导出 Word、EPUB 和 Markdown；7 天零元试用需绑卡，之后 $24.99/月。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/5a5af2da85d2f510ead3c91c.png" alt="" width="32" height="32"></td>
@@ -1608,13 +1633,18 @@
 
 <a name="category-11"></a>
 
-<h2>垂直应用与生活娱乐 <sub>(7)</sub></h2>
+<h2>垂直应用与生活娱乐 <sub>(8)</sub></h2>
 
 <table>
     <thead>
         <tr><th align="center" width="48">图标</th><th align="left" width="180">站点</th><th align="left">简介</th></tr>
     </thead>
     <tbody>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/00857a6a1429517e3582a3da.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://sammiai.app/">Sammi: AI Girlfriend</a></td>
+        <td>🆕安卓 AI 角色陪伴应用，支持文字聊天、语音互动、角色定制与剧情扮演；Google Play 可免费下载，含应用内购买。</td>
+    </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/63d58397a794a132442fc8b6.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://suzhe.ai/">苏哲AI</a></td>
@@ -1657,7 +1687,7 @@
 
 <a name="category-12"></a>
 
-<h2>导航、资讯与社区 <sub>(54)</sub></h2>
+<h2>导航、资讯与社区 <sub>(56)</sub></h2>
 
 <table>
     <thead>
@@ -1718,6 +1748,16 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0dc960e3bc13774716b4b128.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://toollist.ai/">Tool List Ai</a></td>
         <td>Find the best AI tools for every task</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b0bcff567e95e9388a2b97bf.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://creati.ai/">Creati.ai</a></td>
+        <td>🆕多语言 AI 工具、智能体与 MCP 导航目录，支持按任务和平台查找工具，提供 AI 资讯与排行。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/815d64aad5097cd1cc81a253.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://riseofmachine.com/">Rise of Machine</a></td>
+        <td>🆕面向创作者与中小企业的 AI 工具导航，通过智能体整理工具，支持按类别浏览、搜索和收藏。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/bb34c9ef36f50c431375520c.png" alt="" width="32" height="32"></td>
@@ -1943,4 +1983,4 @@
 
 [GitHub 仓库](https://github.com/xx025/carrot) · [浏览导航网站](https://ai55.cc/) · [返回分类导航](#categories)
 
-> 数据更新：2026-11-14 23:37:39
+> 数据更新：2026-11-18 20:28:56
