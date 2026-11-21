@@ -23,13 +23,63 @@
 
 <a name="category-1"></a>
 
-<h2>热门 <sub>(12)</sub></h2>
+<h2>热门 <sub>(21)</sub></h2>
 
 <table>
     <thead>
         <tr><th align="center" width="48">图标</th><th align="left" width="180">站点</th><th align="left">简介</th></tr>
     </thead>
     <tbody>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/553536860a7c3a57ef646882.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.deepseek.com/">DeepSeek</a></td>
+        <td>热门的国产AI 大模型</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6ef504a3a57d6d0dbc97af74.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.doubao.com/chat/">豆包</a></td>
+        <td>豆包- 字节跳动旗下AI 智能助手</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b0885112e7391ed738ec8b3c.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.n.cn/">纳米 AI</a></td>
+        <td>360推出的多智能体AI助手，提供搜索、问答、创作及任务协作能力。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/2424f9a92566faf38d9594a6.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://wenxin.baidu.com/home">文心</a></td>
+        <td>既能写文案、读文档，又能脑洞大开、答疑解惑，还能倾听你的故事、感受你的心声。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6494913763ad2a6cc69458eb.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://platform.deepseek.com/">DeepSeek API</a></td>
+        <td>🆕DeepSeek 官方开发者开放平台。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/27be5f7cc968fa09e7aacc14.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.qianwen.com/">千问</a></td>
+        <td>阿里巴巴推出的通用AI助手，支持问答、创作、推理和多模态交互。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/36a1249f4c953ace17b1fcd0.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.kimi.com/">Kimi</a></td>
+        <td>月之暗面推出的通用AI助手，支持长文本理解、搜索、推理与创作。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/635e19fa38c399c84bad9c8e.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.workbuddy.cn/">WorkBuddy</a></td>
+        <td>腾讯推出的全场景AI办公工作台，可自主规划、调用工具并交付文档、表格和多模态成果。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/760de3f75243a17ccd12b276.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://wenku.baidu.com/">百度文库</a></td>
+        <td>🆕文档检索、知识整理与 AI 办公。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b10161f5cac90498da9a88e2.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.deepseek.com/harness/">DeepSeek Harness</a></td>
+        <td>开发者预览版，需本地安装运行。DeepSeek官方开源Agent运行框架，以插件组合模型、工具、技能、沙箱、子Agent和工作流。</td>
+    </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/4f29ea93cb28765c2ba5c090.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://chatgpt.com/">ChatGPT</a></td>
@@ -46,19 +96,14 @@
         <td>Anthropic推出的通用AI助手，擅长推理、写作、分析与编程协作。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/553536860a7c3a57ef646882.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.deepseek.com/">DeepSeek</a></td>
-        <td>热门的国产AI 大模型</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/66cd05606b9e0e1df3ee888d.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://grok.com/">Grok</a></td>
+        <td>🌏Grok 是由 xAI 设计的免费 AI 助手</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6ef504a3a57d6d0dbc97af74.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.doubao.com/chat/">豆包</a></td>
-        <td>豆包- 字节跳动旗下AI 智能助手</td>
-    </tr>
-    <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/27be5f7cc968fa09e7aacc14.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.qianwen.com/">千问</a></td>
-        <td>阿里巴巴推出的通用AI助手，支持问答、创作、推理和多模态交互。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/163baeb053cbe3ccc84aded9.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://character.ai/">Character.AI</a></td>
+        <td>😀</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/45c14ea65b27630dd78ba198.png" alt="" width="32" height="32"></td>
@@ -66,29 +111,29 @@
         <td>以实时网页检索和引用回答为特色的AI搜索与研究助手。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/dceb21ce5b1463c2a526bdda.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://chatglm.cn/">智谱清言</a></td>
-        <td>智谱推出的通用AI助手，基于GLM大模型，支持问答、创作、推理、工具调用与任务执行。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/07111096cf40df0ee76cf101.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.polybuzz.ai/">PolyBuzz</a></td>
+        <td>🆕AI 角色对话与角色创作。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/4572c874f852de57d5edfaf9.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://manus.im/">Manus</a></td>
-        <td>能够规划并执行复杂任务的通用AI智能体，可交付研究、分析和内容成果。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/3fd5bf30ce3ea66b80886693.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://muse.ai/">Muse</a></td>
+        <td>🆕Meta 的个人 AI 任务助手。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/aee29ac0c717ceb819006e21.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://cursor.com/">Cursor</a></td>
-        <td>AI代码编辑器，提供代码补全、问答、重构和智能体式开发能力。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/66e2ad4ae6766f2440abf986.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.meta.ai/">Meta AI</a></td>
+        <td>🆕Meta 的对话与创作助手。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/9894e4a1c5f55529ac93791b.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://www.midjourney.com/">Midjourney</a></td>
-        <td>主流AI图像生成平台，通过文本提示创作高质量艺术与设计视觉。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/ea7e76eb0d25ecb1b8a88b63.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://copilot.cloud.microsoft/">Microsoft 365 Copilot</a></td>
+        <td>🆕Microsoft 365 的 AI 办公助手。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a97bd614c282312fc253e5ad.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://hailuoai.com/">海螺视频</a></td>
-        <td>MiniMax旗下AI视频创作平台，支持文生视频、图生视频、多模态参考、图片生成与创意特效。</td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/bd22314c7dce924e0cfb3f07.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://chat.qwen.ai/">Qwen Chat</a></td>
+        <td>Qwen Chat 网页版是阿里通义团队推出的一个集成了多个 Qwen AI 大模型的网站，并且 Qwen Chat 是基于 Open WebUI 构建的。</td>
     </tr>
     </tbody>
 </table>
@@ -97,7 +142,7 @@
 
 <a name="category-2"></a>
 
-<h2>通用助手与智能搜索 <sub>(101)</sub></h2>
+<h2>通用助手与智能搜索 <sub>(102)</sub></h2>
 
 <table>
     <thead>
@@ -150,8 +195,13 @@
         <td>月之暗面推出的通用AI助手，支持长文本理解、搜索、推理与创作。</td>
     </tr>
     <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/66e2ad4ae6766f2440abf986.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.meta.ai/">Meta AI</a></td>
+        <td>🆕Meta 的对话与创作助手。</td>
+    </tr>
+    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/66cd05606b9e0e1df3ee888d.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://grok.com/?referrer=website">Grok</a></td>
+        <td width="180"><a href="https://grok.com/">Grok</a></td>
         <td>🌏Grok 是由 xAI 设计的免费 AI 助手</td>
     </tr>
     <tr>
@@ -300,11 +350,6 @@
         <td>😄Fast, Helpful AI Chat</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/163baeb053cbe3ccc84aded9.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://beta.character.ai/">Character.AI</a></td>
-        <td>😀</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/70c6e01e958e5c0c7f12481c.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://search.100ai.fun/">100AI</a></td>
         <td>🔑不用梯子，就可使用的集成了openai.gpt-4o,claude3.5的AI搜索网站工具</td>
@@ -425,8 +470,8 @@
         <td>Qwen Chat 网页版是阿里通义团队推出的一个集成了多个 Qwen AI 大模型的网站，并且 Qwen Chat 是基于 Open WebUI 构建的。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a58e39d41a8de19015913229.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://chat.qwenlm.ai/">QWEN CHAT</a></td>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/bd22314c7dce924e0cfb3f07.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://chat.qwen.ai/">Qwen Chat</a></td>
         <td>Qwen Chat 网页版是阿里通义团队推出的一个集成了多个 Qwen AI 大模型的网站，并且 Qwen Chat 是基于 Open WebUI 构建的。</td>
     </tr>
     <tr>
@@ -600,6 +645,11 @@
         <td>🤑🎁</td>
     </tr>
     <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/2424f9a92566faf38d9594a6.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://wenxin.baidu.com/home">文心</a></td>
+        <td>既能写文案、读文档，又能脑洞大开、答疑解惑，还能倾听你的故事、感受你的心声。</td>
+    </tr>
+    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/d7c7b9b3735701c0aff9e851.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://hotoke.ai/">HOTOKE AI </a></td>
         <td>搭载gpt-3.5-turbo的机械佛将为您提供咨询</td>
@@ -616,7 +666,7 @@
 
 <a name="category-3"></a>
 
-<h2>Agent 与自动化 <sub>(24)</sub></h2>
+<h2>Agent 与自动化 <sub>(25)</sub></h2>
 
 <table>
     <thead>
@@ -627,6 +677,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/4572c874f852de57d5edfaf9.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://manus.im/">Manus</a></td>
         <td>能够规划并执行复杂任务的通用AI智能体，可交付研究、分析和内容成果。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/3fd5bf30ce3ea66b80886693.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://muse.ai/">Muse</a></td>
+        <td>🆕Meta 的个人 AI 任务助手。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/612512b9cc352f605aa53bfd.png" alt="" width="32" height="32"></td>
@@ -750,13 +805,18 @@
 
 <a name="category-4"></a>
 
-<h2>模型、API 与算力 <sub>(32)</sub></h2>
+<h2>模型、API 与算力 <sub>(35)</sub></h2>
 
 <table>
     <thead>
         <tr><th align="center" width="48">图标</th><th align="left" width="180">站点</th><th align="left">简介</th></tr>
     </thead>
     <tbody>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/6494913763ad2a6cc69458eb.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://platform.deepseek.com/">DeepSeek API</a></td>
+        <td>🆕DeepSeek 官方开发者开放平台。</td>
+    </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/71c7d253a0b7cd6982c9b1d8.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://miaohua.sensetime.com/inspiration?invite_code=wWxy4kmmP">商汤秒画</a></td>
@@ -831,6 +891,16 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/b4035038d1be9bcf9dbb5a82.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://huggingface.co/spaces/AUST001/ChatGPT">huggingface.co</a></td>
         <td>😄</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/72c682540482d4cdbcac67ee.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://moerouter.com/">MoeRouter</a></td>
+        <td>🆕多模型 API 网关，一个 API Key 接入多种模型，兼容 OpenAI、Anthropic 等接口，支持线路选择与故障切换，注册后按实际用量以人民币计费。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/22729b504af6196d2b493bcf.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://9linkai.com/">9Link 久连</a></td>
+        <td>🆕第三方模型 API 接入服务，兼容 Anthropic、OpenAI 接口及 Responses API，可配置用于 Claude Code、Codex CLI 等开发工具；需注册，按实际用量计费。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/960f462060cd97b3ddfdf3ed.png" alt="" width="32" height="32"></td>
@@ -1108,7 +1178,7 @@
 
 <a name="category-6"></a>
 
-<h2>图像、设计与视觉创作 <sub>(29)</sub></h2>
+<h2>图像、设计与视觉创作 <sub>(30)</sub></h2>
 
 <table>
     <thead>
@@ -1204,6 +1274,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/4468a0832885d841f29bbf20.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://gonnai.com/">closeai.red</a></td>
         <td>🔑AI对话、文生图、文字生成PPT</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/c981ab2d265a23cd2ac6ec28.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://picyep.com/zh">PicYep</a></td>
+        <td>🆕浏览器端 AI 写真与图片编辑工具，支持通过文字或参考照片生成职业照、全家福、宠物写真和产品图，并提供图生视频；按点数付费。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/fa5b988729f181f9f8527479.png" alt="" width="32" height="32"></td>
@@ -1366,13 +1441,23 @@
 
 <a name="category-8"></a>
 
-<h2>写作、办公与知识管理 <sub>(28)</sub></h2>
+<h2>写作、办公与知识管理 <sub>(31)</sub></h2>
 
 <table>
     <thead>
         <tr><th align="center" width="48">图标</th><th align="left" width="180">站点</th><th align="left">简介</th></tr>
     </thead>
     <tbody>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/760de3f75243a17ccd12b276.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://wenku.baidu.com/">百度文库</a></td>
+        <td>🆕文档检索、知识整理与 AI 办公。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/ea7e76eb0d25ecb1b8a88b63.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://copilot.cloud.microsoft/">Microsoft 365 Copilot</a></td>
+        <td>🆕Microsoft 365 的 AI 办公助手。</td>
+    </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a353f62f603056ad5ac2c0d0.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://ima.qq.com/">腾讯ima.copilot</a></td>
@@ -1412,6 +1497,16 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/8051654b73095248c3c01cd3.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://aappt.opao.xyz/">opao.xyz</a></td>
         <td>🔑</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/08d685ba070607a4043e3707.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://save-email-as-pdf.com/">Save Gmail Emails as PDF in Bulk</a></td>
+        <td>🆕Chrome 和 Edge 扩展，可批量将 Gmail 邮件保存为 PDF，支持将最多 50 封邮件合并为一个 PDF，并保留附件。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/923eeeb8bda4763c200b67f0.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://traductortotal.com/">Traductor Total</a></td>
+        <td>🆕西班牙语界面的 OCR、翻译与转录工具，支持图片文字提取、图片与 PDF 翻译、音视频转录及保留时间轴的字幕翻译。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/5cb3178d8f509bd043dfdfe5.png" alt="" width="32" height="32"></td>
@@ -1469,11 +1564,6 @@
         <td>AI Chat with PDF Documents | 与文件交谈获取即时答案，并附带引用来源。</td>
     </tr>
     <tr>
-        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/3523712cd7fc61fe2a6fa04d.png" alt="" width="32" height="32"></td>
-        <td width="180"><a href="https://yiyan.baidu.com/welcome">文心一言</a></td>
-        <td>既能写文案、读文档，又能脑洞大开、答疑解惑，还能倾听你的故事、感受你的心声。</td>
-    </tr>
-    <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/43ff79ca09bed18274494842.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://docsgpt.arc53.com/">DocsGPT</a></td>
         <td>Technical documentation assistant</td>
@@ -1520,7 +1610,7 @@
 
 <a name="category-9"></a>
 
-<h2>学习、教育与科研 <sub>(8)</sub></h2>
+<h2>学习、教育与科研 <sub>(9)</sub></h2>
 
 <table>
     <thead>
@@ -1546,6 +1636,11 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0a11254d6ef8e7fe4dfe6240.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://yagc.tahriver.online/">YAGC</a></td>
         <td> YAGC是一个动态的移动学习平台，提供多样化的教育资源，支持用户随时随地进行学习，促进灵活的教育方式。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/0342c40a9a1f844501fe9e8a.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://hskwin.com/">HSKWin</a></td>
+        <td>🆕HSK 3.0 一级至九级限时模拟测试，提供即时评分、逐题解析、词汇练习和 AI 作文批改。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/9beed6da70617c1f4ef2d70d.png" alt="" width="32" height="32"></td>
@@ -1574,7 +1669,7 @@
 
 <a name="category-10"></a>
 
-<h2>营销、商业与客户服务 <sub>(9)</sub></h2>
+<h2>营销、商业与客户服务 <sub>(12)</sub></h2>
 
 <table>
     <thead>
@@ -1590,6 +1685,21 @@
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/f538f48dd867c7f049371ee9.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://www.delilegal.com/"> 得理法律大模型</a></td>
         <td>基于法律大模型开发的智慧法律系统 为用户提供“AI+律师”的解决方案</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/fe75787b6df195a9589843de.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://hy.ithinkai.cn/">红鸦 AI（RedYA）</a></td>
+        <td>🆕小红书图文营销与内容运营工具，支持从主题、参考链接或商品图生成标题、正文和配图大纲，并提供批量配图、Live 实况图文和敏感词检测。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a557dd267170de55cc2b54bb.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://amzdl.com/">AmzDL</a></td>
+        <td>🆕面向亚马逊商品素材整理的 Chrome 和 Edge 扩展，可下载商品视频、高清图片，并将评论导出为 Excel。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/2bf564a778489849cb97467a.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://shopedown.com/">ShopEDown</a></td>
+        <td>🆕面向 Shopee 商品素材整理的 Chrome 扩展，可保存商品视频和原尺寸图片，并将评论导出为 Excel，按商品整理到独立文件夹。</td>
     </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/a1859345bbcdaae20614d9df.png" alt="" width="32" height="32"></td>
@@ -1633,13 +1743,23 @@
 
 <a name="category-11"></a>
 
-<h2>垂直应用与生活娱乐 <sub>(8)</sub></h2>
+<h2>垂直应用与生活娱乐 <sub>(10)</sub></h2>
 
 <table>
     <thead>
         <tr><th align="center" width="48">图标</th><th align="left" width="180">站点</th><th align="left">简介</th></tr>
     </thead>
     <tbody>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/07111096cf40df0ee76cf101.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://www.polybuzz.ai/">PolyBuzz</a></td>
+        <td>🆕AI 角色对话与角色创作。</td>
+    </tr>
+    <tr>
+        <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/163baeb053cbe3ccc84aded9.png" alt="" width="32" height="32"></td>
+        <td width="180"><a href="https://character.ai/">Character.AI</a></td>
+        <td>😀</td>
+    </tr>
     <tr>
         <td align="center" width="48"><img src="https://ai55.cc/catalog-icons/00857a6a1429517e3582a3da.png" alt="" width="32" height="32"></td>
         <td width="180"><a href="https://sammiai.app/">Sammi: AI Girlfriend</a></td>
@@ -1983,4 +2103,4 @@
 
 [GitHub 仓库](https://github.com/xx025/carrot) · [浏览导航网站](https://ai55.cc/) · [返回分类导航](#categories)
 
-> 数据更新：2026-11-18 20:28:56
+> 数据更新：2026-11-21 10:44:09
